@@ -633,7 +633,7 @@
       "dmganm": 0,
       "block": 0,
       "ai": {
-        "iname": "AI_ENEMY_ATK_LV5",
+        "iname": "AI_ENEMY_GLMS_EV",
         "wait_e": 0,
         "search": 12,
         "sensing": 0
@@ -685,13 +685,33 @@
           "rate": 100
         },
         {
+          "iname": "SK_LW_GLMS_M_2",
+          "rank": 5,
+          "rate": 100
+        },
+        {
           "iname": "SK_LW_GLMS_M_3",
           "rank": 5,
           "rate": 100
         },
         {
+          "iname": "SK_LW_GLMS_M_4",
+          "rank": 5,
+          "rate": 100
+        },
+        {
+          "iname": "SK_LW_EC_GLMS_C_02",
+          "rank": 1,
+          "rate": 100
+        },
+        {
+          "iname": "SK_LW_GLMS_S_4",
+          "rank": 5,
+          "rate": 100
+        },
+        {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 10,
+          "rank": 8,
           "rate": 100
         },
         {
@@ -706,7 +726,7 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 40,
+          "rank": 37,
           "rate": 100
         },
         {
@@ -766,7 +786,7 @@
       "dmganm": 0,
       "block": 0,
       "ai": {
-        "iname": "AI_ENEMY_ATK_LV5",
+        "iname": "AI_ENEMY_ATK_LV3",
         "wait_e": 0,
         "search": 11,
         "sensing": 0

@@ -1795,11 +1795,6 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_RDM_S_4",
-          "rank": 20,
-          "rate": 100
-        },
-        {
           "iname": "SK_LW_RDM_S_2_INIT",
           "rank": 20,
           "rate": 100
@@ -1983,11 +1978,6 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_RDM_S_4",
-          "rank": 20,
-          "rate": 100
-        },
-        {
           "iname": "SK_LW_RDM_S_2_INIT",
           "rank": 20,
           "rate": 100
@@ -2099,7 +2089,7 @@
       "dmganm": 0,
       "block": 0,
       "ai": {
-        "iname": "AI_ENEMY_ATK_LV5",
+        "iname": "AI_ENEMY_GLMS_EV",
         "wait_e": 0,
         "search": 12,
         "sensing": 0
@@ -2181,6 +2171,11 @@
           "rate": 100
         },
         {
+          "iname": "SK_LW_EC_GLMS_C_02",
+          "rank": 1,
+          "rate": 100
+        },
+        {
           "iname": "SK_LW_TIM_P_1",
           "rank": 1,
           "rate": 100
@@ -2217,7 +2212,7 @@
         },
         {
           "iname": "SK_BTL_MAG_1-999_U_PA",
-          "rank": 173,
+          "rank": 171,
           "rate": 100
         },
         {
