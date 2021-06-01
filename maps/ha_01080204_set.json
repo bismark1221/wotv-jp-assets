@@ -1172,7 +1172,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_PI_LW_LATH",
+            "iname": "IT_PI_LW_JEDN",
             "num": 1,
             "secret": 0
           },
@@ -1273,12 +1273,21 @@
             "num": 1,
             "secret": 0
           },
-          "weight": 2000
+          "weight": 1000
         },
         {
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_STAFF_04",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 1000
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_SWORD_04",
             "num": 1,
             "secret": 0
           },

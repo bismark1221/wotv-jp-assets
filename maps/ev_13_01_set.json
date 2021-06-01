@@ -8,9 +8,9 @@
   "party": [
     {
       "name": "id:1",
-      "x": 11,
-      "y": 2,
-      "dir": 2,
+      "x": 4,
+      "y": 6,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -48,9 +48,9 @@
     },
     {
       "name": "id:2",
-      "x": 11,
-      "y": 1,
-      "dir": 2,
+      "x": 3,
+      "y": 6,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -88,9 +88,9 @@
     },
     {
       "name": "id:3",
-      "x": 11,
-      "y": 0,
-      "dir": 2,
+      "x": 2,
+      "y": 6,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -128,9 +128,9 @@
     },
     {
       "name": "id:4",
-      "x": 12,
-      "y": 2,
-      "dir": 2,
+      "x": 4,
+      "y": 5,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -168,9 +168,9 @@
     },
     {
       "name": "id:5",
-      "x": 12,
-      "y": 0,
-      "dir": 2,
+      "x": 2,
+      "y": 5,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -208,9 +208,9 @@
     },
     {
       "name": "id:6",
-      "x": 12,
-      "y": 1,
-      "dir": 2,
+      "x": 3,
+      "y": 5,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -250,9 +250,9 @@
   "enemy": [
     {
       "name": "",
-      "x": 3,
-      "y": 0,
-      "dir": 0,
+      "x": 4,
+      "y": 11,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -334,13 +334,13 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":9,\"value\":21}]}"
+      "status": "{\"list\":[{\"type\":9,\"value\":21},{\"type\":1,\"value\":251},{\"type\":4,\"value\":53}]}"
     },
     {
       "name": "",
-      "x": 10,
-      "y": 7,
-      "dir": 3,
+      "x": 9,
+      "y": 5,
+      "dir": 2,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -422,13 +422,13 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":9,\"value\":21}]}"
+      "status": "{\"list\":[{\"type\":9,\"value\":21},{\"type\":1,\"value\":251},{\"type\":4,\"value\":53}]}"
     },
     {
       "name": "",
-      "x": 5,
-      "y": 1,
-      "dir": 0,
+      "x": 8,
+      "y": 6,
+      "dir": 2,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -515,12 +515,12 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":1,\"value\":210},{\"type\":4,\"value\":51},{\"type\":9,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":1,\"value\":311},{\"type\":4,\"value\":57},{\"type\":9,\"value\":20}]}"
     },
     {
       "name": "",
-      "x": 9,
-      "y": 5,
+      "x": 5,
+      "y": 12,
       "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
@@ -608,13 +608,13 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":1,\"value\":210},{\"type\":4,\"value\":51},{\"type\":9,\"value\":19}]}"
+      "status": "{\"list\":[{\"type\":1,\"value\":311},{\"type\":4,\"value\":57},{\"type\":9,\"value\":19}]}"
     },
     {
       "name": "",
-      "x": 4,
-      "y": 2,
-      "dir": 0,
+      "x": 10,
+      "y": 7,
+      "dir": 2,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -696,12 +696,12 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":1,\"value\":171},{\"type\":4,\"value\":49},{\"type\":9,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":1,\"value\":283},{\"type\":4,\"value\":55},{\"type\":9,\"value\":20}]}"
     },
     {
       "name": "",
-      "x": 7,
-      "y": 6,
+      "x": 3,
+      "y": 12,
       "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
@@ -784,7 +784,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":1,\"value\":171},{\"type\":4,\"value\":49},{\"type\":9,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":1,\"value\":283},{\"type\":4,\"value\":55},{\"type\":9,\"value\":20}]}"
     }
   ],
   "arena": [],
@@ -851,7 +851,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_MM_LW_CRLT",
+            "iname": "IT_JB_MM_JEDN",
             "num": 1,
             "secret": 0
           },
@@ -877,8 +877,8 @@
         },
         {
           "drop_data": {
-            "type": 1,
-            "iname": "AF_LW_GUN_001",
+            "type": 0,
+            "iname": "IT_AF_LW_GUN_001",
             "num": 1,
             "secret": 0
           },
@@ -937,7 +937,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 3,
             "secret": 0
           },
@@ -946,7 +946,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 4,
             "secret": 0
           },
@@ -955,7 +955,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 5,
             "secret": 0
           },

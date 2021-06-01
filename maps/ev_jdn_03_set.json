@@ -1,7 +1,7 @@
 {
   "info": {
     "angle_override": true,
-    "angle": 180,
+    "angle": 135,
     "crystal_fade_enable": false,
     "crystal_fade_max": 0
   },
@@ -342,7 +342,7 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 30,
+          "rank": 33,
           "rate": 100
         },
         {
@@ -357,11 +357,16 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 227,
+          "rank": 247,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
+          "rank": 20,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
           "rank": 20,
           "rate": 100
         },
@@ -377,7 +382,7 @@
         },
         {
           "iname": "SK_BTL_LUK_1-999_U",
-          "rank": 158,
+          "rank": 168,
           "rate": 100
         },
         {
@@ -394,7 +399,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":421,\"value\":50},{\"type\":410,\"value\":50},{\"type\":413,\"value\":50},{\"type\":409,\"value\":50},{\"type\":420,\"value\":50},{\"type\":412,\"value\":50},{\"type\":407,\"value\":-10},{\"type\":253,\"value\":-10},{\"type\":158,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":421,\"value\":50},{\"type\":410,\"value\":50},{\"type\":413,\"value\":50},{\"type\":409,\"value\":50},{\"type\":420,\"value\":50},{\"type\":412,\"value\":50},{\"type\":407,\"value\":-10},{\"type\":253,\"value\":-10},{\"type\":158,\"value\":20},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10}]}"
     },
     {
       "name": "",
@@ -490,17 +495,17 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 30,
+          "rank": 33,
           "rate": 100
         },
         {
           "iname": "SK_BTL_MP_1-999_U",
-          "rank": 70,
+          "rank": 90,
           "rate": 100
         },
         {
           "iname": "SK_BTL_AP_1-999_U",
-          "rank": 70,
+          "rank": 90,
           "rate": 100
         },
         {
@@ -510,12 +515,17 @@
         },
         {
           "iname": "SK_BTL_MAG_1-999_U",
-          "rank": 241,
+          "rank": 264,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_DF_1-80_U",
+          "rank": 10,
           "rate": 100
         },
         {
           "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 10,
+          "rank": 30,
           "rate": 100
         },
         {
@@ -530,7 +540,7 @@
         },
         {
           "iname": "SK_BTL_LUK_1-999_U",
-          "rank": 170,
+          "rank": 180,
           "rate": 100
         },
         {
@@ -547,7 +557,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":153,\"value\":-10},{\"type\":155,\"value\":20},{\"type\":409,\"value\":50},{\"type\":421,\"value\":50},{\"type\":253,\"value\":-10},{\"type\":407,\"value\":-10},{\"type\":413,\"value\":50},{\"type\":419,\"value\":50},{\"type\":430,\"value\":50},{\"type\":412,\"value\":50}]}"
+      "status": "{\"list\":[{\"type\":153,\"value\":-10},{\"type\":155,\"value\":20},{\"type\":409,\"value\":50},{\"type\":421,\"value\":50},{\"type\":253,\"value\":-10},{\"type\":407,\"value\":-10},{\"type\":413,\"value\":50},{\"type\":419,\"value\":50},{\"type\":430,\"value\":50},{\"type\":412,\"value\":50},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":154,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10}]}"
     },
     {
       "name": "",
@@ -662,13 +672,18 @@
           "rate": 100
         },
         {
-          "iname": "SK_BTL_SPD_1-999_U",
-          "rank": 2,
+          "iname": "SK_BTL_DF_1-80_U",
+          "rank": 5,
           "rate": 100
         },
         {
-          "iname": "SK_BTL_DF_1-80_U",
+          "iname": "SK_BTL_MDF_1-80_U",
           "rank": 5,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_SPD_1-999_U",
+          "rank": 2,
           "rate": 100
         },
         {
@@ -690,7 +705,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":157,\"value\":-10},{\"type\":158,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":157,\"value\":-10},{\"type\":158,\"value\":20},{\"type\":254,\"value\":10},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10}]}"
     },
     {
       "name": "",
@@ -810,6 +825,11 @@
           "rate": 100
         },
         {
+          "iname": "SK_BTL_MDF_1-80_U",
+          "rank": 5,
+          "rate": 100
+        },
+        {
           "iname": "SK_BTL_SPD_1-999_U",
           "rank": 2,
           "rate": 100
@@ -833,7 +853,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":151,\"value\":20},{\"type\":155,\"value\":-10}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":151,\"value\":20},{\"type\":155,\"value\":-10},{\"type\":254,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10}]}"
     },
     {
       "name": "",
@@ -953,6 +973,11 @@
           "rate": 100
         },
         {
+          "iname": "SK_BTL_MDF_1-80_U",
+          "rank": 5,
+          "rate": 100
+        },
+        {
           "iname": "SK_BTL_SPD_1-999_U",
           "rank": 2,
           "rate": 100
@@ -976,7 +1001,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":151,\"value\":20},{\"type\":155,\"value\":-10}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":151,\"value\":20},{\"type\":155,\"value\":-10},{\"type\":254,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10}]}"
     },
     {
       "name": "",
@@ -1077,7 +1102,7 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 25,
+          "rank": 28,
           "rate": 100
         },
         {
@@ -1097,7 +1122,12 @@
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
-          "rank": 20,
+          "rank": 25,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
+          "rank": 10,
           "rate": 100
         },
         {
@@ -1129,7 +1159,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":0},{\"type\":250,\"value\":30},{\"type\":157,\"value\":-10},{\"type\":158,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":10},{\"type\":250,\"value\":30},{\"type\":157,\"value\":-10},{\"type\":158,\"value\":20},{\"type\":251,\"value\":10},{\"type\":252,\"value\":10},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10}]}"
     },
     {
       "name": "",
@@ -1230,7 +1260,7 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 25,
+          "rank": 28,
           "rate": 100
         },
         {
@@ -1250,7 +1280,12 @@
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
-          "rank": 20,
+          "rank": 25,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
+          "rank": 10,
           "rate": 100
         },
         {
@@ -1282,7 +1317,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":0},{\"type\":250,\"value\":30},{\"type\":157,\"value\":-10},{\"type\":158,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":10},{\"type\":250,\"value\":30},{\"type\":157,\"value\":-10},{\"type\":251,\"value\":10},{\"type\":252,\"value\":10},{\"type\":158,\"value\":20},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10}]}"
     },
     {
       "name": "",
@@ -1290,7 +1325,7 @@
       "y": 0,
       "dir": 1,
       "ct_calc": 0,
-      "ct_val": 0,
+      "ct_val": 100,
       "brave": 0,
       "faith": 20,
       "fvoff": 0,
@@ -1383,7 +1418,7 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 17,
+          "rank": 19,
           "rate": 100
         },
         {
@@ -1403,7 +1438,7 @@
         },
         {
           "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 10,
+          "rank": 20,
           "rate": 100
         },
         {
@@ -1435,7 +1470,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":254,\"value\":30},{\"type\":152,\"value\":20},{\"type\":154,\"value\":-10}]}"
+      "status": "{\"list\":[{\"type\":254,\"value\":30},{\"type\":250,\"value\":10},{\"type\":251,\"value\":10},{\"type\":252,\"value\":10},{\"type\":151,\"value\":10},{\"type\":153,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10},{\"type\":152,\"value\":-10},{\"type\":154,\"value\":20}]}"
     },
     {
       "name": "",
@@ -1564,11 +1599,16 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 163,
+          "rank": 183,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
+          "rank": 10,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
           "rank": 10,
           "rate": 100
         },
@@ -1591,6 +1631,11 @@
           "iname": "SK_BTL_HIT_1_999_U",
           "rank": 30,
           "rate": 100
+        },
+        {
+          "iname": "SK_BTL_FAP_1-999_U",
+          "rank": 10,
+          "rate": 100
         }
       ],
       "fskl": "",
@@ -1601,7 +1646,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":155,\"value\":20},{\"type\":153,\"value\":-10},{\"type\":253,\"value\":-10}]}"
+      "status": "{\"list\":[{\"type\":155,\"value\":20},{\"type\":153,\"value\":-10},{\"type\":253,\"value\":-10},{\"type\":250,\"value\":10},{\"type\":252,\"value\":10},{\"type\":254,\"value\":10},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":154,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10}]}"
     },
     {
       "name": "",
@@ -1730,11 +1775,16 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 163,
+          "rank": 183,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
+          "rank": 10,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
           "rank": 10,
           "rate": 100
         },
@@ -1757,6 +1807,11 @@
           "iname": "SK_BTL_HIT_1_999_U",
           "rank": 30,
           "rate": 100
+        },
+        {
+          "iname": "SK_BTL_FAP_1-999_U",
+          "rank": 10,
+          "rate": 100
         }
       ],
       "fskl": "",
@@ -1767,7 +1822,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":155,\"value\":20},{\"type\":153,\"value\":-10},{\"type\":253,\"value\":-10}]}"
+      "status": "{\"list\":[{\"type\":155,\"value\":20},{\"type\":153,\"value\":-10},{\"type\":253,\"value\":-10},{\"type\":250,\"value\":10},{\"type\":252,\"value\":10},{\"type\":254,\"value\":10},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":154,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10}]}"
     }
   ],
   "arena": [],
@@ -1834,36 +1889,36 @@
             "type": 0,
             "iname": "IT_JB_MM_ALL_5",
             "num": 12,
-            "secret": 0
-          },
-          "weight": 1563
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_GUN_05",
-            "num": 5,
-            "secret": 0
-          },
-          "weight": 1750
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_IM_ANGEL_5",
-            "num": 1,
-            "secret": 0
+            "secret": 1
           },
           "weight": 1250
         },
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_GUN_05",
+            "num": 5,
+            "secret": 1
+          },
+          "weight": 1400
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_IM_DRAGON_5",
+            "num": 1,
+            "secret": 1
+          },
+          "weight": 1000
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_EM_SHINE_5",
             "num": 4,
-            "secret": 0
+            "secret": 1
           },
-          "weight": 2969
+          "weight": 2375
         },
         {
           "drop_data": {
@@ -1872,7 +1927,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 2468
+          "weight": 3975
         }
       ]
     },

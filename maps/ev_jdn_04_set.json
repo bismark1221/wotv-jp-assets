@@ -1,7 +1,7 @@
 {
   "info": {
     "angle_override": true,
-    "angle": 315,
+    "angle": 269,
     "crystal_fade_enable": false,
     "crystal_fade_max": 0
   },
@@ -330,7 +330,7 @@
   "enemy": [
     {
       "name": "b",
-      "x": 2,
+      "x": 1,
       "y": 9,
       "dir": 0,
       "ct_calc": 0,
@@ -346,7 +346,7 @@
       "ai": {
         "iname": "AI_ENEMY_ATK_LV5",
         "wait_e": 0,
-        "search": 10,
+        "search": 9,
         "sensing": 0
       },
       "chgTexSetting": {
@@ -427,22 +427,27 @@
         },
         {
           "iname": "SK_BTL_AP_1-999_U",
-          "rank": 90,
+          "rank": 145,
           "rate": 100
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 83,
+          "rank": 124,
           "rate": 100
         },
         {
           "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 37,
+          "rank": 141,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
           "rank": 30,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
+          "rank": 20,
           "rate": 100
         },
         {
@@ -457,7 +462,7 @@
         },
         {
           "iname": "SK_BTL_DEX_1-999_U",
-          "rank": 165,
+          "rank": 175,
           "rate": 100
         },
         {
@@ -472,12 +477,17 @@
         },
         {
           "iname": "SK_BTL_DEFPIERCE_1-100_U",
-          "rank": 20,
+          "rank": 30,
           "rate": 100
         },
         {
           "iname": "SK_LW_RDM_P_1",
           "rank": 20,
+          "rate": 100
+        },
+        {
+          "iname": "SK_LW_AP_GET_5_UR",
+          "rank": 30,
           "rate": 100
         }
       ],
@@ -489,11 +499,11 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":407,\"value\":-10},{\"type\":410,\"value\":50},{\"type\":413,\"value\":50},{\"type\":421,\"value\":50},{\"type\":430,\"value\":50},{\"type\":442,\"value\":50},{\"type\":253,\"value\":-10},{\"type\":158,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":407,\"value\":-10},{\"type\":410,\"value\":50},{\"type\":413,\"value\":50},{\"type\":421,\"value\":50},{\"type\":430,\"value\":50},{\"type\":442,\"value\":50},{\"type\":253,\"value\":-10},{\"type\":251,\"value\":10},{\"type\":250,\"value\":30},{\"type\":254,\"value\":40},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":30}]}"
     },
     {
       "name": "c",
-      "x": 2,
+      "x": 1,
       "y": 3,
       "dir": 0,
       "ct_calc": 0,
@@ -509,7 +519,7 @@
       "ai": {
         "iname": "AI_ENEMY_ATK_LV5",
         "wait_e": 0,
-        "search": 10,
+        "search": 9,
         "sensing": 0
       },
       "chgTexSetting": {
@@ -580,7 +590,7 @@
         },
         {
           "iname": "SK_BTL_FAP_1-999_U",
-          "rank": 50,
+          "rank": 60,
           "rate": 100
         },
         {
@@ -600,17 +610,22 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 140,
+          "rank": 188,
           "rate": 100
         },
         {
           "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 132,
+          "rank": 242,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
-          "rank": 20,
+          "rank": 30,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
+          "rank": 30,
           "rate": 100
         },
         {
@@ -625,7 +640,7 @@
         },
         {
           "iname": "SK_BTL_DEX_1-999_U",
-          "rank": 162,
+          "rank": 178,
           "rate": 100
         },
         {
@@ -640,12 +655,7 @@
         },
         {
           "iname": "SK_BTL_DEFPIERCE_1-100_U",
-          "rank": 20,
-          "rate": 100
-        },
-        {
-          "iname": "SK_LW_RDM_P_1",
-          "rank": 20,
+          "rank": 30,
           "rate": 100
         }
       ],
@@ -657,7 +667,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":421,\"value\":50},{\"type\":410,\"value\":50},{\"type\":413,\"value\":50},{\"type\":409,\"value\":50},{\"type\":420,\"value\":50},{\"type\":412,\"value\":50},{\"type\":407,\"value\":-10},{\"type\":253,\"value\":-10},{\"type\":158,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":421,\"value\":50},{\"type\":410,\"value\":50},{\"type\":413,\"value\":50},{\"type\":409,\"value\":50},{\"type\":420,\"value\":50},{\"type\":412,\"value\":50},{\"type\":407,\"value\":-10},{\"type\":253,\"value\":-10},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10},{\"type\":254,\"value\":40},{\"type\":158,\"value\":30}]}"
     },
     {
       "name": "",
@@ -778,7 +788,7 @@
         },
         {
           "iname": "SK_BTL_MAG_1-999_U",
-          "rank": 120,
+          "rank": 170,
           "rate": 100
         },
         {
@@ -787,8 +797,13 @@
           "rate": 100
         },
         {
+          "iname": "SK_BTL_DF_1-80_U",
+          "rank": 10,
+          "rate": 100
+        },
+        {
           "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 20,
+          "rank": 30,
           "rate": 100
         },
         {
@@ -835,7 +850,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":254,\"value\":30},{\"type\":152,\"value\":20},{\"type\":154,\"value\":-10}]}"
+      "status": "{\"list\":[{\"type\":254,\"value\":40},{\"type\":151,\"value\":10},{\"type\":153,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10},{\"type\":250,\"value\":10},{\"type\":251,\"value\":10},{\"type\":252,\"value\":10},{\"type\":154,\"value\":20},{\"type\":152,\"value\":-10}]}"
     },
     {
       "name": "",
@@ -956,7 +971,7 @@
         },
         {
           "iname": "SK_BTL_MAG_1-999_U",
-          "rank": 120,
+          "rank": 170,
           "rate": 100
         },
         {
@@ -965,8 +980,13 @@
           "rate": 100
         },
         {
+          "iname": "SK_BTL_DF_1-80_U",
+          "rank": 10,
+          "rate": 100
+        },
+        {
           "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 20,
+          "rank": 30,
           "rate": 100
         },
         {
@@ -1013,12 +1033,12 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":254,\"value\":30},{\"type\":152,\"value\":20},{\"type\":154,\"value\":-10}]}"
+      "status": "{\"list\":[{\"type\":254,\"value\":40},{\"type\":151,\"value\":10},{\"type\":153,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10},{\"type\":250,\"value\":10},{\"type\":251,\"value\":10},{\"type\":252,\"value\":10},{\"type\":152,\"value\":-10},{\"type\":154,\"value\":20}]}"
     },
     {
       "name": "",
-      "x": 1,
-      "y": 5,
+      "x": 2,
+      "y": 8,
       "dir": 0,
       "ct_calc": 0,
       "ct_val": 0,
@@ -1119,7 +1139,7 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 40,
+          "rank": 41,
           "rate": 100
         },
         {
@@ -1134,16 +1154,21 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 100,
+          "rank": 130,
           "rate": 100
         },
         {
           "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 80,
+          "rank": 151,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
+          "rank": 30,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
           "rank": 20,
           "rate": 100
         },
@@ -1186,12 +1211,12 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":0},{\"type\":250,\"value\":30},{\"type\":157,\"value\":-10},{\"type\":158,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":30},{\"type\":250,\"value\":30},{\"type\":157,\"value\":-10},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10},{\"type\":251,\"value\":20},{\"type\":252,\"value\":20},{\"type\":158,\"value\":30}]}"
     },
     {
       "name": "",
-      "x": 1,
-      "y": 4,
+      "x": 2,
+      "y": 7,
       "dir": 0,
       "ct_calc": 0,
       "ct_val": 0,
@@ -1292,7 +1317,7 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 40,
+          "rank": 41,
           "rate": 100
         },
         {
@@ -1307,16 +1332,21 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 100,
+          "rank": 130,
           "rate": 100
         },
         {
           "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 80,
+          "rank": 151,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
+          "rank": 30,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
           "rank": 20,
           "rate": 100
         },
@@ -1359,12 +1389,12 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":0},{\"type\":250,\"value\":30},{\"type\":157,\"value\":-10},{\"type\":158,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":30},{\"type\":250,\"value\":30},{\"type\":157,\"value\":-10},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10},{\"type\":251,\"value\":20},{\"type\":252,\"value\":20},{\"type\":158,\"value\":30}]}"
     },
     {
       "name": "",
-      "x": 1,
-      "y": 8,
+      "x": 2,
+      "y": 5,
       "dir": 0,
       "ct_calc": 0,
       "ct_val": 0,
@@ -1465,7 +1495,7 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 40,
+          "rank": 41,
           "rate": 100
         },
         {
@@ -1480,16 +1510,21 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 100,
+          "rank": 130,
           "rate": 100
         },
         {
           "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 80,
+          "rank": 151,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
+          "rank": 30,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
           "rank": 20,
           "rate": 100
         },
@@ -1532,12 +1567,12 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":0},{\"type\":250,\"value\":30},{\"type\":156,\"value\":-10},{\"type\":152,\"value\":20}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":30},{\"type\":250,\"value\":30},{\"type\":156,\"value\":-10},{\"type\":151,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":251,\"value\":20},{\"type\":252,\"value\":20},{\"type\":158,\"value\":10},{\"type\":152,\"value\":30}]}"
     },
     {
       "name": "",
-      "x": 1,
-      "y": 7,
+      "x": 2,
+      "y": 4,
       "dir": 0,
       "ct_calc": 0,
       "ct_val": 0,
@@ -1638,7 +1673,7 @@
         },
         {
           "iname": "SK_BTL_HP_100-99900_U",
-          "rank": 40,
+          "rank": 41,
           "rate": 100
         },
         {
@@ -1653,16 +1688,21 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 100,
+          "rank": 130,
           "rate": 100
         },
         {
           "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 80,
+          "rank": 151,
           "rate": 100
         },
         {
           "iname": "SK_BTL_DF_1-80_U",
+          "rank": 30,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MDF_1-80_U",
           "rank": 20,
           "rate": 100
         },
@@ -1705,7 +1745,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":0},{\"type\":250,\"value\":30},{\"type\":152,\"value\":20},{\"type\":156,\"value\":-10}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":254,\"value\":30},{\"type\":250,\"value\":30},{\"type\":156,\"value\":-10},{\"type\":151,\"value\":10},{\"type\":153,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":158,\"value\":10},{\"type\":251,\"value\":20},{\"type\":252,\"value\":20},{\"type\":152,\"value\":30}]}"
     },
     {
       "name": "",
@@ -1821,27 +1861,32 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 60,
-          "rate": 100
-        },
-        {
-          "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 80,
-          "rate": 100
-        },
-        {
-          "iname": "SK_BTL_MAG_1-999_U",
           "rank": 150,
           "rate": 100
         },
         {
+          "iname": "SK_BTL_ATK_1-999_U_PA",
+          "rank": 100,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MAG_1-999_U",
+          "rank": 230,
+          "rate": 100
+        },
+        {
           "iname": "SK_BTL_MAG_1-999_U_PA",
-          "rank": 140,
+          "rank": 155,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_DF_1-80_U",
+          "rank": 30,
           "rate": 100
         },
         {
           "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 20,
+          "rank": 30,
           "rate": 100
         },
         {
@@ -1870,13 +1915,8 @@
           "rate": 100
         },
         {
-          "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 20,
-          "rate": 100
-        },
-        {
           "iname": "SK_LW_RDM_P_1",
-          "rank": 10,
+          "rank": 20,
           "rate": 100
         }
       ],
@@ -1888,7 +1928,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":156,\"value\":20},{\"type\":154,\"value\":-10},{\"type\":307,\"value\":-10},{\"type\":310,\"value\":50},{\"type\":313,\"value\":50},{\"type\":309,\"value\":50},{\"type\":319,\"value\":50},{\"type\":321,\"value\":50},{\"type\":330,\"value\":50},{\"type\":342,\"value\":50},{\"type\":254,\"value\":30},{\"type\":251,\"value\":-10},{\"type\":253,\"value\":-20}]}"
+      "status": "{\"list\":[{\"type\":156,\"value\":20},{\"type\":154,\"value\":-10},{\"type\":307,\"value\":-10},{\"type\":310,\"value\":50},{\"type\":313,\"value\":50},{\"type\":309,\"value\":50},{\"type\":319,\"value\":50},{\"type\":321,\"value\":50},{\"type\":330,\"value\":50},{\"type\":342,\"value\":50},{\"type\":254,\"value\":40},{\"type\":251,\"value\":10},{\"type\":253,\"value\":-20},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":155,\"value\":10},{\"type\":158,\"value\":10},{\"type\":250,\"value\":10},{\"type\":252,\"value\":10}]}"
     },
     {
       "name": "",
@@ -2004,27 +2044,32 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 60,
-          "rate": 100
-        },
-        {
-          "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 80,
-          "rate": 100
-        },
-        {
-          "iname": "SK_BTL_MAG_1-999_U",
           "rank": 150,
           "rate": 100
         },
         {
+          "iname": "SK_BTL_ATK_1-999_U_PA",
+          "rank": 100,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_MAG_1-999_U",
+          "rank": 230,
+          "rate": 100
+        },
+        {
           "iname": "SK_BTL_MAG_1-999_U_PA",
-          "rank": 140,
+          "rank": 155,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_DF_1-80_U",
+          "rank": 30,
           "rate": 100
         },
         {
           "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 20,
+          "rank": 30,
           "rate": 100
         },
         {
@@ -2053,13 +2098,8 @@
           "rate": 100
         },
         {
-          "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 20,
-          "rate": 100
-        },
-        {
           "iname": "SK_LW_RDM_P_1",
-          "rank": 10,
+          "rank": 20,
           "rate": 100
         }
       ],
@@ -2071,11 +2111,11 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":156,\"value\":20},{\"type\":154,\"value\":-10},{\"type\":307,\"value\":-10},{\"type\":310,\"value\":50},{\"type\":313,\"value\":50},{\"type\":309,\"value\":50},{\"type\":319,\"value\":50},{\"type\":321,\"value\":50},{\"type\":330,\"value\":50},{\"type\":342,\"value\":50},{\"type\":254,\"value\":30},{\"type\":251,\"value\":-10},{\"type\":253,\"value\":-20}]}"
+      "status": "{\"list\":[{\"type\":156,\"value\":20},{\"type\":154,\"value\":-10},{\"type\":307,\"value\":-10},{\"type\":310,\"value\":50},{\"type\":313,\"value\":50},{\"type\":309,\"value\":50},{\"type\":319,\"value\":50},{\"type\":321,\"value\":50},{\"type\":330,\"value\":50},{\"type\":342,\"value\":50},{\"type\":254,\"value\":40},{\"type\":251,\"value\":10},{\"type\":253,\"value\":-20},{\"type\":151,\"value\":10},{\"type\":152,\"value\":10},{\"type\":153,\"value\":10},{\"type\":155,\"value\":10},{\"type\":158,\"value\":10},{\"type\":250,\"value\":10},{\"type\":252,\"value\":10}]}"
     },
     {
       "name": "",
-      "x": 2,
+      "x": 1,
       "y": 6,
       "dir": 0,
       "ct_calc": 0,
@@ -2171,11 +2211,6 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_EC_GLMS_C_02",
-          "rank": 1,
-          "rate": 100
-        },
-        {
           "iname": "SK_LW_TIM_P_1",
           "rank": 1,
           "rate": 100
@@ -2197,22 +2232,22 @@
         },
         {
           "iname": "SK_BTL_ATK_1-999_U",
-          "rank": 100,
+          "rank": 150,
           "rate": 100
         },
         {
           "iname": "SK_BTL_ATK_1-999_U_PA",
-          "rank": 153,
+          "rank": 256,
           "rate": 100
         },
         {
           "iname": "SK_BTL_MAG_1-999_U",
-          "rank": 114,
+          "rank": 204,
           "rate": 100
         },
         {
           "iname": "SK_BTL_MAG_1-999_U_PA",
-          "rank": 171,
+          "rank": 221,
           "rate": 100
         },
         {
@@ -2222,12 +2257,12 @@
         },
         {
           "iname": "SK_BTL_MDF_1-80_U",
-          "rank": 10,
+          "rank": 30,
           "rate": 100
         },
         {
           "iname": "SK_BTL_SPD_1-999_U",
-          "rank": 20,
+          "rank": 21,
           "rate": 100
         },
         {
@@ -2237,12 +2272,12 @@
         },
         {
           "iname": "SK_BTL_DEX_1-999_U",
-          "rank": 180,
+          "rank": 187,
           "rate": 100
         },
         {
           "iname": "SK_BTL_LUK_1-999_U",
-          "rank": 200,
+          "rank": 207,
           "rate": 100
         },
         {
@@ -2252,12 +2287,12 @@
         },
         {
           "iname": "SK_BTL_DEFPIERCE_1-100_U",
-          "rank": 20,
+          "rank": 40,
           "rate": 100
         },
         {
-          "iname": "SK_LW_RDM_P_1",
-          "rank": 20,
+          "iname": "SK_BTL_MDFPIERCE_1-100_U",
+          "rank": 40,
           "rate": 100
         }
       ],
@@ -2269,7 +2304,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":408,\"value\":50},{\"type\":407,\"value\":-10},{\"type\":409,\"value\":50},{\"type\":419,\"value\":50},{\"type\":410,\"value\":50},{\"type\":413,\"value\":50},{\"type\":430,\"value\":50},{\"type\":442,\"value\":50},{\"type\":307,\"value\":-10},{\"type\":308,\"value\":50},{\"type\":310,\"value\":50},{\"type\":313,\"value\":50},{\"type\":309,\"value\":50},{\"type\":319,\"value\":50},{\"type\":321,\"value\":50},{\"type\":330,\"value\":50},{\"type\":250,\"value\":10},{\"type\":251,\"value\":10},{\"type\":254,\"value\":10},{\"type\":153,\"value\":30}]}"
+      "status": "{\"list\":[{\"type\":253,\"value\":-10},{\"type\":408,\"value\":50},{\"type\":407,\"value\":-10},{\"type\":409,\"value\":50},{\"type\":419,\"value\":50},{\"type\":410,\"value\":50},{\"type\":413,\"value\":50},{\"type\":430,\"value\":50},{\"type\":442,\"value\":50},{\"type\":307,\"value\":-10},{\"type\":308,\"value\":50},{\"type\":310,\"value\":50},{\"type\":313,\"value\":50},{\"type\":309,\"value\":50},{\"type\":319,\"value\":50},{\"type\":321,\"value\":50},{\"type\":330,\"value\":50},{\"type\":250,\"value\":10},{\"type\":251,\"value\":10},{\"type\":254,\"value\":30},{\"type\":153,\"value\":30},{\"type\":252,\"value\":10},{\"type\":152,\"value\":10},{\"type\":154,\"value\":10},{\"type\":155,\"value\":10},{\"type\":156,\"value\":10},{\"type\":158,\"value\":10}]}"
     }
   ],
   "arena": [],
@@ -2359,20 +2394,20 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JBEX_SWORD",
+            "iname": "IT_JBEX_GUN",
             "num": 3,
             "secret": 1
           },
-          "weight": 2841
+          "weight": 2273
         },
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JBEX_THUNDER",
+            "iname": "IT_JBEX_SHINE",
             "num": 3,
             "secret": 1
           },
-          "weight": 2841
+          "weight": 2273
         },
         {
           "drop_data": {
@@ -2381,7 +2416,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 4318
+          "weight": 5454
         }
       ]
     },

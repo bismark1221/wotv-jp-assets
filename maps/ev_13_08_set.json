@@ -8,9 +8,9 @@
   "party": [
     {
       "name": "id:1",
-      "x": 10,
-      "y": 8,
-      "dir": 2,
+      "x": 5,
+      "y": 12,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -48,9 +48,9 @@
     },
     {
       "name": "id:2",
-      "x": 10,
-      "y": 7,
-      "dir": 2,
+      "x": 6,
+      "y": 12,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -88,9 +88,9 @@
     },
     {
       "name": "id:3",
-      "x": 10,
-      "y": 11,
-      "dir": 2,
+      "x": 7,
+      "y": 12,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -128,9 +128,9 @@
     },
     {
       "name": "id:4",
-      "x": 10,
+      "x": 8,
       "y": 12,
-      "dir": 2,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -168,9 +168,9 @@
     },
     {
       "name": "id:5",
-      "x": 10,
-      "y": 4,
-      "dir": 2,
+      "x": 4,
+      "y": 12,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -208,9 +208,9 @@
     },
     {
       "name": "id:6",
-      "x": 10,
-      "y": 3,
-      "dir": 2,
+      "x": 5,
+      "y": 11,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -248,9 +248,9 @@
     },
     {
       "name": "",
-      "x": 11,
-      "y": 8,
-      "dir": 2,
+      "x": 7,
+      "y": 11,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -288,9 +288,9 @@
     },
     {
       "name": "",
-      "x": 11,
-      "y": 7,
-      "dir": 2,
+      "x": 6,
+      "y": 11,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -330,9 +330,9 @@
   "enemy": [
     {
       "name": "",
-      "x": 6,
-      "y": 8,
-      "dir": 0,
+      "x": 5,
+      "y": 7,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -443,9 +443,9 @@
     },
     {
       "name": "",
-      "x": 6,
+      "x": 7,
       "y": 7,
-      "dir": 0,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -557,8 +557,8 @@
     {
       "name": "",
       "x": 6,
-      "y": 4,
-      "dir": 0,
+      "y": 5,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -669,9 +669,9 @@
     },
     {
       "name": "",
-      "x": 6,
-      "y": 11,
-      "dir": 0,
+      "x": 5,
+      "y": 4,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -782,9 +782,9 @@
     },
     {
       "name": "",
-      "x": 4,
-      "y": 5,
-      "dir": 0,
+      "x": 9,
+      "y": 6,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -896,8 +896,8 @@
     {
       "name": "",
       "x": 4,
-      "y": 10,
-      "dir": 0,
+      "y": 6,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -1008,9 +1008,9 @@
     },
     {
       "name": "",
-      "x": 5,
-      "y": 9,
-      "dir": 0,
+      "x": 7,
+      "y": 4,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -1121,9 +1121,9 @@
     },
     {
       "name": "",
-      "x": 5,
-      "y": 6,
-      "dir": 0,
+      "x": 8,
+      "y": 5,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -1234,9 +1234,9 @@
     },
     {
       "name": "",
-      "x": 4,
-      "y": 8,
-      "dir": 0,
+      "x": 6,
+      "y": 2,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -1496,7 +1496,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 47,
             "secret": 0
           },
@@ -1505,7 +1505,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 50,
             "secret": 0
           },
@@ -1514,7 +1514,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 51,
             "secret": 0
           },
@@ -1523,7 +1523,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 52,
             "secret": 0
           },
@@ -1532,7 +1532,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 55,
             "secret": 0
           },

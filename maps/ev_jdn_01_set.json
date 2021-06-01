@@ -1,7 +1,7 @@
 {
   "info": {
     "angle_override": true,
-    "angle": 315,
+    "angle": 0,
     "crystal_fade_enable": false,
     "crystal_fade_max": 0
   },
@@ -700,16 +700,6 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_EC_GLMS_C_02",
-          "rank": 1,
-          "rate": 100
-        },
-        {
-          "iname": "SK_LW_GLMS_S_4",
-          "rank": 5,
-          "rate": 100
-        },
-        {
           "iname": "SK_BTL_HP_100-99900_U",
           "rank": 8,
           "rate": 100
@@ -1319,7 +1309,7 @@
             "num": 2,
             "secret": 1
           },
-          "weight": 391
+          "weight": 313
         },
         {
           "drop_data": {
@@ -1328,7 +1318,7 @@
             "num": 6,
             "secret": 1
           },
-          "weight": 2083
+          "weight": 1667
         },
         {
           "drop_data": {
@@ -1337,7 +1327,7 @@
             "num": 1,
             "secret": 1
           },
-          "weight": 156
+          "weight": 125
         },
         {
           "drop_data": {
@@ -1346,7 +1336,7 @@
             "num": 1,
             "secret": 1
           },
-          "weight": 313
+          "weight": 250
         },
         {
           "drop_data": {
@@ -1355,7 +1345,7 @@
             "num": 5,
             "secret": 1
           },
-          "weight": 250
+          "weight": 200
         },
         {
           "drop_data": {
@@ -1364,7 +1354,7 @@
             "num": 5,
             "secret": 1
           },
-          "weight": 625
+          "weight": 500
         },
         {
           "drop_data": {
@@ -1373,7 +1363,7 @@
             "num": 4,
             "secret": 1
           },
-          "weight": 781
+          "weight": 625
         },
         {
           "drop_data": {
@@ -1382,25 +1372,25 @@
             "num": 4,
             "secret": 1
           },
-          "weight": 1758
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_IM_ANGEL_1",
-            "num": 1,
-            "secret": 1
-          },
-          "weight": 781
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_IM_ANGEL_2",
-            "num": 1,
-            "secret": 1
-          },
           "weight": 1406
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_IM_DRAGON_1",
+            "num": 1,
+            "secret": 1
+          },
+          "weight": 625
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_IM_DRAGON_2",
+            "num": 1,
+            "secret": 1
+          },
+          "weight": 1125
         },
         {
           "drop_data": {
@@ -1409,7 +1399,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 1456
+          "weight": 3164
         }
       ]
     }

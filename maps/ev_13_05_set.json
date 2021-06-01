@@ -1,254 +1,14 @@
 {
   "info": {
     "angle_override": true,
-    "angle": 225,
+    "angle": 315,
     "crystal_fade_enable": false,
     "crystal_fade_max": 0
   },
   "party": [
     {
       "name": "id:1",
-      "x": 9,
-      "y": 5,
-      "dir": 2,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "part": {
-        "body": "",
-        "id": "",
-        "gauge": {
-          "x": 0.0,
-          "y": 0.0
-        }
-      }
-    },
-    {
-      "name": "id:2",
-      "x": 9,
-      "y": 6,
-      "dir": 2,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "part": {
-        "body": "",
-        "id": "",
-        "gauge": {
-          "x": 0.0,
-          "y": 0.0
-        }
-      }
-    },
-    {
-      "name": "id:3",
-      "x": 9,
-      "y": 7,
-      "dir": 2,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "part": {
-        "body": "",
-        "id": "",
-        "gauge": {
-          "x": 0.0,
-          "y": 0.0
-        }
-      }
-    },
-    {
-      "name": "id:4",
-      "x": 10,
-      "y": 5,
-      "dir": 2,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "part": {
-        "body": "",
-        "id": "",
-        "gauge": {
-          "x": 0.0,
-          "y": 0.0
-        }
-      }
-    },
-    {
-      "name": "id:5",
-      "x": 10,
-      "y": 7,
-      "dir": 2,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "part": {
-        "body": "",
-        "id": "",
-        "gauge": {
-          "x": 0.0,
-          "y": 0.0
-        }
-      }
-    },
-    {
-      "name": "id:6",
-      "x": 10,
-      "y": 6,
-      "dir": 2,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "part": {
-        "body": "",
-        "id": "",
-        "gauge": {
-          "x": 0.0,
-          "y": 0.0
-        }
-      }
-    },
-    {
-      "name": "id:0",
-      "x": 10,
+      "x": 11,
       "y": 4,
       "dir": 2,
       "ct_calc": 0,
@@ -287,9 +47,249 @@
       }
     },
     {
+      "name": "id:2",
+      "x": 11,
+      "y": 5,
+      "dir": 2,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "id:3",
+      "x": 11,
+      "y": 6,
+      "dir": 2,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "id:4",
+      "x": 12,
+      "y": 4,
+      "dir": 2,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "id:5",
+      "x": 12,
+      "y": 6,
+      "dir": 2,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "id:6",
+      "x": 12,
+      "y": 5,
+      "dir": 2,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "id:0",
+      "x": 11,
+      "y": 3,
+      "dir": 2,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
       "name": "",
-      "x": 10,
-      "y": 8,
+      "x": 12,
+      "y": 3,
       "dir": 2,
       "ct_calc": 0,
       "ct_val": 0,
@@ -483,7 +483,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "EV13_MEDAL",
+      "drop": "EV13_05",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1018,12 +1018,12 @@
       "skills": [
         {
           "iname": "SK_BTL_JOB_HUN_1_15_U",
-          "rank": 4,
+          "rank": 5,
           "rate": 100
         },
         {
           "iname": "SK_LW_ARC_P_2",
-          "rank": 6,
+          "rank": 8,
           "rate": 100
         },
         {
@@ -1033,17 +1033,17 @@
         },
         {
           "iname": "SK_LW_ARC_S_2_INIT",
-          "rank": 6,
+          "rank": 8,
           "rate": 100
         },
         {
           "iname": "SK_LW_ARC_M_1",
-          "rank": 6,
+          "rank": 8,
           "rate": 100
         },
         {
           "iname": "SK_LW_ARC_S_1_INIT",
-          "rank": 6,
+          "rank": 8,
           "rate": 100
         }
       ],
@@ -1117,7 +1117,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "EV13_MEDAL",
+      "drop": "EV13_05",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1344,7 +1344,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_MM_LW_CRLT_2",
+            "iname": "IT_JB_MM_JEDN_2",
             "num": 1,
             "secret": 0
           },
@@ -1430,7 +1430,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 26,
             "secret": 0
           },
@@ -1439,7 +1439,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 27,
             "secret": 0
           },
@@ -1448,7 +1448,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 30,
             "secret": 0
           },
@@ -1457,7 +1457,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 33,
             "secret": 0
           },
@@ -1466,7 +1466,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_EV12_1",
+            "iname": "IT_EC_EV13_1",
             "num": 34,
             "secret": 0
           },
