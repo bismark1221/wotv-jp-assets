@@ -1401,7 +1401,7 @@
       "iname": "UN_GM_CAPT",
       "side": 1,
       "dead": 2,
-      "lv": 0,
+      "lv": 1,
       "rare": 0,
       "awake": 1,
       "rank": 0,
@@ -1479,7 +1479,7 @@
       "iname": "UN_GM_CAPT",
       "side": 1,
       "dead": 2,
-      "lv": 0,
+      "lv": 1,
       "rare": 0,
       "awake": 1,
       "rank": 0,
@@ -1557,7 +1557,7 @@
       "iname": "UN_GM_CAPT",
       "side": 1,
       "dead": 2,
-      "lv": 0,
+      "lv": 1,
       "rare": 0,
       "awake": 1,
       "rank": 0,
@@ -1635,7 +1635,7 @@
       "iname": "UN_GM_CAPT",
       "side": 1,
       "dead": 2,
-      "lv": 0,
+      "lv": 1,
       "rare": 0,
       "awake": 1,
       "rank": 0,
@@ -1713,7 +1713,7 @@
       "iname": "UN_GM_CAPT",
       "side": 1,
       "dead": 2,
-      "lv": 0,
+      "lv": 1,
       "rare": 0,
       "awake": 1,
       "rank": 0,
@@ -1791,7 +1791,7 @@
       "iname": "UN_GM_CAPT",
       "side": 1,
       "dead": 2,
-      "lv": 0,
+      "lv": 1,
       "rare": 0,
       "awake": 1,
       "rank": 0,
@@ -1896,7 +1896,9 @@
         "isUnitNoAct": true
       },
       "invokeMax": 1,
-      "deadTags": [],
+      "deadTags": [
+        "capt1"
+      ],
       "dropitem": false
     },
     {
@@ -1919,7 +1921,9 @@
         "isUnitNoAct": true
       },
       "invokeMax": 1,
-      "deadTags": [],
+      "deadTags": [
+        "capt2"
+      ],
       "dropitem": false
     },
     {
@@ -1942,7 +1946,9 @@
         "isUnitNoAct": true
       },
       "invokeMax": 1,
-      "deadTags": [],
+      "deadTags": [
+        "capt3"
+      ],
       "dropitem": false
     },
     {
@@ -1965,7 +1971,9 @@
         "isUnitNoAct": true
       },
       "invokeMax": 1,
-      "deadTags": [],
+      "deadTags": [
+        "capt4"
+      ],
       "dropitem": false
     },
     {
@@ -1988,7 +1996,9 @@
         "isUnitNoAct": true
       },
       "invokeMax": 1,
-      "deadTags": [],
+      "deadTags": [
+        "capt5"
+      ],
       "dropitem": false
     },
     {
@@ -2011,7 +2021,9 @@
         "isUnitNoAct": true
       },
       "invokeMax": 1,
-      "deadTags": [],
+      "deadTags": [
+        "capt6"
+      ],
       "dropitem": false
     }
   ],
