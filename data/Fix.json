@@ -1648,12 +1648,12 @@
     {
       "iname": "limited_league_guild_battle_history_count",
       "type": 0,
-      "value": 5
+      "value": 3
     },
     {
       "iname": "limited_league_guild_battle_matching_candidate_count",
       "type": 0,
-      "value": 3
+      "value": 1
     },
     {
       "iname": "limited_league_guild_battle_matching_avoid_count",
@@ -1968,7 +1968,22 @@
     {
       "iname": "guild_raid_open",
       "type": 0,
-      "value": 0
+      "value": 1
+    },
+    {
+      "iname": "vision_hard_quest_reset_cost",
+      "type": 1,
+      "value": "50,100"
+    },
+    {
+      "iname": "unit_hard_batch_skip_selection_max_num",
+      "type": 0,
+      "value": 10
+    },
+    {
+      "iname": "vision_hard_batch_skip_selection_max_num",
+      "type": 0,
+      "value": 6
     }
   ]
 }
