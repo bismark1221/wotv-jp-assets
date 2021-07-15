@@ -301,7 +301,8 @@
     "Watching": "0x12",
     "BattleRoad": "0x13",
     "DraftMatch": "0x14",
-    "Max": "0x15"
+    "GuildRaid": "0x15",
+    "Max": "0x16"
   },
   "EBirth": {
     "None": "0x0",
@@ -356,11 +357,12 @@
     "VisionParty": "0x3",
     "VisionPartyFriend": "0x4",
     "ArtifactPassive": "0x5",
-    "Weather": "0x6",
-    "Intimacy": "0x7",
-    "Ground": "0x8",
-    "Map": "0x9",
-    "Max": "0xA"
+    "Artifact": "0x6",
+    "Weather": "0x7",
+    "Intimacy": "0x8",
+    "Ground": "0x9",
+    "Map": "0xA",
+    "Max": "0xB"
   },
   "EBuffEffectCheckTarget": {
     "Target": "0x0",
@@ -689,7 +691,10 @@
     "CondBarrageShot": "0x1FB",
     "CondBarrageMagic": "0x1FC",
     "CondEnchantSkill": "0x1FD",
-    "CondLast2": "0x1FE"
+    "CondResistBirth": "0x1FE",
+    "CondResistSpecies": "0x1FF",
+    "CondEnchantSkillOnly": "0x200",
+    "CondLast2": "0x201"
   },
   "EBuffType": {
     "Buff": "0x0",
@@ -754,6 +759,7 @@
     "Gil": "0x2",
     "Lapis": "0x3",
     "PlayerExp": "0x4",
+    "Stamina": "0x5",
     "Unit": "0x6",
     "NBeast": "0x7",
     "Vision": "0x8",
@@ -894,10 +900,6 @@
     "Map": "0x1",
     "Atk": "0x2",
     "Special": "0x3"
-  },
-  "eMapUnitCtCalcType": {
-    "FIXED": "0x0",
-    "SCALE": "0x1"
   },
   "EMultiStampType": {
     "Greeting_01": "0x0",
@@ -1196,7 +1198,8 @@
     "Reaction": "0x5",
     "FirstReaction": "0x6",
     "Dying": "0x7",
-    "Auto": "0x8"
+    "Auto": "0x8",
+    "UsedEnchant": "0x63"
   },
   "ESkillType": {
     "NormalAttack": "0x0",
@@ -1211,7 +1214,10 @@
     "VisionPassive": "0x9",
     "Leader": "0xA",
     "Item": "0xB",
-    "Status": "0xC"
+    "Status": "0xC",
+    "ArtifactActionNoDuplicate": "0xD",
+    "ArtifactReactionNoDuplicate": "0xE",
+    "ArtifactPassiveNoDuplicate": "0xF"
   },
   "ESpecies": {
     "Reserve10": "0xFFFFFFFF80000000",
@@ -1332,7 +1338,10 @@
     "BarrageBlow": "0x3F",
     "BarrageShot": "0x40",
     "BarrageMagic": "0x41",
-    "EnchantSkill": "0x42"
+    "EnchantSkill": "0x42",
+    "ResistBirth": "0x43",
+    "ResistSpecies": "0x44",
+    "EnchantSkillOnly": "0x45"
   },
   "EStatusOther": {
     "InitAp": "0x0",
