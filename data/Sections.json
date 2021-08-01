@@ -316,6 +316,12 @@
       "back_unit": "UN_LW_ST_020101"
     },
     {
+      "iname": "SE_ST_020302",
+      "chap": "CH_ST_0203",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_020101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -725,14 +731,50 @@
       "hurl": "ev_qilf_02"
     },
     {
-      "iname": "SE_EV_SUMM_01",
+      "iname": "SE_EV_NCTS_01",
       "limit": 1,
-      "hurl": "ev_summ_01"
+      "hurl": "ev_ncts_01"
+    },
+    {
+      "iname": "SE_EV_PRMP_01",
+      "limit": 1,
+      "hurl": "ev_prmp_01"
+    },
+    {
+      "iname": "SE_EV_ARNA_01",
+      "limit": 1,
+      "hurl": "ev_arna_01"
     },
     {
       "iname": "SE_PTQ_FF7R_01",
       "skip_ticket": "IT_PT_SKIP_FF7_1",
       "hurl": "pt_ff7r_01"
+    },
+    {
+      "iname": "SE_EV_FF15_01_01",
+      "hurl": "ev_FF15_01"
+    },
+    {
+      "iname": "SE_EV_FF15_01_EX",
+      "hurl": "ev_FF15_ex_01",
+      "o_cond_q": [
+        "QE_EV_FF15_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_FF15_01_EX",
+      "hurl": "ev_FF15_ex_01"
+    },
+    {
+      "iname": "SE_EV_FF15_02_EX",
+      "hurl": "ev_FF15_ex_02",
+      "o_cond_q": [
+        "QE_EV_FF15_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_FF15_02_EX",
+      "hurl": "ev_FF15_ex_02"
     },
     {
       "iname": "SE_EV_FF7_01_01",
@@ -759,6 +801,11 @@
     {
       "iname": "SE_MU_FF7_02_EX",
       "hurl": "ev_FF7R_ex_02"
+    },
+    {
+      "iname": "SE_EV_SUMM_01",
+      "limit": 1,
+      "hurl": "ev_summ_01"
     },
     {
       "iname": "SE_EV_LMRE",
@@ -794,6 +841,13 @@
     {
       "iname": "SE_EV_OBR_01",
       "hurl": "ev_obr_01"
+    },
+    {
+      "iname": "SE_EV_VC_KRKN_01",
+      "hurl": "ev_vc_krkn_01",
+      "open_cond": [
+        "COND_VC_LW_KRKN"
+      ]
     },
     {
       "iname": "SE_EV_VC_DMCM_01",
@@ -1204,16 +1258,17 @@
       "hurl": "ev_raid_rv_02"
     },
     {
+      "iname": "SE_MU_RAID_RV_03",
+      "hurl": "ev_raid_rv_03"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_04",
+      "hurl": "ev_raid_rv_04"
+    },
+    {
       "iname": "SE_EV_WAVE_001",
       "limit": 2,
       "hurl": "ev_wave_001"
-    },
-    {
-      "iname": "SE_EV_VC_KRKN_01",
-      "hurl": "ev_vc_krkn_01",
-      "open_cond": [
-        "COND_VC_LW_KRKN"
-      ]
     },
     {
       "iname": "SE_EV_11_01",
@@ -1682,6 +1737,10 @@
     {
       "iname": "SE_EV_NEWMAP_005",
       "hurl": "ev_nmap_05"
+    },
+    {
+      "iname": "SE_BR_FIRE",
+      "hurl": "br_fire_01"
     },
     {
       "iname": "SE_BR_DARK",

@@ -673,6 +673,24 @@
       "value_s1": "UN_LW_P_QILF_01"
     },
     {
+      "iname": "COND_HA_FF15_NCT",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_FF15_P_NCTS"
+    },
+    {
+      "iname": "COND_HA_FF15_PRM",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_FF15_P_PRMP"
+    },
+    {
+      "iname": "COND_HA_FF15_ARN",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_FF15_P_ARNA"
+    },
+    {
       "iname": "COND_CH_LW_MONT",
       "type": 1,
       "value_i1": 40,
@@ -1487,6 +1505,30 @@
       "type": 1,
       "value_i1": 40,
       "value_s1": "UN_LW_P_QILF_01"
+    },
+    {
+      "iname": "COND_CH_FF15_NCT",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_FF15_P_NCTS"
+    },
+    {
+      "iname": "COND_CH_FF15_PRM",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_FF15_P_PRMP"
+    },
+    {
+      "iname": "COND_CH_MINU",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_MINU"
+    },
+    {
+      "iname": "COND_CH_FF15_AR",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_FF15_P_ARNA"
     },
     {
       "iname": "COND_VC_LW_BAHM",
