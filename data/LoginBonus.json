@@ -14451,6 +14451,94 @@
           "num": 20
         }
       ]
+    },
+    {
+      "iname": "LB_LIMIT_0088",
+      "type": 6,
+      "banner": "LoginBonus_PeriodBanner_0088",
+      "priority": 2,
+      "begin_at": "2021/08/10 14:30:00",
+      "end_at": "2021/08/17 9:59:59",
+      "at_first_already_login_ok": 1,
+      "bonuses": [
+        {
+          "point": 1,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 2,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_VC_EXP_04",
+          "num": 20
+        },
+        {
+          "point": 3,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_GU_FOOD_07",
+          "num": 1
+        },
+        {
+          "point": 4,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_LB_EXP_03",
+          "num": 15
+        },
+        {
+          "point": 5,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_GU_FOOD_08",
+          "num": 1
+        },
+        {
+          "point": 6,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_WA_EXP_03",
+          "num": 15
+        },
+        {
+          "point": 7,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_GU_FOOD_09",
+          "num": 1
+        }
+      ]
     }
   ]
 }
