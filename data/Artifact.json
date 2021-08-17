@@ -56745,6 +56745,86 @@
       ]
     },
     {
+      "iname": "AF_ACC_LW_ELSR_01_1",
+      "asset": "LAPSwpn_acc_045",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "trust": 1,
+      "sell": 0,
+      "equip": "AEC_CLOTH_MAG_2",
+      "status": [
+        {
+          "hp": 280,
+          "def": 10,
+          "mag": 35
+        },
+        {
+          "hp": 280,
+          "def": 10,
+          "mag": 35
+        }
+      ],
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_ACC_LW_ELSR_01_1"
+      ],
+      "skl2": [
+        "SK_ACC_LW_ELSR_01_1"
+      ],
+      "skl3": [
+        "SK_ACC_LW_ELSR_01_1"
+      ],
+      "skl4": [
+        "SK_ACC_LW_ELSR_01_1"
+      ],
+      "skl5": [
+        "SK_ACC_LW_ELSR_01_1"
+      ]
+    },
+    {
+      "iname": "AF_ACC_LW_LCIO_1",
+      "asset": "LAPSwpn_acc_047",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "trust": 1,
+      "sell": 0,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 310,
+          "def": 5,
+          "mnd": 4
+        },
+        {
+          "hp": 310,
+          "def": 5,
+          "mnd": 4
+        }
+      ],
+      "rtype": "AF_LOT_TRUST",
+      "skl1": [
+        "SK_ACC_LW_LCIO_1"
+      ],
+      "skl2": [
+        "SK_ACC_LW_LCIO_1"
+      ],
+      "skl3": [
+        "SK_ACC_LW_LCIO_1"
+      ],
+      "skl4": [
+        "SK_ACC_LW_LCIO_1"
+      ],
+      "skl5": [
+        "SK_ACC_LW_LCIO_1"
+      ]
+    },
+    {
       "iname": "AF_SWO_LW_MONT_2",
       "asset": "LAPSwpn_swo_008",
       "type": 0,
@@ -59054,6 +59134,35 @@
           "mag": 21,
           "hit": 17,
           "crt": 17
+        }
+      ],
+      "rtype": "AF_LOT_50"
+    },
+    {
+      "iname": "AF_BOK_LW_ELSR_01_2",
+      "asset": "LAPSwpn_bok_006",
+      "type": 0,
+      "cat": [
+        24
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_BOOK",
+      "status": [
+        {
+          "hp": 15,
+          "atk": 2,
+          "mag": 14,
+          "hit": 2,
+          "crt": 1
+        },
+        {
+          "hp": 293,
+          "atk": 30,
+          "mag": 270,
+          "hit": 27,
+          "crt": 9
         }
       ],
       "rtype": "AF_LOT_50"
