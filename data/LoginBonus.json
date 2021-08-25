@@ -14639,6 +14639,159 @@
           "num": 1
         }
       ]
+    },
+    {
+      "iname": "LB_LIMIT_0090",
+      "type": 6,
+      "banner": "LoginBonus_PeriodBanner_0090",
+      "priority": 2,
+      "begin_at": "2021/08/25 14:30:00",
+      "end_at": "2021/08/31 23:59:59",
+      "at_first_already_login_ok": 1,
+      "bonuses": [
+        {
+          "point": 1,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 2,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_VC_EXP_04",
+          "num": 30
+        },
+        {
+          "point": 3,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_US_EXP_04",
+          "num": 30
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_US_G_PU_VCMRND",
+          "num": 1
+        },
+        {
+          "point": 4,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_GU_FOOD_07",
+          "num": 1
+        },
+        {
+          "point": 5,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 6,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_CG_03",
+          "num": 10
+        },
+        {
+          "point": 7,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_JBEX_MM",
+          "num": 1
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_US_G_PU_VCMRND",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "LB_LIMIT_0091",
+      "type": 6,
+      "banner": "LoginBonus_PeriodBanner_0091",
+      "priority": 2,
+      "begin_at": "2021/08/25 14:30:00",
+      "end_at": "2021/08/31 23:59:59",
+      "at_first_already_login_ok": 1,
+      "bonuses": [
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_EC_JUME_01",
+          "num": 200
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_EC_JUME_01",
+          "num": 200
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_EC_JUME_01",
+          "num": 300
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_EC_JUME_01",
+          "num": 300
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_EC_JUME_01",
+          "num": 300
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_EC_JUME_01",
+          "num": 300
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_EC_JUME_01",
+          "num": 400
+        }
+      ]
     }
   ]
 }
