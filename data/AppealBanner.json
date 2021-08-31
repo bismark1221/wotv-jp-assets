@@ -11538,7 +11538,7 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 14,
+      "priority": 10,
       "start_at": "2021/07/21 15:00:00",
       "end_at": "2021/09/08 14:59:59"
     },
@@ -11552,7 +11552,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 16,
+      "priority": 12,
       "start_at": "2021/07/21 15:00:00",
       "end_at": "2021/09/08 14:59:59"
     },
@@ -11566,7 +11566,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 17,
+      "priority": 13,
       "start_at": "2021/07/21 15:00:00",
       "end_at": "2021/09/08 14:59:59"
     },
@@ -11580,7 +11580,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 19,
+      "priority": 15,
       "start_at": "2021/07/21 15:00:00",
       "end_at": "2021/09/08 14:59:59"
     },
@@ -11748,7 +11748,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 15,
+      "priority": 11,
       "start_at": "2021/08/01",
       "end_at": "2021/09/08 14:59:59"
     },
@@ -11916,7 +11916,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 18,
+      "priority": 14,
       "start_at": "2021/08/10 15:00:00",
       "end_at": "2021/09/08 14:59:59"
     },
@@ -11986,7 +11986,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 11,
+      "priority": 9,
       "start_at": "2021/08/17 10:30:00",
       "end_at": "2021/09/15 9:59:59"
     },
@@ -12210,7 +12210,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 8,
+      "priority": 6,
       "start_at": "2021/08/25 15:00:00",
       "end_at": "2021/09/08 14:59:59"
     },
@@ -12224,7 +12224,7 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 9,
+      "priority": 7,
       "start_at": "2021/08/25 15:00:00",
       "end_at": "2021/09/08 14:59:59"
     },
@@ -12238,8 +12238,64 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 10,
+      "priority": 8,
       "start_at": "2021/08/25 15:00:00",
+      "end_at": "2021/09/08 14:59:59"
+    },
+    {
+      "id": 876,
+      "iname": "GachaBanner_0613",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0613",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2021/09/01",
+      "end_at": "2021/09/08 14:59:59"
+    },
+    {
+      "id": 877,
+      "iname": "GachaBanner_0615",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0615",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 3,
+      "start_at": "2021/09/01",
+      "end_at": "2021/09/08 14:59:59"
+    },
+    {
+      "id": 878,
+      "iname": "GachaBanner_0612",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0612",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 4,
+      "start_at": "2021/09/01",
+      "end_at": "2021/09/08 14:59:59"
+    },
+    {
+      "id": 879,
+      "iname": "LAPS_SHOP_LIMITED_0259",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0259",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 5,
+      "start_at": "2021/09/01",
       "end_at": "2021/09/08 14:59:59"
     }
   ]

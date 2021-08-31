@@ -1976,6 +1976,31 @@
       "end_at": "2020/11/02 4:59:59"
     },
     {
+      "iname": "MG_EV_AST_0101",
+      "type": 2,
+      "category": 2
+    },
+    {
+      "iname": "MG_EV_AEX_0101_1",
+      "type": 2,
+      "category": 2
+    },
+    {
+      "iname": "MG_EV_AEX_0101_2",
+      "type": 2,
+      "category": 2
+    },
+    {
+      "iname": "MG_MU_AEX_0101_1",
+      "type": 2,
+      "category": 2
+    },
+    {
+      "iname": "MG_MU_AEX_0101_2",
+      "type": 2,
+      "category": 2
+    },
+    {
       "iname": "MG_EV14_1_01",
       "type": 2,
       "category": 2,
@@ -2928,11 +2953,6 @@
       "end_at": "2020/03/01 23:59:59"
     },
     {
-      "iname": "MG_EV_AST_0101",
-      "type": 2,
-      "category": 2
-    },
-    {
       "iname": "MG_EV_ART_SCR_01",
       "type": 2,
       "category": 2,
@@ -2978,29 +2998,29 @@
       "iname": "MG_EV_SCR_02",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/01",
-      "end_at": "2021/08/11 14:59:59"
+      "begin_at": "2021/09/15 11:00:00",
+      "end_at": "2021/09/23 14:59:59"
     },
     {
       "iname": "MG_MU_SCR_02",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/01",
-      "end_at": "2021/08/11 14:59:59"
+      "begin_at": "2021/09/15 11:00:00",
+      "end_at": "2021/09/23 14:59:59"
     },
     {
       "iname": "MG_EV_SCR_03",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/17 11:00:00",
-      "end_at": "2021/08/26 14:59:59"
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/09 14:59:59"
     },
     {
       "iname": "MG_MU_SCR_03",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/17 11:00:00",
-      "end_at": "2021/08/26 14:59:59"
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/09 14:59:59"
     },
     {
       "iname": "MG_EV_SCR_04",
@@ -3020,43 +3040,43 @@
       "iname": "MG_EV_SCR_05",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/10 15:00:00",
-      "end_at": "2021/08/18 9:59:59"
+      "begin_at": "2021/09/22 15:00:00",
+      "end_at": "2021/10/01 23:59:59"
     },
     {
       "iname": "MG_MU_SCR_05",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/10 15:00:00",
-      "end_at": "2021/08/18 9:59:59"
+      "begin_at": "2021/09/22 15:00:00",
+      "end_at": "2021/10/01 23:59:59"
     },
     {
       "iname": "MG_EV_SCR_06",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/10 15:00:00",
-      "end_at": "2021/08/18 9:59:59"
+      "begin_at": "2021/09/22 15:00:00",
+      "end_at": "2021/10/01 23:59:59"
     },
     {
       "iname": "MG_MU_SCR_06",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/10 15:00:00",
-      "end_at": "2021/08/18 9:59:59"
+      "begin_at": "2021/09/22 15:00:00",
+      "end_at": "2021/10/01 23:59:59"
     },
     {
       "iname": "MG_EV_SCR_07",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/17 11:00:00",
-      "end_at": "2021/08/26 14:59:59"
+      "begin_at": "2021/09/15 11:00:00",
+      "end_at": "2021/09/23 14:59:59"
     },
     {
       "iname": "MG_MU_SCR_07",
       "type": 2,
       "category": 2,
-      "begin_at": "2021/08/17 11:00:00",
-      "end_at": "2021/08/26 14:59:59"
+      "begin_at": "2021/09/15 11:00:00",
+      "end_at": "2021/09/23 14:59:59"
     },
     {
       "iname": "MG_EV_ART_SCR_NO",
@@ -3071,6 +3091,11 @@
       "category": 2,
       "begin_at": "2119/12/26 18:05:00",
       "end_at": "2120/01/09 14:59:59"
+    },
+    {
+      "iname": "MG_EX_ELE_1",
+      "type": 2,
+      "category": 2
     },
     {
       "iname": "MG_BR_ICE",
@@ -4410,6 +4435,55 @@
       "end_at": "2021/08/31 23:59:59"
     },
     {
+      "iname": "MG_MONTHLY_109_1",
+      "type": 2,
+      "category": 3,
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_109_2",
+      "type": 2,
+      "category": 3,
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_109_3",
+      "type": 2,
+      "category": 4,
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_109_4",
+      "type": 2,
+      "category": 4,
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_109_5",
+      "type": 2,
+      "category": 5,
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_109_6",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "iname": "MG_MONTHLY_109_7",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2021/09/01",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
       "iname": "MG_COMEBACK_001",
       "type": 2,
       "category": 8,
@@ -5483,6 +5557,102 @@
       "begin_at": "2021/08/01 5:00:00",
       "end_at": "2021/09/01 4:59:59",
       "stamp_iname": "STMP_2108"
+    },
+    {
+      "iname": "MG_ST_2109_01",
+      "type": 1,
+      "category": 2,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_02",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_03",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_04",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_05",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_06",
+      "type": 2,
+      "category": 3,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_07",
+      "type": 2,
+      "category": 3,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_08",
+      "type": 2,
+      "category": 4,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_09",
+      "type": 2,
+      "category": 4,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_10",
+      "type": 2,
+      "category": 5,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_11",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
+    },
+    {
+      "iname": "MG_ST_2109_12",
+      "type": 2,
+      "category": 6,
+      "begin_at": "2021/09/01 5:00:00",
+      "end_at": "2021/10/01 4:59:59",
+      "stamp_iname": "STMP_2109"
     }
   ]
 }

@@ -2154,6 +2154,24 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_JUME",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 26
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_JUME_2",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 26
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_AF_MAT_HEART_02",
             "num": 1,
             "secret": 0
@@ -2266,7 +2284,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 4023
+          "weight": 3971
         }
       ]
     },
