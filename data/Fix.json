@@ -1103,12 +1103,12 @@
     {
       "iname": "raid_follow_bonus_item_iname",
       "type": 2,
-      "value": "IT_EC_RAID_19"
+      "value": "IT_EC_RAID_21"
     },
     {
       "iname": "raid_coin_item_iname",
       "type": 2,
-      "value": "IT_EC_RAID_19"
+      "value": "IT_EC_RAID_21"
     },
     {
       "iname": "raid_agent_max",
@@ -1994,6 +1994,31 @@
       "iname": "multi_suspend_disconnect_count",
       "type": 0,
       "value": 5
+    },
+    {
+      "iname": "sub_visioncard_open",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "sub_visioncard_unlock_unit_lv",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "sub_visioncard_unlock_job_lv",
+      "type": 0,
+      "value": 10
+    },
+    {
+      "iname": "sub_visioncard_cost_rate",
+      "type": 0,
+      "value": 55
+    },
+    {
+      "iname": "sub_visioncard_ability_unlock_card_lv",
+      "type": 0,
+      "value": 50
     }
   ]
 }
