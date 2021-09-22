@@ -12490,7 +12490,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 1,
+      "priority": 2,
       "start_at": "2021/09/15 10:30:00",
       "end_at": "2021/10/15 9:59:59"
     },
@@ -12506,7 +12506,7 @@
       },
       "priority": 2,
       "start_at": "2021/09/15 10:30:00",
-      "end_at": "2021/10/15 9:59:59"
+      "end_at": "2021/09/22 13:59:59"
     },
     {
       "id": 895,
@@ -12520,7 +12520,7 @@
       },
       "priority": 3,
       "start_at": "2021/09/15 10:30:00",
-      "end_at": "2021/10/15 9:59:59"
+      "end_at": "2021/09/22 13:59:59"
     },
     {
       "id": 896,
@@ -12534,7 +12534,7 @@
       },
       "priority": 4,
       "start_at": "2021/09/15 10:30:00",
-      "end_at": "2021/10/15 9:59:59"
+      "end_at": "2021/09/22 13:59:59"
     },
     {
       "id": 897,
@@ -12548,7 +12548,7 @@
       },
       "priority": 5,
       "start_at": "2021/09/15 10:30:00",
-      "end_at": "2021/10/15 9:59:59"
+      "end_at": "2021/09/22 13:59:59"
     },
     {
       "id": 898,
@@ -12562,7 +12562,7 @@
       },
       "priority": 6,
       "start_at": "2021/09/15 10:30:00",
-      "end_at": "2021/10/15 9:59:59"
+      "end_at": "2021/09/22 13:59:59"
     },
     {
       "id": 899,
@@ -12576,7 +12576,7 @@
       },
       "priority": 7,
       "start_at": "2021/09/15 10:30:00",
-      "end_at": "2021/10/15 9:59:59"
+      "end_at": "2021/09/22 13:59:59"
     },
     {
       "id": 900,
@@ -12588,7 +12588,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 8,
+      "priority": 11,
       "start_at": "2021/09/15 10:30:00",
       "end_at": "2021/09/30 23:59:59"
     },
@@ -12602,7 +12602,7 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 9,
+      "priority": 12,
       "start_at": "2021/09/15 10:30:00",
       "end_at": "2021/10/15 9:59:59"
     },
@@ -12630,7 +12630,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 11,
+      "priority": 13,
       "start_at": "2021/09/15 10:30:00",
       "end_at": "2021/10/15 9:59:59"
     },
@@ -12644,7 +12644,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 12,
+      "priority": 14,
       "start_at": "2021/09/15 10:30:00",
       "end_at": "2021/10/15 9:59:59"
     },
@@ -12658,7 +12658,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 13,
+      "priority": 15,
       "start_at": "2021/09/15 10:30:00",
       "end_at": "2021/10/15 9:59:59"
     },
@@ -12672,7 +12672,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 14,
+      "priority": 16,
       "start_at": "2021/09/15 10:30:00",
       "end_at": "2021/10/15 9:59:59"
     },
@@ -12686,9 +12686,135 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 15,
+      "priority": 17,
       "start_at": "2021/09/15 10:30:00",
       "end_at": "2021/10/15 9:59:59"
+    },
+    {
+      "id": 908,
+      "iname": "ev_ast_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_ast_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 1,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/12/30 23:59:59"
+    },
+    {
+      "id": 909,
+      "iname": "GachaBanner_0631",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0631",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 3,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "id": 910,
+      "iname": "GachaBanner_0633",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0633",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 4,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "id": 911,
+      "iname": "GachaBanner_0637",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0637",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 5,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "id": 912,
+      "iname": "GachaBanner_0638",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0638",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 6,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "id": 913,
+      "iname": "ev_pt_ff4_02",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_pt_ff4_02",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 7,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/09/30 23:59:59"
+    },
+    {
+      "id": 914,
+      "iname": "ev_arti_crft_10",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_arti_crft_10",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 8,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/10/08 14:59:59"
+    },
+    {
+      "id": 915,
+      "iname": "GachaBanner_0630",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0630",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 9,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/10/08 14:59:59"
+    },
+    {
+      "id": 916,
+      "iname": "LAPS_SHOP_LIMITED_0268",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0268",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 10,
+      "start_at": "2021/09/22 15:00:00",
+      "end_at": "2021/09/30 23:59:59"
     }
   ]
 }

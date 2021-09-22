@@ -5053,6 +5053,98 @@
       ]
     },
     {
+      "area_iname": "AD_AREA_FF4_03",
+      "campaign_string": "default",
+      "drop": [
+        {
+          "drop_id": 23002,
+          "is_rare": 1,
+          "rate": 1200,
+          "fever_rate": 1200,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 23004,
+          "is_rare": 1,
+          "rate": 200,
+          "fever_rate": 200,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 23003,
+          "is_rare": 1,
+          "rate": 800,
+          "fever_rate": 800,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 23103,
+          "rate": 72100,
+          "fever_rate": 59250,
+          "fix_rate": -1285
+        },
+        {
+          "drop_id": 23202,
+          "rate": 16640,
+          "fever_rate": 24960,
+          "fix_rate": 832
+        },
+        {
+          "drop_id": 23302,
+          "is_rare": 1,
+          "rate": 9060,
+          "fever_rate": 13590,
+          "fix_rate": 453
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_FF4_03",
+      "campaign_string": "campaign_1",
+      "drop": [
+        {
+          "drop_id": 23002,
+          "is_rare": 1,
+          "rate": 1200,
+          "fever_rate": 1200,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 23004,
+          "is_rare": 1,
+          "rate": 200,
+          "fever_rate": 200,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 23003,
+          "is_rare": 1,
+          "rate": 800,
+          "fever_rate": 800,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 23103,
+          "rate": 59250,
+          "fever_rate": 46400,
+          "fix_rate": -1285
+        },
+        {
+          "drop_id": 23202,
+          "rate": 24960,
+          "fever_rate": 33280,
+          "fix_rate": 832
+        },
+        {
+          "drop_id": 23302,
+          "is_rare": 1,
+          "rate": 13590,
+          "fever_rate": 18120,
+          "fix_rate": 453
+        }
+      ]
+    },
+    {
       "area_iname": "AD_AREA_FF10_01",
       "campaign_string": "default",
       "drop": [
