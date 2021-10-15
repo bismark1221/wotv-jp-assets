@@ -537,8 +537,26 @@
     {
       "iname": "PERIOD_090",
       "begin_at": "2021/09/22 15:00:00",
-      "end_at": "2028/10/01 5:00:00",
+      "end_at": "2021/09/30 23:59:59",
       "bonus_set_id": "BONUS_090"
+    },
+    {
+      "iname": "PERIOD_091",
+      "begin_at": "2021/10/01",
+      "end_at": "2021/10/08 14:59:59",
+      "bonus_set_id": "BONUS_091"
+    },
+    {
+      "iname": "PERIOD_092",
+      "begin_at": "2021/10/08 15:00:00",
+      "end_at": "2021/10/15 10:29:59",
+      "bonus_set_id": "BONUS_092"
+    },
+    {
+      "iname": "PERIOD_093",
+      "begin_at": "2021/10/15 10:30:00",
+      "end_at": "2028/10/01 5:00:00",
+      "bonus_set_id": "BONUS_093"
     }
   ]
 }

@@ -363,7 +363,7 @@
     {
       "iname": "buf_apgain_max",
       "type": 0,
-      "value": 100
+      "value": 999
     },
     {
       "iname": "buf_spgain_max",
@@ -2019,6 +2019,21 @@
       "iname": "sub_visioncard_ability_unlock_card_lv",
       "type": 0,
       "value": 50
+    },
+    {
+      "iname": "multi_scoreattack_standing_time",
+      "type": 0,
+      "value": 20
+    },
+    {
+      "iname": "multi_scoreattack_warning_time",
+      "type": 0,
+      "value": 10
+    },
+    {
+      "iname": "multi_scoreattack_teamname_max_num",
+      "type": 0,
+      "value": 12
     }
   ]
 }

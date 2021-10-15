@@ -537,6 +537,13 @@
           "cost": 50000,
           "mat1": "IT_SB_AW_THUNDER,20",
           "mat2": "IT_SB_AW_AGON_R2,10"
+        },
+        {
+          "lvcap": 99,
+          "cost": 100000,
+          "mat1": "IT_SB_AW_THUNDER,20",
+          "mat2": "IT_SB_AW_AGON_R3,10",
+          "mat3": "IT_SB_AW_UR,10"
         }
       ]
     },
@@ -967,6 +974,27 @@
           "mat1": "IT_SB_AW_SOIL,15",
           "mat2": "IT_SB_AW_LICH_R3,5",
           "mat3": "IT_SB_AW_SSR,10"
+        }
+      ]
+    },
+    {
+      "iname": "UN_LW_S_BCRD",
+      "awakes": [
+        {
+          "lvcap": 50
+        },
+        {
+          "lvcap": 80,
+          "cost": 50000,
+          "mat1": "IT_SB_AW_FIRE,20",
+          "mat2": "IT_SB_AW_BCRD_R2,10"
+        },
+        {
+          "lvcap": 99,
+          "cost": 100000,
+          "mat1": "IT_SB_AW_FIRE,20",
+          "mat2": "IT_SB_AW_BCRD_R3,10",
+          "mat3": "IT_SB_AW_UR,10"
         }
       ]
     }

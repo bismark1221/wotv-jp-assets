@@ -1862,12 +1862,21 @@
         },
         {
           "drop_data": {
-            "type": -1,
-            "iname": "",
-            "num": 0,
+            "type": 0,
+            "iname": "IT_JB_MM_RAB_3",
+            "num": 1,
             "secret": 0
           },
-          "weight": 0
+          "weight": 28
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_RAB_4",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 28
         },
         {
           "drop_data": {
@@ -1895,15 +1904,6 @@
             "secret": 0
           },
           "weight": 140
-        },
-        {
-          "drop_data": {
-            "type": -1,
-            "iname": "",
-            "num": 0,
-            "secret": 0
-          },
-          "weight": 0
         },
         {
           "drop_data": {
@@ -1940,15 +1940,6 @@
             "secret": 0
           },
           "weight": 600
-        },
-        {
-          "drop_data": {
-            "type": -1,
-            "iname": "",
-            "num": 0,
-            "secret": 0
-          },
-          "weight": 0
         },
         {
           "drop_data": {
@@ -1993,7 +1984,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 4192
+          "weight": 4136
         }
       ]
     }

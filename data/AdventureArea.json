@@ -238,6 +238,11 @@
         {
           "drop_area_id": "AD_AREA_FIRE_05",
           "drop_start_at": "2021/08/17 10:30:00",
+          "drop_end_at": "2021/09/30 23:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_FIRE_06",
+          "drop_start_at": "2021/10/01",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -280,6 +285,16 @@
         {
           "drop_area_id": "AD_AREA_SOIL_03",
           "drop_start_at": "2021/07/01",
+          "drop_end_at": "2021/10/15 10:29:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_SOIL_L003",
+          "drop_start_at": "2021/10/15 10:30:00",
+          "drop_end_at": "2021/10/31 23:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_SOIL_03",
+          "drop_start_at": "2021/11/01",
           "drop_end_at": "2120/10/01"
         }
       ]
