@@ -85,6 +85,41 @@
       "start_at": "2021/10/08 15:00:00",
       "end_at": "2021/10/22 14:59:59",
       "transition_destination": 13
+    },
+    {
+      "id": 14,
+      "priority": 1,
+      "start_at": "2021/10/22 15:00:00",
+      "end_at": "2021/10/31 23:59:59",
+      "transition_destination": 15
+    },
+    {
+      "id": 15,
+      "priority": 1,
+      "start_at": "2021/11/08 15:00:00",
+      "end_at": "2021/11/13 17:59:59"
+    },
+    {
+      "id": 16,
+      "priority": 1,
+      "start_at": "2021/11/13 18:30:00",
+      "end_at": "2021/11/22 14:59:59"
+    },
+    {
+      "id": 17,
+      "priority": 1,
+      "start_at": "2021/12/08 15:00:00",
+      "end_at": "2021/12/15 9:59:59",
+      "transition_destination": 16,
+      "sval": "PTQ_FF6_01"
+    },
+    {
+      "id": 18,
+      "priority": 1,
+      "start_at": "2021/12/15 10:30:00",
+      "end_at": "2021/12/22 14:59:59",
+      "transition_destination": 17,
+      "sval": "SEG_AST_01"
     }
   ]
 }

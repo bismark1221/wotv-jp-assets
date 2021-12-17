@@ -103,21 +103,41 @@
       "image": "ev_summon_009"
     },
     {
-      "iname": "SE_MU_AEX_010201",
+      "iname": "SE_MU_EV_MT_01",
       "event_type": 3,
-      "image": "ev_ast_ex_0102"
+      "image": "ev_mt_01_01"
     },
     {
-      "iname": "SE_MU_AEX_010101",
+      "iname": "SE_MU_EV_MT_04",
       "event_type": 3,
-      "image": "ev_ast_ex_0101"
+      "image": "ev_mt_01_04"
+    },
+    {
+      "iname": "SE_MU_EV_MT_02",
+      "event_type": 3,
+      "image": "ev_mt_01_02"
+    },
+    {
+      "iname": "SE_MU_EV_MT_05",
+      "event_type": 3,
+      "image": "ev_mt_01_05"
+    },
+    {
+      "iname": "SE_MU_EV_MT_03",
+      "event_type": 3,
+      "image": "ev_mt_01_03"
+    },
+    {
+      "iname": "SE_MU_EV_MT_06",
+      "event_type": 3,
+      "image": "ev_mt_01_06"
     },
     {
       "iname": "SE_MU_EV_01_EX",
       "event_type": 1,
       "image": "ev_01_ex_01",
-      "start": "2021/08/01",
-      "end": "2021/08/17 9:59:59"
+      "start": "2021/11/13 18:30:00",
+      "end": "2021/12/08 14:59:59"
     },
     {
       "iname": "SE_MU_EV_02_EX",
@@ -130,8 +150,8 @@
       "iname": "SE_MU_EV_03_EX",
       "event_type": 1,
       "image": "ev_03_ex_02",
-      "start": "2021/08/25 15:00:00",
-      "end": "2021/09/08 14:59:59"
+      "start": "2021/11/08 15:00:00",
+      "end": "2021/11/30 23:59:59"
     },
     {
       "iname": "SE_MU_EV_04_EX",
@@ -165,8 +185,8 @@
       "iname": "SE_MU_EV_08_EX",
       "event_type": 1,
       "image": "ev_08_ex_01",
-      "start": "2021/04/21 12:00:00",
-      "end": "2021/05/07 14:59:59"
+      "start": "2021/11/08 15:00:00",
+      "end": "2021/11/30 23:59:59"
     },
     {
       "iname": "SE_MU_EV_09_EX",
@@ -179,8 +199,8 @@
       "iname": "SE_MU_EV_10_EX",
       "event_type": 1,
       "image": "ev_10_ex_01",
-      "start": "2021/08/17 10:30:00",
-      "end": "2021/08/31 23:59:59"
+      "start": "2021/11/13 18:30:00",
+      "end": "2021/12/08 14:59:59"
     },
     {
       "iname": "SE_MU_EV_11_EX",
@@ -211,39 +231,66 @@
       "end": "2021/07/21 14:59:59"
     },
     {
+      "iname": "SE_MU_EV_16_EX",
+      "event_type": 1,
+      "image": "ev_16_ex_01",
+      "start": "2021/11/01",
+      "end": "2021/11/22 14:59:59"
+    },
+    {
+      "iname": "SE_MU_AEX_010401",
+      "event_type": 3,
+      "image": "ev_ast_ex_0104"
+    },
+    {
+      "iname": "SE_MU_AEX_010301",
+      "event_type": 3,
+      "image": "ev_ast_ex_0103"
+    },
+    {
+      "iname": "SE_MU_AEX_010201",
+      "event_type": 3,
+      "image": "ev_ast_ex_0102"
+    },
+    {
+      "iname": "SE_MU_AEX_010101",
+      "event_type": 3,
+      "image": "ev_ast_ex_0101"
+    },
+    {
       "iname": "SE_MU_EV_SCR_01",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2021/10/01",
-      "end": "2021/10/08 14:59:59"
+      "start": "2021/12/01",
+      "end": "2021/12/08 14:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_02",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2021/10/08 15:00:00",
-      "end": "2021/10/15 9:59:59"
+      "start": "2021/12/08 15:00:00",
+      "end": "2021/12/15 9:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_03",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2021/10/15 11:00:00",
-      "end": "2021/10/22 14:59:59"
+      "start": "2021/12/15 11:00:00",
+      "end": "2021/12/22 14:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_04",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2021/09/22 15:00:00",
-      "end": "2021/09/30 23:59:59"
+      "start": "2021/11/22 15:00:00",
+      "end": "2021/11/30 23:59:59"
     },
     {
       "iname": "SE_MU_EV_ETRE_EX",
       "event_type": 1,
       "image": "ev_etre_ex_01",
-      "start": "2021/08/01",
-      "end": "2021/08/17 9:59:59"
+      "start": "2021/11/13 18:30:00",
+      "end": "2021/12/08 14:59:59"
     },
     {
       "iname": "SE_MU_EV_THLA_EX",
@@ -263,8 +310,8 @@
       "iname": "SE_MU_EV_CRIS_EX",
       "event_type": 1,
       "image": "ev_cris_ex_02",
-      "start": "2021/06/23 15:00:00",
-      "end": "2021/07/07 14:59:59"
+      "start": "2021/11/08 15:00:00",
+      "end": "2021/11/30 23:59:59"
     },
     {
       "iname": "SE_MU_EV_CWEL_EX",
@@ -379,6 +426,20 @@
       "end": "2021/10/31 23:59:59"
     },
     {
+      "iname": "SE_MU_ART_CRF_13",
+      "event_type": 1,
+      "image": "ev_arti_crft_13",
+      "start": "2021/12/15 10:30:00",
+      "end": "2021/12/31 23:59:59"
+    },
+    {
+      "iname": "SE_MU_RC_DEM_01",
+      "event_type": 1,
+      "image": "ev_rc_dem_01",
+      "start": "2021/10/22 15:00:00",
+      "end": "2021/11/08 14:59:59"
+    },
+    {
       "iname": "SE_MU_SB_02",
       "event_type": 1,
       "image": "ev_summon_010",
@@ -477,6 +538,20 @@
       "end": "2021/08/10 14:59:59"
     },
     {
+      "iname": "SE_MU_RAID_RV_05",
+      "event_type": 1,
+      "image": "ev_raid_revi_ff14_01",
+      "start": "2021/12/01",
+      "end": "2021/12/22 14:59:59"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_06",
+      "event_type": 1,
+      "image": "ev_raid_revi_ff14_02",
+      "start": "2021/12/01",
+      "end": "2021/12/22 14:59:59"
+    },
+    {
       "iname": "SE_MU_FF1_01_EX",
       "event_type": 1,
       "image": "ev_ff1_02_ex",
@@ -486,9 +561,9 @@
     {
       "iname": "SE_MU_FF14_EX_02",
       "event_type": 1,
-      "image": "ev_ff14_ex_01_R",
-      "start": "2020/07/01",
-      "end": "2020/07/15 9:59:59"
+      "image": "ev_ff14_ex_01_R2",
+      "start": "2021/11/22 15:00:00",
+      "end": "2021/12/22 14:59:59"
     },
     {
       "iname": "SE_MU_FF4_02_EX",
@@ -552,6 +627,20 @@
       "image": "ev_FF15_ex_02",
       "start": "2021/08/01",
       "end": "2021/09/08 14:59:59"
+    },
+    {
+      "iname": "SE_MU_FF6_01_EX",
+      "event_type": 1,
+      "image": "ev_FF6_ex_01",
+      "start": "2021/11/13 18:30:00",
+      "end": "2021/12/22 14:59:59"
+    },
+    {
+      "iname": "SE_MU_FF6_02_EX",
+      "event_type": 1,
+      "image": "ev_FF6_ex_02",
+      "start": "2021/11/22 15:00:00",
+      "end": "2021/12/22 14:59:59"
     }
   ]
 }

@@ -41,8 +41,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       }
     },
@@ -81,8 +81,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       }
     },
@@ -121,8 +121,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       }
     },
@@ -161,8 +161,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       }
     },
@@ -201,8 +201,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       }
     },
@@ -241,8 +241,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       }
     },
@@ -281,8 +281,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       }
     },
@@ -321,8 +321,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       }
     }
@@ -363,8 +363,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       },
       "enemy_id": 20,
@@ -466,8 +466,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       },
       "enemy_id": 21,
@@ -569,8 +569,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       },
       "enemy_id": 27,
@@ -682,8 +682,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       },
       "enemy_id": 29,
@@ -775,8 +775,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       },
       "enemy_id": 30,
@@ -888,8 +888,8 @@
         "body": "",
         "id": "",
         "gauge": {
-          "x": 0.0,
-          "y": 0.0
+          "x": 0,
+          "y": 0
         }
       },
       "enemy_id": 31,
@@ -1013,42 +1013,6 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_MACE_04",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 1700
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_SSWORD_04",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 1700
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_MAT_SAND_02",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 800
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_MAT_LIQUID_02",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 800
-        },
-        {
-          "drop_data": {
-            "type": 0,
             "iname": "IT_JB_MM_GUN_4",
             "num": 1,
             "secret": 0
@@ -1094,6 +1058,60 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_LNAN_4",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 85
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_SAND_02",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 800
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_LIQUID_02",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 800
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_LW_CLT_003",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 230
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MACE_04",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 1700
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_SSWORD_04",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 1700
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_EM_THUNDER_4",
             "num": 1,
             "secret": 0
@@ -1111,21 +1129,12 @@
         },
         {
           "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_LW_CLT_003",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 230
-        },
-        {
-          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
             "secret": 0
           },
-          "weight": 1445
+          "weight": 1360
         }
       ]
     },

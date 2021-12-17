@@ -33099,6 +33099,140 @@
       ]
     },
     {
+      "iname": "JB_FF14_YSTL_M",
+      "mdl": "FF14ystl",
+      "cc_icon": "FF14ystl_EC",
+      "collaboType": 1,
+      "equips": [
+        5,
+        19,
+        21,
+        22
+      ],
+      "type": 2,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_FF14_YSTL_EXM",
+      "lvtbl_sub": "JBLV_FF14_YSTL_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 4723,
+          "ap": 4723,
+          "atk": 1522,
+          "mag": 3451,
+          "dex": 1522,
+          "spd": 4200,
+          "luk": 2346,
+          "iniap": -25
+        },
+        {
+          "hp": 6675,
+          "mp": 4735,
+          "ap": 4735,
+          "atk": 1533,
+          "mag": 3476,
+          "dex": 1533,
+          "spd": 4200,
+          "luk": 2369,
+          "iniap": -25
+        },
+        {
+          "hp": 6900,
+          "mp": 4747,
+          "ap": 4747,
+          "atk": 1545,
+          "mag": 3502,
+          "dex": 1545,
+          "spd": 4200,
+          "luk": 2392,
+          "iniap": -25
+        },
+        {
+          "hp": 7800,
+          "mp": 4794,
+          "ap": 4794,
+          "atk": 1590,
+          "mag": 3604,
+          "dex": 1590,
+          "spd": 4200,
+          "luk": 2484,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_FF14_YSTL_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 4805,
+          "ap": 4805,
+          "atk": 1601,
+          "mag": 3629,
+          "dex": 1601,
+          "spd": 4200,
+          "luk": 2507,
+          "iniap": -25
+        },
+        {
+          "hp": 8250,
+          "mp": 4817,
+          "ap": 4817,
+          "atk": 1612,
+          "mag": 3655,
+          "dex": 1612,
+          "spd": 4200,
+          "luk": 2530,
+          "iniap": -25
+        },
+        {
+          "hp": 9150,
+          "mp": 4864,
+          "ap": 4864,
+          "atk": 1657,
+          "mag": 3757,
+          "dex": 1657,
+          "spd": 4200,
+          "luk": 2622,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_FF14_YSTL_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 4876,
+          "ap": 4876,
+          "atk": 1668,
+          "mag": 3782,
+          "dex": 1668,
+          "spd": 4200,
+          "luk": 2645,
+          "iniap": -25
+        },
+        {
+          "hp": 9600,
+          "mp": 4888,
+          "ap": 4888,
+          "atk": 1680,
+          "mag": 3808,
+          "dex": 1680,
+          "spd": 4200,
+          "luk": 2668,
+          "iniap": -25
+        },
+        {
+          "hp": 10500,
+          "mp": 4935,
+          "ap": 4935,
+          "atk": 1725,
+          "mag": 3910,
+          "dex": 1725,
+          "spd": 4200,
+          "luk": 2760,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_FF14_YSTL_5,10"
+        }
+      ]
+    },
+    {
       "iname": "JB_FF14_TNCR",
       "mdl": "FF14tncr",
       "collaboType": 1,
@@ -33290,6 +33424,140 @@
           "iniap": -82,
           "eqid1": "IT_JB_MM_FF14_TNCR_5,5",
           "s_eqid1": "IT_JB_MM_FF14_TNCR_5,5"
+        }
+      ]
+    },
+    {
+      "iname": "JB_FF14_TNCR_M",
+      "mdl": "FF14tncr",
+      "cc_icon": "FF14tncr_EC",
+      "collaboType": 1,
+      "equips": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_FF14_TNCR_EXM",
+      "lvtbl_sub": "JBLV_FF14_TNCR_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 1507,
+          "ap": 1507,
+          "atk": 3045,
+          "mag": 812,
+          "dex": 3451,
+          "spd": 2300,
+          "luk": 3468,
+          "iniap": -82
+        },
+        {
+          "hp": 6675,
+          "mp": 1511,
+          "ap": 1511,
+          "atk": 3067,
+          "mag": 818,
+          "dex": 3476,
+          "spd": 2300,
+          "luk": 3502,
+          "iniap": -82
+        },
+        {
+          "hp": 6900,
+          "mp": 1515,
+          "ap": 1515,
+          "atk": 3090,
+          "mag": 824,
+          "dex": 3502,
+          "spd": 2300,
+          "luk": 3536,
+          "iniap": -82
+        },
+        {
+          "hp": 7800,
+          "mp": 1530,
+          "ap": 1530,
+          "atk": 3180,
+          "mag": 848,
+          "dex": 3604,
+          "spd": 2300,
+          "luk": 3672,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF14_TNCR_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 1533,
+          "ap": 1533,
+          "atk": 3202,
+          "mag": 854,
+          "dex": 3629,
+          "spd": 2300,
+          "luk": 3706,
+          "iniap": -82
+        },
+        {
+          "hp": 8250,
+          "mp": 1537,
+          "ap": 1537,
+          "atk": 3225,
+          "mag": 860,
+          "dex": 3655,
+          "spd": 2300,
+          "luk": 3740,
+          "iniap": -82
+        },
+        {
+          "hp": 9150,
+          "mp": 1552,
+          "ap": 1552,
+          "atk": 3315,
+          "mag": 884,
+          "dex": 3757,
+          "spd": 2300,
+          "luk": 3876,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF14_TNCR_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 1556,
+          "ap": 1556,
+          "atk": 3337,
+          "mag": 890,
+          "dex": 3782,
+          "spd": 2300,
+          "luk": 3910,
+          "iniap": -82
+        },
+        {
+          "hp": 9600,
+          "mp": 1560,
+          "ap": 1560,
+          "atk": 3360,
+          "mag": 896,
+          "dex": 3808,
+          "spd": 2300,
+          "luk": 3944,
+          "iniap": -82
+        },
+        {
+          "hp": 10500,
+          "mp": 1575,
+          "ap": 1575,
+          "atk": 3450,
+          "mag": 920,
+          "dex": 3910,
+          "spd": 2300,
+          "luk": 4080,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF14_TNCR_5,10"
         }
       ]
     },
@@ -59577,6 +59845,37 @@
       ]
     },
     {
+      "iname": "JB_LW_SCR_THUN",
+      "mdl": "SCR",
+      "origin": "JB_LW_SCR_FIRE",
+      "equips": [
+        5,
+        19,
+        21,
+        22
+      ],
+      "type": 4,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_SCR_M_THUN",
+      "lvtbl_sub": "JBLV_LW_SCR_S_THUN",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -25
+        }
+      ]
+    },
+    {
       "iname": "JB_LW_SCR_EX_M",
       "mdl": "SCR",
       "cc_icon": "SCR_EC",
@@ -61788,6 +62087,2066 @@
           "spd": 0,
           "luk": 0,
           "iniap": -82
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_LNAN",
+      "mdl": "LAPSlnan",
+      "equips": [
+        5,
+        19,
+        21,
+        22
+      ],
+      "type": 2,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_LNAN_M",
+      "lvtbl_sub": "JBLV_LW_LNAN_M",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -25
+        },
+        {
+          "hp": 200,
+          "mp": 1075,
+          "ap": 1075,
+          "atk": 205,
+          "mag": 1203,
+          "dex": 589,
+          "spd": 589,
+          "luk": 768,
+          "iniap": -25
+        },
+        {
+          "hp": 800,
+          "mp": 1704,
+          "ap": 1704,
+          "atk": 325,
+          "mag": 1907,
+          "dex": 933,
+          "spd": 933,
+          "luk": 1217,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_LNAN,1",
+          "s_eqid1": "IT_JB_MM_LNAN,1"
+        },
+        {
+          "hp": 1040,
+          "mp": 2150,
+          "ap": 2150,
+          "atk": 410,
+          "mag": 2406,
+          "dex": 1177,
+          "spd": 1177,
+          "luk": 1536,
+          "iniap": -25
+        },
+        {
+          "hp": 1280,
+          "mp": 2496,
+          "ap": 2496,
+          "atk": 475,
+          "mag": 2793,
+          "dex": 1367,
+          "spd": 1367,
+          "luk": 1783,
+          "iniap": -25
+        },
+        {
+          "hp": 2000,
+          "mp": 2779,
+          "ap": 2779,
+          "atk": 529,
+          "mag": 3110,
+          "dex": 1522,
+          "spd": 1522,
+          "luk": 1985,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_LNAN_2,2",
+          "s_eqid1": "IT_JB_MM_LNAN_2,2"
+        },
+        {
+          "hp": 2240,
+          "mp": 3018,
+          "ap": 3018,
+          "atk": 575,
+          "mag": 3377,
+          "dex": 1653,
+          "spd": 1653,
+          "luk": 2156,
+          "iniap": -25
+        },
+        {
+          "hp": 2480,
+          "mp": 3225,
+          "ap": 3225,
+          "atk": 614,
+          "mag": 3609,
+          "dex": 1766,
+          "spd": 1766,
+          "luk": 2304,
+          "iniap": -25
+        },
+        {
+          "hp": 3200,
+          "mp": 3408,
+          "ap": 3408,
+          "atk": 649,
+          "mag": 3813,
+          "dex": 1866,
+          "spd": 1866,
+          "luk": 2434,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_LNAN_3,3",
+          "s_eqid1": "IT_JB_MM_LNAN_3,3"
+        },
+        {
+          "hp": 3440,
+          "mp": 3571,
+          "ap": 3571,
+          "atk": 680,
+          "mag": 3996,
+          "dex": 1956,
+          "spd": 1956,
+          "luk": 2551,
+          "iniap": -25
+        },
+        {
+          "hp": 3680,
+          "mp": 3719,
+          "ap": 3719,
+          "atk": 708,
+          "mag": 4162,
+          "dex": 2037,
+          "spd": 2037,
+          "luk": 2656,
+          "iniap": -25
+        },
+        {
+          "hp": 4400,
+          "mp": 3854,
+          "ap": 3854,
+          "atk": 734,
+          "mag": 4313,
+          "dex": 2110,
+          "spd": 2110,
+          "luk": 2753,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_LNAN_4,4",
+          "s_eqid1": "IT_JB_MM_LNAN_4,4"
+        },
+        {
+          "hp": 4666,
+          "mp": 3978,
+          "ap": 3978,
+          "atk": 758,
+          "mag": 4452,
+          "dex": 2178,
+          "spd": 2178,
+          "luk": 2841,
+          "iniap": -25
+        },
+        {
+          "hp": 4932,
+          "mp": 4093,
+          "ap": 4093,
+          "atk": 780,
+          "mag": 4580,
+          "dex": 2241,
+          "spd": 2241,
+          "luk": 2924,
+          "iniap": -25
+        },
+        {
+          "hp": 6000,
+          "mp": 4200,
+          "ap": 4200,
+          "atk": 800,
+          "mag": 4700,
+          "dex": 2300,
+          "spd": 2300,
+          "luk": 3000,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_LNAN_5,5",
+          "s_eqid1": "IT_JB_MM_LNAN_5,5"
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_LNAN_M",
+      "mdl": "LAPSlnan",
+      "cc_icon": "LAPSlnan_EC",
+      "equips": [
+        5,
+        19,
+        21,
+        22
+      ],
+      "type": 2,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_LNAN_EXM",
+      "lvtbl_sub": "JBLV_LW_LNAN_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 4221,
+          "ap": 4221,
+          "atk": 812,
+          "mag": 4770,
+          "dex": 2334,
+          "spd": 2300,
+          "luk": 3060,
+          "iniap": -25
+        },
+        {
+          "hp": 6675,
+          "mp": 4231,
+          "ap": 4231,
+          "atk": 818,
+          "mag": 4805,
+          "dex": 2351,
+          "spd": 2300,
+          "luk": 3090,
+          "iniap": -25
+        },
+        {
+          "hp": 6900,
+          "mp": 4242,
+          "ap": 4242,
+          "atk": 824,
+          "mag": 4841,
+          "dex": 2369,
+          "spd": 2300,
+          "luk": 3120,
+          "iniap": -25
+        },
+        {
+          "hp": 7800,
+          "mp": 4284,
+          "ap": 4284,
+          "atk": 848,
+          "mag": 4982,
+          "dex": 2438,
+          "spd": 2300,
+          "luk": 3240,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_LNAN_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 4294,
+          "ap": 4294,
+          "atk": 854,
+          "mag": 5017,
+          "dex": 2455,
+          "spd": 2300,
+          "luk": 3270,
+          "iniap": -25
+        },
+        {
+          "hp": 8250,
+          "mp": 4305,
+          "ap": 4305,
+          "atk": 860,
+          "mag": 5052,
+          "dex": 2472,
+          "spd": 2300,
+          "luk": 3300,
+          "iniap": -25
+        },
+        {
+          "hp": 9150,
+          "mp": 4347,
+          "ap": 4347,
+          "atk": 884,
+          "mag": 5193,
+          "dex": 2541,
+          "spd": 2300,
+          "luk": 3420,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_LNAN_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 4357,
+          "ap": 4357,
+          "atk": 890,
+          "mag": 5228,
+          "dex": 2558,
+          "spd": 2300,
+          "luk": 3450,
+          "iniap": -25
+        },
+        {
+          "hp": 9600,
+          "mp": 4368,
+          "ap": 4368,
+          "atk": 896,
+          "mag": 5264,
+          "dex": 2576,
+          "spd": 2300,
+          "luk": 3480,
+          "iniap": -25
+        },
+        {
+          "hp": 10500,
+          "mp": 4410,
+          "ap": 4410,
+          "atk": 920,
+          "mag": 5405,
+          "dex": 2645,
+          "spd": 2300,
+          "luk": 3600,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_LNAN_5,10"
+        }
+      ]
+    },
+    {
+      "iname": "JB_FF6_TERA",
+      "mdl": "FF06tera",
+      "collaboType": 1,
+      "equips": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "type": 2,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_FF6_TERA_M",
+      "lvtbl_sub": "JBLV_FF6_TERA_M",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -50
+        },
+        {
+          "hp": 200,
+          "mp": 768,
+          "ap": 768,
+          "atk": 205,
+          "mag": 1203,
+          "dex": 589,
+          "spd": 768,
+          "luk": 589,
+          "iniap": -50
+        },
+        {
+          "hp": 800,
+          "mp": 1217,
+          "ap": 1217,
+          "atk": 325,
+          "mag": 1907,
+          "dex": 933,
+          "spd": 1217,
+          "luk": 933,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_TERA,1",
+          "s_eqid1": "IT_JB_MM_FF6_TERA,1"
+        },
+        {
+          "hp": 1040,
+          "mp": 1536,
+          "ap": 1536,
+          "atk": 410,
+          "mag": 2406,
+          "dex": 1177,
+          "spd": 1536,
+          "luk": 1177,
+          "iniap": -50
+        },
+        {
+          "hp": 1280,
+          "mp": 1783,
+          "ap": 1783,
+          "atk": 475,
+          "mag": 2793,
+          "dex": 1367,
+          "spd": 1783,
+          "luk": 1367,
+          "iniap": -50
+        },
+        {
+          "hp": 2000,
+          "mp": 1985,
+          "ap": 1985,
+          "atk": 529,
+          "mag": 3110,
+          "dex": 1522,
+          "spd": 1985,
+          "luk": 1522,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_TERA_2,2",
+          "s_eqid1": "IT_JB_MM_FF6_TERA_2,2"
+        },
+        {
+          "hp": 2240,
+          "mp": 2156,
+          "ap": 2156,
+          "atk": 575,
+          "mag": 3377,
+          "dex": 1653,
+          "spd": 2156,
+          "luk": 1653,
+          "iniap": -50
+        },
+        {
+          "hp": 2480,
+          "mp": 2304,
+          "ap": 2304,
+          "atk": 614,
+          "mag": 3609,
+          "dex": 1766,
+          "spd": 2304,
+          "luk": 1766,
+          "iniap": -50
+        },
+        {
+          "hp": 3200,
+          "mp": 2434,
+          "ap": 2434,
+          "atk": 649,
+          "mag": 3813,
+          "dex": 1866,
+          "spd": 2434,
+          "luk": 1866,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_TERA_3,3",
+          "s_eqid1": "IT_JB_MM_FF6_TERA_3,3"
+        },
+        {
+          "hp": 3440,
+          "mp": 2551,
+          "ap": 2551,
+          "atk": 680,
+          "mag": 3996,
+          "dex": 1956,
+          "spd": 2551,
+          "luk": 1956,
+          "iniap": -50
+        },
+        {
+          "hp": 3680,
+          "mp": 2656,
+          "ap": 2656,
+          "atk": 708,
+          "mag": 4162,
+          "dex": 2037,
+          "spd": 2656,
+          "luk": 2037,
+          "iniap": -50
+        },
+        {
+          "hp": 4400,
+          "mp": 2753,
+          "ap": 2753,
+          "atk": 734,
+          "mag": 4313,
+          "dex": 2110,
+          "spd": 2753,
+          "luk": 2110,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_TERA_4,4",
+          "s_eqid1": "IT_JB_MM_FF6_TERA_4,4"
+        },
+        {
+          "hp": 4666,
+          "mp": 2841,
+          "ap": 2841,
+          "atk": 758,
+          "mag": 4452,
+          "dex": 2178,
+          "spd": 2841,
+          "luk": 2178,
+          "iniap": -50
+        },
+        {
+          "hp": 4932,
+          "mp": 2924,
+          "ap": 2924,
+          "atk": 780,
+          "mag": 4580,
+          "dex": 2241,
+          "spd": 2924,
+          "luk": 2241,
+          "iniap": -50
+        },
+        {
+          "hp": 6000,
+          "mp": 3000,
+          "ap": 3000,
+          "atk": 800,
+          "mag": 4700,
+          "dex": 2300,
+          "spd": 3000,
+          "luk": 2300,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_TERA_5,5",
+          "s_eqid1": "IT_JB_MM_FF6_TERA_5,5"
+        }
+      ]
+    },
+    {
+      "iname": "JB_FF6_TERA_M",
+      "mdl": "FF06tera",
+      "cc_icon": "FF06tera_EC",
+      "collaboType": 1,
+      "equips": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "type": 2,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_FF6_TERA_EXM",
+      "lvtbl_sub": "JBLV_FF6_TERA_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 3015,
+          "ap": 3015,
+          "atk": 812,
+          "mag": 4770,
+          "dex": 2334,
+          "spd": 3000,
+          "luk": 2346,
+          "iniap": -50
+        },
+        {
+          "hp": 6675,
+          "mp": 3022,
+          "ap": 3022,
+          "atk": 818,
+          "mag": 4805,
+          "dex": 2351,
+          "spd": 3000,
+          "luk": 2369,
+          "iniap": -50
+        },
+        {
+          "hp": 6900,
+          "mp": 3030,
+          "ap": 3030,
+          "atk": 824,
+          "mag": 4841,
+          "dex": 2369,
+          "spd": 3000,
+          "luk": 2392,
+          "iniap": -50
+        },
+        {
+          "hp": 7800,
+          "mp": 3060,
+          "ap": 3060,
+          "atk": 848,
+          "mag": 4982,
+          "dex": 2438,
+          "spd": 3000,
+          "luk": 2484,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_TERA_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 3067,
+          "ap": 3067,
+          "atk": 854,
+          "mag": 5017,
+          "dex": 2455,
+          "spd": 3000,
+          "luk": 2507,
+          "iniap": -50
+        },
+        {
+          "hp": 8250,
+          "mp": 3075,
+          "ap": 3075,
+          "atk": 860,
+          "mag": 5052,
+          "dex": 2472,
+          "spd": 3000,
+          "luk": 2530,
+          "iniap": -50
+        },
+        {
+          "hp": 9150,
+          "mp": 3105,
+          "ap": 3105,
+          "atk": 884,
+          "mag": 5193,
+          "dex": 2541,
+          "spd": 3000,
+          "luk": 2622,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_TERA_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 3112,
+          "ap": 3112,
+          "atk": 890,
+          "mag": 5228,
+          "dex": 2558,
+          "spd": 3000,
+          "luk": 2645,
+          "iniap": -50
+        },
+        {
+          "hp": 9600,
+          "mp": 3120,
+          "ap": 3120,
+          "atk": 896,
+          "mag": 5264,
+          "dex": 2576,
+          "spd": 3000,
+          "luk": 2668,
+          "iniap": -50
+        },
+        {
+          "hp": 10500,
+          "mp": 3150,
+          "ap": 3150,
+          "atk": 920,
+          "mag": 5405,
+          "dex": 2645,
+          "spd": 3000,
+          "luk": 2760,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_TERA_5,10"
+        }
+      ]
+    },
+    {
+      "iname": "JB_FF6_LOCK",
+      "mdl": "FF06lock",
+      "collaboType": 1,
+      "equips": [
+        1,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 3,
+      "lvtbl_main": "JBLV_FF6_LOCK_M",
+      "lvtbl_sub": "JBLV_FF6_LOCK_M",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -82
+        },
+        {
+          "hp": 200,
+          "mp": 205,
+          "ap": 205,
+          "atk": 1203,
+          "mag": 205,
+          "dex": 768,
+          "spd": 1075,
+          "luk": 870,
+          "iniap": -82
+        },
+        {
+          "hp": 800,
+          "mp": 325,
+          "ap": 325,
+          "atk": 1907,
+          "mag": 325,
+          "dex": 1217,
+          "spd": 1704,
+          "luk": 1379,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF6_LOCK,1",
+          "s_eqid1": "IT_JB_MM_FF6_LOCK,1"
+        },
+        {
+          "hp": 1040,
+          "mp": 410,
+          "ap": 410,
+          "atk": 2406,
+          "mag": 410,
+          "dex": 1536,
+          "spd": 2150,
+          "luk": 1741,
+          "iniap": -82
+        },
+        {
+          "hp": 1280,
+          "mp": 475,
+          "ap": 475,
+          "atk": 2793,
+          "mag": 475,
+          "dex": 1783,
+          "spd": 2496,
+          "luk": 2021,
+          "iniap": -82
+        },
+        {
+          "hp": 2000,
+          "mp": 529,
+          "ap": 529,
+          "atk": 3110,
+          "mag": 529,
+          "dex": 1985,
+          "spd": 2779,
+          "luk": 2250,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF6_LOCK_2,2",
+          "s_eqid1": "IT_JB_MM_FF6_LOCK_2,2"
+        },
+        {
+          "hp": 2240,
+          "mp": 575,
+          "ap": 575,
+          "atk": 3377,
+          "mag": 575,
+          "dex": 2156,
+          "spd": 3018,
+          "luk": 2443,
+          "iniap": -82
+        },
+        {
+          "hp": 2480,
+          "mp": 614,
+          "ap": 614,
+          "atk": 3609,
+          "mag": 614,
+          "dex": 2304,
+          "spd": 3225,
+          "luk": 2611,
+          "iniap": -82
+        },
+        {
+          "hp": 3200,
+          "mp": 649,
+          "ap": 649,
+          "atk": 3813,
+          "mag": 649,
+          "dex": 2434,
+          "spd": 3408,
+          "luk": 2759,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF6_LOCK_3,3",
+          "s_eqid1": "IT_JB_MM_FF6_LOCK_3,3"
+        },
+        {
+          "hp": 3440,
+          "mp": 680,
+          "ap": 680,
+          "atk": 3996,
+          "mag": 680,
+          "dex": 2551,
+          "spd": 3571,
+          "luk": 2891,
+          "iniap": -82
+        },
+        {
+          "hp": 3680,
+          "mp": 708,
+          "ap": 708,
+          "atk": 4162,
+          "mag": 708,
+          "dex": 2656,
+          "spd": 3719,
+          "luk": 3011,
+          "iniap": -82
+        },
+        {
+          "hp": 4400,
+          "mp": 734,
+          "ap": 734,
+          "atk": 4313,
+          "mag": 734,
+          "dex": 2753,
+          "spd": 3854,
+          "luk": 3120,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF6_LOCK_4,4",
+          "s_eqid1": "IT_JB_MM_FF6_LOCK_4,4"
+        },
+        {
+          "hp": 4666,
+          "mp": 758,
+          "ap": 758,
+          "atk": 4452,
+          "mag": 758,
+          "dex": 2841,
+          "spd": 3978,
+          "luk": 3220,
+          "iniap": -82
+        },
+        {
+          "hp": 4932,
+          "mp": 780,
+          "ap": 780,
+          "atk": 4580,
+          "mag": 780,
+          "dex": 2924,
+          "spd": 4093,
+          "luk": 3313,
+          "iniap": -82
+        },
+        {
+          "hp": 6000,
+          "mp": 800,
+          "ap": 800,
+          "atk": 4700,
+          "mag": 800,
+          "dex": 3000,
+          "spd": 4200,
+          "luk": 3400,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF6_LOCK_5,5",
+          "s_eqid1": "IT_JB_MM_FF6_LOCK_5,5"
+        }
+      ]
+    },
+    {
+      "iname": "JB_FF6_LOCK_M",
+      "mdl": "FF06lock",
+      "cc_icon": "FF06lock_EC",
+      "collaboType": 1,
+      "equips": [
+        1,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 3,
+      "lvtbl_main": "JBLV_FF6_LOCK_EXM",
+      "lvtbl_sub": "JBLV_FF6_LOCK_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 804,
+          "ap": 804,
+          "atk": 4770,
+          "mag": 812,
+          "dex": 3045,
+          "spd": 4200,
+          "luk": 3468,
+          "iniap": -82
+        },
+        {
+          "hp": 6675,
+          "mp": 806,
+          "ap": 806,
+          "atk": 4805,
+          "mag": 818,
+          "dex": 3067,
+          "spd": 4200,
+          "luk": 3502,
+          "iniap": -82
+        },
+        {
+          "hp": 6900,
+          "mp": 808,
+          "ap": 808,
+          "atk": 4841,
+          "mag": 824,
+          "dex": 3090,
+          "spd": 4200,
+          "luk": 3536,
+          "iniap": -82
+        },
+        {
+          "hp": 7800,
+          "mp": 816,
+          "ap": 816,
+          "atk": 4982,
+          "mag": 848,
+          "dex": 3180,
+          "spd": 4200,
+          "luk": 3672,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF6_LOCK_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 818,
+          "ap": 818,
+          "atk": 5017,
+          "mag": 854,
+          "dex": 3202,
+          "spd": 4200,
+          "luk": 3706,
+          "iniap": -82
+        },
+        {
+          "hp": 8250,
+          "mp": 820,
+          "ap": 820,
+          "atk": 5052,
+          "mag": 860,
+          "dex": 3225,
+          "spd": 4200,
+          "luk": 3740,
+          "iniap": -82
+        },
+        {
+          "hp": 9150,
+          "mp": 828,
+          "ap": 828,
+          "atk": 5193,
+          "mag": 884,
+          "dex": 3315,
+          "spd": 4200,
+          "luk": 3876,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF6_LOCK_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 830,
+          "ap": 830,
+          "atk": 5228,
+          "mag": 890,
+          "dex": 3337,
+          "spd": 4200,
+          "luk": 3910,
+          "iniap": -82
+        },
+        {
+          "hp": 9600,
+          "mp": 832,
+          "ap": 832,
+          "atk": 5264,
+          "mag": 896,
+          "dex": 3360,
+          "spd": 4200,
+          "luk": 3944,
+          "iniap": -82
+        },
+        {
+          "hp": 10500,
+          "mp": 840,
+          "ap": 840,
+          "atk": 5405,
+          "mag": 920,
+          "dex": 3450,
+          "spd": 4200,
+          "luk": 4080,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_FF6_LOCK_5,10"
+        }
+      ]
+    },
+    {
+      "iname": "JB_FF6_CLES",
+      "mdl": "FF06cles",
+      "collaboType": 1,
+      "equips": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_FF6_CLES_M",
+      "lvtbl_sub": "JBLV_FF6_CLES_M",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -50
+        },
+        {
+          "hp": 200,
+          "mp": 589,
+          "ap": 589,
+          "atk": 205,
+          "mag": 1075,
+          "dex": 589,
+          "spd": 768,
+          "luk": 768,
+          "iniap": -50
+        },
+        {
+          "hp": 800,
+          "mp": 933,
+          "ap": 933,
+          "atk": 325,
+          "mag": 1704,
+          "dex": 933,
+          "spd": 1217,
+          "luk": 1217,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_CLES,1",
+          "s_eqid1": "IT_JB_MM_FF6_CLES,1"
+        },
+        {
+          "hp": 1040,
+          "mp": 1177,
+          "ap": 1177,
+          "atk": 410,
+          "mag": 2150,
+          "dex": 1177,
+          "spd": 1536,
+          "luk": 1536,
+          "iniap": -50
+        },
+        {
+          "hp": 1280,
+          "mp": 1367,
+          "ap": 1367,
+          "atk": 475,
+          "mag": 2496,
+          "dex": 1367,
+          "spd": 1783,
+          "luk": 1783,
+          "iniap": -50
+        },
+        {
+          "hp": 2000,
+          "mp": 1522,
+          "ap": 1522,
+          "atk": 529,
+          "mag": 2779,
+          "dex": 1522,
+          "spd": 1985,
+          "luk": 1985,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_CLES_2,2",
+          "s_eqid1": "IT_JB_MM_FF6_CLES_2,2"
+        },
+        {
+          "hp": 2240,
+          "mp": 1653,
+          "ap": 1653,
+          "atk": 575,
+          "mag": 3018,
+          "dex": 1653,
+          "spd": 2156,
+          "luk": 2156,
+          "iniap": -50
+        },
+        {
+          "hp": 2480,
+          "mp": 1766,
+          "ap": 1766,
+          "atk": 614,
+          "mag": 3225,
+          "dex": 1766,
+          "spd": 2304,
+          "luk": 2304,
+          "iniap": -50
+        },
+        {
+          "hp": 3200,
+          "mp": 1866,
+          "ap": 1866,
+          "atk": 649,
+          "mag": 3408,
+          "dex": 1866,
+          "spd": 2434,
+          "luk": 2434,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_CLES_3,3",
+          "s_eqid1": "IT_JB_MM_FF6_CLES_3,3"
+        },
+        {
+          "hp": 3440,
+          "mp": 1956,
+          "ap": 1956,
+          "atk": 680,
+          "mag": 3571,
+          "dex": 1956,
+          "spd": 2551,
+          "luk": 2551,
+          "iniap": -50
+        },
+        {
+          "hp": 3680,
+          "mp": 2037,
+          "ap": 2037,
+          "atk": 708,
+          "mag": 3719,
+          "dex": 2037,
+          "spd": 2656,
+          "luk": 2656,
+          "iniap": -50
+        },
+        {
+          "hp": 4400,
+          "mp": 2110,
+          "ap": 2110,
+          "atk": 734,
+          "mag": 3854,
+          "dex": 2110,
+          "spd": 2753,
+          "luk": 2753,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_CLES_4,4",
+          "s_eqid1": "IT_JB_MM_FF6_CLES_4,4"
+        },
+        {
+          "hp": 4666,
+          "mp": 2178,
+          "ap": 2178,
+          "atk": 758,
+          "mag": 3978,
+          "dex": 2178,
+          "spd": 2841,
+          "luk": 2841,
+          "iniap": -50
+        },
+        {
+          "hp": 4932,
+          "mp": 2241,
+          "ap": 2241,
+          "atk": 780,
+          "mag": 4093,
+          "dex": 2241,
+          "spd": 2924,
+          "luk": 2924,
+          "iniap": -50
+        },
+        {
+          "hp": 6000,
+          "mp": 2300,
+          "ap": 2300,
+          "atk": 800,
+          "mag": 4200,
+          "dex": 2300,
+          "spd": 3000,
+          "luk": 3000,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_CLES_5,5",
+          "s_eqid1": "IT_JB_MM_FF6_CLES_5,5"
+        }
+      ]
+    },
+    {
+      "iname": "JB_FF6_CLES_M",
+      "mdl": "FF06cles",
+      "cc_icon": "FF06cles_EC",
+      "collaboType": 1,
+      "equips": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_FF6_CLES_EXM",
+      "lvtbl_sub": "JBLV_FF6_CLES_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 2311,
+          "ap": 2311,
+          "atk": 812,
+          "mag": 4263,
+          "dex": 2334,
+          "spd": 3000,
+          "luk": 3060,
+          "iniap": -50
+        },
+        {
+          "hp": 6675,
+          "mp": 2317,
+          "ap": 2317,
+          "atk": 818,
+          "mag": 4294,
+          "dex": 2351,
+          "spd": 3000,
+          "luk": 3090,
+          "iniap": -50
+        },
+        {
+          "hp": 6900,
+          "mp": 2323,
+          "ap": 2323,
+          "atk": 824,
+          "mag": 4326,
+          "dex": 2369,
+          "spd": 3000,
+          "luk": 3120,
+          "iniap": -50
+        },
+        {
+          "hp": 7800,
+          "mp": 2346,
+          "ap": 2346,
+          "atk": 848,
+          "mag": 4452,
+          "dex": 2438,
+          "spd": 3000,
+          "luk": 3240,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_CLES_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 2351,
+          "ap": 2351,
+          "atk": 854,
+          "mag": 4483,
+          "dex": 2455,
+          "spd": 3000,
+          "luk": 3270,
+          "iniap": -50
+        },
+        {
+          "hp": 8250,
+          "mp": 2357,
+          "ap": 2357,
+          "atk": 860,
+          "mag": 4515,
+          "dex": 2472,
+          "spd": 3000,
+          "luk": 3300,
+          "iniap": -50
+        },
+        {
+          "hp": 9150,
+          "mp": 2380,
+          "ap": 2380,
+          "atk": 884,
+          "mag": 4641,
+          "dex": 2541,
+          "spd": 3000,
+          "luk": 3420,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_CLES_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 2386,
+          "ap": 2386,
+          "atk": 890,
+          "mag": 4672,
+          "dex": 2558,
+          "spd": 3000,
+          "luk": 3450,
+          "iniap": -50
+        },
+        {
+          "hp": 9600,
+          "mp": 2392,
+          "ap": 2392,
+          "atk": 896,
+          "mag": 4704,
+          "dex": 2576,
+          "spd": 3000,
+          "luk": 3480,
+          "iniap": -50
+        },
+        {
+          "hp": 10500,
+          "mp": 2415,
+          "ap": 2415,
+          "atk": 920,
+          "mag": 4830,
+          "dex": 2645,
+          "spd": 3000,
+          "luk": 3600,
+          "iniap": -50,
+          "eqid1": "IT_JB_MM_FF6_CLES_5,10"
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_BELS",
+      "mdl": "LAPSbels",
+      "equips": [
+        24,
+        19,
+        21,
+        22
+      ],
+      "type": 3,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_BELS_M",
+      "lvtbl_sub": "JBLV_LW_BELS_M",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -25
+        },
+        {
+          "hp": 200,
+          "mp": 1075,
+          "ap": 1075,
+          "atk": 205,
+          "mag": 1152,
+          "dex": 589,
+          "spd": 768,
+          "luk": 768,
+          "iniap": -25
+        },
+        {
+          "hp": 800,
+          "mp": 1704,
+          "ap": 1704,
+          "atk": 325,
+          "mag": 1826,
+          "dex": 933,
+          "spd": 1217,
+          "luk": 1217,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_BELS,1",
+          "s_eqid1": "IT_JB_MM_BELS,1"
+        },
+        {
+          "hp": 1040,
+          "mp": 2150,
+          "ap": 2150,
+          "atk": 410,
+          "mag": 2304,
+          "dex": 1177,
+          "spd": 1536,
+          "luk": 1536,
+          "iniap": -25
+        },
+        {
+          "hp": 1280,
+          "mp": 2496,
+          "ap": 2496,
+          "atk": 475,
+          "mag": 2674,
+          "dex": 1367,
+          "spd": 1783,
+          "luk": 1783,
+          "iniap": -25
+        },
+        {
+          "hp": 2000,
+          "mp": 2779,
+          "ap": 2779,
+          "atk": 529,
+          "mag": 2977,
+          "dex": 1522,
+          "spd": 1985,
+          "luk": 1985,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_BELS_2,2",
+          "s_eqid1": "IT_JB_MM_BELS_2,2"
+        },
+        {
+          "hp": 2240,
+          "mp": 3018,
+          "ap": 3018,
+          "atk": 575,
+          "mag": 3234,
+          "dex": 1653,
+          "spd": 2156,
+          "luk": 2156,
+          "iniap": -25
+        },
+        {
+          "hp": 2480,
+          "mp": 3225,
+          "ap": 3225,
+          "atk": 614,
+          "mag": 3455,
+          "dex": 1766,
+          "spd": 2304,
+          "luk": 2304,
+          "iniap": -25
+        },
+        {
+          "hp": 3200,
+          "mp": 3408,
+          "ap": 3408,
+          "atk": 649,
+          "mag": 3651,
+          "dex": 1866,
+          "spd": 2434,
+          "luk": 2434,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_BELS_3,3",
+          "s_eqid1": "IT_JB_MM_BELS_3,3"
+        },
+        {
+          "hp": 3440,
+          "mp": 3571,
+          "ap": 3571,
+          "atk": 680,
+          "mag": 3826,
+          "dex": 1956,
+          "spd": 2551,
+          "luk": 2551,
+          "iniap": -25
+        },
+        {
+          "hp": 3680,
+          "mp": 3719,
+          "ap": 3719,
+          "atk": 708,
+          "mag": 3985,
+          "dex": 2037,
+          "spd": 2656,
+          "luk": 2656,
+          "iniap": -25
+        },
+        {
+          "hp": 4400,
+          "mp": 3854,
+          "ap": 3854,
+          "atk": 734,
+          "mag": 4129,
+          "dex": 2110,
+          "spd": 2753,
+          "luk": 2753,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_BELS_4,4",
+          "s_eqid1": "IT_JB_MM_BELS_4,4"
+        },
+        {
+          "hp": 4666,
+          "mp": 3978,
+          "ap": 3978,
+          "atk": 758,
+          "mag": 4262,
+          "dex": 2178,
+          "spd": 2841,
+          "luk": 2841,
+          "iniap": -25
+        },
+        {
+          "hp": 4932,
+          "mp": 4093,
+          "ap": 4093,
+          "atk": 780,
+          "mag": 4385,
+          "dex": 2241,
+          "spd": 2924,
+          "luk": 2924,
+          "iniap": -25
+        },
+        {
+          "hp": 6000,
+          "mp": 4200,
+          "ap": 4200,
+          "atk": 800,
+          "mag": 4500,
+          "dex": 2300,
+          "spd": 3000,
+          "luk": 3000,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_BELS_5,5",
+          "s_eqid1": "IT_JB_MM_BELS_5,5"
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_BELS_M",
+      "mdl": "LAPSbels",
+      "cc_icon": "LAPSbels_EC",
+      "equips": [
+        24,
+        19,
+        21,
+        22
+      ],
+      "type": 3,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_BELS_EXM",
+      "lvtbl_sub": "JBLV_LW_BELS_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 4221,
+          "ap": 4221,
+          "atk": 812,
+          "mag": 4567,
+          "dex": 2334,
+          "spd": 3000,
+          "luk": 3060,
+          "iniap": -25
+        },
+        {
+          "hp": 6675,
+          "mp": 4231,
+          "ap": 4231,
+          "atk": 818,
+          "mag": 4601,
+          "dex": 2351,
+          "spd": 3000,
+          "luk": 3090,
+          "iniap": -25
+        },
+        {
+          "hp": 6900,
+          "mp": 4242,
+          "ap": 4242,
+          "atk": 824,
+          "mag": 4635,
+          "dex": 2369,
+          "spd": 3000,
+          "luk": 3120,
+          "iniap": -25
+        },
+        {
+          "hp": 7800,
+          "mp": 4284,
+          "ap": 4284,
+          "atk": 848,
+          "mag": 4770,
+          "dex": 2438,
+          "spd": 3000,
+          "luk": 3240,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_BELS_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 4294,
+          "ap": 4294,
+          "atk": 854,
+          "mag": 4803,
+          "dex": 2455,
+          "spd": 3000,
+          "luk": 3270,
+          "iniap": -25
+        },
+        {
+          "hp": 8250,
+          "mp": 4305,
+          "ap": 4305,
+          "atk": 860,
+          "mag": 4837,
+          "dex": 2472,
+          "spd": 3000,
+          "luk": 3300,
+          "iniap": -25
+        },
+        {
+          "hp": 9150,
+          "mp": 4347,
+          "ap": 4347,
+          "atk": 884,
+          "mag": 4972,
+          "dex": 2541,
+          "spd": 3000,
+          "luk": 3420,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_BELS_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 4357,
+          "ap": 4357,
+          "atk": 890,
+          "mag": 5006,
+          "dex": 2558,
+          "spd": 3000,
+          "luk": 3450,
+          "iniap": -25
+        },
+        {
+          "hp": 9600,
+          "mp": 4368,
+          "ap": 4368,
+          "atk": 896,
+          "mag": 5040,
+          "dex": 2576,
+          "spd": 3000,
+          "luk": 3480,
+          "iniap": -25
+        },
+        {
+          "hp": 10500,
+          "mp": 4410,
+          "ap": 4410,
+          "atk": 920,
+          "mag": 5175,
+          "dex": 2645,
+          "spd": 3000,
+          "luk": 3600,
+          "iniap": -25,
+          "eqid1": "IT_JB_MM_BELS_5,10"
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_LLN_FIRE",
+      "mdl": "LLN",
+      "equips": [
+        10,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_LLN_M_FIRE",
+      "lvtbl_sub": "JBLV_LW_LLN_S_FIRE",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -82
+        },
+        {
+          "hp": 200,
+          "mp": 384,
+          "ap": 384,
+          "atk": 1280,
+          "mag": 205,
+          "dex": 870,
+          "spd": 870,
+          "luk": 768,
+          "iniap": -82
+        },
+        {
+          "hp": 800,
+          "mp": 609,
+          "ap": 609,
+          "atk": 2028,
+          "mag": 325,
+          "dex": 1379,
+          "spd": 1379,
+          "luk": 1217,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_LLN,1",
+          "s_eqid1": "IT_JB_MM_LLN,1"
+        },
+        {
+          "hp": 1040,
+          "mp": 768,
+          "ap": 768,
+          "atk": 2560,
+          "mag": 410,
+          "dex": 1741,
+          "spd": 1741,
+          "luk": 1536,
+          "iniap": -82
+        },
+        {
+          "hp": 1280,
+          "mp": 891,
+          "ap": 891,
+          "atk": 2972,
+          "mag": 475,
+          "dex": 2021,
+          "spd": 2021,
+          "luk": 1783,
+          "iniap": -82
+        },
+        {
+          "hp": 2000,
+          "mp": 992,
+          "ap": 992,
+          "atk": 3308,
+          "mag": 529,
+          "dex": 2250,
+          "spd": 2250,
+          "luk": 1985,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_LLN_2,2",
+          "s_eqid1": "IT_JB_MM_LLN_2,2"
+        },
+        {
+          "hp": 2240,
+          "mp": 1078,
+          "ap": 1078,
+          "atk": 3593,
+          "mag": 575,
+          "dex": 2443,
+          "spd": 2443,
+          "luk": 2156,
+          "iniap": -82
+        },
+        {
+          "hp": 2480,
+          "mp": 1152,
+          "ap": 1152,
+          "atk": 3839,
+          "mag": 614,
+          "dex": 2611,
+          "spd": 2611,
+          "luk": 2304,
+          "iniap": -82
+        },
+        {
+          "hp": 3200,
+          "mp": 1217,
+          "ap": 1217,
+          "atk": 4057,
+          "mag": 649,
+          "dex": 2759,
+          "spd": 2759,
+          "luk": 2434,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_LLN_3,3",
+          "s_eqid1": "IT_JB_MM_LLN_3,3"
+        },
+        {
+          "hp": 3440,
+          "mp": 1275,
+          "ap": 1275,
+          "atk": 4251,
+          "mag": 680,
+          "dex": 2891,
+          "spd": 2891,
+          "luk": 2551,
+          "iniap": -82
+        },
+        {
+          "hp": 3680,
+          "mp": 1328,
+          "ap": 1328,
+          "atk": 4427,
+          "mag": 708,
+          "dex": 3011,
+          "spd": 3011,
+          "luk": 2656,
+          "iniap": -82
+        },
+        {
+          "hp": 4400,
+          "mp": 1376,
+          "ap": 1376,
+          "atk": 4588,
+          "mag": 734,
+          "dex": 3120,
+          "spd": 3120,
+          "luk": 2753,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_LLN_4,4",
+          "s_eqid1": "IT_JB_MM_LLN_4,4"
+        },
+        {
+          "hp": 4666,
+          "mp": 1421,
+          "ap": 1421,
+          "atk": 4736,
+          "mag": 758,
+          "dex": 3220,
+          "spd": 3220,
+          "luk": 2841,
+          "iniap": -82
+        },
+        {
+          "hp": 4932,
+          "mp": 1462,
+          "ap": 1462,
+          "atk": 4873,
+          "mag": 780,
+          "dex": 3313,
+          "spd": 3313,
+          "luk": 2924,
+          "iniap": -82
+        },
+        {
+          "hp": 6000,
+          "mp": 1500,
+          "ap": 1500,
+          "atk": 5000,
+          "mag": 800,
+          "dex": 3400,
+          "spd": 3400,
+          "luk": 3000,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_LLN_5,5",
+          "s_eqid1": "IT_JB_MM_LLN_5,5"
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_LLN_WIND",
+      "mdl": "LLN",
+      "origin": "JB_LW_LLN_FIRE",
+      "equips": [
+        10,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_LLN_M_WIND",
+      "lvtbl_sub": "JBLV_LW_LLN_S_WIND",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -82
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_ASTR",
+      "mdl": "LAPSastr",
+      "equips": [
+        4,
+        18,
+        20,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_SWN_M_FIRE",
+      "lvtbl_sub": "JBLV_LW_SWN_S_FIRE",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -82
+        },
+        {
+          "hp": 200,
+          "mp": 589,
+          "ap": 589,
+          "atk": 1203,
+          "mag": 205,
+          "dex": 768,
+          "spd": 768,
+          "luk": 768,
+          "iniap": -82
+        },
+        {
+          "hp": 800,
+          "mp": 933,
+          "ap": 933,
+          "atk": 1907,
+          "mag": 325,
+          "dex": 1217,
+          "spd": 1217,
+          "luk": 1217,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_SWN,1",
+          "s_eqid1": "IT_JB_MM_SWN,1"
+        },
+        {
+          "hp": 1040,
+          "mp": 1177,
+          "ap": 1177,
+          "atk": 2406,
+          "mag": 410,
+          "dex": 1536,
+          "spd": 1536,
+          "luk": 1536,
+          "iniap": -82
+        },
+        {
+          "hp": 1280,
+          "mp": 1367,
+          "ap": 1367,
+          "atk": 2793,
+          "mag": 475,
+          "dex": 1783,
+          "spd": 1783,
+          "luk": 1783,
+          "iniap": -82
+        },
+        {
+          "hp": 2000,
+          "mp": 1522,
+          "ap": 1522,
+          "atk": 3110,
+          "mag": 529,
+          "dex": 1985,
+          "spd": 1985,
+          "luk": 1985,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_SWN_2,2",
+          "s_eqid1": "IT_JB_MM_SWN_2,2"
+        },
+        {
+          "hp": 2240,
+          "mp": 1653,
+          "ap": 1653,
+          "atk": 3377,
+          "mag": 575,
+          "dex": 2156,
+          "spd": 2156,
+          "luk": 2156,
+          "iniap": -82
+        },
+        {
+          "hp": 2480,
+          "mp": 1766,
+          "ap": 1766,
+          "atk": 3609,
+          "mag": 614,
+          "dex": 2304,
+          "spd": 2304,
+          "luk": 2304,
+          "iniap": -82
+        },
+        {
+          "hp": 3200,
+          "mp": 1866,
+          "ap": 1866,
+          "atk": 3813,
+          "mag": 649,
+          "dex": 2434,
+          "spd": 2434,
+          "luk": 2434,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_SWN_3,3",
+          "s_eqid1": "IT_JB_MM_SWN_3,3"
+        },
+        {
+          "hp": 3440,
+          "mp": 1956,
+          "ap": 1956,
+          "atk": 3996,
+          "mag": 680,
+          "dex": 2551,
+          "spd": 2551,
+          "luk": 2551,
+          "iniap": -82
+        },
+        {
+          "hp": 3680,
+          "mp": 2037,
+          "ap": 2037,
+          "atk": 4162,
+          "mag": 708,
+          "dex": 2656,
+          "spd": 2656,
+          "luk": 2656,
+          "iniap": -82
+        },
+        {
+          "hp": 4400,
+          "mp": 2110,
+          "ap": 2110,
+          "atk": 4313,
+          "mag": 734,
+          "dex": 2753,
+          "spd": 2753,
+          "luk": 2753,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_SWN_4,4",
+          "s_eqid1": "IT_JB_MM_SWN_4,4"
+        },
+        {
+          "hp": 4666,
+          "mp": 2178,
+          "ap": 2178,
+          "atk": 4452,
+          "mag": 758,
+          "dex": 2841,
+          "spd": 2841,
+          "luk": 2841,
+          "iniap": -82
+        },
+        {
+          "hp": 4932,
+          "mp": 2241,
+          "ap": 2241,
+          "atk": 4580,
+          "mag": 780,
+          "dex": 2924,
+          "spd": 2924,
+          "luk": 2924,
+          "iniap": -82
+        },
+        {
+          "hp": 6000,
+          "mp": 2300,
+          "ap": 2300,
+          "atk": 4700,
+          "mag": 800,
+          "dex": 3000,
+          "spd": 3000,
+          "luk": 3000,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_SWN_5,5",
+          "s_eqid1": "IT_JB_MM_SWN_5,5"
         }
       ]
     },
@@ -64767,6 +67126,70 @@
       ]
     },
     {
+      "iname": "JB_LW_LRNZ_M",
+      "mdl": "DRG",
+      "cc_icon": "DRG_EC",
+      "origin": "JB_LW_DRG_EX_M",
+      "equips": [
+        10,
+        18,
+        20,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 4,
+      "lvtbl_main": "JBLV_LW_LRNZ_EXM",
+      "lvtbl_sub": "JBLV_LW_LRNZ_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 2311,
+          "ap": 2311,
+          "atk": 4263,
+          "mag": 812,
+          "dex": 3045,
+          "spd": 2300,
+          "luk": 3060,
+          "iniap": -82
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_ALIM_M",
+      "mdl": "DRG",
+      "cc_icon": "DRG_EC",
+      "origin": "JB_LW_DRG_EX_M",
+      "equips": [
+        10,
+        18,
+        20,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 4,
+      "lvtbl_main": "JBLV_LW_ALIM_EXM",
+      "lvtbl_sub": "JBLV_LW_ALIM_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 2311,
+          "ap": 2311,
+          "atk": 4263,
+          "mag": 812,
+          "dex": 3045,
+          "spd": 2300,
+          "luk": 3060,
+          "iniap": -82
+        }
+      ]
+    },
+    {
       "iname": "JB_LW_BLM_EX_M",
       "mdl": "BLM",
       "cc_icon": "BLM_EC",
@@ -65092,6 +67515,38 @@
       ]
     },
     {
+      "iname": "JB_LW_RVAL_M",
+      "mdl": "BLM",
+      "cc_icon": "BLM_EC",
+      "origin": "JB_LW_BLM_EX_M",
+      "equips": [
+        5,
+        19,
+        21,
+        22
+      ],
+      "type": 2,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_RVAL_EXM",
+      "lvtbl_sub": "JBLV_LW_RVAL_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 4221,
+          "ap": 4221,
+          "atk": 1522,
+          "mag": 4770,
+          "dex": 3451,
+          "spd": 1500,
+          "luk": 2346,
+          "iniap": -25
+        }
+      ]
+    },
+    {
       "iname": "JB_LW_TIM_EX_M",
       "mdl": "TIM",
       "cc_icon": "TIM_EC",
@@ -65273,6 +67728,38 @@
       "jump": 1,
       "lvtbl_main": "JBLV_LW_LMRE_EXM",
       "lvtbl_sub": "JBLV_LW_LMRE_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 4221,
+          "ap": 4221,
+          "atk": 1522,
+          "mag": 4263,
+          "dex": 1522,
+          "spd": 3000,
+          "luk": 3468,
+          "iniap": -25
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_MGRT_M",
+      "mdl": "TIM",
+      "cc_icon": "TIM_EC",
+      "origin": "JB_LW_TIM_EX_M",
+      "equips": [
+        5,
+        19,
+        21,
+        22
+      ],
+      "type": 4,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_MGRT_EXM",
+      "lvtbl_sub": "JBLV_LW_MGRT_EXM",
       "sub_rate": 50,
       "ranks": [
         {
@@ -66636,6 +69123,38 @@
       ]
     },
     {
+      "iname": "JB_LW_PRAY_M",
+      "mdl": "WHM",
+      "cc_icon": "WHM_EC",
+      "origin": "JB_LW_WHM_EX_M",
+      "equips": [
+        5,
+        19,
+        21,
+        22
+      ],
+      "type": 4,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_PRAY_EXM",
+      "lvtbl_sub": "JBLV_LW_PRAY_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 4723,
+          "ap": 4221,
+          "atk": 1522,
+          "mag": 4263,
+          "dex": 1522,
+          "spd": 4200,
+          "luk": 2346,
+          "iniap": -25
+        }
+      ]
+    },
+    {
       "iname": "JB_LW_GUN_EX_M",
       "mdl": "GUN",
       "cc_icon": "GUN_EC",
@@ -67147,6 +69666,38 @@
       "jump": 1,
       "lvtbl_main": "JBLV_LW_MACR_EXM",
       "lvtbl_sub": "JBLV_LW_MACR_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 4221,
+          "ap": 4221,
+          "atk": 3045,
+          "mag": 3451,
+          "dex": 2334,
+          "spd": 3000,
+          "luk": 1530,
+          "iniap": -25
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_KADI_M",
+      "mdl": "CLR",
+      "cc_icon": "CLR_EC",
+      "origin": "JB_LW_CLR_EX_M",
+      "equips": [
+        15,
+        19,
+        21,
+        22
+      ],
+      "type": 3,
+      "role": 3,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_KADI_EXM",
+      "lvtbl_sub": "JBLV_LW_KADI_EXM",
       "sub_rate": 50,
       "ranks": [
         {
@@ -68709,6 +71260,38 @@
       ]
     },
     {
+      "iname": "JB_LW_ELSR_M",
+      "mdl": "MSW",
+      "cc_icon": "MSW_EC",
+      "origin": "JB_LW_MSW_EX_M",
+      "equips": [
+        3,
+        18,
+        20,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_ELSR_EXM",
+      "lvtbl_sub": "JBLV_LW_ELSR_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 2311,
+          "ap": 2311,
+          "atk": 4770,
+          "mag": 812,
+          "dex": 2334,
+          "spd": 3000,
+          "luk": 3060,
+          "iniap": -82
+        }
+      ]
+    },
+    {
       "iname": "JB_LW_RAIN_M",
       "mdl": "LAPSrain",
       "cc_icon": "LAPSrain_EC",
@@ -70030,6 +72613,38 @@
       ]
     },
     {
+      "iname": "JB_LW_LATH_M",
+      "mdl": "WGN",
+      "cc_icon": "WGN_EC",
+      "origin": "JB_LW_WGN_EX_M",
+      "equips": [
+        14,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 2,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_LATH_EXM",
+      "lvtbl_sub": "JBLV_LW_LATH_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 2311,
+          "ap": 2311,
+          "atk": 4263,
+          "mag": 1522,
+          "dex": 4770,
+          "spd": 3400,
+          "luk": 2346,
+          "iniap": -82
+        }
+      ]
+    },
+    {
       "iname": "JB_LW_CAL_EX_M",
       "mdl": "CAL",
       "cc_icon": "CAL_EC",
@@ -70392,6 +73007,38 @@
       ]
     },
     {
+      "iname": "JB_LW_HWLT_M",
+      "mdl": "MKN",
+      "cc_icon": "MKN_EC",
+      "origin": "JB_LW_MKN_EX_M",
+      "equips": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "type": 2,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_HWLT_EXM",
+      "lvtbl_sub": "JBLV_LW_HWLT_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 1507,
+          "ap": 2311,
+          "atk": 1522,
+          "mag": 5075,
+          "dex": 3045,
+          "spd": 3000,
+          "luk": 3468,
+          "iniap": -50
+        }
+      ]
+    },
+    {
       "iname": "JB_LW_RAB_EX_M",
       "mdl": "RAB",
       "cc_icon": "RAB_EC",
@@ -70552,6 +73199,171 @@
           "dex": 3451,
           "spd": 3400,
           "luk": 3468,
+          "iniap": -82
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_LLN_EX_M",
+      "mdl": "LLN",
+      "cc_icon": "LLN_EC",
+      "equips": [
+        10,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_LATH_01_EXM",
+      "lvtbl_sub": "JBLV_LW_LATH_01_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 1507,
+          "ap": 1507,
+          "atk": 5075,
+          "mag": 812,
+          "dex": 3451,
+          "spd": 3400,
+          "luk": 3060,
+          "iniap": -82
+        },
+        {
+          "hp": 6675,
+          "mp": 1511,
+          "ap": 1511,
+          "atk": 5112,
+          "mag": 818,
+          "dex": 3476,
+          "spd": 3400,
+          "luk": 3090,
+          "iniap": -82
+        },
+        {
+          "hp": 6900,
+          "mp": 1515,
+          "ap": 1515,
+          "atk": 5150,
+          "mag": 824,
+          "dex": 3502,
+          "spd": 3400,
+          "luk": 3120,
+          "iniap": -82
+        },
+        {
+          "hp": 7800,
+          "mp": 1530,
+          "ap": 1530,
+          "atk": 5300,
+          "mag": 848,
+          "dex": 3604,
+          "spd": 3400,
+          "luk": 3240,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_LLN_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 1533,
+          "ap": 1533,
+          "atk": 5337,
+          "mag": 854,
+          "dex": 3629,
+          "spd": 3400,
+          "luk": 3270,
+          "iniap": -82
+        },
+        {
+          "hp": 8250,
+          "mp": 1537,
+          "ap": 1537,
+          "atk": 5375,
+          "mag": 860,
+          "dex": 3655,
+          "spd": 3400,
+          "luk": 3300,
+          "iniap": -82
+        },
+        {
+          "hp": 9150,
+          "mp": 1552,
+          "ap": 1552,
+          "atk": 5525,
+          "mag": 884,
+          "dex": 3757,
+          "spd": 3400,
+          "luk": 3420,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_LLN_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 1556,
+          "ap": 1556,
+          "atk": 5562,
+          "mag": 890,
+          "dex": 3782,
+          "spd": 3400,
+          "luk": 3450,
+          "iniap": -82
+        },
+        {
+          "hp": 9600,
+          "mp": 1560,
+          "ap": 1560,
+          "atk": 5600,
+          "mag": 896,
+          "dex": 3808,
+          "spd": 3400,
+          "luk": 3480,
+          "iniap": -82
+        },
+        {
+          "hp": 10500,
+          "mp": 1575,
+          "ap": 1575,
+          "atk": 5750,
+          "mag": 920,
+          "dex": 3910,
+          "spd": 3400,
+          "luk": 3600,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_LLN_5,10"
+        }
+      ]
+    },
+    {
+      "iname": "JB_LW_LATH_01_M",
+      "mdl": "LLN",
+      "cc_icon": "LLN_EC",
+      "origin": "JB_LW_LLN_EX_M",
+      "equips": [
+        10,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_LW_LATH_01_EXM",
+      "lvtbl_sub": "JBLV_LW_LATH_01_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 1507,
+          "ap": 1507,
+          "atk": 5075,
+          "mag": 812,
+          "dex": 3451,
+          "spd": 3400,
+          "luk": 3060,
           "iniap": -82
         }
       ]

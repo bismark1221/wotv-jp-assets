@@ -1,6 +1,44 @@
 {
   "items": [
     {
+      "area_iname": "AD_AREA_FF06_01",
+      "banner": "ExpeditionBanner_FF06_1",
+      "header": "ExpeditionHeader_FF06_1",
+      "begin_at": "2021/11/13 18:30:00",
+      "end_at": "2021/12/22 14:59:59",
+      "drop": [
+        {
+          "drop_area_id": "AD_AREA_FF06_01",
+          "drop_start_at": "2021/11/13 18:30:00",
+          "drop_end_at": "2021/11/22 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_FF06_02",
+          "drop_start_at": "2021/11/22 15:00:00",
+          "drop_end_at": "2021/12/8 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_FF06_03",
+          "drop_start_at": "2021/12/8 15:00:00",
+          "drop_end_at": "2021/12/22 14:59:59"
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_FF14_02",
+      "banner": "ExpeditionBanner_FF14_1",
+      "header": "ExpeditionHeader_FF14_1",
+      "begin_at": "2021/11/22 15:00:00",
+      "end_at": "2021/12/22 14:59:59",
+      "drop": [
+        {
+          "drop_area_id": "AD_AREA_FF14_02",
+          "drop_start_at": "2021/11/22 15:00:00",
+          "drop_end_at": "2021/12/22 14:59:59"
+        }
+      ]
+    },
+    {
       "area_iname": "AD_AREA_FF4_02",
       "banner": "ExpeditionBanner_FF04_1",
       "header": "ExpeditionHeader_FF04_1",
@@ -206,6 +244,11 @@
         {
           "drop_area_id": "AD_AREA_THUNDER_02",
           "drop_start_at": "2021/04/01",
+          "drop_end_at": "2021/10/31 23:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_THUNDER_03",
+          "drop_start_at": "2021/11/01",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -327,6 +370,11 @@
         {
           "drop_area_id": "AD_AREA_ICE_04",
           "drop_start_at": "2021/08/17 10:30:00",
+          "drop_end_at": "2021/11/30 23:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_ICE_05",
+          "drop_start_at": "2021/12/01",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -448,6 +496,16 @@
         {
           "drop_area_id": "AD_AREA_WIND_04",
           "drop_start_at": "2021/09/01",
+          "drop_end_at": "2021/12/15 10:29:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_WIND_L002",
+          "drop_start_at": "2021/12/15 10:30:00",
+          "drop_end_at": "2021/12/31 23:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_WIND_04",
+          "drop_start_at": "2022/01/01",
           "drop_end_at": "2120/10/01"
         }
       ]

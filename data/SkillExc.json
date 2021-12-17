@@ -169,6 +169,66 @@
           "calc": 1
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_EC_BLM_C_13B",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 84,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_EC_BLM_C_13B_2"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_FF6_KFKA_M_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 21,
+          "calc": 1
+        },
+        {
+          "tar": 1,
+          "type": 23,
+          "calc": 1
+        },
+        {
+          "tar": 1,
+          "type": 26,
+          "calc": 1
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_BELS_S_3",
+      "strcnd": [
+        {
+          "tar": 0,
+          "type": 95,
+          "calc": 4
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_ASTR_S_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 113,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_ASTR_S_2_2"
+        }
+      ]
     }
   ]
 }

@@ -73,7 +73,8 @@
     "MaskApHeap": "0x7E000",
     "Hate": "0x10000000000",
     "Barrier": "0x20000000000",
-    "MaskOther": "0x30000000000"
+    "SpHeal": "0x40000000000",
+    "MaskOther": "0x70000000000"
   },
   "EAISkillConditionOrder": {
     "None": "0x0",
@@ -157,7 +158,6 @@
     "RemoveDist": "0x20",
     "TargetAlly": "0x40",
     "TargetEnemy": "0x80",
-    "MaskTarget": "0xC0",
     "TypeUnit": "0x100",
     "TypeHateUnit": "0x200",
     "TypeTreasure": "0x400",
@@ -167,6 +167,8 @@
     "RemoveCantRoll": "0x2000",
     "RemoveCantHp": "0x4000",
     "MaskBase": "0x603F",
+    "TargetNeutral": "0x8000",
+    "MaskTarget": "0x80C0",
     "DistMaskBit1": "0x8000000",
     "DistMaskBit2": "0x10000000",
     "DistMaskBit3": "0x20000000",
@@ -339,6 +341,7 @@
     "NieRAutomata": "0x1F",
     "Lykeros": "0x20",
     "TombRaider": "0x21",
+    "Farplane": "0x22",
     "Reserve01": "0x36",
     "Reserve02": "0x37",
     "Reserve03": "0x38",
@@ -354,15 +357,18 @@
     "CommandPassive": "0x0",
     "Command": "0x1",
     "VisionPassive": "0x2",
-    "VisionParty": "0x3",
-    "VisionPartyFriend": "0x4",
-    "ArtifactPassive": "0x5",
-    "Artifact": "0x6",
-    "Weather": "0x7",
-    "Intimacy": "0x8",
-    "Ground": "0x9",
-    "Map": "0xA",
-    "Max": "0xB"
+    "VisionPassiveSub": "0x3",
+    "VisionParty": "0x4",
+    "VisionPartySub": "0x5",
+    "VisionPartyFriend": "0x6",
+    "VisionPartySubFriend": "0x7",
+    "ArtifactPassive": "0x8",
+    "Artifact": "0x9",
+    "Weather": "0xA",
+    "Intimacy": "0xB",
+    "Ground": "0xC",
+    "Map": "0xD",
+    "Max": "0xE"
   },
   "EBuffEffectCheckTarget": {
     "Target": "0x0",
@@ -444,7 +450,8 @@
     "BirthGoga": "0x5A",
     "BirthNieRAutomata": "0x5B",
     "BirthLykeros": "0x5C",
-    "BirthTombRaider": "0x5D"
+    "BirthTombRaider": "0x5D",
+    "BirthFarplane": "0x5E"
   },
   "EBuffEffectTiming": {
     "QuestStart": "0x0",
@@ -480,7 +487,8 @@
     "Mp": "0x2",
     "Ap": "0x3",
     "Ct": "0x4",
-    "BaseLast": "0x5",
+    "Sp": "0x5",
+    "BaseLast": "0x6",
     "StatusTop": "0x14",
     "Atk": "0x15",
     "Def": "0x16",
@@ -680,7 +688,8 @@
     "OtherHealPow": "0x15B",
     "OtherIgnReact": "0x15C",
     "OtherIgnReactResist": "0x15D",
-    "OtherLast": "0x15E",
+    "OtherStopReactRate": "0x15E",
+    "OtherLast": "0x15F",
     "CondTop2": "0x1F4",
     "CondAbsorbHp": "0x1F5",
     "CondFrozen": "0x1F6",
@@ -694,7 +703,8 @@
     "CondResistBirth": "0x1FE",
     "CondResistSpecies": "0x1FF",
     "CondEnchantSkillOnly": "0x200",
-    "CondLast2": "0x201"
+    "CondMafuken": "0x201",
+    "CondLast2": "0x202"
   },
   "EBuffType": {
     "Buff": "0x0",
@@ -763,6 +773,7 @@
     "Unit": "0x6",
     "NBeast": "0x7",
     "Vision": "0x8",
+    "Materia": "0xD",
     "Crystal": "0x63"
   },
   "EElement": {
@@ -816,6 +827,11 @@
     "MinusEffect": "0x7",
     "Arrangement": "0x8",
     "Debug": "0x9"
+  },
+  "EGuildBattleType": {
+    "Normal": "0x0",
+    "Limited": "0x1",
+    "League": "0x2"
   },
   "EHitReactionType": {
     "None": "0xFFFFFFFFFFFFFFFF",
@@ -873,6 +889,12 @@
     "Line": "0x1",
     "Parabola": "0x2"
   },
+  "EMafukenType": {
+    "None": "0x0",
+    "Turn": "0x1",
+    "Count": "0x2",
+    "TurnCount": "0x3"
+  },
   "EMapBreakAIType": {
     "NONE": "0x0",
     "ALL": "0x1",
@@ -900,6 +922,10 @@
     "Map": "0x1",
     "Atk": "0x2",
     "Special": "0x3"
+  },
+  "eMapUnitCtCalcType": {
+    "FIXED": "0x0",
+    "SCALE": "0x1"
   },
   "EMultiStampType": {
     "Greeting_01": "0x0",
@@ -974,7 +1000,8 @@
   "EPlaceType": {
     "Normal": "0x0",
     "InList": "0x1",
-    "AbsolutePathWithViewAsRoot": "0x2"
+    "AbsolutePathWithViewAsRoot": "0x2",
+    "InTab": "0x3"
   },
   "EQuestMissionType": {
     "Clear": "0x0",
@@ -1021,7 +1048,18 @@
     "ChainGreater": "0x68",
     "ElementChainGreater": "0x69",
     "NotAuto": "0xC8",
-    "OtherMissionSameDone": "0xC9"
+    "OtherMissionSameDone": "0xC9",
+    "QuestScoreAndWin": "0x12D",
+    "QuestScoreAndOverkill": "0x12E",
+    "QuestScoreAndDamaged": "0x12F",
+    "QuestScoreAndKillNum": "0x130",
+    "QuestScoreAndTurnNum": "0x131",
+    "QuestScoreAndUsedItemNum": "0x132",
+    "QuestScoreAndWeakAttackResistance": "0x133",
+    "QuestScoreAndWeakElemAttack": "0x134",
+    "QuestScoreAndAttackChain": "0x135",
+    "QuestScoreAndElemAttackChain": "0x136",
+    "QuestScoreAndDeadUnitCnt": "0x137"
   },
   "EQuestScopeType": {
     "All": "0xFFFFFFFFFFFFFFFF",
@@ -1172,7 +1210,8 @@
     "Spd": "0x9",
     "Avd": "0xA",
     "Crt": "0xB",
-    "Crta": "0xC"
+    "Crta": "0xC",
+    "Luk": "0xD"
   },
   "ESkillTarget": {
     "Self": "0x0",
@@ -1341,7 +1380,8 @@
     "EnchantSkill": "0x42",
     "ResistBirth": "0x43",
     "ResistSpecies": "0x44",
-    "EnchantSkillOnly": "0x45"
+    "EnchantSkillOnly": "0x45",
+    "Mafuken": "0x46"
   },
   "EStatusOther": {
     "InitAp": "0x0",
@@ -1441,7 +1481,8 @@
     "DebuffResistAttackR": "0x5E",
     "DebuffResistElementR": "0x5F",
     "IgnReact": "0x60",
-    "IgnReactResist": "0x61"
+    "IgnReactResist": "0x61",
+    "StopReactRate": "0x62"
   },
   "EStatusParam": {
     "None": "0x0",
@@ -1668,7 +1709,8 @@
     "OtherApDmgAvoid": "0x328",
     "OtherHealPow": "0x329",
     "OtherIgnReact": "0x32A",
-    "OtherIgnReactResist": "0x32B"
+    "OtherIgnReactResist": "0x32B",
+    "OtherStopReactRate": "0x32C"
   },
   "EStrengthCalc": {
     "Add": "0x0",
@@ -1685,7 +1727,9 @@
     "BuffEffect": "0x7",
     "BuffRate": "0x8",
     "Absorb": "0x9",
-    "Trigger": "0x14"
+    "PassiveBuffEffect": "0xA",
+    "Trigger": "0x14",
+    "TriggerBuff": "0x15"
   },
   "EStrengthFormula": {
     "Linear": "0x0",
@@ -1722,6 +1766,11 @@
     "TargetCt": "0x4A",
     "FixParam": "0x63",
     "SkillExcParam": "0x64"
+  },
+  "ESubVisionCardBuffType": {
+    "None": "0x0",
+    "Card": "0x1",
+    "Self": "0x2"
   },
   "ESwitch": {
     "On": "0x0",

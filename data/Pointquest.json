@@ -699,6 +699,156 @@
       "guild_totalpoint_eval": "EVL_RNKG_PT_FF15_01_GLD_TOTL",
       "guild_hiscorepoint_eval": "EVL_RNKG_PT_FF15_01_GLD_HISC",
       "accum_eval": "EVL_TOTL_PT_FF15_01"
+    },
+    {
+      "iname": "PT_ff6_01",
+      "is_collabo": 1,
+      "bg": "PointQuestBG_0001",
+      "top_attach": "PointQuestTop_0001",
+      "logo_attach": "PointQuestLogo_0001",
+      "appeal_unit_iname": "UN_FF6_P_CLES",
+      "appeal_localizedtext": "Home.POINTQUEST_TOP_APPEAL_CHANGE",
+      "bgm": "bgm_ff6_Tina",
+      "gacha": "GACHA_ID_FF6_01",
+      "is_ranking": 1,
+      "boss_item": "IT_PT_BOSS_FF6_1",
+      "mode": [
+        {
+          "difficulty_mode": "DM_PT_FF6_01_N"
+        },
+        {
+          "difficulty_mode": "DM_PT_FF6_01_H"
+        }
+      ],
+      "unit_effect": [
+        {
+          "unit": "UN_FF6_P_LOCK",
+          "rate": 1170
+        },
+        {
+          "unit": "UN_FF6_P_TERA",
+          "rate": 1120
+        },
+        {
+          "unit": "UN_FF6_P_CLES",
+          "rate": 1120
+        },
+        {
+          "unit": "UN_LW_P_BELS",
+          "rate": 1120
+        },
+        {
+          "unit": "UN_FF14_P_TNCR",
+          "rate": 1120
+        },
+        {
+          "unit": "UN_LW_P_ELSR",
+          "rate": 1120
+        },
+        {
+          "unit": "UN_LW_P_MONT_01",
+          "rate": 1120
+        },
+        {
+          "unit": "UN_LW_P_FALM",
+          "rate": 1120
+        },
+        {
+          "unit": "UN_LW_P_GLMS",
+          "rate": 1120
+        },
+        {
+          "unit": "UN_LW_P_RAIN",
+          "rate": 1070
+        },
+        {
+          "unit": "UN_LW_P_MRND",
+          "rate": 1070
+        },
+        {
+          "unit": "UN_LW_P_MDNA",
+          "rate": 1070
+        },
+        {
+          "unit": "UN_LW_P_ALIM",
+          "rate": 1020
+        },
+        {
+          "unit": "UN_LW_P_PRAY",
+          "rate": 1020
+        },
+        {
+          "unit": "UN_FF14_P_YSTL",
+          "rate": 1020
+        },
+        {
+          "unit": "UN_LW_P_LCIO",
+          "rate": 1020
+        }
+      ],
+      "vision_effect": [
+        {
+          "vision": "VC_FF6_MV1",
+          "rate": 1170
+        },
+        {
+          "vision": "VC_LW_CHEL",
+          "rate": 1170
+        },
+        {
+          "vision": "VC_FF14_MV4",
+          "rate": 1120
+        },
+        {
+          "vision": "VC_LW_ODIN_01",
+          "rate": 1050
+        },
+        {
+          "vision": "VC_FF14_MV3",
+          "rate": 1050
+        },
+        {
+          "vision": "VC_FF14_MV1",
+          "rate": 1050
+        },
+        {
+          "vision": "VC_LW_MONT2",
+          "rate": 1050
+        },
+        {
+          "vision": "VC_LW_MRND",
+          "rate": 1050
+        },
+        {
+          "vision": "VC_LW_LUCA2",
+          "rate": 1050
+        },
+        {
+          "vision": "VC_LW_FNRR",
+          "rate": 1050
+        },
+        {
+          "vision": "VC_FF14_MV2",
+          "rate": 1020
+        },
+        {
+          "vision": "VC_LW_LILS2",
+          "rate": 1020
+        },
+        {
+          "vision": "VC_LW_LAMA_01",
+          "rate": 1020
+        },
+        {
+          "vision": "VC_LW_GUREN",
+          "rate": 1020
+        }
+      ],
+      "totalpoint_ranking_eval": "EVL_RNKG_PT_FF6_01_SLF_TOTL",
+      "hiscorepoint_ranking_eval": "EVL_RNKG_PT_FF6_01_SLF_HISC",
+      "guild_totalpoint_eval": "EVL_RNKG_PT_FF6_01_GLD_TOTL",
+      "guild_hiscorepoint_eval": "EVL_RNKG_PT_FF6_01_GLD_HISC",
+      "accum_eval": "EVL_TOTL_PT_FF6_01"
     }
   ]
 }
