@@ -249,7 +249,7 @@
   ],
   "enemy": [
     {
-      "name": "",
+      "name": "csli",
       "x": 10,
       "y": 11,
       "dir": 2,
@@ -1174,7 +1174,7 @@
     },
     {
       "name": "tnbr3",
-      "x": 10,
+      "x": 9,
       "y": 6,
       "dir": 2,
       "ct_calc": 0,
@@ -1211,6 +1211,13 @@
                 "json": "{\"side\":1,\"tag\":\"slim2\"}"
               }
             ]
+          },
+          {
+            "self": {
+              "type": 7,
+              "json": "{\"ope\":1,\"tag\":\"csli\",\"hp\":60}"
+            },
+            "childs": []
           }
         ]
       },
@@ -2015,7 +2022,7 @@
         },
         {
           "iname": "SK_BTL_FAP_1-999_U",
-          "rank": 30,
+          "rank": 40,
           "rate": 100
         }
       ],
@@ -2421,7 +2428,7 @@
             "num": 7,
             "secret": 0
           },
-          "weight": 5238
+          "weight": 5291
         },
         {
           "drop_data": {
@@ -2430,7 +2437,7 @@
             "num": 7,
             "secret": 0
           },
-          "weight": 2619
+          "weight": 2646
         },
         {
           "drop_data": {
@@ -2457,7 +2464,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 1403
+          "weight": 1323
         }
       ]
     }

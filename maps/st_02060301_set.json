@@ -2181,8 +2181,8 @@
       },
       "enemy_id": 15,
       "iname": "UN_GM_MGSW",
-      "side": 0,
-      "dead": 1,
+      "side": 2,
+      "dead": 2,
       "lv": 1,
       "rare": 0,
       "awake": 1,
@@ -2355,7 +2355,14 @@
           {
             "self": {
               "type": 11,
-              "json": "{\"side\":1,\"tag\":\"\",\"target\":\"SWT\",\"isCurrent\":false}"
+              "json": "{\"side\":1,\"tag\":\"\",\"target\":\"SWT\",\"isCurrent\":true}"
+            },
+            "childs": []
+          },
+          {
+            "self": {
+              "type": 11,
+              "json": "{\"side\":0,\"tag\":\"\",\"target\":\"SWT\",\"isCurrent\":true}"
             },
             "childs": []
           }
@@ -2363,8 +2370,8 @@
       },
       "mapEv": {
         "type": 1,
-        "typeval": "string={\"Datas\":[{\"Type\":10,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":true,\"ParamJson\":\"{\\\"m_Tags\\\":[\\\"SWT\\\"]}\"},{\"Type\":6,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":false,\"ParamJson\":\"{\\\"m_MoveType\\\":0,\\\"m_CameraPosName\\\":\\\"\\\",\\\"m_CameraLookAtName\\\":\\\"trap_target\\\",\\\"m_AnmCurve\\\":{\\\"serializedVersion\\\":\\\"2\\\",\\\"m_Curve\\\":[],\\\"m_PreInfinity\\\":2,\\\"m_PostInfinity\\\":2,\\\"m_RotationOrder\\\":4},\\\"m_AnmCurveTime\\\":0.0}\"},{\"Type\":1,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":false,\"ParamJson\":\"{\\\"m_ObjectName\\\":\\\"skinmesh_gimmick\\\",\\\"m_AnmName\\\":\\\"ceiling_down\\\"}\"},{\"Type\":5,\"IsActiveSameTime\":true,\"Delay\":0.30000001192092898,\"IsPreProc\":false,\"ParamJson\":\"{\\\"m_Range\\\":[{\\\"x\\\":3,\\\"y\\\":6},{\\\"x\\\":4,\\\"y\\\":6},{\\\"x\\\":4,\\\"y\\\":5},{\\\"x\\\":5,\\\"y\\\":5},{\\\"x\\\":5,\\\"y\\\":6},{\\\"x\\\":5,\\\"y\\\":7},{\\\"x\\\":4,\\\"y\\\":7},{\\\"x\\\":3,\\\"y\\\":7},{\\\"x\\\":4,\\\"y\\\":6}],\\\"m_Immediate\\\":false}\"}],\"ReactionSide\":0};local=",
-        "isUnitNoAct": true
+        "typeval": "string={\"Datas\":[{\"Type\":9,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":true,\"ParamJson\":\"{\\\"m_Immediate\\\":false,\\\"m_Tags\\\":[\\\"SWT\\\"]}\"},{\"Type\":6,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":false,\"ParamJson\":\"{\\\"m_MoveType\\\":0,\\\"m_CameraPosName\\\":\\\"\\\",\\\"m_CameraLookAtName\\\":\\\"trap_target\\\",\\\"m_AnmCurve\\\":{\\\"serializedVersion\\\":\\\"2\\\",\\\"m_Curve\\\":[],\\\"m_PreInfinity\\\":2,\\\"m_PostInfinity\\\":2,\\\"m_RotationOrder\\\":4},\\\"m_AnmCurveTime\\\":0.0}\"},{\"Type\":1,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":false,\"ParamJson\":\"{\\\"m_ObjectName\\\":\\\"skinmesh_gimmick\\\",\\\"m_AnmName\\\":\\\"ceiling_down\\\"}\"},{\"Type\":5,\"IsActiveSameTime\":true,\"Delay\":0.30000001192092898,\"IsPreProc\":false,\"ParamJson\":\"{\\\"m_Range\\\":[{\\\"x\\\":3,\\\"y\\\":6},{\\\"x\\\":4,\\\"y\\\":5},{\\\"x\\\":5,\\\"y\\\":5},{\\\"x\\\":5,\\\"y\\\":6},{\\\"x\\\":5,\\\"y\\\":7},{\\\"x\\\":4,\\\"y\\\":7},{\\\"x\\\":3,\\\"y\\\":7},{\\\"x\\\":4,\\\"y\\\":6},{\\\"x\\\":3,\\\"y\\\":5}],\\\"m_Immediate\\\":false}\"}],\"ReactionSide\":0};local=",
+        "isUnitNoAct": false
       },
       "invokeMax": 1,
       "deadTags": [],

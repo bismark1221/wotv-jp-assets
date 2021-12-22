@@ -340,7 +340,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "MEDAL",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -549,7 +549,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_P5R_04",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -748,7 +748,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_P5R_04",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -947,7 +947,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_P5R_04",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1141,7 +1141,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_P5R_04",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1335,7 +1335,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_P5R_04",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1534,7 +1534,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_P5R_04",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1689,8 +1689,8 @@
     "list": [
       {
         "self": {
-          "type": 3,
-          "json": "{\"side\":0,\"tag\":\"KNSR\"}"
+          "type": 1,
+          "json": "{\"side\":1,\"tag\":\"\"}"
         },
         "childs": []
       }
@@ -1737,7 +1737,7 @@
   "drop_table_list": [
     {
       "type": 0,
-      "iname": "QE_EV_FF6_04",
+      "iname": "QE_EV_P5R_04",
       "num": 1,
       "drop_list": [
         {
@@ -1761,7 +1761,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_SSWORD_02",
+            "iname": "IT_JB_FIST_02",
             "num": 1,
             "secret": 0
           },
@@ -1770,7 +1770,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_MM_FF6_LOCK_2",
+            "iname": "IT_JB_MM_PRS5_QUEN_2",
             "num": 1,
             "secret": 0
           },
@@ -1779,7 +1779,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_EM_SHINE_2",
+            "iname": "IT_JB_EM_THUNDER_2",
             "num": 1,
             "secret": 0
           },
@@ -1797,7 +1797,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_LW_DAG_001",
+            "iname": "IT_AF_LW_FIS_001",
             "num": 1,
             "secret": 0
           },
@@ -1806,20 +1806,11 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_LW_SWO_001",
+            "iname": "IT_AF_MAT_SAND_01",
             "num": 1,
             "secret": 0
           },
-          "weight": 250
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_MAT_HEART_01",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 1334
+          "weight": 667
         },
         {
           "drop_data": {
@@ -1828,7 +1819,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 3249
+          "weight": 4166
         }
       ]
     },
@@ -1840,7 +1831,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_FF6_1",
+            "iname": "IT_EC_PRS5_1",
             "num": 20,
             "secret": 0
           },
@@ -1849,7 +1840,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_FF6_1",
+            "iname": "IT_EC_PRS5_1",
             "num": 22,
             "secret": 0
           },
@@ -1858,7 +1849,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_FF6_1",
+            "iname": "IT_EC_PRS5_1",
             "num": 25,
             "secret": 0
           },

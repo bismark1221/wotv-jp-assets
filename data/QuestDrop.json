@@ -257,6 +257,8 @@
         "QE_EV_FF15_02",
         "QE_EV_FF6_01",
         "QE_EV_FF6_02",
+        "QE_EV_P5R_01",
+        "QE_EV_P5R_02",
         "QE_EV_16_01",
         "QE_EV_16_02",
         "QE_EV_14_01",
@@ -710,6 +712,10 @@
         "QE_EV_FF6_04",
         "QE_EV_FF6_05",
         "QE_EV_FF6_06",
+        "QE_EV_P5R_03",
+        "QE_EV_P5R_04",
+        "QE_EV_P5R_05",
+        "QE_EV_P5R_06",
         "QE_EV_16_03",
         "QE_EV_16_04",
         "QE_EV_16_05",
@@ -1153,6 +1159,16 @@
         "QE_ST_02060208",
         "QE_ST_02060209",
         "QE_ST_02060210",
+        "QE_ST_02060301",
+        "QE_ST_02060302",
+        "QE_ST_02060303",
+        "QE_ST_02060304",
+        "QE_ST_02060305",
+        "QE_ST_02060306",
+        "QE_ST_02060307",
+        "QE_ST_02060308",
+        "QE_ST_02060309",
+        "QE_ST_02060310",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_VADM",
@@ -1248,6 +1264,10 @@
         "QE_EV_FF6_08",
         "QE_EV_FF6_09",
         "QE_EV_FF6_10",
+        "QE_EV_P5R_07",
+        "QE_EV_P5R_08",
+        "QE_EV_P5R_09",
+        "QE_EV_P5R_10",
         "QE_EV_16_07",
         "QE_EV_16_08",
         "QE_EV_16_09",
@@ -1557,6 +1577,16 @@
         "QE_ST_02060208",
         "QE_ST_02060209",
         "QE_ST_02060210",
+        "QE_ST_02060301",
+        "QE_ST_02060302",
+        "QE_ST_02060303",
+        "QE_ST_02060304",
+        "QE_ST_02060305",
+        "QE_ST_02060306",
+        "QE_ST_02060307",
+        "QE_ST_02060308",
+        "QE_ST_02060309",
+        "QE_ST_02060310",
         "QE_HA_LW_AILN",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_AYKA",
@@ -1903,6 +1933,8 @@
         "QE_ST_02050310",
         "QE_ST_02060107",
         "QE_ST_02060204",
+        "QE_ST_02060301",
+        "QE_ST_02060308",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_VADM",
@@ -1996,6 +2028,8 @@
         "QE_ST_02030305",
         "QE_ST_02060107",
         "QE_ST_02060204",
+        "QE_ST_02060301",
+        "QE_ST_02060308",
         "QE_HA_LW_AILN",
         "QE_HA_LW_YERM",
         "QE_HA_LW_NASR",
@@ -2222,6 +2256,8 @@
         "QE_ST_02050310",
         "QE_ST_02060107",
         "QE_ST_02060204",
+        "QE_ST_02060301",
+        "QE_ST_02060308",
         "QE_HA_LW_LILS",
         "QE_HA_LW_VSTR",
         "QE_HA_LW_STRN",
@@ -2286,6 +2322,8 @@
         "QE_ST_02030305",
         "QE_ST_02060107",
         "QE_ST_02060204",
+        "QE_ST_02060301",
+        "QE_ST_02060308",
         "QE_HA_LW_AILN",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_GLMS",
@@ -2478,6 +2516,8 @@
         "QE_ST_02060101",
         "QE_ST_02060108",
         "QE_ST_02060205",
+        "QE_ST_02060302",
+        "QE_ST_02060309",
         "QE_HA_LW_VADM",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_ELDE",
@@ -2535,6 +2575,8 @@
         "QE_ST_02060101",
         "QE_ST_02060108",
         "QE_ST_02060205",
+        "QE_ST_02060302",
+        "QE_ST_02060309",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_SIMR",
         "QE_HA_LW_LVES",
@@ -2597,6 +2639,7 @@
         "QE_EV_AST_010101",
         "QE_EV_FF4_02",
         "QE_EV_FF7_02",
+        "QE_EV_P5R_02",
         "QE_EV_12_02",
         "QE_EV_08_01",
         "QE_EV_ETRE_01"
@@ -2665,6 +2708,8 @@
         "QE_EV_FF4_05",
         "QE_EV_FF7_04",
         "QE_EV_FF7_06",
+        "QE_EV_P5R_04",
+        "QE_EV_P5R_06",
         "QE_EV_12_04",
         "QE_EV_12_06",
         "QE_EV_08_03",
@@ -2731,6 +2776,7 @@
         "QE_ST_02060103",
         "QE_ST_02060110",
         "QE_ST_02060207",
+        "QE_ST_02060304",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MRLK",
         "QE_HA_LW_ELDE",
@@ -2748,6 +2794,8 @@
         "QE_EV_FF4_09",
         "QE_EV_FF7_08",
         "QE_EV_FF7_10",
+        "QE_EV_P5R_08",
+        "QE_EV_P5R_10",
         "QE_EV_12_08",
         "QE_EV_12_10",
         "QE_EV_08_07",
@@ -2797,6 +2845,7 @@
         "QE_ST_02060103",
         "QE_ST_02060110",
         "QE_ST_02060207",
+        "QE_ST_02060304",
         "QE_HA_LW_MACR",
         "QE_HA_LW_DRND",
         "QE_HA_LW_LUCA",
@@ -3005,6 +3054,8 @@
         "QE_ST_02060102",
         "QE_ST_02060109",
         "QE_ST_02060206",
+        "QE_ST_02060303",
+        "QE_ST_02060310",
         "QE_HA_LW_MURM",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_RAMD",
@@ -3080,6 +3131,8 @@
         "QE_ST_02060102",
         "QE_ST_02060109",
         "QE_ST_02060206",
+        "QE_ST_02060303",
+        "QE_ST_02060310",
         "QE_HA_LW_AILN",
         "QE_HA_LW_NASR",
         "QE_HA_LW_VKTR",
@@ -3144,6 +3197,7 @@
         "QE_ST_02040304",
         "QE_EV_AST_010403",
         "QE_EV_FF6_02",
+        "QE_EV_P5R_01",
         "QE_EV_03_02"
       ]
     },
@@ -3210,6 +3264,8 @@
         "QE_EV_AST_010209",
         "QE_EV_FF6_04",
         "QE_EV_FF6_06",
+        "QE_EV_P5R_03",
+        "QE_EV_P5R_05",
         "QE_EV_03_04",
         "QE_EV_03_06"
       ]
@@ -3272,6 +3328,8 @@
         "QE_ST_02060101",
         "QE_ST_02060108",
         "QE_ST_02060205",
+        "QE_ST_02060302",
+        "QE_ST_02060309",
         "QE_HA_LW_VADM",
         "QE_HA_LW_RAMD",
         "QE_HA_LW_RIRY",
@@ -3284,6 +3342,8 @@
         "QE_EV_AST_010209",
         "QE_EV_FF6_08",
         "QE_EV_FF6_10",
+        "QE_EV_P5R_07",
+        "QE_EV_P5R_09",
         "QE_EV_03_08",
         "QE_EV_03_10"
       ]
@@ -3330,6 +3390,8 @@
         "QE_ST_02060101",
         "QE_ST_02060108",
         "QE_ST_02060205",
+        "QE_ST_02060302",
+        "QE_ST_02060309",
         "QE_HA_LW_VKTR",
         "QE_HA_LW_VNLA",
         "QE_HA_LW_SIMR",
@@ -3514,6 +3576,8 @@
         "QE_ST_02060102",
         "QE_ST_02060109",
         "QE_ST_02060206",
+        "QE_ST_02060303",
+        "QE_ST_02060310",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_STRN",
@@ -3568,6 +3632,8 @@
         "QE_ST_02060102",
         "QE_ST_02060109",
         "QE_ST_02060206",
+        "QE_ST_02060303",
+        "QE_ST_02060310",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_YERM",
         "QE_HA_LW_KTON",
@@ -3759,6 +3825,7 @@
         "QE_ST_02060104",
         "QE_ST_02060201",
         "QE_ST_02060208",
+        "QE_ST_02060305",
         "QE_HA_LW_UNII",
         "QE_HA_LW_LILS",
         "QE_HA_LW_CLEY",
@@ -3820,6 +3887,7 @@
         "QE_ST_02060104",
         "QE_ST_02060201",
         "QE_ST_02060208",
+        "QE_ST_02060305",
         "QE_HA_LW_FINA",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_LUCA",
@@ -4006,6 +4074,7 @@
         "QE_ST_02060105",
         "QE_ST_02060202",
         "QE_ST_02060209",
+        "QE_ST_02060306",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_RIRY",
         "QE_HA_LW_FDRC",
@@ -4067,6 +4136,7 @@
         "QE_ST_02060105",
         "QE_ST_02060202",
         "QE_ST_02060209",
+        "QE_ST_02060306",
         "QE_HA_LW_FINA",
         "QE_HA_LW_DRND",
         "QE_HA_LW_LUCA",
@@ -4275,6 +4345,7 @@
         "QE_ST_02060105",
         "QE_ST_02060202",
         "QE_ST_02060209",
+        "QE_ST_02060306",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MURM",
@@ -4350,6 +4421,7 @@
         "QE_ST_02060105",
         "QE_ST_02060202",
         "QE_ST_02060209",
+        "QE_ST_02060306",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_MACR",
@@ -4551,6 +4623,7 @@
         "QE_ST_02060106",
         "QE_ST_02060203",
         "QE_ST_02060210",
+        "QE_ST_02060307",
         "QE_HA_LW_KADI",
         "QE_EV_AST_010505",
         "QE_EV_AST_010408",
@@ -4603,6 +4676,7 @@
         "QE_ST_02060106",
         "QE_ST_02060203",
         "QE_ST_02060210",
+        "QE_ST_02060307",
         "QE_HA_LW_MACR",
         "QE_HA_LW_FINA",
         "QE_HA_LW_IRDL",
@@ -4794,6 +4868,7 @@
         "QE_ST_02060103",
         "QE_ST_02060110",
         "QE_ST_02060207",
+        "QE_ST_02060304",
         "QE_EV_AST_010502",
         "QE_EV_AST_010509",
         "QE_EV_AST_010405",
@@ -4849,6 +4924,7 @@
         "QE_ST_02060103",
         "QE_ST_02060110",
         "QE_ST_02060207",
+        "QE_ST_02060304",
         "QE_HA_LW_YERM",
         "QE_HA_LW_DRND",
         "QE_HA_LW_SIMR",
@@ -5000,6 +5076,7 @@
         "QE_ST_02060104",
         "QE_ST_02060201",
         "QE_ST_02060208",
+        "QE_ST_02060305",
         "QE_EV_AST_010503",
         "QE_EV_AST_010406",
         "QE_EV_AST_010302",
@@ -5043,6 +5120,7 @@
         "QE_ST_02060104",
         "QE_ST_02060201",
         "QE_ST_02060208",
+        "QE_ST_02060305",
         "QE_HA_LW_GABL",
         "QE_EV_AST_010302",
         "QE_EV_AST_010309"
@@ -5184,6 +5262,7 @@
         "QE_ST_02060106",
         "QE_ST_02060203",
         "QE_ST_02060210",
+        "QE_ST_02060307",
         "QE_EV_AST_010505",
         "QE_EV_AST_010408",
         "QE_EV_AST_010304",
@@ -5225,6 +5304,7 @@
         "QE_ST_02060106",
         "QE_ST_02060203",
         "QE_ST_02060210",
+        "QE_ST_02060307",
         "QE_HA_LW_RYEL",
         "QE_HA_LW_LMRE",
         "QE_HA_LW_GRSR_01",
@@ -5890,6 +5970,7 @@
         "QE_ST_02050105",
         "QE_ST_02050305",
         "QE_ST_02060105",
+        "QE_ST_02060305",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MRLK",
         "QE_HA_LW_ELDE",
@@ -5928,6 +6009,7 @@
         "QE_ST_02030103",
         "QE_ST_02030303",
         "QE_ST_02060105",
+        "QE_ST_02060305",
         "QE_HA_LW_MACR",
         "QE_HA_LW_DRND",
         "QE_HA_LW_LUCA",
@@ -6159,6 +6241,7 @@
         "QE_ST_02050202",
         "QE_ST_02050302",
         "QE_ST_02060202",
+        "QE_ST_02060302",
         "QE_HA_LW_MURM",
         "QE_HA_LW_RAMD",
         "QE_HA_LW_LRNZ",
@@ -6190,6 +6273,7 @@
         "QE_ST_02030110",
         "QE_ST_02030210",
         "QE_ST_02060202",
+        "QE_ST_02060302",
         "QE_HA_LW_AILN"
       ]
     },
@@ -6295,6 +6379,7 @@
         "QE_ST_02050103",
         "QE_ST_02050303",
         "QE_ST_02060103",
+        "QE_ST_02060303",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_LRNZ",
@@ -6336,6 +6421,7 @@
         "QE_ST_02030101",
         "QE_ST_02030301",
         "QE_ST_02060103",
+        "QE_ST_02060303",
         "QE_HA_LW_NASR",
         "QE_HA_LW_VKTR",
         "QE_HA_LW_LSWL",
@@ -6558,6 +6644,7 @@
         "QE_ST_02050201",
         "QE_ST_02050301",
         "QE_ST_02060201",
+        "QE_ST_02060301",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_STRN",
@@ -6587,6 +6674,7 @@
         "QE_ST_02030109",
         "QE_ST_02030209",
         "QE_ST_02060201",
+        "QE_ST_02060301",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_KTON",
         "QE_HA_LW_THLA",
@@ -6694,6 +6782,7 @@
         "QE_ST_02050209",
         "QE_ST_02050309",
         "QE_ST_02060209",
+        "QE_ST_02060309",
         "QE_HA_LW_UNII",
         "QE_HA_LW_LILS",
         "QE_HA_LW_CLEY",
@@ -6727,6 +6816,7 @@
         "QE_ST_02030207",
         "QE_ST_02030307",
         "QE_ST_02060209",
+        "QE_ST_02060309",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_LUCA",
         "QE_HA_LW_RRIR",
@@ -6818,6 +6908,7 @@
         "QE_ST_02050101",
         "QE_ST_02050301",
         "QE_ST_02060101",
+        "QE_ST_02060301",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_RIRY",
         "QE_HA_LW_FDRC",
@@ -6845,6 +6936,7 @@
         "QE_ST_02030209",
         "QE_ST_02030309",
         "QE_ST_02060101",
+        "QE_ST_02060301",
         "QE_HA_LW_FINA",
         "QE_HA_LW_DRND",
         "QE_HA_LW_LATH",
@@ -6940,6 +7032,7 @@
         "QE_ST_02050108",
         "QE_ST_02050308",
         "QE_ST_02060108",
+        "QE_ST_02060308",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_HLNA",
         "QE_HA_LW_KADI",
@@ -6969,6 +7062,7 @@
         "QE_ST_02030106",
         "QE_ST_02030306",
         "QE_ST_02060108",
+        "QE_ST_02060308",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_NASR",
         "QE_HA_LW_FINA",
@@ -7074,6 +7168,7 @@
         "QE_ST_02050109",
         "QE_ST_02050309",
         "QE_ST_02060109",
+        "QE_ST_02060309",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MURM",
@@ -7105,6 +7200,7 @@
         "QE_ST_02030107",
         "QE_ST_02030307",
         "QE_ST_02060109",
+        "QE_ST_02060309",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_MACR",
         "QE_HA_LW_THLA",
@@ -7343,6 +7439,7 @@
         "QE_ST_02050110",
         "QE_ST_02050310",
         "QE_ST_02060110",
+        "QE_ST_02060310",
         "QE_HA_LW_HLNA",
         "QE_HA_LW_CLEY",
         "QE_HA_LW_MRLK",
@@ -7370,6 +7467,7 @@
         "QE_ST_02030108",
         "QE_ST_02030308",
         "QE_ST_02060110",
+        "QE_ST_02060310",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_ADLD",
@@ -7611,6 +7709,7 @@
         "QE_ST_02050206",
         "QE_ST_02050306",
         "QE_ST_02060206",
+        "QE_ST_02060306",
         "QE_HA_LW_UNII",
         "QE_HA_LW_RAMD",
         "QE_HA_LW_KADI",
@@ -7646,6 +7745,7 @@
         "QE_ST_02030204",
         "QE_ST_02030304",
         "QE_ST_02060206",
+        "QE_ST_02060306",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_DRIO",
         "QE_HA_LW_QILF",
@@ -7743,6 +7843,7 @@
         "QE_ST_02050203",
         "QE_ST_02050303",
         "QE_ST_02060203",
+        "QE_ST_02060303",
         "QE_HA_LW_KADI",
         "QE_EV_AST_010508",
         "QE_EV_AST_010302",
@@ -7771,6 +7872,7 @@
         "QE_ST_02030201",
         "QE_ST_02030301",
         "QE_ST_02060203",
+        "QE_ST_02060303",
         "QE_HA_LW_MACR",
         "QE_HA_LW_FINA",
         "QE_HA_LW_RVAL",
@@ -7862,7 +7964,8 @@
         "QE_ST_02030107",
         "QE_ST_02030309",
         "QE_ST_02050205",
-        "QE_ST_02060101"
+        "QE_ST_02060101",
+        "QE_ST_02060303"
       ]
     },
     {
@@ -7886,6 +7989,7 @@
         "QE_ST_02030107",
         "QE_ST_02030309",
         "QE_ST_02060101",
+        "QE_ST_02060303",
         "QE_HA_LW_GLMS"
       ]
     },
@@ -7977,6 +8081,7 @@
         "QE_ST_02050104",
         "QE_ST_02050304",
         "QE_ST_02060104",
+        "QE_ST_02060304",
         "QE_EV_14_08",
         "QE_EV_14_10",
         "QE_EV_01_07",
@@ -8003,6 +8108,7 @@
         "QE_ST_02030102",
         "QE_ST_02030302",
         "QE_ST_02060104",
+        "QE_ST_02060304",
         "QE_HA_LW_YERM",
         "QE_HA_LW_DRND",
         "QE_HA_LW_SIMR",
@@ -8107,6 +8213,7 @@
         "QE_ST_02050107",
         "QE_ST_02050307",
         "QE_ST_02060107",
+        "QE_ST_02060307",
         "QE_EV_AST_010502",
         "QE_EV_AST_010203",
         "QE_EV_AST_010206",
@@ -8135,6 +8242,7 @@
         "QE_ST_02030105",
         "QE_ST_02030305",
         "QE_ST_02060107",
+        "QE_ST_02060307",
         "QE_HA_LW_LUCA",
         "QE_HA_LW_VNLA",
         "QE_HA_LW_LATH",
@@ -8483,6 +8591,7 @@
         "QE_ST_02030109",
         "QE_ST_02050207",
         "QE_ST_02060103",
+        "QE_ST_02060305",
         "QE_EV_04_08",
         "QE_EV_04_10"
       ]
@@ -8509,6 +8618,7 @@
         "QE_ST_01150302",
         "QE_ST_02030109",
         "QE_ST_02060103",
+        "QE_ST_02060305",
         "QE_HA_LW_QILF",
         "QE_HA_LW_SCAL"
       ]
@@ -8599,6 +8709,7 @@
         "QE_ST_02050204",
         "QE_ST_02050304",
         "QE_ST_02060204",
+        "QE_ST_02060304",
         "QE_EV_AST_010509"
       ]
     },
@@ -8622,6 +8733,7 @@
         "QE_ST_02030202",
         "QE_ST_02030302",
         "QE_ST_02060204",
+        "QE_ST_02060304",
         "QE_HA_LW_IRDL",
         "QE_HA_LW_MRAL",
         "QE_HA_LW_RVAL",
@@ -9065,6 +9177,7 @@
         "QE_ST_02050207",
         "QE_ST_02050307",
         "QE_ST_02060207",
+        "QE_ST_02060307",
         "QE_EV_AST_010503",
         "QE_EV_06_07",
         "QE_EV_06_09",
@@ -9091,6 +9204,7 @@
         "QE_ST_02030205",
         "QE_ST_02030305",
         "QE_ST_02060207",
+        "QE_ST_02060307",
         "QE_HA_LW_HWLT",
         "QE_HA_LW_ELSI",
         "QE_HA_LW_RYEL"
@@ -9208,6 +9322,7 @@
         "QE_ST_02050205",
         "QE_ST_02050305",
         "QE_ST_02060205",
+        "QE_ST_02060305",
         "QE_EV_16_08",
         "QE_EV_16_10",
         "QE_EV_CWEL_05"
@@ -9233,6 +9348,7 @@
         "QE_ST_02030203",
         "QE_ST_02030303",
         "QE_ST_02060205",
+        "QE_ST_02060305",
         "QE_HA_LW_SAKR",
         "QE_HA_LW_GABL",
         "QE_HA_LW_MORE",
@@ -9328,6 +9444,7 @@
         "QE_ST_02050210",
         "QE_ST_02050310",
         "QE_ST_02060210",
+        "QE_ST_02060310",
         "QE_EV_AST_010506",
         "QE_EV_AST_010202",
         "QE_EV_AST_010205",
@@ -9357,6 +9474,7 @@
         "QE_ST_02030208",
         "QE_ST_02030308",
         "QE_ST_02060210",
+        "QE_ST_02060310",
         "QE_HA_LW_NIVL",
         "QE_HA_LW_CWEL",
         "QE_HA_LW_STIA",
@@ -9448,6 +9566,7 @@
         "QE_ST_02030203",
         "QE_ST_02050301",
         "QE_ST_02060107",
+        "QE_ST_02060309",
         "QE_EV_ALIM_05"
       ]
     },
@@ -9472,6 +9591,7 @@
         "QE_ST_01150304",
         "QE_ST_02030203",
         "QE_ST_02060107",
+        "QE_ST_02060309",
         "QE_HA_LW_SAKR"
       ]
     },
@@ -9567,6 +9687,7 @@
         "QE_ST_02050106",
         "QE_ST_02050306",
         "QE_ST_02060106",
+        "QE_ST_02060306",
         "QE_EV_AST_010203",
         "QE_EV_AST_010206",
         "QE_EV_AST_010209",
@@ -9594,6 +9715,7 @@
         "QE_ST_02030104",
         "QE_ST_02030304",
         "QE_ST_02060106",
+        "QE_ST_02060306",
         "QE_HA_LW_RARD",
         "QE_HA_LW_VLRC"
       ]
@@ -9688,6 +9810,7 @@
         "QE_ST_02050208",
         "QE_ST_02050308",
         "QE_ST_02060208",
+        "QE_ST_02060308",
         "QE_EV_AST_010504",
         "QE_EV_09_07",
         "QE_EV_09_09"
@@ -9715,6 +9838,7 @@
         "QE_ST_02030206",
         "QE_ST_02030306",
         "QE_ST_02060208",
+        "QE_ST_02060308",
         "QE_HA_LW_GABL"
       ]
     },
@@ -10040,7 +10164,8 @@
         "QE_ST_020202_09",
         "QE_ST_02030201",
         "QE_ST_02050209",
-        "QE_ST_02060105"
+        "QE_ST_02060105",
+        "QE_ST_02060307"
       ]
     },
     {
@@ -10065,6 +10190,7 @@
         "QE_ST_01150303",
         "QE_ST_02030201",
         "QE_ST_02060105",
+        "QE_ST_02060307",
         "QE_HA_LW_MONT_01"
       ]
     },
@@ -10161,6 +10287,7 @@
         "QE_ST_02050102",
         "QE_ST_02050302",
         "QE_ST_02060102",
+        "QE_ST_02060302",
         "QE_EV_AST_010508",
         "QE_EV_10_07",
         "QE_EV_10_09"
@@ -10188,6 +10315,7 @@
         "QE_ST_02030210",
         "QE_ST_02030310",
         "QE_ST_02060102",
+        "QE_ST_02060302",
         "QE_HA_LW_RYEL",
         "QE_HA_LW_LMRE",
         "QE_HA_LW_GRSR_01",
@@ -10534,6 +10662,7 @@
         "QE_ST_02030105",
         "QE_ST_02030307",
         "QE_ST_02050203",
+        "QE_ST_02060301",
         "QE_EV_CRL_02",
         "QE_EV_12_07",
         "QE_EV_12_09"
@@ -10561,6 +10690,7 @@
         "QE_ST_01150301",
         "QE_ST_02030105",
         "QE_ST_02030307",
+        "QE_ST_02060301",
         "QE_HA_LW_CRLT",
         "QE_EV_CRL_02"
       ]
@@ -11016,7 +11146,8 @@
         "QE_ST_020202_06",
         "QE_ST_02050210",
         "QE_ST_02050310",
-        "QE_ST_02060106"
+        "QE_ST_02060106",
+        "QE_ST_02060304"
       ]
     },
     {
@@ -11040,6 +11171,7 @@
         "QE_ST_01150207",
         "QE_ST_01150307",
         "QE_ST_02060106",
+        "QE_ST_02060304",
         "QE_HA_LW_VLUC"
       ]
     },
@@ -11286,7 +11418,8 @@
         "QE_ST_02050110",
         "QE_ST_02050206",
         "QE_ST_02050304",
-        "QE_ST_02060110"
+        "QE_ST_02060110",
+        "QE_ST_02060306"
       ]
     },
     {
@@ -11310,7 +11443,8 @@
         "QE_ST_01150206",
         "QE_ST_01150306",
         "QE_ST_02030106",
-        "QE_ST_02060110"
+        "QE_ST_02060110",
+        "QE_ST_02060306"
       ]
     },
     {
@@ -11454,6 +11588,7 @@
         "QE_ST_02050102",
         "QE_ST_02050202",
         "QE_ST_02060102",
+        "QE_ST_02060308",
         "QE_EV_AST_010303",
         "QE_EV_AST_010307",
         "QE_EV_16_07",
@@ -11484,6 +11619,7 @@
         "QE_ST_02030202",
         "QE_ST_02030308",
         "QE_ST_02060102",
+        "QE_ST_02060308",
         "QE_HA_LW_LNAN",
         "QE_EV_AST_010303",
         "QE_EV_AST_010307"
@@ -11874,7 +12010,8 @@
         "QE_ST_02050107",
         "QE_ST_02050210",
         "QE_ST_02050307",
-        "QE_ST_02060109"
+        "QE_ST_02060109",
+        "QE_ST_02060302"
       ]
     },
     {
@@ -11900,7 +12037,8 @@
         "QE_ST_02030103",
         "QE_ST_02030210",
         "QE_ST_02030309",
-        "QE_ST_02060109"
+        "QE_ST_02060109",
+        "QE_ST_02060302"
       ]
     },
     {
@@ -12228,7 +12366,8 @@
         "QE_ST_02020204",
         "QE_ST_02030101",
         "QE_ST_02050102",
-        "QE_ST_02060101"
+        "QE_ST_02060101",
+        "QE_ST_02060310"
       ]
     },
     {
@@ -12242,7 +12381,8 @@
         "QE_ST_01120102",
         "QE_ST_01150101",
         "QE_ST_02030101",
-        "QE_ST_02060101"
+        "QE_ST_02060101",
+        "QE_ST_02060310"
       ]
     },
     {
@@ -12250,6 +12390,110 @@
       "questlist": [
         "QE_EV_AW_H13_5",
         "QE_EV_AW_H15_5"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PRS5_JOKR",
+      "questlist": [
+        "QE_EV_P5R_01"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PRS5_JOKR_2",
+      "questlist": [
+        "QE_EV_P5R_03",
+        "QE_EV_P5R_05"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PRS5_JOKR_3",
+      "questlist": [
+        "QE_EV_P5R_07",
+        "QE_EV_P5R_09"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PRS5_QUEN",
+      "questlist": [
+        "QE_EV_P5R_02"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PRS5_QUEN_2",
+      "questlist": [
+        "QE_EV_P5R_04",
+        "QE_EV_P5R_06"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_PRS5_QUEN_3",
+      "questlist": [
+        "QE_EV_P5R_08",
+        "QE_EV_P5R_10"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LW_ZZAN",
+      "questlist": [
+        "QE_ST_01010107",
+        "QE_ST_01070203",
+        "QE_ST_01100102",
+        "QE_ST_01130105",
+        "QE_ST_02010106",
+        "QE_ST_02040102"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LW_ZZAN_2",
+      "questlist": [
+        "QE_ST_01020104",
+        "QE_ST_01070203",
+        "QE_ST_01080110",
+        "QE_ST_01100102",
+        "QE_ST_01110104",
+        "QE_ST_01130105",
+        "QE_ST_01140103",
+        "QE_ST_02010106",
+        "QE_ST_02020206",
+        "QE_ST_02040102",
+        "QE_ST_02050103"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LW_ZZAN_3",
+      "questlist": [
+        "QE_ST_01030109",
+        "QE_ST_01040105",
+        "QE_ST_01080110",
+        "QE_ST_01090106",
+        "QE_ST_01110104",
+        "QE_ST_01120103",
+        "QE_ST_01140103",
+        "QE_ST_01150103",
+        "QE_ST_02020206",
+        "QE_ST_02030105",
+        "QE_ST_02050103",
+        "QE_ST_02060202"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LW_ZZAN_4",
+      "questlist": [
+        "QE_EV_AW_H09_6",
+        "QE_ST_01050104",
+        "QE_ST_01060103",
+        "QE_ST_01090106",
+        "QE_ST_01120103",
+        "QE_ST_01150103",
+        "QE_ST_02030105",
+        "QE_ST_02060202"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LW_ZZAN_5",
+      "questlist": [
+        "QE_EV_AW_H13_6",
+        "QE_EV_AW_H15_6"
       ]
     },
     {
@@ -12400,6 +12644,8 @@
         "QE_ST_02050307",
         "QE_ST_02060105",
         "QE_ST_02060203",
+        "QE_ST_02060301",
+        "QE_ST_02060309",
         "QE_HA_LW_LILS",
         "QE_HA_LW_MGRT",
         "QE_HA_LW_ELDE",
@@ -12453,6 +12699,8 @@
         "QE_ST_02030309",
         "QE_ST_02060105",
         "QE_ST_02060203",
+        "QE_ST_02060301",
+        "QE_ST_02060309",
         "QE_HA_LW_ADLD",
         "QE_HA_LW_RAIN",
         "QE_HA_LW_SIMR",
@@ -12621,6 +12869,8 @@
         "QE_ST_02050308",
         "QE_ST_02060106",
         "QE_ST_02060204",
+        "QE_ST_02060302",
+        "QE_ST_02060310",
         "QE_HA_LW_CLEY",
         "QE_EV_AST_010506",
         "QE_EV_AST_010408",
@@ -12672,6 +12922,8 @@
         "QE_ST_02030310",
         "QE_ST_02060106",
         "QE_ST_02060204",
+        "QE_ST_02060302",
+        "QE_ST_02060310",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_NASR",
         "QE_HA_LW_GLMS",
@@ -12856,6 +13108,7 @@
         "QE_ST_02050309",
         "QE_ST_02060107",
         "QE_ST_02060205",
+        "QE_ST_02060303",
         "QE_HA_LW_HLNA",
         "QE_HA_LW_KADI",
         "QE_EV_AST_010507",
@@ -12912,6 +13165,7 @@
         "QE_ST_02030303",
         "QE_ST_02060107",
         "QE_ST_02060205",
+        "QE_ST_02060303",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_YERM",
         "QE_HA_LW_LUCA",
@@ -13100,6 +13354,7 @@
         "QE_ST_02050310",
         "QE_ST_02060108",
         "QE_ST_02060206",
+        "QE_ST_02060304",
         "QE_HA_LW_MURM",
         "QE_HA_LW_LRNZ",
         "QE_EV_AST_010508",
@@ -13159,6 +13414,7 @@
         "QE_ST_02030304",
         "QE_ST_02060108",
         "QE_ST_02060206",
+        "QE_ST_02060304",
         "QE_HA_LW_AILN",
         "QE_HA_LW_KTON",
         "QE_HA_LW_DRND",
@@ -13214,6 +13470,7 @@
         "QE_EV_CRL_01",
         "QE_EV_NieR_02",
         "QE_EV_FF7_01",
+        "QE_EV_P5R_02",
         "QE_EV_16_01",
         "QE_EV_16_02",
         "QE_EV_12_01",
@@ -13280,6 +13537,8 @@
         "QE_EV_NieR_06",
         "QE_EV_FF7_03",
         "QE_EV_FF7_05",
+        "QE_EV_P5R_04",
+        "QE_EV_P5R_06",
         "QE_EV_16_03",
         "QE_EV_16_04",
         "QE_EV_16_05",
@@ -13344,6 +13603,7 @@
         "QE_ST_02060101",
         "QE_ST_02060109",
         "QE_ST_02060207",
+        "QE_ST_02060305",
         "QE_HA_LW_VADM",
         "QE_HA_LW_OOOO",
         "QE_HA_LW_MRLK",
@@ -13356,6 +13616,8 @@
         "QE_EV_NieR_10",
         "QE_EV_FF7_07",
         "QE_EV_FF7_09",
+        "QE_EV_P5R_08",
+        "QE_EV_P5R_10",
         "QE_EV_16_07",
         "QE_EV_16_08",
         "QE_EV_16_09",
@@ -13403,6 +13665,7 @@
         "QE_ST_02060101",
         "QE_ST_02060109",
         "QE_ST_02060207",
+        "QE_ST_02060305",
         "QE_HA_LW_SZRT",
         "QE_HA_LW_THLA",
         "QE_HA_LW_LVES",
@@ -13576,6 +13839,7 @@
         "QE_ST_02060102",
         "QE_ST_02060110",
         "QE_ST_02060208",
+        "QE_ST_02060306",
         "QE_HA_LW_UNII",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_RAMD",
@@ -13631,6 +13895,7 @@
         "QE_ST_02060102",
         "QE_ST_02060110",
         "QE_ST_02060208",
+        "QE_ST_02060306",
         "QE_HA_LW_MRND",
         "QE_HA_LW_IRDL",
         "QE_HA_LW_GRSR",
@@ -13817,6 +14082,7 @@
         "QE_ST_02060103",
         "QE_ST_02060201",
         "QE_ST_02060209",
+        "QE_ST_02060307",
         "QE_HA_LW_PHBE",
         "QE_HA_LW_VSTR",
         "QE_HA_LW_PRAY",
@@ -13887,6 +14153,7 @@
         "QE_ST_02060103",
         "QE_ST_02060201",
         "QE_ST_02060209",
+        "QE_ST_02060307",
         "QE_HA_LW_MACR",
         "QE_HA_LW_FINA",
         "QE_HA_LW_MRAL",
@@ -13937,6 +14204,7 @@
         "QE_EV_WIZ_01",
         "QE_EV_REG_01",
         "QE_EV_FF15_02",
+        "QE_EV_P5R_01",
         "QE_EV_11_01",
         "QE_EV_09_01",
         "QE_EV_03_02",
@@ -13999,6 +14267,8 @@
         "QE_EV_REG_01",
         "QE_EV_FF15_04",
         "QE_EV_FF15_06",
+        "QE_EV_P5R_03",
+        "QE_EV_P5R_05",
         "QE_EV_11_03",
         "QE_EV_11_05",
         "QE_EV_09_03",
@@ -14058,6 +14328,7 @@
         "QE_ST_02060104",
         "QE_ST_02060202",
         "QE_ST_02060210",
+        "QE_ST_02060308",
         "QE_HA_LW_SDLX",
         "QE_HA_LW_RIRY",
         "QE_HA_LW_STRN",
@@ -14071,6 +14342,8 @@
         "QE_EV_REG_02",
         "QE_EV_FF15_08",
         "QE_EV_FF15_10",
+        "QE_EV_P5R_07",
+        "QE_EV_P5R_09",
         "QE_EV_11_07",
         "QE_EV_11_09",
         "QE_EV_09_07",
@@ -14116,6 +14389,7 @@
         "QE_ST_02060104",
         "QE_ST_02060202",
         "QE_ST_02060210",
+        "QE_ST_02060308",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_VNLA",
         "QE_HA_LW_STRN_01",
@@ -14244,6 +14518,7 @@
         "QE_EV_FF7_02",
         "QE_EV_FF15_01",
         "QE_EV_FF6_01",
+        "QE_EV_P5R_01",
         "QE_EV_16_01",
         "QE_EV_14_01",
         "QE_EV_13_02",
@@ -14478,6 +14753,8 @@
         "QE_EV_FF15_05",
         "QE_EV_FF6_03",
         "QE_EV_FF6_05",
+        "QE_EV_P5R_03",
+        "QE_EV_P5R_05",
         "QE_EV_16_03",
         "QE_EV_16_05",
         "QE_EV_14_03",
@@ -14702,6 +14979,11 @@
         "QE_ST_02060205",
         "QE_ST_02060207",
         "QE_ST_02060209",
+        "QE_ST_02060301",
+        "QE_ST_02060303",
+        "QE_ST_02060305",
+        "QE_ST_02060307",
+        "QE_ST_02060309",
         "QE_HA_LW_UNII",
         "QE_HA_LW_VADM",
         "QE_HA_LW_PHBE",
@@ -14751,6 +15033,8 @@
         "QE_EV_FF15_09",
         "QE_EV_FF6_07",
         "QE_EV_FF6_09",
+        "QE_EV_P5R_07",
+        "QE_EV_P5R_09",
         "QE_EV_16_07",
         "QE_EV_16_09",
         "QE_EV_14_07",
@@ -14911,6 +15195,11 @@
         "QE_ST_02060205",
         "QE_ST_02060207",
         "QE_ST_02060209",
+        "QE_ST_02060301",
+        "QE_ST_02060303",
+        "QE_ST_02060305",
+        "QE_ST_02060307",
+        "QE_ST_02060309",
         "QE_HA_LW_AILN",
         "QE_HA_LW_AYKA",
         "QE_HA_LW_MACR",
@@ -15095,6 +15384,7 @@
         "QE_EV_FF7_01",
         "QE_EV_FF15_02",
         "QE_EV_FF6_02",
+        "QE_EV_P5R_02",
         "QE_EV_16_02",
         "QE_EV_14_02",
         "QE_EV_13_01",
@@ -15319,6 +15609,8 @@
         "QE_EV_FF15_06",
         "QE_EV_FF6_04",
         "QE_EV_FF6_06",
+        "QE_EV_P5R_04",
+        "QE_EV_P5R_06",
         "QE_EV_16_04",
         "QE_EV_16_06",
         "QE_EV_14_04",
@@ -15543,6 +15835,11 @@
         "QE_ST_02060206",
         "QE_ST_02060208",
         "QE_ST_02060210",
+        "QE_ST_02060302",
+        "QE_ST_02060304",
+        "QE_ST_02060306",
+        "QE_ST_02060308",
+        "QE_ST_02060310",
         "QE_HA_LW_SEVR",
         "QE_HA_LW_MURM",
         "QE_HA_LW_OOOO",
@@ -15591,6 +15888,8 @@
         "QE_EV_FF15_10",
         "QE_EV_FF6_08",
         "QE_EV_FF6_10",
+        "QE_EV_P5R_08",
+        "QE_EV_P5R_10",
         "QE_EV_16_08",
         "QE_EV_16_10",
         "QE_EV_14_08",
@@ -15751,6 +16050,11 @@
         "QE_ST_02060206",
         "QE_ST_02060208",
         "QE_ST_02060210",
+        "QE_ST_02060302",
+        "QE_ST_02060304",
+        "QE_ST_02060306",
+        "QE_ST_02060308",
+        "QE_ST_02060310",
         "QE_HA_LW_MDNA",
         "QE_HA_LW_WHIS",
         "QE_HA_LW_KTON",
@@ -15867,7 +16171,10 @@
         "QE_BR_WIND_07",
         "QE_BR_WIND_08",
         "QE_BR_WIND_09",
-        "QE_BR_WIND_10"
+        "QE_BR_WIND_10",
+        "QE_BR_WIND_11",
+        "QE_BR_WIND_12",
+        "QE_BR_WIND_13"
       ]
     },
     {
@@ -16512,7 +16819,10 @@
         "QE_BR_WIND_07",
         "QE_BR_WIND_08",
         "QE_BR_WIND_09",
-        "QE_BR_WIND_10"
+        "QE_BR_WIND_10",
+        "QE_BR_WIND_11",
+        "QE_BR_WIND_12",
+        "QE_BR_WIND_13"
       ]
     },
     {
@@ -16626,6 +16936,9 @@
         "QE_BR_WIND_08",
         "QE_BR_WIND_09",
         "QE_BR_WIND_10",
+        "QE_BR_WIND_11",
+        "QE_BR_WIND_12",
+        "QE_BR_WIND_13",
         "QE_BR_THUNDER_04",
         "QE_BR_THUNDER_05",
         "QE_BR_THUNDER_06",
@@ -16702,6 +17015,9 @@
         "QE_BR_WIND_08",
         "QE_BR_WIND_09",
         "QE_BR_WIND_10",
+        "QE_BR_WIND_11",
+        "QE_BR_WIND_12",
+        "QE_BR_WIND_13",
         "QE_BR_THUNDER_01",
         "QE_BR_THUNDER_02",
         "QE_BR_THUNDER_03",
