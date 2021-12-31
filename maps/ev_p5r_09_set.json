@@ -2493,6 +2493,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_PRS5_VOLT_3",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 56
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_EM_DARK_3",
             "num": 1,
             "secret": 0
@@ -2520,6 +2529,24 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_AF_LW_SWO_001",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 167
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_HEART_01",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 444
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_AF_MAT_HEART_01",
             "num": 1,
             "secret": 0
@@ -2533,7 +2560,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 6111
+          "weight": 5444
         }
       ]
     }

@@ -561,6 +561,112 @@
       ]
     },
     {
+      "area_iname": "AD_AREA_WATER_04",
+      "campaign_string": "default",
+      "drop": [
+        {
+          "drop_id": 1005,
+          "is_rare": 1,
+          "rate": 100,
+          "fever_rate": 100,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 1003,
+          "is_rare": 1,
+          "rate": 100,
+          "fever_rate": 100,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 1002,
+          "is_rare": 1,
+          "rate": 100,
+          "fever_rate": 100,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 1,
+          "is_rare": 1,
+          "rate": 2100,
+          "fever_rate": 2100,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 1104,
+          "rate": 57355,
+          "fever_rate": 37233,
+          "fix_rate": -2012
+        },
+        {
+          "drop_id": 1201,
+          "rate": 31500,
+          "fever_rate": 47250,
+          "fix_rate": 1575
+        },
+        {
+          "drop_id": 1301,
+          "is_rare": 1,
+          "rate": 8745,
+          "fever_rate": 13117,
+          "fix_rate": 437
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_WATER_04",
+      "campaign_string": "campaign_1",
+      "drop": [
+        {
+          "drop_id": 1005,
+          "is_rare": 1,
+          "rate": 100,
+          "fever_rate": 100,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 1003,
+          "is_rare": 1,
+          "rate": 100,
+          "fever_rate": 100,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 1002,
+          "is_rare": 1,
+          "rate": 100,
+          "fever_rate": 100,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 1,
+          "is_rare": 1,
+          "rate": 2100,
+          "fever_rate": 2100,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 1104,
+          "rate": 37233,
+          "fever_rate": 17110,
+          "fix_rate": -2012
+        },
+        {
+          "drop_id": 1201,
+          "rate": 47250,
+          "fever_rate": 63000,
+          "fix_rate": 1575
+        },
+        {
+          "drop_id": 1301,
+          "is_rare": 1,
+          "rate": 13117,
+          "fever_rate": 17490,
+          "fix_rate": 437
+        }
+      ]
+    },
+    {
       "area_iname": "AD_AREA_FIRE_01",
       "campaign_string": "default",
       "drop": [
@@ -6976,6 +7082,112 @@
           "rate": 24735,
           "fever_rate": 32980,
           "fix_rate": 824
+        },
+        {
+          "drop_id": 29301,
+          "is_rare": 1,
+          "rate": 13590,
+          "fever_rate": 18120,
+          "fix_rate": 453
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_P5R_02",
+      "campaign_string": "default",
+      "drop": [
+        {
+          "drop_id": 29002,
+          "is_rare": 1,
+          "rate": 300,
+          "fever_rate": 300,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 29001,
+          "is_rare": 1,
+          "rate": 600,
+          "fever_rate": 600,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 29004,
+          "is_rare": 1,
+          "rate": 200,
+          "fever_rate": 200,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 29003,
+          "is_rare": 1,
+          "rate": 400,
+          "fever_rate": 400,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 29102,
+          "rate": 72800,
+          "fever_rate": 59950,
+          "fix_rate": -1285
+        },
+        {
+          "drop_id": 29202,
+          "rate": 16640,
+          "fever_rate": 24960,
+          "fix_rate": 832
+        },
+        {
+          "drop_id": 29301,
+          "is_rare": 1,
+          "rate": 9060,
+          "fever_rate": 13590,
+          "fix_rate": 453
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_P5R_02",
+      "campaign_string": "campaign_1",
+      "drop": [
+        {
+          "drop_id": 29002,
+          "is_rare": 1,
+          "rate": 300,
+          "fever_rate": 300,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 29001,
+          "is_rare": 1,
+          "rate": 600,
+          "fever_rate": 600,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 29004,
+          "is_rare": 1,
+          "rate": 200,
+          "fever_rate": 200,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 29003,
+          "is_rare": 1,
+          "rate": 400,
+          "fever_rate": 400,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 29102,
+          "rate": 59950,
+          "fever_rate": 47100,
+          "fix_rate": -1285
+        },
+        {
+          "drop_id": 29202,
+          "rate": 24960,
+          "fever_rate": 33280,
+          "fix_rate": 832
         },
         {
           "drop_id": 29301,

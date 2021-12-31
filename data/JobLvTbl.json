@@ -8292,6 +8292,48 @@
         "m4": "JM_EXEM_SOIL_M",
         "m5": "JM_EX_KUNAI_DR_M"
       }
+    },
+    {
+      "iname": "JBLV_LW_ASTR_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_DRAGON",
+        "m3": "JBMAT_JB_EM_WATER",
+        "m4": "JBMAT_JB_JSWORD"
+      }
+    },
+    {
+      "iname": "JBLV_LW_ASTR_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_ASTR_M",
+        "m3": "JM_EX_JSWORD_M",
+        "m4": "JM_EXEM_WATER_M",
+        "m5": "JM_EX_JSWORD_DR_M"
+      }
+    },
+    {
+      "iname": "JBLV_PRS5_VOLT_M",
+      "gil": "JBMAT_JB_GIL_M",
+      "items": {
+        "m1": "JBMAT_JB_MM_ALL",
+        "m2": "JBMAT_JB_IM_ANGEL",
+        "m3": "JBMAT_JB_EM_SHINE",
+        "m4": "JBMAT_JB_SWORD"
+      }
+    },
+    {
+      "iname": "JBLV_PRS5_VOLT_EXM",
+      "gil": "JM_EX_GIL_M",
+      "items": {
+        "m1": "JM_EX_MM_ALL",
+        "m2": "JM_EX_PRS5UR_M",
+        "m3": "JM_EX_SWORD_M",
+        "m4": "JM_EXEM_SHINE_M",
+        "m5": "JM_EX_SWORD_AN_M"
+      }
     }
   ]
 }

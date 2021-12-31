@@ -133,6 +133,11 @@
       "image": "ev_mt_01_06"
     },
     {
+      "iname": "SE_MU_AEX_010501",
+      "event_type": 3,
+      "image": "ev_ast_ex_0105"
+    },
+    {
       "iname": "SE_MU_AEX_010401",
       "event_type": 3,
       "image": "ev_ast_ex_0104"
@@ -156,8 +161,8 @@
       "iname": "SE_MU_EV_01_EX",
       "event_type": 1,
       "image": "ev_01_ex_01",
-      "start": "2021/11/13 18:30:00",
-      "end": "2021/12/08 14:59:59"
+      "start": "2022/01/01",
+      "end": "2022/01/24 14:59:59"
     },
     {
       "iname": "SE_MU_EV_02_EX",
@@ -205,8 +210,8 @@
       "iname": "SE_MU_EV_08_EX",
       "event_type": 1,
       "image": "ev_08_ex_01",
-      "start": "2021/11/08 15:00:00",
-      "end": "2021/11/30 23:59:59"
+      "start": "2022/01/01",
+      "end": "2022/01/24 14:59:59"
     },
     {
       "iname": "SE_MU_EV_09_EX",
@@ -261,22 +266,22 @@
       "iname": "SE_MU_EV_SCR_01",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2021/12/01",
-      "end": "2021/12/08 14:59:59"
+      "start": "2022/01/01",
+      "end": "2022/01/07 14:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_02",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2021/12/08 15:00:00",
-      "end": "2021/12/15 9:59:59"
+      "start": "2022/01/07 15:00:00",
+      "end": "2022/01/17 9:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_03",
       "event_type": 1,
       "image": "ev_art_secret_02",
-      "start": "2021/12/15 11:00:00",
-      "end": "2021/12/22 14:59:59"
+      "start": "2022/01/17 11:00:00",
+      "end": "2022/01/24 14:59:59"
     },
     {
       "iname": "SE_MU_EV_SCR_04",
@@ -289,8 +294,8 @@
       "iname": "SE_MU_EV_ETRE_EX",
       "event_type": 1,
       "image": "ev_etre_ex_01",
-      "start": "2021/11/13 18:30:00",
-      "end": "2021/12/08 14:59:59"
+      "start": "2022/01/01",
+      "end": "2022/01/24 14:59:59"
     },
     {
       "iname": "SE_MU_EV_THLA_EX",
@@ -310,8 +315,8 @@
       "iname": "SE_MU_EV_CRIS_EX",
       "event_type": 1,
       "image": "ev_cris_ex_02",
-      "start": "2021/11/08 15:00:00",
-      "end": "2021/11/30 23:59:59"
+      "start": "2022/01/01",
+      "end": "2022/01/24 14:59:59"
     },
     {
       "iname": "SE_MU_EV_CWEL_EX",
@@ -647,6 +652,13 @@
       "event_type": 1,
       "image": "ev_P5R_ex_01",
       "start": "2021/12/22 15:00:00",
+      "end": "2022/01/31 23:59:59"
+    },
+    {
+      "iname": "SE_MU_P5R_02_EX",
+      "event_type": 1,
+      "image": "ev_P5R_ex_02",
+      "start": "2022/01/01",
       "end": "2022/01/31 23:59:59"
     }
   ]
