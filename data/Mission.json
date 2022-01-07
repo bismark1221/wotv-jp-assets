@@ -4417,6 +4417,70 @@
       "chk_ver": "M_ST_0063_2"
     },
     {
+      "iname": "M_ST_0207_01",
+      "grpID": "MG_STORY_002",
+      "priority": 100129,
+      "condition": {
+        "type": 1,
+        "sval": [
+          "QE_ST_02070105"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_FIRE",
+          "num": 25
+        },
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_ICE",
+          "num": 25
+        },
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_WIND",
+          "num": 25
+        }
+      ],
+      "chk_ver": "M_ST_0064"
+    },
+    {
+      "iname": "M_ST_0207_01_02",
+      "grpID": "MG_STORY_002",
+      "priority": 100130,
+      "condition": {
+        "type": 1,
+        "sval": [
+          "QE_ST_02070110"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 3,
+          "num": 500
+        },
+        {
+          "type": 0,
+          "iname": "IT_PI_COM_FIRE",
+          "num": 25
+        },
+        {
+          "type": 0,
+          "iname": "IT_PI_COM_ICE",
+          "num": 25
+        },
+        {
+          "type": 0,
+          "iname": "IT_PI_COM_WIND",
+          "num": 25
+        }
+      ],
+      "chk_ver": "M_ST_0064_2"
+    },
+    {
       "iname": "M_VIP_LOGB_001",
       "grpID": "MG_VIP_LOGB_01",
       "priority": 1,
@@ -19652,7 +19716,7 @@
       "priority": 100,
       "condition": {
         "type": 80,
-        "ival": 4
+        "ival": 5
       },
       "rewards": [
         {
@@ -193173,6 +193237,66 @@
         }
       ],
       "chk_ver": "AWD_P_FF06_6"
+    },
+    {
+      "iname": "M_AWD_P_P5R_1",
+      "grpID": "MG_PLY_AWARD_001",
+      "priority": 1,
+      "condition": {
+        "type": 102,
+        "sval": [
+          "RAID_ID_25"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 11,
+          "iname": "AWD_P_P5R_1",
+          "num": 1
+        }
+      ],
+      "chk_ver": "AWD_P_P5R_1"
+    },
+    {
+      "iname": "M_AWD_P_P5R_2",
+      "grpID": "MG_PLY_AWARD_001",
+      "priority": 1,
+      "condition": {
+        "type": 102,
+        "sval": [
+          "RAID_ID_25"
+        ],
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 11,
+          "iname": "AWD_P_P5R_2",
+          "num": 1
+        }
+      ],
+      "chk_ver": "AWD_P_P5R_2"
+    },
+    {
+      "iname": "M_AWD_P_P5R_3",
+      "grpID": "MG_PLY_AWARD_001",
+      "priority": 1,
+      "condition": {
+        "type": 102,
+        "sval": [
+          "RAID_ID_25"
+        ],
+        "ival": 100
+      },
+      "rewards": [
+        {
+          "type": 11,
+          "iname": "AWD_P_P5R_3",
+          "num": 1
+        }
+      ],
+      "chk_ver": "AWD_P_P5R_3"
     },
     {
       "iname": "M_P_RC_AWARD_01",

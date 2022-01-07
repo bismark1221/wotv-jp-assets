@@ -860,6 +860,14 @@
       "hurl": "ev_newyear2022"
     },
     {
+      "iname": "SE_EV_VC_MV2_01",
+      "hurl": "ev_vc_MV2_01",
+      "open_cond": [
+        "COND_VC_LW_MV2"
+      ],
+      "won_dst_sheet_name": "bgm_P5R_Battle_Result"
+    },
+    {
       "iname": "SE_EV_P5R_01_01",
       "hurl": "ev_P5R_01",
       "won_dst_sheet_name": "bgm_P5R_Battle_Result"
