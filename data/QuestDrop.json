@@ -1669,6 +1669,7 @@
         "QE_HA_LW_LNAN",
         "QE_HA_LW_BELS",
         "QE_HA_LW_ASTR",
+        "QE_HA_LW_RSNC",
         "QE_EV_AST_010505",
         "QE_EV_AST_010506",
         "QE_EV_AST_010507",
@@ -3439,6 +3440,7 @@
         "QE_HA_LW_ALIM",
         "QE_HA_LW_RARD",
         "QE_HA_LW_CRLT",
+        "QE_HA_LW_RSNC",
         "QE_EV_AST_010507",
         "QE_EV_AST_010410",
         "QE_EV_AST_010306"
@@ -4498,6 +4500,7 @@
         "QE_HA_LW_JEDN",
         "QE_HA_LW_VLUC",
         "QE_HA_LW_LNAN",
+        "QE_HA_LW_RSNC",
         "QE_EV_AST_010407",
         "QE_EV_AST_010303",
         "QE_EV_AST_010310",
@@ -4743,6 +4746,7 @@
         "QE_HA_LW_VLUC",
         "QE_HA_LW_LNAN",
         "QE_HA_LW_BELS",
+        "QE_HA_LW_RSNC",
         "QE_EV_AST_010505",
         "QE_EV_AST_010408",
         "QE_EV_AST_010304"
@@ -6633,7 +6637,8 @@
         "QE_HA_LW_MRAL",
         "QE_HA_LW_CHEL",
         "QE_HA_LW_RARD",
-        "QE_HA_LW_CRLT"
+        "QE_HA_LW_CRLT",
+        "QE_HA_LW_RSNC"
       ]
     },
     {
@@ -8839,6 +8844,7 @@
         "QE_HA_LW_RVAL",
         "QE_HA_LW_HLNA_01",
         "QE_HA_LW_BELS",
+        "QE_HA_LW_RSNC",
         "QE_EV_AST_010509"
       ]
     },
@@ -11737,6 +11743,7 @@
         "QE_ST_02060102",
         "QE_ST_02060308",
         "QE_HA_LW_LNAN",
+        "QE_HA_LW_RSNC",
         "QE_EV_AST_010303",
         "QE_EV_AST_010307"
       ]
@@ -13893,6 +13900,7 @@
         "QE_HA_LW_ALIM",
         "QE_HA_LW_CRLT",
         "QE_HA_LW_LNAN",
+        "QE_HA_LW_RSNC",
         "QE_EV_AST_010509",
         "QE_EV_AST_010305",
         "QE_EV_CRL_02",
@@ -15469,6 +15477,7 @@
         "QE_HA_LW_OBRN",
         "QE_HA_LW_STIA",
         "QE_HA_LW_BELS",
+        "QE_HA_LW_RSNC",
         "QE_EV_AST_010505",
         "QE_EV_AST_010507",
         "QE_EV_AST_010509",
@@ -18060,6 +18069,12 @@
       "iname": "IT_PI_LW_ASTR",
       "questlist": [
         "QE_HA_LW_ASTR"
+      ]
+    },
+    {
+      "iname": "IT_PI_LW_RSNC",
+      "questlist": [
+        "QE_HA_LW_RSNC"
       ]
     },
     {

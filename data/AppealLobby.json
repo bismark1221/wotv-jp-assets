@@ -132,6 +132,14 @@
       "priority": 1,
       "start_at": "2022/01/07 15:00:00",
       "end_at": "2022/01/17 9:59:59"
+    },
+    {
+      "id": 21,
+      "priority": 1,
+      "start_at": "2022/01/17 10:30:00",
+      "end_at": "2022/01/24 14:59:59",
+      "transition_destination": 17,
+      "sval": "SEG_AST_01"
     }
   ]
 }

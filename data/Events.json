@@ -4,8 +4,8 @@
       "iname": "SE_EV_GIL",
       "event_type": 2,
       "image": "ev_gil_002",
-      "start": "2021/08/14 5:00:00",
-      "end": "2022/01/07 14:59:59",
+      "start": "2022/01/18 5:00:00",
+      "end": "2100/06/01",
       "time": [
         {
           "start_wdays": 6,
@@ -146,8 +146,8 @@
       "iname": "SE_EV_GIL_01",
       "event_type": 2,
       "image": "ev_gil_001",
-      "start": "2021/06/01",
-      "end": "2022/01/07 14:59:59",
+      "start": "2022/01/17 10:30:00",
+      "end": "2100/06/01",
       "time": [
         {
           "start_wdays": 1,
@@ -161,8 +161,8 @@
       "iname": "SE_EV_GIL_01",
       "event_type": 2,
       "image": "ev_gil_001",
-      "start": "2021/08/10 15:00:00",
-      "end": "2022/01/07 14:59:59",
+      "start": "2022/01/17 10:30:00",
+      "end": "2100/06/01",
       "time": [
         {
           "start_wdays": 2,
@@ -176,8 +176,8 @@
       "iname": "SE_EV_GIL_01",
       "event_type": 2,
       "image": "ev_gil_001",
-      "start": "2021/08/10 15:00:00",
-      "end": "2022/01/07 14:59:59",
+      "start": "2022/01/17 10:30:00",
+      "end": "2100/06/01",
       "time": [
         {
           "start_wdays": 3,
@@ -191,8 +191,8 @@
       "iname": "SE_EV_GIL_01",
       "event_type": 2,
       "image": "ev_gil_001",
-      "start": "2021/08/10 15:00:00",
-      "end": "2022/01/07 14:59:59",
+      "start": "2022/01/17 10:30:00",
+      "end": "2100/06/01",
       "time": [
         {
           "start_wdays": 4,
@@ -206,8 +206,8 @@
       "iname": "SE_EV_GIL_01",
       "event_type": 2,
       "image": "ev_gil_001",
-      "start": "2021/08/10 15:00:00",
-      "end": "2022/01/07 14:59:59",
+      "start": "2022/01/17 10:30:00",
+      "end": "2100/06/01",
       "time": [
         {
           "start_wdays": 5,
@@ -880,6 +880,11 @@
       "image": "ev_ast_duel_1",
       "start": "2021/08/25 15:00:00",
       "end": "2021/09/08 14:59:59"
+    },
+    {
+      "iname": "SE_EV_AEX_LCIO",
+      "event_type": 1,
+      "image": "ev_ast_ex_lcio"
     },
     {
       "iname": "SE_EV_AEX_010501",
@@ -1674,6 +1679,13 @@
       "image": "ev_arti_crft_13",
       "start": "2021/12/15 10:30:00",
       "end": "2021/12/31 23:59:59"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_14",
+      "event_type": 1,
+      "image": "ev_arti_crft_14",
+      "start": "2022/01/17 10:30:00",
+      "end": "2022/01/31 23:59:59"
     },
     {
       "iname": "SE_EV_ART_CRF_S1",
