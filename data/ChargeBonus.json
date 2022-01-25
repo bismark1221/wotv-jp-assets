@@ -7076,6 +7076,132 @@
         }
       ],
       "banner": "CHARGE_BONUS_0128"
+    },
+    {
+      "iname": "CHARGE_BONUS_0130",
+      "buy_lapis_num": 60,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_AW_VC_UR",
+          "num": 40
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 2
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_AW_VC_UR",
+          "num": 40
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_AW_VC_UR",
+          "num": 200
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_PI_COM_ALL",
+          "num": 1
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_JBEX_MM",
+          "num": 1
+        }
+      ],
+      "constant_bonus": [
+        {
+          "select": 1,
+          "type": 0,
+          "item_id": "IT_ACTP_03",
+          "num": 3
+        },
+        {
+          "select": 1,
+          "type": 0,
+          "item_id": "IT_CG_03",
+          "num": 30
+        }
+      ],
+      "banner": "CHARGE_BONUS_0130"
+    },
+    {
+      "iname": "CHARGE_BONUS_0131",
+      "buy_lapis_num": 300,
+      "day_bonus": [
+        {
+          "day": 1,
+          "type": 0,
+          "item_id": "IT_SB_AW_UR",
+          "num": 10
+        },
+        {
+          "day": 2,
+          "type": 0,
+          "item_id": "IT_GU_FOOD_09",
+          "num": 2
+        },
+        {
+          "day": 3,
+          "type": 0,
+          "item_id": "IT_VC_EXP_03",
+          "num": 2000
+        },
+        {
+          "day": 4,
+          "type": 0,
+          "item_id": "IT_GU_FOOD_10",
+          "num": 2
+        },
+        {
+          "day": 5,
+          "type": 0,
+          "item_id": "IT_JBEX_MM",
+          "num": 2
+        },
+        {
+          "day": 6,
+          "type": 0,
+          "item_id": "IT_JBEX_UR",
+          "num": 1
+        },
+        {
+          "day": 7,
+          "type": 0,
+          "item_id": "IT_US_SE_MTPI_UR_02",
+          "num": 1
+        }
+      ],
+      "constant_bonus": [
+        {
+          "select": 1,
+          "type": 0,
+          "item_id": "IT_LB_EXP_02",
+          "num": 50
+        },
+        {
+          "select": 1,
+          "type": 0,
+          "item_id": "IT_WA_EXP_02",
+          "num": 50
+        }
+      ],
+      "banner": "CHARGE_BONUS_0130"
     }
   ]
 }

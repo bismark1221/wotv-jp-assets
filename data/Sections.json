@@ -388,6 +388,12 @@
       "back_unit": "UN_LW_ST_020101"
     },
     {
+      "iname": "SE_ST_020702",
+      "chap": "CH_ST_0207",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_020101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -858,6 +864,10 @@
     {
       "iname": "SE_EV_NY2022_3",
       "hurl": "ev_newyear2022"
+    },
+    {
+      "iname": "SE_EV_2000MDL",
+      "hurl": "ev_2000mdl"
     },
     {
       "iname": "SE_EV_VC_MV2_01",
@@ -1497,6 +1507,14 @@
       "hurl": "ev_arti_crft_13"
     },
     {
+      "iname": "SE_EV_RC_DEM_01",
+      "hurl": "ev_rc_dem_01"
+    },
+    {
+      "iname": "SE_MU_RC_DEM_01",
+      "hurl": "ev_rc_dem_01"
+    },
+    {
       "iname": "SE_EV_ART_CRF_12",
       "hurl": "ev_arti_crft_12"
     },
@@ -1513,72 +1531,12 @@
       "hurl": "ev_arti_crft_11"
     },
     {
-      "iname": "SE_EV_ART_CRF_S1",
-      "hurl": "ev_arti_crft_secret_01"
+      "iname": "SE_EV_ART_CRF_10",
+      "hurl": "ev_arti_crft_10"
     },
     {
-      "iname": "SE_MU_ART_CRF_S1",
-      "hurl": "ev_arti_crft_secret_01"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_01",
-      "hurl": "ev_arti_crft_01"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_02",
-      "hurl": "ev_arti_crft_02"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_02",
-      "hurl": "ev_arti_crft_02"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_03",
-      "hurl": "ev_arti_crft_03"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_03",
-      "hurl": "ev_arti_crft_03"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_04",
-      "hurl": "ev_arti_crft_04"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_04",
-      "hurl": "ev_arti_crft_04"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_05",
-      "hurl": "ev_arti_crft_05"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_05",
-      "hurl": "ev_arti_crft_05"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_06",
-      "hurl": "ev_arti_crft_06"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_06",
-      "hurl": "ev_arti_crft_06"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_07",
-      "hurl": "ev_arti_crft_07"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_07",
-      "hurl": "ev_arti_crft_07"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_08",
-      "hurl": "ev_arti_crft_08"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_08",
-      "hurl": "ev_arti_crft_08"
+      "iname": "SE_MU_ART_CRF_10",
+      "hurl": "ev_arti_crft_10"
     },
     {
       "iname": "SE_EV_ART_CRF_09",
@@ -1589,12 +1547,72 @@
       "hurl": "ev_arti_crft_09"
     },
     {
-      "iname": "SE_EV_ART_CRF_10",
-      "hurl": "ev_arti_crft_10"
+      "iname": "SE_EV_ART_CRF_08",
+      "hurl": "ev_arti_crft_08"
     },
     {
-      "iname": "SE_MU_ART_CRF_10",
-      "hurl": "ev_arti_crft_10"
+      "iname": "SE_MU_ART_CRF_08",
+      "hurl": "ev_arti_crft_08"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_07",
+      "hurl": "ev_arti_crft_07"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_07",
+      "hurl": "ev_arti_crft_07"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_S1",
+      "hurl": "ev_arti_crft_secret_01"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_S1",
+      "hurl": "ev_arti_crft_secret_01"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_05",
+      "hurl": "ev_arti_crft_05"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_05",
+      "hurl": "ev_arti_crft_05"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_04",
+      "hurl": "ev_arti_crft_04"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_04",
+      "hurl": "ev_arti_crft_04"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_03",
+      "hurl": "ev_arti_crft_03_1"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_03",
+      "hurl": "ev_arti_crft_03_1"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_02",
+      "hurl": "ev_arti_crft_02"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_02",
+      "hurl": "ev_arti_crft_02"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_01",
+      "hurl": "ev_arti_crft_01"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_06",
+      "hurl": "ev_arti_crft_06"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_06",
+      "hurl": "ev_arti_crft_06"
     },
     {
       "iname": "SE_EV_16_01",
@@ -1655,6 +1673,111 @@
     {
       "iname": "SE_MU_EV_12_EX",
       "hurl": "ev_12_ex_01"
+    },
+    {
+      "iname": "SE_EV_11_01",
+      "hurl": "ev_11_01"
+    },
+    {
+      "iname": "SE_EV_11_EX_01",
+      "hurl": "ev_11_ex_01",
+      "o_cond_q": [
+        "QE_EV_11_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_11_EX",
+      "hurl": "ev_11_ex_01"
+    },
+    {
+      "iname": "SE_EV_09_01",
+      "hurl": "ev_09_01"
+    },
+    {
+      "iname": "SE_EV_09_EX_01",
+      "hurl": "ev_09_ex_01",
+      "o_cond_q": [
+        "QE_EV_09_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_09_EX",
+      "hurl": "ev_09_ex_01"
+    },
+    {
+      "iname": "SE_EV_05_01",
+      "hurl": "ev_05_01"
+    },
+    {
+      "iname": "SE_EV_05_EX_01",
+      "hurl": "ev_05_ex_01",
+      "o_cond_q": [
+        "QE_EV_05_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_05_EX",
+      "hurl": "ev_05_ex_01"
+    },
+    {
+      "iname": "SE_EV_07_01",
+      "hurl": "ev_07_01"
+    },
+    {
+      "iname": "SE_EV_07_EX_01",
+      "hurl": "ev_07_ex_01",
+      "o_cond_q": [
+        "QE_EV_07_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_07_EX",
+      "hurl": "ev_07_ex_01"
+    },
+    {
+      "iname": "SE_EV_06_01",
+      "hurl": "ev_06_01"
+    },
+    {
+      "iname": "SE_EV_06_EX_01",
+      "hurl": "ev_06_ex_01",
+      "o_cond_q": [
+        "QE_EV_06_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_06_EX",
+      "hurl": "ev_06_ex_01"
+    },
+    {
+      "iname": "SE_EV_04_01",
+      "hurl": "ev_04_01"
+    },
+    {
+      "iname": "SE_EV_04_EX_01",
+      "hurl": "ev_04_ex_01",
+      "o_cond_q": [
+        "QE_EV_04_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_04_EX",
+      "hurl": "ev_04_ex_01"
+    },
+    {
+      "iname": "SE_EV_02_01",
+      "hurl": "ev_02_01"
+    },
+    {
+      "iname": "SE_EV_02_EX_01",
+      "hurl": "ev_02_ex_01",
+      "o_cond_q": [
+        "QE_EV_02_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_02_EX",
+      "hurl": "ev_02_ex_01"
     },
     {
       "iname": "SE_PTQ_0001",
@@ -1794,117 +1917,12 @@
       "hurl": "ev_03_ex_02"
     },
     {
-      "iname": "SE_EV_11_01",
-      "hurl": "ev_11_01"
-    },
-    {
-      "iname": "SE_EV_11_EX_01",
-      "hurl": "ev_11_ex_01",
-      "o_cond_q": [
-        "QE_EV_11_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_11_EX",
-      "hurl": "ev_11_ex_01"
-    },
-    {
       "iname": "SE_SB_08",
       "hurl": "ev_sb_08"
     },
     {
       "iname": "SE_MU_SB_08",
       "hurl": "ev_sb_08"
-    },
-    {
-      "iname": "SE_EV_02_01",
-      "hurl": "ev_02_01"
-    },
-    {
-      "iname": "SE_EV_02_EX_01",
-      "hurl": "ev_02_ex_01",
-      "o_cond_q": [
-        "QE_EV_02_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_02_EX",
-      "hurl": "ev_02_ex_01"
-    },
-    {
-      "iname": "SE_EV_04_01",
-      "hurl": "ev_04_01"
-    },
-    {
-      "iname": "SE_EV_04_EX_01",
-      "hurl": "ev_04_ex_01",
-      "o_cond_q": [
-        "QE_EV_04_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_04_EX",
-      "hurl": "ev_04_ex_01"
-    },
-    {
-      "iname": "SE_EV_05_01",
-      "hurl": "ev_05_01"
-    },
-    {
-      "iname": "SE_EV_05_EX_01",
-      "hurl": "ev_05_ex_01",
-      "o_cond_q": [
-        "QE_EV_05_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_05_EX",
-      "hurl": "ev_05_ex_01"
-    },
-    {
-      "iname": "SE_EV_06_01",
-      "hurl": "ev_06_01"
-    },
-    {
-      "iname": "SE_EV_06_EX_01",
-      "hurl": "ev_06_ex_01",
-      "o_cond_q": [
-        "QE_EV_06_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_06_EX",
-      "hurl": "ev_06_ex_01"
-    },
-    {
-      "iname": "SE_EV_07_01",
-      "hurl": "ev_07_01"
-    },
-    {
-      "iname": "SE_EV_07_EX_01",
-      "hurl": "ev_07_ex_01",
-      "o_cond_q": [
-        "QE_EV_07_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_07_EX",
-      "hurl": "ev_07_ex_01"
-    },
-    {
-      "iname": "SE_EV_09_01",
-      "hurl": "ev_09_01"
-    },
-    {
-      "iname": "SE_EV_09_EX_01",
-      "hurl": "ev_09_ex_01",
-      "o_cond_q": [
-        "QE_EV_09_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_09_EX",
-      "hurl": "ev_09_ex_01"
     },
     {
       "iname": "SE_EV_THLA",
@@ -2026,14 +2044,6 @@
     {
       "iname": "SE_MU_SB_07",
       "hurl": "ev_sb_07"
-    },
-    {
-      "iname": "SE_EV_RC_DEM_01",
-      "hurl": "ev_rc_dem_01"
-    },
-    {
-      "iname": "SE_MU_RC_DEM_01",
-      "hurl": "ev_rc_dem_01"
     },
     {
       "iname": "SE_EV_ART_SCR_01",
