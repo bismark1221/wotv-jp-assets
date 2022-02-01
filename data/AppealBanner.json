@@ -15304,7 +15304,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 9,
+      "priority": 12,
       "start_at": "2022/01/24 15:00:00",
       "end_at": "2022/02/08 14:59:59"
     },
@@ -15332,9 +15332,79 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 10,
+      "priority": 9,
       "start_at": "2022/01/24 15:00:00",
       "end_at": "2022/02/01 4:59:59"
+    },
+    {
+      "id": 1097,
+      "iname": "GachaBanner_0803",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0803",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 6,
+      "start_at": "2022/02/01",
+      "end_at": "2022/02/15 9:59:59"
+    },
+    {
+      "id": 1098,
+      "iname": "GachaBanner_0806",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0806",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 7,
+      "start_at": "2022/02/01",
+      "end_at": "2022/02/15 9:59:59"
+    },
+    {
+      "id": 1099,
+      "iname": "GachaBanner_0809",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0809",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 8,
+      "start_at": "2022/02/01",
+      "end_at": "2022/02/15 9:59:59"
+    },
+    {
+      "id": 1100,
+      "iname": "ev_15_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_15_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 10,
+      "start_at": "2022/02/01",
+      "end_at": "2022/02/22 14:59:59"
+    },
+    {
+      "id": 1101,
+      "iname": "LAPS_SHOP_LIMITED_0328",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0328",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 11,
+      "start_at": "2022/02/01",
+      "end_at": "2022/02/08 14:59:59"
     }
   ]
 }

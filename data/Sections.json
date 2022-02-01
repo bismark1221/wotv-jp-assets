@@ -870,6 +870,25 @@
       "hurl": "ev_2000mdl"
     },
     {
+      "iname": "SE_EV_ryer_02_01",
+      "hurl": "ev_ryer_02_01"
+    },
+    {
+      "iname": "SE_EV_15_01",
+      "hurl": "ev_15_01"
+    },
+    {
+      "iname": "SE_EV_15_EX_01",
+      "hurl": "ev_15_ex_01",
+      "o_cond_q": [
+        "QE_EV_15_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_15_EX",
+      "hurl": "ev_15_ex_01"
+    },
+    {
       "iname": "SE_EV_VC_MV2_01",
       "hurl": "ev_vc_MV2_01",
       "open_cond": [
