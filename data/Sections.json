@@ -394,6 +394,12 @@
       "back_unit": "UN_LW_ST_020101"
     },
     {
+      "iname": "SE_ST_020703",
+      "chap": "CH_ST_0207",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_020101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -868,6 +874,21 @@
     {
       "iname": "SE_EV_2000MDL",
       "hurl": "ev_2000mdl"
+    },
+    {
+      "iname": "SE_EV_SERL",
+      "hurl": "ev_serl_01"
+    },
+    {
+      "iname": "SE_EV_SERL_EX",
+      "hurl": "ev_serl_ex_01",
+      "o_cond_q": [
+        "QE_EV_SERL_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_SERL_EX",
+      "hurl": "ev_serl_ex_01"
     },
     {
       "iname": "SE_EV_ryer_02_01",
