@@ -12998,7 +12998,8 @@
       "trust": "AF_CLT_LW_THLA_01_1",
       "atkskl": "SK_LW_PSI_ATK",
       "mstskl": [
-        "SK_MA_LW_THLA_01"
+        "SK_MA_LW_THLA_01",
+        "SK_MA_LW_THLA_01_2"
       ],
       "jobsets": [
         "JB_LW_PSI_ICE",
@@ -18751,6 +18752,128 @@
         }
       ],
       "awake_tbl_id": "UN_AW_WIND_SSR",
+      "unit_medal_num": 20
+    },
+    {
+      "iname": "UN_LW_P_IRDL_01",
+      "sex": 2,
+      "size": 0,
+      "body_type": "W",
+      "personal": 5,
+      "charaId": "LAPSirdl",
+      "anm_type": 1,
+      "voiceId": "LAPSirdl_01",
+      "type": 0,
+      "elem": [
+        1
+      ],
+      "species": [
+        1
+      ],
+      "birth": 2,
+      "rare": 4,
+      "grow": "SR_DEFAULT",
+      "cost": 90,
+      "piece": "IT_PI_LW_IRDL_01",
+      "piece_num": 40,
+      "db_num": 1,
+      "trust": "AF_ACC_LW_IRDL_01_1",
+      "atkskl": "SK_LW_BNI_ATK",
+      "mstskl": [
+        "SK_MA_LW_IRDL_01"
+      ],
+      "jobsets": [
+        "JB_LW_BNI_FIRE",
+        "JB_LW_AXD_FIRE",
+        "JB_LW_HUN_FIRE"
+      ],
+      "ccsets": [
+        {
+          "m": "JB_LW_IRDL_01_M"
+        }
+      ],
+      "ai": "AI_PLAYER_LW_BNI",
+      "buff_pri": "BUFFPRI_PHYATK",
+      "debuff_pri": "DEBUFFPRI_PHYATK",
+      "status": [
+        {
+          "hp": 283,
+          "mp": 58,
+          "ap": 71,
+          "atk": 95,
+          "def": 0,
+          "mag": 32,
+          "mnd": 0,
+          "dex": 65,
+          "spd": 32,
+          "luk": 72,
+          "eic": 20,
+          "ewa": -10,
+          "asl": 15,
+          "api": 10,
+          "abl": -15,
+          "ash": 0,
+          "ama": 5,
+          "csl": 10,
+          "cch": 50,
+          "cdm": 50,
+          "mov": 3,
+          "jmp": 2,
+          "dmax": 9999
+        },
+        {
+          "hp": 1012,
+          "mp": 91,
+          "ap": 87,
+          "atk": 160,
+          "def": 0,
+          "mag": 55,
+          "mnd": 0,
+          "dex": 97,
+          "spd": 37,
+          "luk": 102,
+          "eic": 20,
+          "ewa": -10,
+          "asl": 15,
+          "api": 10,
+          "abl": -15,
+          "ash": 0,
+          "ama": 5,
+          "csl": 10,
+          "cch": 50,
+          "cdm": 50,
+          "mov": 3,
+          "jmp": 2,
+          "dmax": 9999
+        },
+        {
+          "hp": 1062,
+          "mp": 95,
+          "ap": 91,
+          "atk": 208,
+          "def": 0,
+          "mag": 71,
+          "mnd": 0,
+          "dex": 116,
+          "spd": 37,
+          "luk": 112,
+          "eic": 20,
+          "ewa": -10,
+          "asl": 15,
+          "api": 10,
+          "abl": -15,
+          "ash": 0,
+          "ama": 5,
+          "csl": 10,
+          "cch": 50,
+          "cdm": 50,
+          "mov": 3,
+          "jmp": 2,
+          "dmax": 9999
+        }
+      ],
+      "limit": "SK_LB_LW_IRDL_01",
+      "awake_tbl_id": "UN_AW_FIRE_UR",
       "unit_medal_num": 20
     },
     {
@@ -84612,6 +84735,27 @@
       "cost": 1,
       "notsmn": 1,
       "stop": 1,
+      "status": [
+        {
+          "cpo": 999,
+          "cbl": 999,
+          "csl": 999,
+          "cmu": 999,
+          "cpa": 999,
+          "ccf": 999,
+          "cpe": 999,
+          "cfr": 999,
+          "csw": 999,
+          "cst": 999,
+          "cch": 999,
+          "cdm": 999,
+          "cda": 999,
+          "cbe": 999,
+          "cdo": 999,
+          "frz": 999,
+          "stn": 999
+        }
+      ],
       "unit_medal_num": 0
     },
     {
@@ -86104,6 +86248,41 @@
           "mov": 1,
           "jmp": 1
         },
+        {
+          "hp": 1000,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "def": 0,
+          "mag": 0,
+          "mnd": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "mov": 1,
+          "jmp": 1
+        }
+      ],
+      "unit_medal_num": 0
+    },
+    {
+      "iname": "UN_LW_E_NONE",
+      "sex": 3,
+      "size": 0,
+      "charaId": "LAPSempti",
+      "anm_type": 1,
+      "type": 7,
+      "elem": [
+        0
+      ],
+      "species": [
+        1
+      ],
+      "birth": 1,
+      "rare": 4,
+      "grow": "SR_DEFAULT",
+      "cost": 1,
+      "status": [
         {
           "hp": 1000,
           "mp": 0,

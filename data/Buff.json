@@ -11266,6 +11266,168 @@
       "val11": 20
     },
     {
+      "iname": "BUFF_LW_BNI_M_1",
+      "rate": 25,
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 84,
+      "calc1": 21,
+      "val1": 15,
+      "val11": 25
+    },
+    {
+      "iname": "BUFF_LW_BNI_M_2",
+      "rate": 25,
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 85,
+      "calc1": 30,
+      "val1": 60,
+      "val11": 80
+    },
+    {
+      "iname": "BUFF_LW_BNI_M_3",
+      "continues": [
+        150
+      ],
+      "turn": 9999,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 26,
+      "calc1": 2,
+      "val1": 10,
+      "val11": 25
+    },
+    {
+      "iname": "BUFF_LW_BNI_S_2_T",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "no_dupli": 1,
+      "type1": 156,
+      "calc1": 1,
+      "val1": 10,
+      "val11": 25
+    },
+    {
+      "iname": "BUFF_LW_BNI_S_2_S",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 180,
+      "calc1": 1,
+      "val1": -2,
+      "val11": -4
+    },
+    {
+      "iname": "BUFF_LW_BNI_S_4_1",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 26,
+      "calc1": 2,
+      "val1": -10,
+      "val11": -20
+    },
+    {
+      "iname": "BUFF_LW_BNI_S_4_2",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 155,
+      "calc1": 1,
+      "val1": -10,
+      "val11": -25
+    },
+    {
+      "iname": "BUFF_LW_BNI_P_1",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 28,
+      "calc1": 1,
+      "val1": 1,
+      "val11": 1,
+      "type2": 180,
+      "calc2": 1,
+      "val2": -1,
+      "val21": -3
+    },
+    {
+      "iname": "BUFF_LW_BNI_P_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 156,
+      "calc1": 1,
+      "val1": 5,
+      "val11": 12,
+      "type2": 190,
+      "calc2": 1,
+      "val2": 16,
+      "val21": 40
+    },
+    {
+      "iname": "BUFF_LW_EC_BNI_A_01_1",
+      "rate": 50,
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 99,
+      "calc1": 30
+    },
+    {
+      "iname": "BUFF_LW_EC_BNI_A_01_2",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 310,
+      "calc1": 1,
+      "val1": -10,
+      "val11": -30
+    },
+    {
+      "iname": "BUFF_LW_EC_BNI_C_01B",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 351,
+      "calc1": 1,
+      "val1": 10,
+      "val11": 25,
+      "type2": 354,
+      "calc2": 1,
+      "val2": 10,
+      "val21": 25
+    },
+    {
+      "iname": "BUFF_LW_EC_BNI_C_02B",
+      "continues": [
+        151
+      ],
+      "turn": 9999,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 26,
+      "calc1": 2,
+      "val1": 10,
+      "val11": 25,
+      "type2": 321,
+      "calc2": 1,
+      "val2": 10,
+      "val21": 30
+    },
+    {
       "iname": "BUFF_LW_BLM_BGN_M_3_T",
       "rate": 100,
       "turn": 3,
@@ -16899,6 +17061,26 @@
       "val11": 20
     },
     {
+      "iname": "BUFF_LB_LW_IRDL_01_T",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 4,
+      "calc1": 22,
+      "val1": 50,
+      "val11": 50
+    },
+    {
+      "iname": "BUFF_LB_LW_IRDL_01_S",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 4,
+      "calc1": 10,
+      "val1": 100,
+      "val11": 250
+    },
+    {
       "iname": "BUFF_SMN_THDG",
       "rate": 67,
       "turn": 3,
@@ -22087,6 +22269,89 @@
       "val11": -8
     },
     {
+      "iname": "BUFF_US_VALE_01_1",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 1,
+      "calc1": 11,
+      "val1": 50,
+      "val11": 50
+    },
+    {
+      "iname": "BUFF_US_VALE_01_2",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 21,
+      "calc1": 2,
+      "val1": 25,
+      "val11": 25,
+      "type2": 23,
+      "calc2": 2,
+      "val2": 25,
+      "val21": 25
+    },
+    {
+      "iname": "BUFF_US_VALE_02_1",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 1,
+      "calc1": 11,
+      "val1": 50,
+      "val11": 50
+    },
+    {
+      "iname": "BUFF_US_VALE_02_2",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 22,
+      "calc1": 1,
+      "val1": 15,
+      "val11": 15,
+      "type2": 24,
+      "calc2": 1,
+      "val2": 15,
+      "val21": 15
+    },
+    {
+      "iname": "BUFF_US_VALE_03_1",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 1,
+      "calc1": 11,
+      "val1": 10,
+      "val11": 10
+    },
+    {
+      "iname": "BUFF_US_VALE_03_2",
+      "rate": 200,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 111,
+      "calc1": 30
+    },
+    {
+      "iname": "BUFF_US_VALE_04",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 1,
+      "calc1": 11,
+      "val1": 100,
+      "val11": 100,
+      "type2": 181,
+      "calc2": 1,
+      "val2": 50,
+      "val21": 50
+    },
+    {
       "iname": "BUFF_MA_LW_MONT",
       "timing": 0,
       "chktgt": 0,
@@ -25316,6 +25581,24 @@
       "val11": 25
     },
     {
+      "iname": "BUFF_MA_LW_THLA_01_2_S",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 319,
+      "calc1": 1,
+      "val1": 35,
+      "val11": 35,
+      "type2": 23,
+      "calc2": 2,
+      "val2": 15,
+      "val21": 15,
+      "type3": 350,
+      "calc3": 1,
+      "val3": 30,
+      "val31": 30
+    },
+    {
       "iname": "BUFF_MA_LW_CMLO",
       "conds": [
         17
@@ -26875,6 +27158,40 @@
       "val1": 20,
       "val11": 20,
       "type2": 61,
+      "calc2": 1,
+      "val2": 10,
+      "val21": 10
+    },
+    {
+      "iname": "BUFF_MA_LW_IRDL_01",
+      "conds": [
+        11
+      ],
+      "continues": [
+        11
+      ],
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 10,
+      "val11": 10,
+      "type2": 42,
+      "calc2": 1,
+      "val2": 15,
+      "val21": 15
+    },
+    {
+      "iname": "BUFF_MA_LW_IRDL_01_S",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 21,
+      "calc1": 2,
+      "val1": 15,
+      "val11": 15,
+      "type2": 316,
       "calc2": 1,
       "val2": 10,
       "val21": 10
@@ -45275,6 +45592,56 @@
       "val11": 30
     },
     {
+      "iname": "BUFF_LW_NKN_004_1",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 321,
+      "calc1": 1,
+      "val1": 2,
+      "val11": 2
+    },
+    {
+      "iname": "BUFF_LW_NKN_004_1_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 321,
+      "calc1": 1,
+      "val1": 3,
+      "val11": 3
+    },
+    {
+      "iname": "BUFF_LW_NKN_004_1_3",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 321,
+      "calc1": 1,
+      "val1": 5,
+      "val11": 5
+    },
+    {
+      "iname": "BUFF_LW_NKN_004_1_4",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 321,
+      "calc1": 1,
+      "val1": 10,
+      "val11": 10
+    },
+    {
+      "iname": "BUFF_LW_NKN_004_1_5",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 321,
+      "calc1": 1,
+      "val1": 20,
+      "val11": 20
+    },
+    {
       "iname": "BUFF_LW_SLASH_4_R",
       "timing": 0,
       "chktgt": 0,
@@ -48745,6 +49112,32 @@
       "val11": 25
     },
     {
+      "iname": "BUFF_ACC_LW_IRDL_01_1_1",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 310,
+      "calc1": 1,
+      "val1": 10,
+      "val11": 30
+    },
+    {
+      "iname": "BUFF_ACC_LW_IRDL_01_1_2",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 28,
+      "calc1": 1,
+      "val1": 1,
+      "val11": 1,
+      "type2": 29,
+      "calc2": 1,
+      "val2": 1,
+      "val21": 1
+    },
+    {
       "iname": "BUFF_HAT_LW_WHIS_1_2",
       "timing": 0,
       "chktgt": 0,
@@ -51976,6 +52369,32 @@
       "val11": 20
     },
     {
+      "iname": "BUFF_ARENA_00029",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 42,
+      "calc1": 1,
+      "val1": 20,
+      "val11": 20
+    },
+    {
+      "iname": "BUFF_ARENA_00030",
+      "conds": [
+        11
+      ],
+      "continues": [
+        11
+      ],
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 311,
+      "calc1": 1,
+      "val1": 20,
+      "val11": 20
+    },
+    {
       "iname": "BUFF_GVG_001",
       "timing": 0,
       "chktgt": 0,
@@ -52735,6 +53154,27 @@
       "calc3": 40
     },
     {
+      "iname": "BUFF_DRAFTMATCH_003",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 191,
+      "calc1": 1,
+      "val1": 50,
+      "val11": 50
+    },
+    {
+      "iname": "BUFF_DRAFTMATCH_004",
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 112,
+      "calc1": 40,
+      "type2": 95,
+      "calc2": 40
+    },
+    {
       "iname": "BUFF_01130310",
       "conds": [
         21
@@ -52967,6 +53407,25 @@
       "calc1": 1,
       "val1": 10000,
       "val11": 10000
+    },
+    {
+      "iname": "BUFF_VALE_01",
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 114,
+      "calc1": 30,
+      "type2": 115,
+      "calc2": 30,
+      "type3": 151,
+      "calc3": 1,
+      "val3": -999,
+      "val31": -999,
+      "type4": 502,
+      "calc4": 21,
+      "val4": 5,
+      "val41": 10
     },
     {
       "iname": "BUFF_INTIMACY_01",
@@ -56485,6 +56944,17 @@
       "calc1": 1,
       "val1": 1,
       "val11": 999
+    },
+    {
+      "iname": "BUFF_BTL_INVINCIBLE",
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 114,
+      "calc1": 30,
+      "type2": 115,
+      "calc2": 30
     },
     {
       "iname": "BUFF_BTL_JOB_THI_1_15_U",
