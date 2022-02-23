@@ -61391,6 +61391,73 @@
       ]
     },
     {
+      "iname": "AF_LW_ACC_067",
+      "asset": "LAPSwpn_acc_067",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "cap": 1,
+      "sell": 0,
+      "hnum": 10,
+      "equip": "AEC_ACCE_MALE",
+      "status": [
+        {
+          "hp": 16,
+          "def": 1,
+          "spd": 1,
+          "avd": 3
+        },
+        {
+          "hp": 329,
+          "def": 14,
+          "spd": 3,
+          "avd": 57
+        }
+      ],
+      "randr": [
+        {
+          "hp": 40,
+          "def": 17,
+          "spd": 17,
+          "avd": 17
+        }
+      ],
+      "randa": [
+        {
+          "hp": 7,
+          "def": 1,
+          "spd": 1,
+          "avd": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_067",
+      "passives_condition": [
+        "APC_LW_ACC_067"
+      ],
+      "skl1": [
+        "SK_LW_ACC_067_1",
+        "SK_LW_DF_SHOOT_1"
+      ],
+      "skl2": [
+        "SK_LW_ACC_067_2",
+        "SK_LW_DF_SHOOT_2"
+      ],
+      "skl3": [
+        "SK_LW_ACC_067_3",
+        "SK_LW_DF_SHOOT_3"
+      ],
+      "skl4": [
+        "SK_LW_ACC_067_4",
+        "SK_LW_DF_SHOOT_4_UR"
+      ],
+      "skl5": [
+        "SK_LW_ACC_067_5",
+        "SK_LW_DF_SHOOT_5_UR"
+      ]
+    },
+    {
       "iname": "AF_SWO_LW_LILS_1",
       "asset": "LAPSwpn_swo_012",
       "type": 0,
