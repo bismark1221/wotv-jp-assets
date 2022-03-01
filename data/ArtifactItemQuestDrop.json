@@ -139,6 +139,8 @@
         "QE_EV_ART_CRF_32",
         "QE_EV_ART_CRF_33",
         "QE_EV_ART_CRF_34",
+        "QE_EV_ART_CRF_37",
+        "QE_EV_ART_CRF_38",
         "QE_EV_ART_CRF_13",
         "QE_EV_ART_CRF_14",
         "QE_EV_ART_CRF_15",
@@ -318,6 +320,8 @@
         "QE_EV_ART_CRF_32",
         "QE_EV_ART_CRF_33",
         "QE_EV_ART_CRF_34",
+        "QE_EV_ART_CRF_37",
+        "QE_EV_ART_CRF_38",
         "QE_EV_ART_CRF_13",
         "QE_EV_ART_CRF_14",
         "QE_EV_ART_CRF_15",
@@ -545,6 +549,8 @@
     {
       "iname": "IT_AF_AW_MACE",
       "questlist": [
+        "QE_EV_ART_CRF_37",
+        "QE_EV_ART_CRF_38",
         "QE_EV_ART_CRF_13",
         "QE_EV_ART_CRF_10",
         "QE_EV_ART_CRF_07",
@@ -806,6 +812,8 @@
         "QE_EV_ART_CRF_30",
         "QE_EV_ART_CRF_33",
         "QE_EV_ART_CRF_34",
+        "QE_EV_ART_CRF_37",
+        "QE_EV_ART_CRF_38",
         "QE_EV_ART_CRF_14",
         "QE_EV_ART_CRF_15",
         "QE_EV_ART_CRF_11",
@@ -1121,7 +1129,8 @@
         "QE_HA_LW_GRSR_01",
         "QE_HA_LW_OBRN",
         "QE_HA_LW_STIA",
-        "QE_HA_LW_RYER_02"
+        "QE_HA_LW_RYER_02",
+        "QE_HA_LW_SDLE"
       ]
     },
     {
@@ -1328,6 +1337,8 @@
         "QE_EV_ART_CRF_17",
         "QE_EV_ART_CRF_18",
         "QE_EV_ART_CRF_19",
+        "QE_EV_ART_CRF_37",
+        "QE_EV_ART_CRF_38",
         "QE_EV_ART_CRF_08",
         "QE_EV_ART_CRF_23",
         "QE_EV_ART_CRF_05",
@@ -2066,7 +2077,8 @@
         "QE_HA_LW_JUME",
         "QE_HA_LW_BELS",
         "QE_HA_LW_ASTR",
-        "QE_HA_LW_RSNC"
+        "QE_HA_LW_RSNC",
+        "QE_HA_LW_SDLE"
       ]
     },
     {
@@ -2798,6 +2810,8 @@
         "QE_EV_04_EX1",
         "QE_EV_ART_CRF_31",
         "QE_EV_ART_CRF_32",
+        "QE_EV_ART_CRF_37",
+        "QE_EV_ART_CRF_38",
         "QE_EV_ART_CRF_04"
       ]
     },
@@ -4404,6 +4418,7 @@
         "QE_HA_LW_IRDL",
         "QE_HA_LW_MORE",
         "QE_HA_LW_GRSR_01",
+        "QE_HA_LW_SDLE",
         "QE_EV_AST_010303"
       ]
     },
@@ -5256,6 +5271,13 @@
       "questlist": [
         "QE_EV_ART_CRF_35",
         "QE_EV_ART_CRF_36"
+      ]
+    },
+    {
+      "iname": "IT_AF_LW_MAC_013",
+      "questlist": [
+        "QE_EV_ART_CRF_37",
+        "QE_EV_ART_CRF_38"
       ]
     },
     {

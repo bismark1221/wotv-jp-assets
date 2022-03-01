@@ -620,11 +620,25 @@
       "body_type": "W"
     },
     {
-      "iname": "DU_LW_PR01",
+      "iname": "DU_LW_SONL",
+      "sex": 2,
+      "charaId": "LAPSsonl",
+      "anm_type": 1,
+      "body_type": "W"
+    },
+    {
+      "iname": "DU_LW_FRAZ",
       "sex": 1,
-      "charaId": "LAPSpr01",
+      "charaId": "LAPSfraz",
       "anm_type": 1,
       "body_type": "MM"
+    },
+    {
+      "iname": "DU_LW_URAL",
+      "sex": 2,
+      "charaId": "LAPSural",
+      "anm_type": 1,
+      "body_type": "W"
     },
     {
       "iname": "DU_LW_SL00",
@@ -870,6 +884,13 @@
       "charaId": "LAPSdris",
       "anm_type": 1,
       "body_type": "W"
+    },
+    {
+      "iname": "DU_LW_GRFD",
+      "sex": 1,
+      "charaId": "LAPSgrfd",
+      "anm_type": 1,
+      "body_type": "L"
     },
     {
       "iname": "DU_LW_GLMS",
@@ -1218,6 +1239,13 @@
       "iname": "DU_LW_PR_00",
       "sex": 1,
       "charaId": "LAPSpr00",
+      "anm_type": 1,
+      "body_type": "MM"
+    },
+    {
+      "iname": "DU_LW_PR01",
+      "sex": 1,
+      "charaId": "LAPSpr01",
       "anm_type": 1,
       "body_type": "MM"
     },

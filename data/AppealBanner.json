@@ -15626,7 +15626,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 2,
+      "priority": 4,
       "start_at": "2022/02/22 15:00:00",
       "end_at": "2022/03/24 14:59:59"
     },
@@ -15640,7 +15640,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 3,
+      "priority": 5,
       "start_at": "2022/02/22 15:00:00",
       "end_at": "2022/03/24 14:59:59"
     },
@@ -15741,6 +15741,76 @@
       "priority": 14,
       "start_at": "2022/02/22 15:00:00",
       "end_at": "2022/02/28 23:59:59"
+    },
+    {
+      "id": 1126,
+      "iname": "GachaBanner_0845",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0845",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2022/03/01",
+      "end_at": "2022/03/16 9:59:59"
+    },
+    {
+      "id": 1127,
+      "iname": "GachaBanner_0846",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_0846",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 3,
+      "start_at": "2022/03/01",
+      "end_at": "2022/03/16 9:59:59"
+    },
+    {
+      "id": 1128,
+      "iname": "ev_arti_crft_16",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_arti_crft_16",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 10,
+      "start_at": "2022/03/01",
+      "end_at": "2022/03/16 9:59:59"
+    },
+    {
+      "id": 1129,
+      "iname": "LAPS_SHOP_LIMITED_0342",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0342",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 11,
+      "start_at": "2022/03/01",
+      "end_at": "2022/03/09 14:59:59"
+    },
+    {
+      "id": 1130,
+      "iname": "ev_sdle_vs",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_sdle_vs",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 7,
+      "start_at": "2022/03/01",
+      "end_at": "2022/03/09 14:59:59"
     }
   ]
 }
