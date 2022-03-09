@@ -406,6 +406,12 @@
       "back_unit": "UN_LW_ST_020101"
     },
     {
+      "iname": "SE_ST_020802",
+      "chap": "CH_ST_0208",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_020101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -880,6 +886,16 @@
     {
       "iname": "SE_EV_2000MDL",
       "hurl": "ev_2000mdl"
+    },
+    {
+      "iname": "SE_EV_WHIT_01",
+      "hurl": "ev_whit_01"
+    },
+    {
+      "iname": "SE_PTQ_FF10_02",
+      "skip_ticket": "IT_PT_SKIP_FFX_2",
+      "hurl": "pt_ff10_02",
+      "won_dst_sheet_name": "bgm_ff10_Victory_Fanfare"
     },
     {
       "iname": "SE_EV_FF10_01_01",

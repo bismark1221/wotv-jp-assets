@@ -1283,6 +1283,114 @@
       ]
     },
     {
+      "iname": "GM_FF10_10",
+      "grpID": "GMG_AWARD",
+      "condition": {
+        "type": 13,
+        "sval": [
+          "PTQ_FF10_02"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_FF10_10",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_FF10_11",
+      "grpID": "GMG_AWARD",
+      "condition": {
+        "type": 13,
+        "sval": [
+          "PTQ_FF10_02"
+        ],
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_FF10_11",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_FF10_12",
+      "grpID": "GMG_AWARD",
+      "condition": {
+        "type": 13,
+        "sval": [
+          "PTQ_FF10_02"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_FF10_12",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_FF10_13",
+      "grpID": "GMG_AWARD",
+      "condition": {
+        "type": 12,
+        "sval": [
+          "PTQ_FF10_02"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_FF10_13",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_FF10_14",
+      "grpID": "GMG_AWARD",
+      "condition": {
+        "type": 12,
+        "sval": [
+          "PTQ_FF10_02"
+        ],
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_FF10_14",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_FF10_15",
+      "grpID": "GMG_AWARD",
+      "condition": {
+        "type": 12,
+        "sval": [
+          "PTQ_FF10_02"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_FF10_15",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "GM_PT01_1",
       "grpID": "GMG_AWARD",
       "condition": {
@@ -1695,6 +1803,186 @@
         {
           "type": 2,
           "iname": "AWD_G_S2022_1_3",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_1",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_01"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_1",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_2",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_01"
+        ],
+        "ival": 2
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_2",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_3",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_01"
+        ],
+        "ival": 3
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_3",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_4",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_01"
+        ],
+        "ival": 10
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_4",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_5",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_02"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_5",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_6",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_02"
+        ],
+        "ival": 2
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_6",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_7",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_02"
+        ],
+        "ival": 3
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_7",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_8",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_03"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_8",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_9",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_03"
+        ],
+        "ival": 2
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_9",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "GM_LGGB02_10",
+      "grpID": "GMG_AW_LGGB02",
+      "condition": {
+        "type": 17,
+        "sval": [
+          "LGGB_CN_03"
+        ],
+        "ival": 3
+      },
+      "rewards": [
+        {
+          "type": 2,
+          "iname": "AWD_G_LGGB02_10",
           "num": 1
         }
       ]
