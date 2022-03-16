@@ -2134,6 +2134,26 @@
       "iname": "guildbattle_period_id_before_seasonal_system_introduced",
       "type": 3,
       "value": "GBP_001,GBP_002,GBP_003,GBP_004,GBP_005"
+    },
+    {
+      "iname": "weekly_guild_battle_proxy_count",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "monthly_guild_battle_proxy_count",
+      "type": 0,
+      "value": 20
+    },
+    {
+      "iname": "guild_battle_proxy_open",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "guild_battle_proxy_reset_time",
+      "type": 2,
+      "value": "5:00:00"
     }
   ]
 }

@@ -474,7 +474,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -622,7 +623,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -770,7 +772,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -918,7 +921,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -1056,7 +1060,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -1194,7 +1199,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -1337,7 +1343,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -1480,7 +1487,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -1623,7 +1631,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -1766,7 +1775,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -1914,7 +1924,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -2077,7 +2088,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "",
@@ -2240,7 +2252,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "TL2",
@@ -2318,7 +2331,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     },
     {
       "name": "TL1",
@@ -2396,7 +2410,8 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": ""
     }
   ],
   "arena": [],
@@ -2443,7 +2458,7 @@
       },
       "mapEv": {
         "type": 1,
-        "typeval": "string={\"Datas\":[{\"Type\":4,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":true,\"ParamJson\":\"{\\\"m_Range\\\":[{\\\"x\\\":5,\\\"y\\\":6},{\\\"x\\\":5,\\\"y\\\":5},{\\\"x\\\":5,\\\"y\\\":4},{\\\"x\\\":5,\\\"y\\\":3},{\\\"x\\\":6,\\\"y\\\":3},{\\\"x\\\":7,\\\"y\\\":3},{\\\"x\\\":8,\\\"y\\\":3},{\\\"x\\\":8,\\\"y\\\":4},{\\\"x\\\":8,\\\"y\\\":5},{\\\"x\\\":8,\\\"y\\\":6},{\\\"x\\\":7,\\\"y\\\":6}]}\"}],\"ReactionSide\":0};local=",
+        "typeval": "string={\"Datas\":[{\"Type\":4,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":false,\"ParamJson\":\"{\\\"m_Range\\\":[{\\\"x\\\":5,\\\"y\\\":6},{\\\"x\\\":5,\\\"y\\\":5},{\\\"x\\\":5,\\\"y\\\":4},{\\\"x\\\":5,\\\"y\\\":3},{\\\"x\\\":6,\\\"y\\\":3},{\\\"x\\\":7,\\\"y\\\":3},{\\\"x\\\":8,\\\"y\\\":3},{\\\"x\\\":8,\\\"y\\\":4},{\\\"x\\\":8,\\\"y\\\":5},{\\\"x\\\":8,\\\"y\\\":6},{\\\"x\\\":7,\\\"y\\\":6}]}\"}],\"ReactionSide\":0};local=",
         "isUnitNoAct": true
       },
       "invokeMax": 1,
@@ -2466,7 +2481,7 @@
       },
       "mapEv": {
         "type": 1,
-        "typeval": "string={\"Datas\":[{\"Type\":4,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":true,\"ParamJson\":\"{\\\"m_Range\\\":[{\\\"x\\\":0,\\\"y\\\":7},{\\\"x\\\":0,\\\"y\\\":6},{\\\"x\\\":0,\\\"y\\\":5},{\\\"x\\\":0,\\\"y\\\":4},{\\\"x\\\":1,\\\"y\\\":7},{\\\"x\\\":1,\\\"y\\\":4},{\\\"x\\\":2,\\\"y\\\":7},{\\\"x\\\":2,\\\"y\\\":4},{\\\"x\\\":3,\\\"y\\\":7},{\\\"x\\\":3,\\\"y\\\":6},{\\\"x\\\":3,\\\"y\\\":5},{\\\"x\\\":3,\\\"y\\\":4}]}\"}],\"ReactionSide\":0};local=",
+        "typeval": "string={\"Datas\":[{\"Type\":4,\"IsActiveSameTime\":false,\"Delay\":0.0,\"IsPreProc\":false,\"ParamJson\":\"{\\\"m_Range\\\":[{\\\"x\\\":0,\\\"y\\\":7},{\\\"x\\\":0,\\\"y\\\":6},{\\\"x\\\":0,\\\"y\\\":5},{\\\"x\\\":0,\\\"y\\\":4},{\\\"x\\\":1,\\\"y\\\":7},{\\\"x\\\":1,\\\"y\\\":4},{\\\"x\\\":2,\\\"y\\\":7},{\\\"x\\\":2,\\\"y\\\":4},{\\\"x\\\":3,\\\"y\\\":7},{\\\"x\\\":3,\\\"y\\\":6},{\\\"x\\\":3,\\\"y\\\":5},{\\\"x\\\":3,\\\"y\\\":4}]}\"}],\"ReactionSide\":0};local=",
         "isUnitNoAct": true
       },
       "invokeMax": 1,
@@ -2750,5 +2765,6 @@
         }
       ]
     }
-  ]
+  ],
+  "enemy_group": []
 }
