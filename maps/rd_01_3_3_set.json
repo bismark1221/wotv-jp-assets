@@ -608,7 +608,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": "",
       "stealValue": 100,
@@ -760,7 +760,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": "",
       "stealValue": 100,
@@ -1356,85 +1356,6 @@
           "weight": 50
         }
       ]
-    },
-    {
-      "type": 0,
-      "iname": "QE_EV_RNDM_03",
-      "num": 1,
-      "drop_list": [
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_LW_ACC_073",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 500
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_MAT_ZUUU",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 1000
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_MAT_SAP_03",
-            "num": 5,
-            "secret": 0
-          },
-          "weight": 1300
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_MAT_LESS_01",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 1000
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_AW_ACCE",
-            "num": 5,
-            "secret": 0
-          },
-          "weight": 2000
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_EXP_02",
-            "num": 8,
-            "secret": 0
-          },
-          "weight": 2500
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_EXP_03",
-            "num": 6,
-            "secret": 0
-          },
-          "weight": 1100
-        },
-        {
-          "drop_data": {
-            "type": -1,
-            "iname": "",
-            "num": 0,
-            "secret": 0
-          },
-          "weight": 600
-        }
-      ]
     }
   ],
   "enemy_group": [
@@ -1502,7 +1423,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -1642,7 +1563,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -1777,7 +1698,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -1907,7 +1828,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -2042,7 +1963,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -2102,7 +2023,7 @@
           "rate": 35
         }
       ],
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": ""
     },
@@ -2170,7 +2091,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -2310,7 +2231,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -2445,7 +2366,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -2575,7 +2496,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -2710,7 +2631,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -2770,7 +2691,7 @@
           "rate": 35
         }
       ],
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": ""
     },
@@ -2838,7 +2759,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -2978,7 +2899,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -3113,7 +3034,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -3243,7 +3164,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -3378,7 +3299,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -3438,7 +3359,7 @@
           "rate": 35
         }
       ],
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": ""
     },
@@ -3506,7 +3427,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -3638,7 +3559,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -3760,7 +3681,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -3887,7 +3808,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -4009,7 +3930,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -4074,7 +3995,7 @@
           "rate": 35
         }
       ],
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": ""
     },
@@ -4142,7 +4063,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -4274,7 +4195,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -4396,7 +4317,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -4523,7 +4444,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -4645,7 +4566,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -4710,7 +4631,7 @@
           "rate": 35
         }
       ],
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": ""
     },
@@ -4770,7 +4691,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -4887,7 +4808,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5014,7 +4935,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5131,7 +5052,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5248,7 +5169,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5313,7 +5234,7 @@
           "rate": 35
         }
       ],
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": ""
     },
@@ -5373,7 +5294,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5490,7 +5411,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5617,7 +5538,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5734,7 +5655,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5851,7 +5772,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -5916,7 +5837,7 @@
           "rate": 35
         }
       ],
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": ""
     },
@@ -5984,7 +5905,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -6106,7 +6027,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -6236,7 +6157,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -6348,7 +6269,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -6470,7 +6391,7 @@
             "ctrl": 0,
             "nottar": 0,
             "fixdir": 0,
-            "drop": "QE_EV_RNDM_03",
+            "drop": "",
             "crystal": "",
             "steal": "",
             "stealValue": 100,
@@ -6535,7 +6456,7 @@
           "rate": 35
         }
       ],
-      "drop": "QE_EV_RNDM_03",
+      "drop": "",
       "crystal": "",
       "steal": ""
     },
