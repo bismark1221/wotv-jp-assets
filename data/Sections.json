@@ -894,6 +894,22 @@
       "hurl": "ev_2000mdl"
     },
     {
+      "iname": "SE_EV_AF2022",
+      "hurl": "ev_af2022_01"
+    },
+    {
+      "iname": "SE_EV_SLEN_01",
+      "hurl": "ev_slen_01"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_17",
+      "hurl": "ev_arti_crft_17"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_17",
+      "hurl": "ev_arti_crft_17"
+    },
+    {
       "iname": "SE_EV_RNDM_01",
       "hurl": "ev_rndm_01"
     },
@@ -984,44 +1000,6 @@
     {
       "iname": "SE_EV_RANK_01",
       "hurl": "ev_rank_01"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_15",
-      "hurl": "ev_arti_crft_15"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_15",
-      "hurl": "ev_arti_crft_15"
-    },
-    {
-      "iname": "SE_EV_SERL",
-      "hurl": "ev_serl_01"
-    },
-    {
-      "iname": "SE_EV_SERL_EX",
-      "hurl": "ev_serl_ex_01",
-      "o_cond_q": [
-        "QE_EV_SERL_05"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_SERL_EX",
-      "hurl": "ev_serl_ex_01"
-    },
-    {
-      "iname": "SE_EV_15_01",
-      "hurl": "ev_15_01"
-    },
-    {
-      "iname": "SE_EV_15_EX_01",
-      "hurl": "ev_15_ex_01",
-      "o_cond_q": [
-        "QE_EV_15_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_15_EX",
-      "hurl": "ev_15_ex_01"
     },
     {
       "iname": "SE_EV_VC_MV2_01",
@@ -1618,6 +1596,21 @@
       "won_dst_sheet_name": "bgm_ff4_Victory"
     },
     {
+      "iname": "SE_EV_15_01",
+      "hurl": "ev_15_01"
+    },
+    {
+      "iname": "SE_EV_15_EX_01",
+      "hurl": "ev_15_ex_01",
+      "o_cond_q": [
+        "QE_EV_15_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_15_EX",
+      "hurl": "ev_15_ex_01"
+    },
+    {
       "iname": "SE_EV_16_01",
       "hurl": "ev_16_01"
     },
@@ -1843,6 +1836,14 @@
       "hurl": "ev_01_ex_01"
     },
     {
+      "iname": "SE_MU_ART_CRF_15",
+      "hurl": "ev_arti_crft_15"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_15",
+      "hurl": "ev_arti_crft_15"
+    },
+    {
       "iname": "SE_EV_ART_CRF_14",
       "hurl": "ev_arti_crft_14"
     },
@@ -1965,6 +1966,21 @@
     {
       "iname": "SE_MU_ART_CRF_06",
       "hurl": "ev_arti_crft_06"
+    },
+    {
+      "iname": "SE_EV_SERL",
+      "hurl": "ev_serl_01"
+    },
+    {
+      "iname": "SE_EV_SERL_EX",
+      "hurl": "ev_serl_ex_01",
+      "o_cond_q": [
+        "QE_EV_SERL_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_SERL_EX",
+      "hurl": "ev_serl_ex_01"
     },
     {
       "iname": "SE_EV_CRIS",

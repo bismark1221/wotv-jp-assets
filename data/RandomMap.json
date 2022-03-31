@@ -74,6 +74,29 @@
           "weight": 20
         }
       ]
+    },
+    {
+      "iname": "RM_AF2022",
+      "map": [
+        {
+          "mapGroupId": "RMG_AF2022_1",
+          "scn": "lio_cas/lio_cas_001_A_1",
+          "set": "rd/af_01_1_set",
+          "weight": 20
+        },
+        {
+          "mapGroupId": "RMG_AF2022_2",
+          "scn": "hor_cas/hor_cas_008_A_1",
+          "set": "rd/af_01_2_set",
+          "weight": 20
+        },
+        {
+          "mapGroupId": "RMG_AF2022_3",
+          "scn": "fen_cas/fen_cas_001_A_1",
+          "set": "rd/af_01_3_set",
+          "weight": 20
+        }
+      ]
     }
   ]
 }
