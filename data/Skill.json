@@ -93227,6 +93227,21 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_FINA_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_FINA_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_FINA_2_S"
+      ]
+    },
+    {
       "iname": "SK_MA_LW_BYLO",
       "slot": 7,
       "cap": 1,
@@ -93332,6 +93347,19 @@
       "target": 0,
       "t_buffs": [
         "BUFF_MA_LW_UNII"
+      ]
+    },
+    {
+      "iname": "SK_MA_LW_UNII_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "t_buffs": [
+        "BUFF_MA_LW_UNII_2_1",
+        "BUFF_MA_LW_UNII_2_2"
       ]
     },
     {
@@ -100397,6 +100425,32 @@
       ]
     },
     {
+      "iname": "SK_LW_SWO_031_1",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_SWO_031_1_S"
+      ]
+    },
+    {
+      "iname": "SK_LW_SWO_031_5",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_SWO_031_5_S"
+      ]
+    },
+    {
       "iname": "SK_LW_PLUS6_1_1",
       "cap": 50,
       "grow": "ARTIFACT_50",
@@ -100628,6 +100682,32 @@
       "target": 0,
       "s_buffs": [
         "BUFF_LW_PLUS6_15"
+      ]
+    },
+    {
+      "iname": "SK_LW_PLUS6_16",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_PLUS6_16"
+      ]
+    },
+    {
+      "iname": "SK_LW_PLUS6_17",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_PLUS6_17"
       ]
     },
     {
@@ -108639,6 +108719,46 @@
       "gdupli": "SK_VC_LW_FRUIT_GS"
     },
     {
+      "iname": "SK_VC_LW_SLEN_GS",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_SLEN_GS"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_SLEN_GS_AW",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_SLEN_GS_AW"
+      ],
+      "gdupli": "SK_VC_LW_SLEN_GS"
+    },
+    {
+      "iname": "SK_VC_LW_SLEN_GSMAX",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_SLEN_GSMAX"
+      ],
+      "gdupli": "SK_VC_LW_SLEN_GS"
+    },
+    {
       "iname": "SK_VC_LW_IGNT_GS",
       "slot": 8,
       "cap": 70,
@@ -109906,6 +110026,33 @@
         "BUFF_VC_PRS5_MV2_GSAW"
       ],
       "gdupli": "SK_VC_PRS5_MV2_GS"
+    },
+    {
+      "iname": "SK_VC_LW_ADLD2_GS",
+      "slot": 8,
+      "cap": 70,
+      "grow": "VCGROW_SSR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_ADLD2_GS"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_ADLD2_GSAW",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_ADLD2_GSAW"
+      ],
+      "gdupli": "SK_VC_LW_ADLD2_GS"
     },
     {
       "iname": "SK_VC_LW_GLEM_GS_2",
@@ -113148,6 +113295,46 @@
       "gdupli": "SK_VC_LW_FRUIT_GS_2"
     },
     {
+      "iname": "SK_VC_LW_SLEN_GS_2",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_SLEN_GS_2"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_SLEN_GS_AW_2",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_SLEN_GS_AW_2"
+      ],
+      "gdupli": "SK_VC_LW_SLEN_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_SLEN_GSMAX_2",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_SLEN_GSMAX_2"
+      ],
+      "gdupli": "SK_VC_LW_SLEN_GS_2"
+    },
+    {
       "iname": "SK_VC_LW_IGNT_GS_2",
       "slot": 8,
       "cap": 70,
@@ -115026,6 +115213,46 @@
         "BUFF_VC_PRS5_MV2_GSMAX"
       ],
       "gdupli": "SK_VC_PRS5_MV2_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_ADLD2_GS_2",
+      "slot": 8,
+      "cap": 70,
+      "grow": "VCGROW_SSR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_ADLD2_GS_2"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_ADLD2_GSAW_2",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_ADLD2_GSAW_2"
+      ],
+      "gdupli": "SK_VC_LW_ADLD2_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_ADLD2_GSMAX",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_ADLD2_GSMAX"
+      ],
+      "gdupli": "SK_VC_LW_ADLD2_GS_2"
     },
     {
       "iname": "SK_VC_LW_CACT_GS",
@@ -118912,6 +119139,46 @@
       "gdupli": "SK_VC_LW_FRUIT_P"
     },
     {
+      "iname": "SK_VC_LW_SLEN_P",
+      "slot": 3,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_SLEN_P"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_SLEN_PAW",
+      "slot": 3,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_SLEN_PAW"
+      ],
+      "gdupli": "SK_VC_LW_SLEN_P"
+    },
+    {
+      "iname": "SK_VC_LW_SLEN_PMAX",
+      "slot": 3,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_SLEN_PMAX"
+      ],
+      "gdupli": "SK_VC_LW_SLEN_P"
+    },
+    {
       "iname": "SK_VC_LW_IGNT_P",
       "slot": 3,
       "cap": 70,
@@ -120260,6 +120527,33 @@
         "BUFF_VC_PRS5_MV2_PAW"
       ],
       "gdupli": "SK_VC_PRS5_MV2_P"
+    },
+    {
+      "iname": "SK_VC_LW_ADLD2_P",
+      "slot": 3,
+      "cap": 70,
+      "grow": "VCGROW_SSR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_ADLD2_P"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_ADLD2_PAW",
+      "slot": 3,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_ADLD2_PAW"
+      ],
+      "gdupli": "SK_VC_LW_ADLD2_P"
     },
     {
       "iname": "SK_VC_LW_CACT_P",

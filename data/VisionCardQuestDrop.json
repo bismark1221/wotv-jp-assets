@@ -331,6 +331,12 @@
       ]
     },
     {
+      "iname": "IT_VPI_LW_SLEN",
+      "questlist": [
+        "QE_VC_LW_SLEN"
+      ]
+    },
+    {
       "iname": "IT_VPI_LW_IGNT",
       "questlist": [
         "QE_VC_LW_IGNT"
@@ -557,6 +563,13 @@
       "questlist": [
         "QE_EV_VC_MV2_1",
         "QE_EV_VC_MV2_2"
+      ]
+    },
+    {
+      "iname": "IT_VPI_LW_ADLD2",
+      "questlist": [
+        "QE_EV_VC_ADLD_1",
+        "QE_EV_VC_ADLD_2"
       ]
     },
     {
@@ -787,7 +800,8 @@
         "QE_VC_LW_THLA",
         "QE_VC_LW_ANIM",
         "QE_VC_LW_GLMS",
-        "QE_VC_LW_FRUIT"
+        "QE_VC_LW_FRUIT",
+        "QE_VC_LW_SLEN"
       ]
     },
     {
@@ -811,6 +825,8 @@
         "QE_EV_VC_IBUKI_2",
         "QE_EV_VC_MV2_1",
         "QE_EV_VC_MV2_2",
+        "QE_EV_VC_ADLD_1",
+        "QE_EV_VC_ADLD_2",
         "QE_EV_ART_SCR_01",
         "QE_EV_ART_SCR_02",
         "QE_EV_ART_SCR_03",
@@ -922,7 +938,8 @@
         "QE_VC_LW_THLA",
         "QE_VC_LW_ANIM",
         "QE_VC_LW_GLMS",
-        "QE_VC_LW_FRUIT"
+        "QE_VC_LW_FRUIT",
+        "QE_VC_LW_SLEN"
       ]
     },
     {
@@ -945,6 +962,8 @@
         "QE_EV_VC_IBUKI_2",
         "QE_EV_VC_MV2_1",
         "QE_EV_VC_MV2_2",
+        "QE_EV_VC_ADLD_1",
+        "QE_EV_VC_ADLD_2",
         "QE_EV_ART_SCR_01",
         "QE_EV_ART_SCR_02",
         "QE_EV_ART_SCR_03",
@@ -1056,7 +1075,8 @@
         "QE_VC_LW_THLA",
         "QE_VC_LW_ANIM",
         "QE_VC_LW_GLMS",
-        "QE_VC_LW_FRUIT"
+        "QE_VC_LW_FRUIT",
+        "QE_VC_LW_SLEN"
       ]
     },
     {
@@ -1167,7 +1187,8 @@
         "QE_VC_LW_THLA",
         "QE_VC_LW_ANIM",
         "QE_VC_LW_GLMS",
-        "QE_VC_LW_FRUIT"
+        "QE_VC_LW_FRUIT",
+        "QE_VC_LW_SLEN"
       ]
     }
   ]
