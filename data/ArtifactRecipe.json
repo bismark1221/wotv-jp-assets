@@ -4471,6 +4471,31 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_BSW_003_6",
+      "recipe": "IT_AF_LW_BSW_003",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BSW_003",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BSW_003_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_SSR",
+          "num": 7
+        }
+      ],
+      "from_iname": "AF_LW_BSW_003",
+      "plus": 6
+    },
+    {
       "iname": "AF_LW_BSW_004",
       "recipe": "IT_AF_LW_BSW_004",
       "gil": 15000,
@@ -4960,6 +4985,44 @@
       ],
       "from_iname": "AF_LW_BSW_016",
       "plus": 5
+    },
+    {
+      "iname": "AF_LW_BSW_011",
+      "recipe": "IT_AF_LW_BSW_011",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BSW_011",
+          "num": 1
+        }
+      ],
+      "from_iname": "AF_LW_BSW_011"
+    },
+    {
+      "iname": "AF_LW_BSW_011_1",
+      "recipe": "IT_AF_LW_BSW_011",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BSW_011",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BSW_011",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_UR",
+          "num": 10
+        }
+      ],
+      "from_iname": "AF_LW_BSW_011",
+      "plus": 1
     },
     {
       "iname": "AF_FF10_BSW_000",
@@ -11301,6 +11364,31 @@
       ],
       "from_iname": "AF_LW_DAG_006",
       "plus": 5
+    },
+    {
+      "iname": "AF_LW_DAG_006_6",
+      "recipe": "IT_AF_LW_DAG_006",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_DAG_006",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_DAG_006_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_SSR",
+          "num": 7
+        }
+      ],
+      "from_iname": "AF_LW_DAG_006",
+      "plus": 6
     },
     {
       "iname": "AF_FF6_DAG_000",
@@ -18315,6 +18403,239 @@
         }
       ],
       "from_iname": "AF_LW_ROD_025",
+      "plus": 5
+    },
+    {
+      "iname": "AF_LW_ROD_027",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027"
+    },
+    {
+      "iname": "AF_LW_ROD_027_1",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_ROD_027_2",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_ROD_027_3",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_ROD_027_4",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_ROD_027_5",
+      "recipe": "IT_AF_LW_ROD_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_ROD_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_ROD_027_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_SEED_01",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_JELLY",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_DARK_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_ROD_027",
       "plus": 5
     },
     {

@@ -379,7 +379,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -527,7 +529,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "a",
@@ -665,7 +669,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "c",
@@ -813,7 +819,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -926,7 +934,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "b",
@@ -1064,7 +1074,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     }
   ],
   "arena": [],
@@ -1108,7 +1120,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 115
+          "weight": 30
         },
         {
           "drop_data": {
@@ -1244,6 +1256,15 @@
             "secret": 0
           },
           "weight": 85
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_FINA_01_4",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 85
         }
       ]
     },
@@ -1272,5 +1293,6 @@
         }
       ]
     }
-  ]
+  ],
+  "enemy_group": []
 }

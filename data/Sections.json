@@ -904,6 +904,33 @@
       "hurl": "ev_af2022_01"
     },
     {
+      "iname": "SE_EV_FFBE_3",
+      "hurl": "ev_FFBE_3"
+    },
+    {
+      "iname": "SE_EV_MCRD",
+      "hurl": "ev_mcrd_01"
+    },
+    {
+      "iname": "SE_EV_MCRD_EX",
+      "hurl": "ev_mcrd_ex_01",
+      "o_cond_q": [
+        "QE_EV_MCRD_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_MCRD_EX",
+      "hurl": "ev_mcrd_ex_01"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_18",
+      "hurl": "ev_arti_crft_18"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_18",
+      "hurl": "ev_arti_crft_18"
+    },
+    {
       "iname": "SE_EV_SLEN_01",
       "hurl": "ev_slen_01"
     },
