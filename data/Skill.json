@@ -93579,6 +93579,22 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_HLNA_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_HLNA_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_HLNA_2_S_1",
+        "BUFF_MA_LW_HLNA_2_S_2"
+      ]
+    },
+    {
       "iname": "SK_MA_LW_LILS",
       "slot": 7,
       "cap": 1,
@@ -93960,6 +93976,18 @@
       "target": 0,
       "t_buffs": [
         "BUFF_MA_LW_SRJS"
+      ]
+    },
+    {
+      "iname": "SK_MA_LW_SRJS_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "t_buffs": [
+        "BUFF_MA_LW_SRJS_2"
       ]
     },
     {
@@ -94500,6 +94528,30 @@
       "t_buffs": [
         "BUFF_MA_LW_VKTR"
       ]
+    },
+    {
+      "iname": "SK_MA_LW_VKTR_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_VKTR_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_VKTR_2_S"
+      ],
+      "barrier": {
+        "type": 3,
+        "mot": "cmn_guard",
+        "eff": "ef_com_guard_00",
+        "val": 1,
+        "tar": 1,
+        "scut": 100,
+        "ecut": 100
+      }
     },
     {
       "iname": "SK_MA_LW_THLA",
@@ -95457,6 +95509,21 @@
       ],
       "s_buffs": [
         "BUFF_MA_LW_CMLO_S"
+      ]
+    },
+    {
+      "iname": "SK_MA_LW_CMLO_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_CMLO_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_CMLO_2_S"
       ]
     },
     {
@@ -100574,6 +100641,71 @@
       "target": 0,
       "s_buffs": [
         "BUFF_LW_ROD_028_5"
+      ]
+    },
+    {
+      "iname": "SK_LW_DAG_010_1",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_DAG_010_1"
+      ]
+    },
+    {
+      "iname": "SK_LW_DAG_010_2",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_DAG_010_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_DAG_010_3",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_DAG_010_3"
+      ]
+    },
+    {
+      "iname": "SK_LW_DAG_010_4",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_DAG_010_4"
+      ]
+    },
+    {
+      "iname": "SK_LW_DAG_010_5",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_DAG_010_5"
       ]
     },
     {
@@ -109595,6 +109727,46 @@
       "gdupli": "SK_VC_LW_SLEN_GS"
     },
     {
+      "iname": "SK_VC_LW_FINA_01_GS",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_FINA_01_GS"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_FINA_01_GS_AW",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_FINA_01_GS_AW"
+      ],
+      "gdupli": "SK_VC_LW_FINA_01_GS"
+    },
+    {
+      "iname": "SK_VC_LW_FINA_01_GSMAX",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_FINA_01_GSMAX"
+      ],
+      "gdupli": "SK_VC_LW_FINA_01_GS"
+    },
+    {
       "iname": "SK_VC_LW_IGNT_GS",
       "slot": 8,
       "cap": 70,
@@ -114169,6 +114341,46 @@
         "BUFF_VC_LW_SLEN_GSMAX_2"
       ],
       "gdupli": "SK_VC_LW_SLEN_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_FINA_01_GS_2",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_FINA_01_GS_2"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_FINA_01_GS_AW_2",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_FINA_01_GS_AW_2"
+      ],
+      "gdupli": "SK_VC_LW_FINA_01_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_FINA_01_GSMAX_2",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_FINA_01_GSMAX_2"
+      ],
+      "gdupli": "SK_VC_LW_FINA_01_GS_2"
     },
     {
       "iname": "SK_VC_LW_IGNT_GS_2",
@@ -120013,6 +120225,46 @@
         "BUFF_VC_LW_SLEN_PMAX"
       ],
       "gdupli": "SK_VC_LW_SLEN_P"
+    },
+    {
+      "iname": "SK_VC_LW_FINA_01_P",
+      "slot": 3,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_FINA_01_P"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_FINA_01_PAW",
+      "slot": 3,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_FINA_01_PAW"
+      ],
+      "gdupli": "SK_VC_LW_FINA_01_P"
+    },
+    {
+      "iname": "SK_VC_LW_FINA_01_PMAX",
+      "slot": 3,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_FINA_01_PMAX"
+      ],
+      "gdupli": "SK_VC_LW_FINA_01_P"
     },
     {
       "iname": "SK_VC_LW_IGNT_P",

@@ -1220,7 +1220,8 @@
       "trust": "AF_ROD_LW_HLNA_1",
       "atkskl": "SK_LW_GRM_ATK",
       "mstskl": [
-        "SK_MA_LW_HLNA"
+        "SK_MA_LW_HLNA",
+        "SK_MA_LW_HLNA_2"
       ],
       "jobsets": [
         "JB_LW_GRM_WIND",
@@ -3504,7 +3505,8 @@
       "trust": "AF_CLT_LW_SRJS_1",
       "atkskl": "SK_LW_LAN_ATK",
       "mstskl": [
-        "SK_MA_LW_SRJS"
+        "SK_MA_LW_SRJS",
+        "SK_MA_LW_SRJS_2"
       ],
       "jobsets": [
         "JB_LW_LAN_ICE",
@@ -6823,7 +6825,8 @@
       "trust": "AF_ARM_LW_VKTR_1",
       "atkskl": "SK_LW_DRG_ATK",
       "mstskl": [
-        "SK_MA_LW_VKTR"
+        "SK_MA_LW_VKTR",
+        "SK_MA_LW_VKTR_2"
       ],
       "jobsets": [
         "JB_LW_DRG_ICE",
@@ -13136,7 +13139,8 @@
       "trust": "AF_ARM_LW_CMLO_1",
       "atkskl": "SK_LW_DRG_ATK",
       "mstskl": [
-        "SK_MA_LW_CMLO"
+        "SK_MA_LW_CMLO",
+        "SK_MA_LW_CMLO_2"
       ],
       "jobsets": [
         "JB_LW_DRG_SHINE",
@@ -30715,6 +30719,89 @@
           "ccf": 10,
           "csw": -5,
           "cch": 50,
+          "mov": 3,
+          "jmp": 2,
+          "dmax": 9999
+        }
+      ],
+      "unit_medal_num": 0
+    },
+    {
+      "iname": "UN_LW_E_IREZ",
+      "sex": 2,
+      "size": 0,
+      "body_type": "W",
+      "personal": 5,
+      "charaId": "LAPSirez",
+      "anm_type": 1,
+      "voiceId": "LAPSirez_00",
+      "type": 7,
+      "elem": [
+        2
+      ],
+      "species": [
+        1
+      ],
+      "birth": 2,
+      "rare": 4,
+      "grow": "SR_DEFAULT",
+      "cost": 90,
+      "atkskl": "SK_LW_DAC_ATK",
+      "jobsets": [
+        "JB_LW_DAC_ICE",
+        "JB_LW_LLN_ICE",
+        "JB_LW_HUN_ICE"
+      ],
+      "ai": "AI_PLAYER_LW_DAC",
+      "buff_pri": "BUFFPRI_PHYATK",
+      "debuff_pri": "DEBUFFPRI_PHYATK",
+      "status": [
+        {
+          "hp": 296,
+          "mp": 59,
+          "ap": 78,
+          "atk": 79,
+          "def": 0,
+          "mag": 32,
+          "mnd": 0,
+          "dex": 78,
+          "spd": 31,
+          "luk": 64,
+          "efi": -10,
+          "ewi": 20,
+          "asl": 10,
+          "api": -5,
+          "abl": 10,
+          "ash": 15,
+          "ama": -10,
+          "cfr": 10,
+          "cst": 50,
+          "stn": 50,
+          "mov": 3,
+          "jmp": 2,
+          "dmax": 9999
+        },
+        {
+          "hp": 1002,
+          "mp": 92,
+          "ap": 96,
+          "atk": 133,
+          "def": 0,
+          "mag": 54,
+          "mnd": 0,
+          "dex": 117,
+          "spd": 36,
+          "luk": 90,
+          "efi": -10,
+          "ewi": 20,
+          "asl": 10,
+          "api": -5,
+          "abl": 10,
+          "ash": 15,
+          "ama": -10,
+          "cfr": 10,
+          "cst": 50,
+          "stn": 50,
           "mov": 3,
           "jmp": 2,
           "dmax": 9999
