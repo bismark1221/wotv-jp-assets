@@ -109,6 +109,15 @@
       "keytime": 86400
     },
     {
+      "iname": "AC_ART_CRF_16",
+      "section_group_iname": "SEG_ART_CRF_16",
+      "hurl": "ac_art_crf_16",
+      "type": 1,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
       "iname": "AC_ART_CRF_S1",
       "section_group_iname": "SEG_ART_CRF_S1",
       "hurl": "ac_art_crf_s1",
@@ -346,6 +355,15 @@
       "iname": "AC_SERL",
       "section_group_iname": "SEG_SERL",
       "hurl": "ac_serl",
+      "type": 2,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
+      "iname": "AC_RNEL",
+      "section_group_iname": "SEG_RNEL",
+      "hurl": "ac_rnel",
       "type": 2,
       "keyitem1": "IT_KEY_ARCHIVE",
       "keynum1": 1,

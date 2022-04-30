@@ -676,9 +676,9 @@
       "raid_type": 0,
       "dispOrder": 0,
       "pts": 0,
-      "shield": false,
+      "shield": true,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":157,\"value\":0},{\"type\":158,\"value\":-10},{\"type\":250,\"value\":-10},{\"type\":151,\"value\":0},{\"type\":253,\"value\":-10},{\"type\":4,\"value\":115},{\"type\":1,\"value\":1159},{\"type\":2,\"value\":79},{\"type\":3,\"value\":88}]}",
+      "status": "{\"list\":[{\"type\":250,\"value\":-10},{\"type\":253,\"value\":-10},{\"type\":4,\"value\":115},{\"type\":1,\"value\":1159},{\"type\":2,\"value\":79},{\"type\":3,\"value\":88}]}",
       "groupId": "",
       "infUnit": false
     },
@@ -993,7 +993,7 @@
       },
       "skills": [
         {
-          "iname": "SK_ARMN_M_01",
+          "iname": "SK_ARMN_M_03",
           "rank": 6,
           "rate": 100
         }
@@ -1006,7 +1006,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":152,\"value\":10},{\"type\":156,\"value\":-10},{\"type\":1,\"value\":825},{\"type\":2,\"value\":65},{\"type\":3,\"value\":85},{\"type\":4,\"value\":98},{\"type\":6,\"value\":43},{\"type\":9,\"value\":28}]}",
+      "status": "{\"list\":[{\"type\":1,\"value\":825},{\"type\":2,\"value\":65},{\"type\":3,\"value\":85},{\"type\":4,\"value\":98},{\"type\":6,\"value\":43},{\"type\":9,\"value\":28},{\"type\":154,\"value\":-10},{\"type\":156,\"value\":10}]}",
       "groupId": "",
       "infUnit": false
     },
@@ -1081,7 +1081,7 @@
       },
       "skills": [
         {
-          "iname": "SK_ARMN_M_01",
+          "iname": "SK_ARMN_M_03",
           "rank": 6,
           "rate": 100
         }
@@ -1094,7 +1094,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":152,\"value\":10},{\"type\":156,\"value\":-10},{\"type\":1,\"value\":825},{\"type\":2,\"value\":65},{\"type\":3,\"value\":85},{\"type\":4,\"value\":98},{\"type\":6,\"value\":43},{\"type\":9,\"value\":28}]}",
+      "status": "{\"list\":[{\"type\":156,\"value\":10},{\"type\":1,\"value\":825},{\"type\":2,\"value\":65},{\"type\":3,\"value\":85},{\"type\":4,\"value\":98},{\"type\":6,\"value\":43},{\"type\":9,\"value\":28},{\"type\":154,\"value\":-10}]}",
       "groupId": "",
       "infUnit": false
     }

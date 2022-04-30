@@ -168,7 +168,7 @@
     },
     {
       "name": "id:5",
-      "x": 8,
+      "x": 2,
       "y": 10,
       "dir": 3,
       "ct_calc": 0,
@@ -208,46 +208,6 @@
     },
     {
       "name": "id:6",
-      "x": 4,
-      "y": 10,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 0,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "part": {
-        "body": "",
-        "id": "",
-        "gauge": {
-          "x": 0,
-          "y": 0
-        }
-      }
-    },
-    {
-      "name": "id:0",
       "x": 6,
       "y": 10,
       "dir": 3,
@@ -287,9 +247,49 @@
       }
     },
     {
-      "name": "",
-      "x": 2,
+      "name": "id:0",
+      "x": 4,
       "y": 10,
+      "dir": 3,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 0,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0,
+          "y": 0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 5,
+      "y": 11,
       "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
@@ -526,7 +526,7 @@
       "ai": {
         "iname": "AI_ENEMY_MAGIC_LV2",
         "wait_e": 0,
-        "search": 20,
+        "search": 4,
         "sensing": 0
       },
       "chgTexSetting": {
@@ -589,7 +589,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":151,\"value\":10},{\"type\":155,\"value\":-10}]}",
+      "status": "",
       "groupId": "",
       "infUnit": false
     },
@@ -611,7 +611,7 @@
       "ai": {
         "iname": "AI_ENEMY_MAGIC_LV2",
         "wait_e": 0,
-        "search": 20,
+        "search": 4,
         "sensing": 0
       },
       "chgTexSetting": {
@@ -696,7 +696,7 @@
       "ai": {
         "iname": "AI_ENEMY_MAGIC_LV2",
         "wait_e": 0,
-        "search": 20,
+        "search": 4,
         "sensing": 0
       },
       "chgTexSetting": {
@@ -781,7 +781,7 @@
       "ai": {
         "iname": "AI_ENEMY_MAGIC_LV2",
         "wait_e": 0,
-        "search": 20,
+        "search": 4,
         "sensing": 0
       },
       "chgTexSetting": {
@@ -866,7 +866,7 @@
       "ai": {
         "iname": "AI_ENEMY_ATK_LV1",
         "wait_e": 0,
-        "search": 20,
+        "search": 4,
         "sensing": 0
       },
       "chgTexSetting": {
@@ -940,7 +940,7 @@
       "ai": {
         "iname": "AI_ENEMY_ATK_LV1",
         "wait_e": 0,
-        "search": 20,
+        "search": 4,
         "sensing": 0
       },
       "chgTexSetting": {
@@ -995,6 +995,186 @@
       "status": "{\"list\":[{\"type\":155,\"value\":10},{\"type\":153,\"value\":-10}]}",
       "groupId": "",
       "infUnit": false
+    },
+    {
+      "name": "",
+      "x": 4,
+      "y": 3,
+      "dir": 1,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "AI_ENEMY_ATK_LV1",
+        "wait_e": 0,
+        "search": 6,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "enemy_id": 36,
+      "iname": "UN_LW_E_SKEL",
+      "side": 1,
+      "dead": 0,
+      "lv": 5,
+      "rare": 0,
+      "awake": 5,
+      "rank": 5,
+      "elem": 8,
+      "search": 0,
+      "ctrl": 0,
+      "nottar": 0,
+      "fixdir": 0,
+      "drop": "EV_WEEK_01",
+      "crystal": "CRYSTAL_00",
+      "steal": "",
+      "stealValue": 100,
+      "nrmSkl": {
+        "iname": "",
+        "rank": 0,
+        "rate": 0
+      },
+      "skills": [
+        {
+          "iname": "SK_SKEL_M_01",
+          "rank": 5,
+          "rate": 100
+        },
+        {
+          "iname": "SK_SKEL_M_02",
+          "rank": 5,
+          "rate": 100
+        },
+        {
+          "iname": "SK_SKEL_M_03",
+          "rank": 5,
+          "rate": 100
+        }
+      ],
+      "fskl": "",
+      "weight": 0,
+      "tag": 0,
+      "raid_type": 0,
+      "dispOrder": 0,
+      "pts": 0,
+      "shield": false,
+      "referenceGObjName": "",
+      "status": "{\"list\":[{\"type\":157,\"value\":-10}]}",
+      "groupId": "",
+      "infUnit": false
+    },
+    {
+      "name": "",
+      "x": 3,
+      "y": 5,
+      "dir": 1,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "AI_ENEMY_ATK_LV1",
+        "wait_e": 0,
+        "search": 6,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "enemy_id": 37,
+      "iname": "UN_LW_E_SKEL",
+      "side": 1,
+      "dead": 0,
+      "lv": 5,
+      "rare": 0,
+      "awake": 5,
+      "rank": 5,
+      "elem": 8,
+      "search": 0,
+      "ctrl": 0,
+      "nottar": 0,
+      "fixdir": 0,
+      "drop": "EV_WEEK_01",
+      "crystal": "CRYSTAL_00",
+      "steal": "",
+      "stealValue": 100,
+      "nrmSkl": {
+        "iname": "",
+        "rank": 0,
+        "rate": 0
+      },
+      "skills": [
+        {
+          "iname": "SK_SKEL_M_01",
+          "rank": 5,
+          "rate": 100
+        },
+        {
+          "iname": "SK_SKEL_M_02",
+          "rank": 5,
+          "rate": 100
+        },
+        {
+          "iname": "SK_SKEL_M_03",
+          "rank": 5,
+          "rate": 100
+        }
+      ],
+      "fskl": "",
+      "weight": 0,
+      "tag": 0,
+      "raid_type": 0,
+      "dispOrder": 0,
+      "pts": 0,
+      "shield": false,
+      "referenceGObjName": "",
+      "status": "{\"list\":[{\"type\":157,\"value\":-10}]}",
+      "groupId": "",
+      "infUnit": false
     }
   ],
   "arena": [],
@@ -1038,7 +1218,7 @@
             "num": 4,
             "secret": 0
           },
-          "weight": 2669
+          "weight": 2135
         },
         {
           "drop_data": {
@@ -1047,7 +1227,25 @@
             "num": 4,
             "secret": 0
           },
-          "weight": 906
+          "weight": 725
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_EXP_01",
+            "num": 4,
+            "secret": 0
+          },
+          "weight": 1800
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_EXP_02",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 400
         },
         {
           "drop_data": {
@@ -1056,7 +1254,7 @@
             "num": 4,
             "secret": 0
           },
-          "weight": 1155
+          "weight": 925
         },
         {
           "drop_data": {
@@ -1065,7 +1263,7 @@
             "num": 2,
             "secret": 0
           },
-          "weight": 1438
+          "weight": 1150
         },
         {
           "drop_data": {
@@ -1074,7 +1272,7 @@
             "num": 2,
             "secret": 0
           },
-          "weight": 2500
+          "weight": 2000
         },
         {
           "drop_data": {
@@ -1083,7 +1281,7 @@
             "num": 1,
             "secret": 0
           },
-          "weight": 300
+          "weight": 240
         },
         {
           "drop_data": {
@@ -1092,7 +1290,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 1032
+          "weight": 625
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "info": {
     "angle_override": true,
-    "angle": 180,
+    "angle": 0,
     "crystal_fade_enable": false,
     "crystal_fade_max": 0
   },
@@ -566,7 +566,7 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_SAM_S_3_INIT",
+          "iname": "SK_LW_SAM_S_1",
           "rank": 15,
           "rate": 100
         }
@@ -651,7 +651,7 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_SAM_S_3_INIT",
+          "iname": "SK_LW_SAM_S_1",
           "rank": 15,
           "rate": 100
         }
@@ -736,7 +736,7 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_SAM_S_3_INIT",
+          "iname": "SK_LW_SAM_S_1",
           "rank": 15,
           "rate": 100
         }
@@ -821,7 +821,7 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_SAM_S_3_INIT",
+          "iname": "SK_LW_SAM_S_1",
           "rank": 15,
           "rate": 100
         }
@@ -1109,7 +1109,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_MAT_LIQUID_01",
+            "iname": "IT_AF_MAT_SAP_01",
             "num": 1,
             "secret": 0
           },
@@ -1127,7 +1127,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_LW_ROD_002",
+            "iname": "IT_AF_LW_MAC_001",
             "num": 1,
             "secret": 0
           },
