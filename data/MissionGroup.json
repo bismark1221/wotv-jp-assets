@@ -267,7 +267,23 @@
       "type": 1,
       "category": 1,
       "gaugeID": "MPG_DAILY_033",
-      "begin_at": "2022/05/09 5:00:00"
+      "begin_at": "2022/05/09 5:00:00",
+      "end_at": "2022/05/14 4:59:59"
+    },
+    {
+      "iname": "MG_DAILY_034R",
+      "type": 1,
+      "category": 1,
+      "gaugeID": "MPG_DAILY_034",
+      "begin_at": "2022/05/14 5:00:00",
+      "end_at": "2022/06/15 4:59:59"
+    },
+    {
+      "iname": "MG_DAILY_035R",
+      "type": 1,
+      "category": 1,
+      "gaugeID": "MPG_DAILY_035",
+      "begin_at": "2022/06/15 5:00:00"
     },
     {
       "iname": "MG_DAILY_002_1",
@@ -2061,6 +2077,48 @@
       "category": 2,
       "begin_at": "2022/01/01",
       "end_at": "2022/02/01 23:59:59"
+    },
+    {
+      "iname": "MG_FF13_1_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2022/05/13 18:30:00",
+      "end_at": "2022/07/01 23:59:59"
+    },
+    {
+      "iname": "MG_FF13_1_M_01",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2022/05/13 18:30:00",
+      "end_at": "2022/07/01 23:59:59"
+    },
+    {
+      "iname": "MG_FF13_1_02",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2022/05/13 18:30:00",
+      "end_at": "2022/07/01 23:59:59"
+    },
+    {
+      "iname": "MG_MU_FF13_1_02",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2022/05/13 18:30:00",
+      "end_at": "2022/07/01 23:59:59"
+    },
+    {
+      "iname": "MG_FF13_1_03",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2022/05/13 18:30:00",
+      "end_at": "2022/07/01 23:59:59"
+    },
+    {
+      "iname": "MG_MU_FF13_1_03",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2022/05/13 18:30:00",
+      "end_at": "2022/07/01 23:59:59"
     },
     {
       "iname": "MG_EV18_1_01",

@@ -955,6 +955,24 @@
       "hurl": "ev_2_5Anv_01"
     },
     {
+      "iname": "SE_EV_FF13_01_01",
+      "hurl": "ev_FF13_01",
+      "won_dst_sheet_name": "bgm_FF13_Glorys_Fanfare"
+    },
+    {
+      "iname": "SE_EV_FF13_01_EX",
+      "hurl": "ev_FF13_ex_01",
+      "o_cond_q": [
+        "QE_EV_FF13_10"
+      ],
+      "won_dst_sheet_name": "bgm_FF13_Glorys_Fanfare"
+    },
+    {
+      "iname": "SE_MU_FF13_01_EX",
+      "hurl": "ev_FF13_ex_01",
+      "won_dst_sheet_name": "bgm_FF13_Glorys_Fanfare"
+    },
+    {
       "iname": "SE_EV_MACR_02_01",
       "hurl": "ev_macr_02_01"
     },
