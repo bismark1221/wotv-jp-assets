@@ -436,6 +436,12 @@
       "back_unit": "UN_LW_ST_020101"
     },
     {
+      "iname": "SE_ST_021001",
+      "chap": "CH_ST_0210",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_020101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -866,6 +872,11 @@
       "won_dst_sheet_name": "bgm_ff6_Fanfare"
     },
     {
+      "iname": "SE_EV_FFS_01",
+      "skip_ticket": "IT_TICKET_STORY",
+      "hurl": "ev_FFS_01"
+    },
+    {
       "iname": "SE_EV_2ANV_1",
       "limit": 1,
       "hurl": "ev_2Anv_01"
@@ -973,6 +984,36 @@
       "won_dst_sheet_name": "bgm_FF13_Glorys_Fanfare"
     },
     {
+      "iname": "SE_EV_FFT_01",
+      "hurl": "ev_fft_01"
+    },
+    {
+      "iname": "SE_EV_FFT_01_EX",
+      "hurl": "ev_fft_01_ex",
+      "o_cond_q": [
+        "QE_EV_FFT_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_FFT_01_EX",
+      "hurl": "ev_fft_01_ex"
+    },
+    {
+      "iname": "SE_EV_FFT_02_01",
+      "hurl": "ev_fft_02"
+    },
+    {
+      "iname": "SE_EV_FFT_02_EX",
+      "hurl": "ev_fft_02_ex",
+      "o_cond_q": [
+        "QE_EV_FFT02_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_FFT_02_EX",
+      "hurl": "ev_fft_02_ex"
+    },
+    {
       "iname": "SE_EV_MACR_02_01",
       "hurl": "ev_macr_02_01"
     },
@@ -1013,6 +1054,14 @@
     {
       "iname": "SE_MU_EV_MCRD_EX",
       "hurl": "ev_mcrd_ex_01"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_19",
+      "hurl": "ev_arti_crft_19"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_19",
+      "hurl": "ev_arti_crft_19"
     },
     {
       "iname": "SE_MU_ART_CRF_18",
@@ -1643,39 +1692,9 @@
       "won_dst_sheet_name": "bgm_ff1_victory"
     },
     {
-      "iname": "SE_EV_FFT_01",
-      "hurl": "ev_fft_01"
-    },
-    {
-      "iname": "SE_EV_FFT_01_EX",
-      "hurl": "ev_fft_01_ex",
-      "o_cond_q": [
-        "QE_EV_FFT_05"
-      ]
-    },
-    {
-      "iname": "SE_MU_FFT_01_EX",
-      "hurl": "ev_fft_01_ex"
-    },
-    {
       "iname": "SE_EV_FFT_CM_01",
       "limit": 1,
       "hurl": "ev_fft_cm_01"
-    },
-    {
-      "iname": "SE_EV_FFT_02_01",
-      "hurl": "ev_fft_02"
-    },
-    {
-      "iname": "SE_EV_FFT_02_EX",
-      "hurl": "ev_fft_02_ex",
-      "o_cond_q": [
-        "QE_EV_FFT02_05"
-      ]
-    },
-    {
-      "iname": "SE_MU_FFT_02_EX",
-      "hurl": "ev_fft_02_ex"
     },
     {
       "iname": "SE_EV_NieR_01_01",

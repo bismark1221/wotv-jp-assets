@@ -359,6 +359,21 @@
           "iname": "BUFF_LW_EC_SLEN_A_01_2"
         }
       ]
+    },
+    {
+      "iname": "SKE_LB_FFT_ORND_B",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 95,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LB_FFT_ORND_B"
+        }
+      ]
     }
   ]
 }

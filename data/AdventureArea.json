@@ -10,7 +10,26 @@
         {
           "drop_area_id": "AD_AREA_FF13_01",
           "drop_start_at": "2022/5/13 18:30:00",
+          "drop_end_at": "2022/5/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_FF13_02",
+          "drop_start_at": "2022/5/23 15:00:00",
           "drop_end_at": "2022/6/30 23:59:59"
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_FFT_02",
+      "banner": "ExpeditionBanner_FFT_3",
+      "header": "ExpeditionHeader_FFT_3",
+      "begin_at": "2022/5/23 15:00:00",
+      "end_at": "2022/06/22 14:59:59",
+      "drop": [
+        {
+          "drop_area_id": "AD_AREA_FFT_02",
+          "drop_start_at": "2022/5/23 15:00:00",
+          "drop_end_at": "2022/06/22 14:59:59"
         }
       ]
     },
@@ -289,6 +308,11 @@
         {
           "drop_area_id": "AD_AREA_WATER_04",
           "drop_start_at": "2022/01/01",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_WATER_05",
+          "drop_start_at": "2022/05/23 15:00:00",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -316,6 +340,11 @@
         {
           "drop_area_id": "AD_AREA_THUNDER_04",
           "drop_start_at": "2022/01/17 10:30:00",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_THUNDER_05",
+          "drop_start_at": "2022/05/23 15:00:00",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -363,6 +392,11 @@
         {
           "drop_area_id": "AD_AREA_FIRE_06",
           "drop_start_at": "2022/03/01",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_FIRE_07",
+          "drop_start_at": "2022/05/23 15:00:00",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -420,6 +454,11 @@
         {
           "drop_area_id": "AD_AREA_SOIL_04",
           "drop_start_at": "2022/05/01",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_SOIL_05",
+          "drop_start_at": "2022/05/23 15:00:00",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -462,6 +501,11 @@
         {
           "drop_area_id": "AD_AREA_ICE_06",
           "drop_start_at": "2022/03/16 10:30:00",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_ICE_07",
+          "drop_start_at": "2022/05/23 15:00:00",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -519,6 +563,11 @@
         {
           "drop_area_id": "AD_AREA_DARK_08",
           "drop_start_at": "2022/04/15 10:30:00",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_DARK_09",
+          "drop_start_at": "2022/05/23 15:00:00",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -561,6 +610,11 @@
         {
           "drop_area_id": "AD_AREA_SHINE_05",
           "drop_start_at": "2022/04/01",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_SHINE_06",
+          "drop_start_at": "2022/05/23 15:00:00",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -613,6 +667,11 @@
         {
           "drop_area_id": "AD_AREA_WIND_05",
           "drop_start_at": "2022/03/01",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_WIND_06",
+          "drop_start_at": "2022/05/23 15:00:00",
           "drop_end_at": "2120/10/01"
         }
       ]
@@ -623,7 +682,14 @@
       "header": "ExpeditionHeader_AF01",
       "drop": [
         {
-          "drop_area_id": "AD_AREA_AF_01"
+          "drop_area_id": "AD_AREA_AF_01",
+          "drop_start_at": "2019/11/01",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_AF_02",
+          "drop_start_at": "2022/05/23 15:00:00",
+          "drop_end_at": "2120/10/01"
         }
       ]
     },
@@ -633,7 +699,14 @@
       "header": "ExpeditionHeader_SB01",
       "drop": [
         {
-          "drop_area_id": "AD_AREA_SM_01"
+          "drop_area_id": "AD_AREA_SM_01",
+          "drop_start_at": "2019/11/01",
+          "drop_end_at": "2022/05/23 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_SM_02",
+          "drop_start_at": "2022/05/23 15:00:00",
+          "drop_end_at": "2120/10/01"
         }
       ]
     }
