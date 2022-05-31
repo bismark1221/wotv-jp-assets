@@ -1014,12 +1014,23 @@
       "hurl": "ev_fft_02_ex"
     },
     {
+      "iname": "SE_EV_GRSR_02_01",
+      "hurl": "ev_grsr_02_01"
+    },
+    {
       "iname": "SE_EV_MACR_02_01",
       "hurl": "ev_macr_02_01"
     },
     {
-      "iname": "SE_EV_18_01",
-      "hurl": "ev_18_01"
+      "iname": "SE_EV_18_EX2_01",
+      "hurl": "ev_18_ex_02",
+      "o_cond_q": [
+        "QE_EV_18_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_18_EX2",
+      "hurl": "ev_18_ex_02"
     },
     {
       "iname": "SE_EV_18_EX_01",
@@ -1031,6 +1042,10 @@
     {
       "iname": "SE_MU_EV_18_EX",
       "hurl": "ev_18_ex_01"
+    },
+    {
+      "iname": "SE_EV_18_01",
+      "hurl": "ev_18_01"
     },
     {
       "iname": "SE_CHAL_05",

@@ -435,7 +435,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -544,7 +545,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -653,7 +655,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -762,7 +765,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "e1a",
@@ -866,7 +870,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "e1a",
@@ -970,7 +975,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1079,7 +1085,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1188,7 +1195,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     }
   ],
   "arena": [],
@@ -1271,6 +1279,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_ALL_5",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 165
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_MM_NIN",
             "num": 1,
             "secret": 0
@@ -1285,6 +1302,15 @@
             "secret": 0
           },
           "weight": 33
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_NIN_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
         },
         {
           "drop_data": {
@@ -1307,6 +1333,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_TIM_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_MM_LW_LSWL",
             "num": 1,
             "secret": 0
@@ -1321,6 +1356,15 @@
             "secret": 0
           },
           "weight": 33
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_LW_LSWL_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
         },
         {
           "drop_data": {
@@ -1343,6 +1387,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_PSI_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_MM_RAB",
             "num": 1,
             "secret": 0
@@ -1357,6 +1410,15 @@
             "secret": 0
           },
           "weight": 33
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_RAB_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
         },
         {
           "drop_data": {
@@ -1379,6 +1441,24 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_BNI_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
+        },
+        {
+          "drop_data": {
+            "type": -1,
+            "iname": "",
+            "num": 0,
+            "secret": 0
+          },
+          "weight": 0
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_AF_MAT_LIQUID_01",
             "num": 1,
             "secret": 0
@@ -1392,7 +1472,7 @@
             "num": 1,
             "secret": 0
           },
-          "weight": 867
+          "weight": 433
         },
         {
           "drop_data": {
@@ -1414,57 +1494,93 @@
         },
         {
           "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_KUNAI_01",
-            "num": 1,
+            "type": -1,
+            "iname": "",
+            "num": 0,
             "secret": 0
           },
-          "weight": 675
+          "weight": 0
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_KUNAI_01",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 338
         },
         {
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_KUNAI_02",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 338
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_KUNAI_05",
             "num": 1,
             "secret": 0
           },
-          "weight": 675
+          "weight": 338
         },
         {
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_LSWORD_01",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
-          "weight": 675
+          "weight": 338
         },
         {
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_LSWORD_02",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 338
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_LSWORD_05",
             "num": 1,
             "secret": 0
           },
-          "weight": 675
+          "weight": 338
         },
         {
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_GLOVE_01",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
-          "weight": 675
+          "weight": 338
         },
         {
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_GLOVE_02",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 338
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_GLOVE_05",
             "num": 1,
             "secret": 0
           },
-          "weight": 675
+          "weight": 338
         },
         {
           "drop_data": {
@@ -1487,6 +1603,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_EM_SHINE_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 338
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_IM_ANGEL_1",
             "num": 1,
             "secret": 0
@@ -1504,12 +1629,21 @@
         },
         {
           "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_IM_ANGEL_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 70
+        },
+        {
+          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
             "secret": 0
           },
-          "weight": 1594
+          "weight": 2361
         }
       ]
     }

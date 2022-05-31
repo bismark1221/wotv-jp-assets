@@ -423,112 +423,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":2988},{\"type\":8,\"value\":281},{\"type\":10,\"value\":264},{\"type\":9,\"value\":63},{\"type\":158,\"value\":-10},{\"type\":250,\"value\":-15},{\"type\":4,\"value\":307},{\"type\":2,\"value\":139},{\"type\":3,\"value\":166}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -625,112 +521,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":2988},{\"type\":8,\"value\":281},{\"type\":10,\"value\":264},{\"type\":9,\"value\":63},{\"type\":158,\"value\":-10},{\"type\":250,\"value\":-15},{\"type\":4,\"value\":307},{\"type\":2,\"value\":139},{\"type\":3,\"value\":166}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -824,112 +616,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":2874},{\"type\":2,\"value\":122},{\"type\":3,\"value\":149},{\"type\":4,\"value\":298},{\"type\":8,\"value\":284},{\"type\":10,\"value\":267},{\"type\":9,\"value\":62},{\"type\":6,\"value\":58},{\"type\":158,\"value\":-10},{\"type\":253,\"value\":10}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1018,112 +706,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":2,\"value\":140},{\"type\":9,\"value\":59},{\"type\":8,\"value\":286},{\"type\":10,\"value\":271},{\"type\":4,\"value\":357},{\"type\":1,\"value\":3376},{\"type\":3,\"value\":156},{\"type\":152,\"value\":10},{\"type\":156,\"value\":-10},{\"type\":250,\"value\":15}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1212,112 +796,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":2,\"value\":140},{\"type\":9,\"value\":59},{\"type\":8,\"value\":286},{\"type\":10,\"value\":271},{\"type\":4,\"value\":357},{\"type\":1,\"value\":3376},{\"type\":3,\"value\":156},{\"type\":152,\"value\":10},{\"type\":156,\"value\":-10},{\"type\":250,\"value\":15}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1406,112 +886,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":2,\"value\":140},{\"type\":9,\"value\":59},{\"type\":8,\"value\":286},{\"type\":10,\"value\":271},{\"type\":4,\"value\":357},{\"type\":1,\"value\":3376},{\"type\":3,\"value\":156},{\"type\":152,\"value\":10},{\"type\":156,\"value\":-10},{\"type\":250,\"value\":15}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1600,112 +976,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":6,\"value\":310},{\"type\":8,\"value\":287},{\"type\":2,\"value\":205},{\"type\":3,\"value\":145},{\"type\":10,\"value\":276},{\"type\":1,\"value\":2299},{\"type\":7,\"value\":10},{\"type\":9,\"value\":60},{\"type\":155,\"value\":10},{\"type\":153,\"value\":-10},{\"type\":254,\"value\":15}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1794,112 +1066,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":6,\"value\":310},{\"type\":8,\"value\":287},{\"type\":2,\"value\":205},{\"type\":3,\"value\":145},{\"type\":10,\"value\":276},{\"type\":1,\"value\":2299},{\"type\":7,\"value\":10},{\"type\":9,\"value\":60},{\"type\":155,\"value\":10},{\"type\":153,\"value\":-10},{\"type\":254,\"value\":15}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1988,112 +1156,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":6,\"value\":310},{\"type\":8,\"value\":287},{\"type\":2,\"value\":205},{\"type\":3,\"value\":145},{\"type\":10,\"value\":276},{\"type\":1,\"value\":2299},{\"type\":7,\"value\":10},{\"type\":9,\"value\":60},{\"type\":155,\"value\":10},{\"type\":153,\"value\":-10},{\"type\":254,\"value\":15}]}",
-      "unitClone": {
-        "unit": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          }
-        },
-        "artifacts": [],
-        "nbeast": {
-          "id": 0,
-          "iname": "",
-          "rank": 0,
-          "awake": 0,
-          "exp": 0,
-          "lv": 0,
-          "jobpt": 0,
-          "brave": 0,
-          "faith": 0,
-          "fav": 0,
-          "jobs": [],
-          "abilities": [],
-          "abilset": {
-            "sub": 0,
-            "sup1": 0,
-            "sup2": 0,
-            "react": 0
-          },
-          "abilityboards": [],
-          "artset": {
-            "equip1": 0,
-            "equip2": 0,
-            "trust": 0,
-            "appearance": 0
-          },
-          "artrank": [],
-          "limit_lv": 0,
-          "limit_exp": 0,
-          "guild_statue_buffs": [],
-          "slotabilities": [],
-          "modesetflag": 0,
-          "modesettings": [],
-          "favo_materia": {
-            "iname": "",
-            "equip1": [],
-            "equip2": [],
-            "trust": []
-          },
-          "sp": 0
-        },
-        "vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "sub_vision": {
-          "id": 0,
-          "iname": "",
-          "fav": false,
-          "awake": 0,
-          "exp": 0
-        },
-        "intimacys": [],
-        "synchros": [],
-        "skilluse": false,
-        "skills": [],
-        "guild_buffs": [],
-        "master_ranks": [],
-        "materias": []
-      },
-      "cloneQuestScope": 0
+      "groupId": "",
+      "infUnit": false
     }
   ],
   "arena": [],
@@ -2201,20 +1265,11 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_MM_RDM",
-            "num": 1,
+            "iname": "IT_JB_MM_ALL_5",
+            "num": 2,
             "secret": 0
           },
-          "weight": 30
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_MM_RDM_2",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 30
+          "weight": 148
         },
         {
           "drop_data": {
@@ -2237,6 +1292,42 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_NIN_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 15
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_RDM",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 30
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_RDM_2",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 30
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_RDM_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 15
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_MM_LW_DEAN",
             "num": 1,
             "secret": 0
@@ -2251,6 +1342,15 @@
             "secret": 0
           },
           "weight": 30
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_LW_DEAN_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 15
         },
         {
           "drop_data": {
@@ -2318,6 +1418,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MACE_05",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 325
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_BOOK_01",
             "num": 1,
             "secret": 0
@@ -2335,12 +1444,12 @@
         },
         {
           "drop_data": {
-            "type": -1,
-            "iname": "",
-            "num": 0,
+            "type": 0,
+            "iname": "IT_JB_BOOK_05",
+            "num": 1,
             "secret": 0
           },
-          "weight": 0
+          "weight": 325
         },
         {
           "drop_data": {
@@ -2363,6 +1472,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_EM_THUNDER_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 325
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_IM_ANGEL_1",
             "num": 1,
             "secret": 0
@@ -2380,14 +1498,24 @@
         },
         {
           "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_IM_ANGEL_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 63
+        },
+        {
+          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
             "secret": 0
           },
-          "weight": 3755
+          "weight": 2524
         }
       ]
     }
-  ]
+  ],
+  "enemy_group": []
 }

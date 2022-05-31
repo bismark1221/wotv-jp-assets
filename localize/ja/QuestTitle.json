@@ -3825,6 +3825,10 @@
       "value": "欠片獲得 ホルン女王マシュリー"
     },
     {
+      "key": "QE_HA_LW_GR_02",
+      "value": "欠片獲得 革命の旗手グラセラ"
+    },
+    {
       "key": "QE_CH_LW_MONT",
       "value": "モント・リオニス"
     },
@@ -4781,6 +4785,10 @@
       "value": "スノウ"
     },
     {
+      "key": "QE_CH_LW_GR_02",
+      "value": "革命の旗手グラセラ"
+    },
+    {
       "key": "QE_EV_1100DL_FIR",
       "value": "1100万DL記念クエスト（火）"
     },
@@ -5555,6 +5563,22 @@
     {
       "key": "QE_EV_MACR_02_04",
       "value": "【超高難度】覚悟の女王育成クエスト #4"
+    },
+    {
+      "key": "QE_EV_GRSR_02_01",
+      "value": "決意の旗手育成クエスト #1"
+    },
+    {
+      "key": "QE_EV_GRSR_02_02",
+      "value": "【高難度】決意の旗手育成クエスト #2"
+    },
+    {
+      "key": "QE_EV_GRSR_02_03",
+      "value": "【高難度】決意の旗手育成クエスト #3"
+    },
+    {
+      "key": "QE_EV_GRSR_02_04",
+      "value": "【超高難度】決意の旗手育成クエスト #4"
     },
     {
       "key": "QE_PT_001_01",
@@ -6695,6 +6719,14 @@
     {
       "key": "QE_EV_18_EX_1",
       "value": "超高難度　その血ゆえに【EX】"
+    },
+    {
+      "key": "QE_EV_18_EX2",
+      "value": "その血ゆえに【EX2】"
+    },
+    {
+      "key": "QE_EV_18_EX_2",
+      "value": "超高難度　その血ゆえに【EX2】"
     },
     {
       "key": "QE_EV_16_01",
@@ -10117,6 +10149,14 @@
       "value": "【第2弾】超高難度　FINAL FANTASY TACTICS 【EX】"
     },
     {
+      "key": "QE_MU_EV_18_EX2",
+      "value": "その血ゆえに 【EX2】"
+    },
+    {
+      "key": "QE_MU_EV_18_EX_2",
+      "value": "超高難度　その血ゆえに 【EX2】"
+    },
+    {
       "key": "QE_MU_EV_18_EX",
       "value": "その血ゆえに 【EX】"
     },
@@ -10133,48 +10173,12 @@
       "value": "【極高難度】チャレンジクエスト5"
     },
     {
-      "key": "QE_MU_EV_MC_EX1",
-      "value": "高難度　マクラッド獲得　EXクエスト"
-    },
-    {
-      "key": "QE_MU_EV_MC_EX2",
-      "value": "超高難度　マクラッド獲得　EXクエスト1"
-    },
-    {
-      "key": "QE_MU_EV_MC_EX3",
-      "value": "超高難度　マクラッド獲得　EXクエスト2"
-    },
-    {
-      "key": "QE_MU_ART_CRF_39",
-      "value": "武具育成クエスト（ジュエルベルト）"
-    },
-    {
-      "key": "QE_MU_ART_CRF_40",
-      "value": "超高難度　武具育成クエスト（ジュエルベルト）"
-    },
-    {
-      "key": "QE_MU_ART_CRF_41",
-      "value": "武具育成クエスト（プルナスラーミナ）"
-    },
-    {
-      "key": "QE_MU_ART_CRF_42",
-      "value": "超高難度　武具育成クエスト（プルナスラーミナ）"
-    },
-    {
       "key": "QE_MU_ART_CRF_43",
       "value": "武具育成クエスト（タイガーファング）"
     },
     {
       "key": "QE_MU_ART_CRF_44",
       "value": "超高難度　武具育成クエスト（タイガーファング）"
-    },
-    {
-      "key": "QE_MU_RC_BST_01",
-      "value": "高難度　巨獣討伐クエスト"
-    },
-    {
-      "key": "QE_MU_RC_BST_02",
-      "value": "超高難度　巨獣討伐クエスト"
     },
     {
       "key": "QE_MU_FF10_EX_01",
@@ -10669,6 +10673,30 @@
       "value": "超高難度　鉄巨人チャレンジ"
     },
     {
+      "key": "QE_MU_ART_CRF_41",
+      "value": "武具育成クエスト（プルナスラーミナ）"
+    },
+    {
+      "key": "QE_MU_ART_CRF_42",
+      "value": "超高難度　武具育成クエスト（プルナスラーミナ）"
+    },
+    {
+      "key": "QE_MU_ART_CRF_39",
+      "value": "武具育成クエスト（ジュエルベルト）"
+    },
+    {
+      "key": "QE_MU_ART_CRF_40",
+      "value": "超高難度　武具育成クエスト（ジュエルベルト）"
+    },
+    {
+      "key": "QE_MU_RC_BST_01",
+      "value": "高難度　巨獣討伐クエスト"
+    },
+    {
+      "key": "QE_MU_RC_BST_02",
+      "value": "超高難度　巨獣討伐クエスト"
+    },
+    {
       "key": "QE_MU_ART_CRF_37",
       "value": "武具育成クエスト（ダイヤメイス）"
     },
@@ -10815,6 +10843,18 @@
     {
       "key": "QE_MU_ART_CRF_04",
       "value": "超高難度　武具育成クエスト"
+    },
+    {
+      "key": "QE_MU_EV_MC_EX1",
+      "value": "高難度　マクラッド獲得　EXクエスト"
+    },
+    {
+      "key": "QE_MU_EV_MC_EX2",
+      "value": "超高難度　マクラッド獲得　EXクエスト1"
+    },
+    {
+      "key": "QE_MU_EV_MC_EX3",
+      "value": "超高難度　マクラッド獲得　EXクエスト2"
     },
     {
       "key": "QE_MU_EV_RN_EX1",
@@ -11545,6 +11585,10 @@
       "value": "平原Ⅳ"
     },
     {
+      "key": "QE_GVG_00030",
+      "value": "竹林Ⅲ"
+    },
+    {
       "key": "QE_LGVG_00021",
       "value": "闘技場Ⅲ"
     },
@@ -11655,6 +11699,10 @@
     {
       "key": "QE_PVP_FRE_0023",
       "value": "遺跡Ⅶ"
+    },
+    {
+      "key": "QE_PVP_FRI_0073",
+      "value": "竹林Ⅲ"
     },
     {
       "key": "QE_PVP_FRI_0072",

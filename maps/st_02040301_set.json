@@ -430,7 +430,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":5620},{\"type\":2,\"value\":106},{\"type\":4,\"value\":241},{\"type\":6,\"value\":52},{\"type\":5,\"value\":25},{\"type\":9,\"value\":60},{\"type\":8,\"value\":274},{\"type\":10,\"value\":265},{\"type\":254,\"value\":-10},{\"type\":253,\"value\":25},{\"type\":251,\"value\":0},{\"type\":250,\"value\":15},{\"type\":3,\"value\":162},{\"type\":157,\"value\":-20}]}",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "a2",
@@ -534,7 +535,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":5620},{\"type\":2,\"value\":106},{\"type\":4,\"value\":241},{\"type\":6,\"value\":52},{\"type\":5,\"value\":25},{\"type\":9,\"value\":60},{\"type\":8,\"value\":274},{\"type\":10,\"value\":265},{\"type\":254,\"value\":-10},{\"type\":253,\"value\":25},{\"type\":251,\"value\":0},{\"type\":250,\"value\":15},{\"type\":3,\"value\":162},{\"type\":157,\"value\":-20}]}",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -628,7 +630,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":3331},{\"type\":2,\"value\":185},{\"type\":3,\"value\":177},{\"type\":4,\"value\":344},{\"type\":6,\"value\":62},{\"type\":5,\"value\":10},{\"type\":8,\"value\":278},{\"type\":10,\"value\":271},{\"type\":9,\"value\":70},{\"type\":157,\"value\":-20}]}",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -722,7 +725,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":3331},{\"type\":2,\"value\":185},{\"type\":3,\"value\":177},{\"type\":4,\"value\":344},{\"type\":6,\"value\":62},{\"type\":5,\"value\":10},{\"type\":8,\"value\":278},{\"type\":10,\"value\":271},{\"type\":9,\"value\":70},{\"type\":157,\"value\":-20}]}",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -826,7 +830,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":3187},{\"type\":2,\"value\":178},{\"type\":3,\"value\":191},{\"type\":4,\"value\":342},{\"type\":6,\"value\":77},{\"type\":9,\"value\":66},{\"type\":8,\"value\":288},{\"type\":10,\"value\":279},{\"type\":157,\"value\":-20}]}",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -930,7 +935,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":3187},{\"type\":2,\"value\":178},{\"type\":3,\"value\":191},{\"type\":4,\"value\":342},{\"type\":6,\"value\":77},{\"type\":9,\"value\":66},{\"type\":8,\"value\":288},{\"type\":10,\"value\":279},{\"type\":157,\"value\":-20}]}",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1049,7 +1055,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":254,\"value\":0},{\"type\":1,\"value\":4318},{\"type\":8,\"value\":282},{\"type\":10,\"value\":269},{\"type\":250,\"value\":25},{\"type\":2,\"value\":107},{\"type\":3,\"value\":162},{\"type\":4,\"value\":343},{\"type\":6,\"value\":52},{\"type\":5,\"value\":10},{\"type\":9,\"value\":82},{\"type\":153,\"value\":-10},{\"type\":155,\"value\":20}]}",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1168,7 +1175,8 @@
       "shield": false,
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":254,\"value\":0},{\"type\":1,\"value\":4318},{\"type\":8,\"value\":282},{\"type\":10,\"value\":269},{\"type\":250,\"value\":25},{\"type\":2,\"value\":107},{\"type\":3,\"value\":162},{\"type\":4,\"value\":343},{\"type\":6,\"value\":52},{\"type\":5,\"value\":10},{\"type\":9,\"value\":82},{\"type\":153,\"value\":-10},{\"type\":155,\"value\":20}]}",
-      "groupId": ""
+      "groupId": "",
+      "infUnit": false
     }
   ],
   "arena": [],
@@ -1251,6 +1259,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_ALL_5",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 165
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_MM_DRG",
             "num": 1,
             "secret": 0
@@ -1265,6 +1282,15 @@
             "secret": 0
           },
           "weight": 33
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_DRG_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
         },
         {
           "drop_data": {
@@ -1287,6 +1313,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_CLR_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_MM_LW_GLMS",
             "num": 1,
             "secret": 0
@@ -1305,6 +1340,15 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_LW_GLMS_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_MM_BNI",
             "num": 1,
             "secret": 0
@@ -1319,6 +1363,24 @@
             "secret": 0
           },
           "weight": 33
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_BNI_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 17
+        },
+        {
+          "drop_data": {
+            "type": -1,
+            "iname": "",
+            "num": 0,
+            "secret": 0
+          },
+          "weight": 0
         },
         {
           "drop_data": {
@@ -1349,6 +1411,15 @@
         },
         {
           "drop_data": {
+            "type": -1,
+            "iname": "",
+            "num": 0,
+            "secret": 0
+          },
+          "weight": 0
+        },
+        {
+          "drop_data": {
             "type": 0,
             "iname": "IT_JB_GUN_01",
             "num": 1,
@@ -1364,6 +1435,15 @@
             "secret": 0
           },
           "weight": 675
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_GUN_05",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 338
         },
         {
           "drop_data": {
@@ -1385,12 +1465,12 @@
         },
         {
           "drop_data": {
-            "type": -1,
-            "iname": "",
-            "num": 0,
+            "type": 0,
+            "iname": "IT_JB_STAFF_05",
+            "num": 1,
             "secret": 0
           },
-          "weight": 0
+          "weight": 338
         },
         {
           "drop_data": {
@@ -1413,6 +1493,24 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_EM_SHINE_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 338
+        },
+        {
+          "drop_data": {
+            "type": -1,
+            "iname": "",
+            "num": 0,
+            "secret": 0
+          },
+          "weight": 0
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_JB_IM_ANGEL_1",
             "num": 1,
             "secret": 0
@@ -1430,12 +1528,21 @@
         },
         {
           "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_IM_ANGEL_5",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 70
+        },
+        {
+          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
             "secret": 0
           },
-          "weight": 3261
+          "weight": 1944
         }
       ]
     }
