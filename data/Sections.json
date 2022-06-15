@@ -978,6 +978,21 @@
       "won_dst_sheet_name": "bgm_FF13_Glorys_Fanfare"
     },
     {
+      "iname": "SE_EV_LBRK",
+      "hurl": "ev_lbrk_01"
+    },
+    {
+      "iname": "SE_EV_LBRK_EX",
+      "hurl": "ev_lbrk_ex_01",
+      "o_cond_q": [
+        "QE_EV_LBRK_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_LBRK_EX",
+      "hurl": "ev_lbrk_ex_01"
+    },
+    {
       "iname": "SE_EV_FF13_01_01",
       "hurl": "ev_FF13_01",
       "won_dst_sheet_name": "bgm_FF13_Glorys_Fanfare"

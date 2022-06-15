@@ -2174,6 +2174,26 @@
       "iname": "save_materia_template_num",
       "type": 0,
       "value": 100
+    },
+    {
+      "iname": "is_allowed_spirit_exchange",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "is_release_bg_repeat",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "additional_time_for_bg_repeat",
+      "type": 0,
+      "value": 90
+    },
+    {
+      "iname": "bg_repeat_prohibited_excess_time",
+      "type": 0,
+      "value": 3600
     }
   ]
 }
