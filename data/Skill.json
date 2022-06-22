@@ -10049,6 +10049,39 @@
       ]
     },
     {
+      "iname": "SK_LW_WHM_S_4_3_NAIA",
+      "slot": 1,
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "WHM/skl_raise_01",
+      "effnm": "ef_mag_w_raise_01",
+      "cam_dir": 1,
+      "ischa": 1,
+      "count": 2,
+      "cost_type": 1,
+      "cost_mp": 51,
+      "range_s": 1,
+      "range_l": 3,
+      "range_h": 2,
+      "type": 1,
+      "timing": 0,
+      "eff_type": 20,
+      "target": 22,
+      "atk_type": 2,
+      "atk_det": 0,
+      "def_wep": "AF_LW_ROD_INIT",
+      "elem": [
+        0
+      ],
+      "ct_type": 1,
+      "ct_lock": 1,
+      "ct_spd": 120,
+      "ct_spd1": 200,
+      "t_buffs": [
+        "BUFF_LW_WHM_S_4_3_NAIA"
+      ]
+    },
+    {
       "iname": "SK_LW_WHM_S_1_INIT",
       "slot": 1,
       "cap": 20,
@@ -62920,6 +62953,25 @@
       ]
     },
     {
+      "iname": "SK_GHUL_M_04_B",
+      "slot": 1,
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "LAPSghul/skl_M4",
+      "effnm": "ef_LAPSghul_M04",
+      "count": 1,
+      "cost_type": 1,
+      "cost_mp": 30,
+      "type": 1,
+      "timing": 0,
+      "eff_type": 4,
+      "target": 0,
+      "atk_type": 1,
+      "t_buffs": [
+        "BUFF_GHUL_M_04_B"
+      ]
+    },
+    {
       "iname": "SK_GHUL_R_01",
       "slot": 4,
       "cap": 20,
@@ -63108,6 +63160,30 @@
       "t_buffs": [
         "BUFF_WYVN_M_01"
       ]
+    },
+    {
+      "iname": "SK_WYVN_M_01_GR",
+      "slot": 1,
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "LAPSwyvn/skl_M1",
+      "effnm": "ef_LAPSwyvn_M01",
+      "count": 5,
+      "cost_type": 0,
+      "cost_ap": 9,
+      "range_s": 0,
+      "range_l": 1,
+      "range_h": 2,
+      "type": 1,
+      "timing": 0,
+      "eff_type": 2,
+      "target": 12,
+      "atk_type": 1,
+      "atk_base": 1,
+      "atk_det": 0,
+      "elem_pri": 1,
+      "eff_val": 30,
+      "eff_val1": 65
     },
     {
       "iname": "SK_WYVN_M_02",
@@ -68133,6 +68209,37 @@
       "t_buffs": [
         "BUFF_GSRC_M_4",
         "BUFF_GSRC_M_4_1"
+      ]
+    },
+    {
+      "iname": "SK_GSRC_M_4_GRA",
+      "slot": 1,
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "FF13gsrc/skl_M4",
+      "effnm": "ef_FF13gsrc_M04",
+      "collaboType": 1,
+      "count": 3,
+      "cost_type": 0,
+      "cost_ap": 48,
+      "range_s": 1,
+      "range_l": 4,
+      "range_h": 2,
+      "eff_s": 2,
+      "eff_l": 1,
+      "eff_h": 1,
+      "type": 1,
+      "timing": 0,
+      "eff_type": 2,
+      "target": 11,
+      "atk_type": 1,
+      "atk_base": 1,
+      "atk_det": 3,
+      "elem_pri": 1,
+      "eff_val": 65,
+      "eff_val1": 100,
+      "t_buffs": [
+        "BUFF_GSRC_M_4"
       ]
     },
     {
@@ -98901,6 +99008,24 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_NAIA_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "t_buffs": [
+        "BUFF_MA_LW_NAIA_2"
+      ],
+      "replace": [
+        {
+          "skill_base": "SK_LW_WHM_S_4_3",
+          "skill_after": "SK_LW_WHM_S_4_3_NAIA"
+        }
+      ]
+    },
+    {
       "iname": "SK_MA_LW_SRJS",
       "slot": 7,
       "cap": 1,
@@ -99166,6 +99291,22 @@
       "target": 0,
       "t_buffs": [
         "BUFF_MA_LW_SDLX"
+      ]
+    },
+    {
+      "iname": "SK_MA_LW_SDLX_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_SDLX_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_SDLX_2_1_S",
+        "BUFF_MA_LW_SDLX_2_2_S"
       ]
     },
     {
@@ -100756,6 +100897,21 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_MORE_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_MORE"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_MORE_2_S"
+      ]
+    },
+    {
       "iname": "SK_MA_LW_CWEL",
       "slot": 7,
       "cap": 1,
@@ -100768,6 +100924,21 @@
       ],
       "s_buffs": [
         "BUFF_MA_LW_CWEL_S"
+      ]
+    },
+    {
+      "iname": "SK_MA_LW_CWEL_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_CWEL"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_CWEL_2_S"
       ]
     },
     {
@@ -103388,6 +103559,71 @@
       ]
     },
     {
+      "iname": "SK_LW_CRIAVOI_1",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_CRIAVOI_1"
+      ]
+    },
+    {
+      "iname": "SK_LW_CRIAVOI_2",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_CRIAVOI_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_CRIAVOI_3",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_CRIAVOI_3"
+      ]
+    },
+    {
+      "iname": "SK_LW_CRIAVOI_4",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_CRIAVOI_4"
+      ]
+    },
+    {
+      "iname": "SK_LW_CRIAVOI_5",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_CRIAVOI_5"
+      ]
+    },
+    {
       "iname": "SK_LW_HIT_1",
       "cap": 50,
       "grow": "ARTIFACT_50",
@@ -105786,6 +106022,136 @@
       ]
     },
     {
+      "iname": "SK_LW_SPE_018_1_1",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_SPE_018_1_1"
+      ]
+    },
+    {
+      "iname": "SK_LW_SPE_018_1_2",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_SPE_018_1_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_SPE_018_1_3",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_SPE_018_1_3"
+      ]
+    },
+    {
+      "iname": "SK_LW_SPE_018_1_4",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_SPE_018_1_4"
+      ]
+    },
+    {
+      "iname": "SK_LW_SPE_018_1_5",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_SPE_018_1_5"
+      ]
+    },
+    {
+      "iname": "SK_LW_HLM_009_1_1",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_HLM_009_1_1"
+      ]
+    },
+    {
+      "iname": "SK_LW_HLM_009_1_2",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_HLM_009_1_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_HLM_009_1_3",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_HLM_009_1_3"
+      ]
+    },
+    {
+      "iname": "SK_LW_HLM_009_1_4",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_HLM_009_1_4"
+      ]
+    },
+    {
+      "iname": "SK_LW_HLM_009_1_5",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_HLM_009_1_5"
+      ]
+    },
+    {
       "iname": "SK_FF14_SWO_TNCR_1",
       "cap": 50,
       "grow": "ARTIFACT_50",
@@ -107307,6 +107673,76 @@
       ]
     },
     {
+      "iname": "SK_LW_ACC_074_1",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_074_1_1",
+        "BUFF_LW_ACC_074_1_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_ACC_074_2",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_074_2_1",
+        "BUFF_LW_ACC_074_2_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_ACC_074_3",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_074_3_1",
+        "BUFF_LW_ACC_074_3_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_ACC_074_4",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_074_4_1",
+        "BUFF_LW_ACC_074_4_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_ACC_074_5",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_074_5_1",
+        "BUFF_LW_ACC_074_5_3"
+      ]
+    },
+    {
       "iname": "SK_LW_PLUS6_1_1",
       "cap": 50,
       "grow": "ARTIFACT_50",
@@ -107655,6 +108091,32 @@
       "target": 0,
       "s_buffs": [
         "BUFF_LW_PLUS6_HEALP_10"
+      ]
+    },
+    {
+      "iname": "SK_LW_PLUS6_DARKKR_20",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_PLUS6_DARKKR_20"
+      ]
+    },
+    {
+      "iname": "SK_LW_PLUS6_CRTAV_20",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_PLUS6_CRTAV_20"
       ]
     },
     {
@@ -116236,6 +116698,46 @@
       "gdupli": "SK_VC_LW_TSLP_01_GS"
     },
     {
+      "iname": "SK_VC_LW_JEDN2_GS",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_JEDN2_GS"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_JEDN2_GS_AW",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_JEDN2_GS_AW"
+      ],
+      "gdupli": "SK_VC_LW_JEDN2_GS"
+    },
+    {
+      "iname": "SK_VC_LW_JEDN2_GSMAX",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_JEDN2_GSMAX"
+      ],
+      "gdupli": "SK_VC_LW_JEDN2_GS"
+    },
+    {
       "iname": "SK_VC_LW_IGNT_GS",
       "slot": 8,
       "cap": 70,
@@ -121050,6 +121552,46 @@
         "BUFF_VC_LW_TSLP_01_GSMAX_2"
       ],
       "gdupli": "SK_VC_LW_TSLP_01_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_JEDN2_GS_2",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_JEDN2_GS_2"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_JEDN2_GS_AW_2",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_JEDN2_GS_AW_2"
+      ],
+      "gdupli": "SK_VC_LW_JEDN2_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_JEDN2_GSMAX_2",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_JEDN2_GSMAX_2"
+      ],
+      "gdupli": "SK_VC_LW_JEDN2_GS_2"
     },
     {
       "iname": "SK_VC_LW_IGNT_GS_2",
@@ -127134,6 +127676,46 @@
         "BUFF_VC_LW_TSLP_01_PMAX"
       ],
       "gdupli": "SK_VC_LW_TSLP_01_P"
+    },
+    {
+      "iname": "SK_VC_LW_JEDN2_P",
+      "slot": 3,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_JEDN2_P"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_JEDN2_PAW",
+      "slot": 3,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_JEDN2_PAW"
+      ],
+      "gdupli": "SK_VC_LW_JEDN2_P"
+    },
+    {
+      "iname": "SK_VC_LW_JEDN2_PMAX",
+      "slot": 3,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_JEDN2_PMAX"
+      ],
+      "gdupli": "SK_VC_LW_JEDN2_P"
     },
     {
       "iname": "SK_VC_LW_IGNT_P",

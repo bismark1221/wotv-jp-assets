@@ -7974,6 +7974,147 @@
           }
         }
       ]
+    },
+    {
+      "iname": "CM_PRO_103_1",
+      "baner": "ChallengePage_c220613",
+      "parent": "CM_PRO_103",
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_GU_FOOD_09",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_GU_FOOD_09",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_GU_FOOD_10",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_GU_FOOD_10",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_AW-ITEM_03",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_PI_COM_01",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_SB_EXP_08",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 3,
+            "num": 1000
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_104_1",
+      "baner": "ChallengePage_c220614",
+      "parent": "CM_PRO_104",
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_SP_LW_06",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_AW-ITEM_06",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_JBEX_EM_01",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_SP_LW_06",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_JBEX_AF_50",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_SE_PI_COM_05",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_US_EXP_04",
+            "num": 800
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_JBEX_MM",
+            "num": 5
+          }
+        }
+      ]
     }
   ]
 }

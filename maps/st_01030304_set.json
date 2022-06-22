@@ -419,7 +419,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "e2a",
@@ -512,7 +514,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "e2a",
@@ -605,7 +609,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "e1a",
@@ -698,7 +704,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "e3a",
@@ -791,7 +799,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     }
   ],
   "arena": [],
@@ -832,7 +842,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_ALL_3",
-            "num": 2,
+            "num": 4,
             "secret": 0
           },
           "weight": 1000
@@ -841,7 +851,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_SWORD_03",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 2000
@@ -850,7 +860,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_FIST_03",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 2000
@@ -877,7 +887,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_SWN_3",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 100
@@ -886,7 +896,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_IM_DRAGON_3",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 400
@@ -895,7 +905,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_GRM_3",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 100
@@ -904,7 +914,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_EM_WIND_3",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 2000
@@ -922,7 +932,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_LW_GRSR_3",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 100
@@ -931,7 +941,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_MMC_3",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 100
@@ -940,7 +950,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_MSM_3",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 100
@@ -981,5 +991,6 @@
         }
       ]
     }
-  ]
+  ],
+  "enemy_group": []
 }

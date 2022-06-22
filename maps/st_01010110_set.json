@@ -449,7 +449,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -542,7 +544,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "NIN1",
@@ -635,7 +639,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -743,7 +749,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -851,7 +859,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -944,7 +954,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     },
     {
       "name": "",
@@ -1016,7 +1028,9 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": ""
+      "status": "",
+      "groupId": "",
+      "infUnit": false
     }
   ],
   "arena": [],
@@ -1057,7 +1071,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_ALL",
-            "num": 2,
+            "num": 4,
             "secret": 0
           },
           "weight": 850
@@ -1066,7 +1080,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_STAFF_01",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 1565
@@ -1075,7 +1089,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_SSWORD_01",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 1565
@@ -1102,7 +1116,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_IM_DRAGON_1",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 350
@@ -1111,7 +1125,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_EM_ICE_1",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 1700
@@ -1129,7 +1143,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_NIN",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 180
@@ -1138,7 +1152,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_WAR",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 180
@@ -1147,7 +1161,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_LW_GLMS",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 180
@@ -1156,7 +1170,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_LW_SAKR",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 180
@@ -1165,7 +1179,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_LW_CRLT",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 180
@@ -1174,7 +1188,7 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_JUME",
-            "num": 1,
+            "num": 2,
             "secret": 0
           },
           "weight": 180
@@ -1233,5 +1247,6 @@
         }
       ]
     }
-  ]
+  ],
+  "enemy_group": []
 }
