@@ -1051,13 +1051,6 @@
       "image": "ev_mt_02_06"
     },
     {
-      "iname": "SE_EV_RNDM_01",
-      "event_type": 1,
-      "image": "ev_rndm_01",
-      "start": "2022/03/24 15:00:00",
-      "end": "2022/04/15 9:59:59"
-    },
-    {
       "iname": "SE_EV_AST_DUEL_1",
       "event_type": 1,
       "image": "ev_ast_duel_1",
@@ -1337,24 +1330,32 @@
     },
     {
       "iname": "SE_EV_18_01",
-      "event_type": 1,
-      "image": "ev_18_01",
-      "start": "2022/06/01",
-      "end": "2022/06/22 14:59:59"
+      "event_type": 6,
+      "image": "ev_18_01"
     },
     {
       "iname": "SE_EV_18_EX_01",
-      "event_type": 1,
-      "image": "ev_18_ex_01",
-      "start": "2022/06/01",
-      "end": "2022/06/22 14:59:59"
+      "event_type": 6,
+      "image": "ev_18_ex_01"
     },
     {
       "iname": "SE_EV_18_EX2_01",
+      "event_type": 6,
+      "image": "ev_18_ex2_01"
+    },
+    {
+      "iname": "SE_EV_17_01",
       "event_type": 1,
-      "image": "ev_18_ex2_01",
-      "start": "2022/06/01",
-      "end": "2022/06/22 14:59:59"
+      "image": "ev_17_01",
+      "start": "2022/07/01",
+      "end": "2022/07/25 14:59:59"
+    },
+    {
+      "iname": "SE_EV_17_EX_01",
+      "event_type": 1,
+      "image": "ev_17_ex_01",
+      "start": "2022/07/01",
+      "end": "2022/07/25 14:59:59"
     },
     {
       "iname": "SE_EV_FF14_01",
@@ -1916,10 +1917,8 @@
     },
     {
       "iname": "SE_EV_ART_CRF_19",
-      "event_type": 1,
-      "image": "ev_arti_crft_19",
-      "start": "2022/05/23 15:00:00",
-      "end": "2022/06/08 14:59:59"
+      "event_type": 6,
+      "image": "ev_arti_crft_19"
     },
     {
       "iname": "SE_EV_ART_CRF_20",
@@ -1927,6 +1926,11 @@
       "image": "ev_arti_crft_20",
       "start": "2022/06/22 15:00:00",
       "end": "2022/07/08 14:59:59"
+    },
+    {
+      "iname": "SE_EV_RNDM_01",
+      "event_type": 6,
+      "image": "ev_rndm_01"
     },
     {
       "iname": "SE_EV_BEGN_2001",
@@ -2389,6 +2393,13 @@
       "image": "ev_grsr_02_01",
       "start": "2022/06/01 5:00:00",
       "end": "2022/06/08 4:59:59"
+    },
+    {
+      "iname": "SE_EV_ALIA_01",
+      "event_type": 1,
+      "image": "ev_alia_01",
+      "start": "2022/07/01 5:00:00",
+      "end": "2022/07/08 4:59:59"
     },
     {
       "iname": "SE_EV_NCTS_01",
