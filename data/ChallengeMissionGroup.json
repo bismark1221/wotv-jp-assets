@@ -8186,6 +8186,76 @@
           }
         }
       ]
+    },
+    {
+      "iname": "CM_PRO_106_1",
+      "baner": "ChallengePage_c220713",
+      "parent": "CM_PRO_106",
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_GU_FOOD_10",
+            "num": 2
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_ACTP_03",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_TICKET_STORY",
+            "num": 100
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AF_MAT_6_R",
+            "num": 10
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AF_MAT_6_SR",
+            "num": 10
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AF_MAT_6_SSR",
+            "num": 7
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AF_MAT_6_UR",
+            "num": 10
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 3,
+            "num": 1000
+          }
+        }
+      ]
     }
   ]
 }
