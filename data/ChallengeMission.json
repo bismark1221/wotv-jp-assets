@@ -21149,6 +21149,186 @@
         }
       ],
       "chk_ver": "CM_PRO_1053"
+    },
+    {
+      "iname": "CM_PRO_1054",
+      "index": 1,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_URAL"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1054"
+    },
+    {
+      "iname": "CM_PRO_1055",
+      "index": 2,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 84,
+        "sval": [
+          "UN_LW_P_URAL"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1055"
+    },
+    {
+      "iname": "CM_PRO_1056",
+      "index": 3,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_URAL"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_URAL",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1056"
+    },
+    {
+      "iname": "CM_PRO_1057",
+      "index": 4,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_URAL,JB_LW_BFI_SOIL"
+        ],
+        "ival": 6
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_URAL",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1057"
+    },
+    {
+      "iname": "CM_PRO_1058",
+      "index": 5,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_URAL"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_URAL",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_1058"
+    },
+    {
+      "iname": "CM_PRO_1059",
+      "index": 6,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_URAL,JB_LW_BFI_SOIL"
+        ],
+        "ival": 9
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_URAL",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_1059"
+    },
+    {
+      "iname": "CM_PRO_1060",
+      "index": 7,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_URAL"
+        ],
+        "ival": 60
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_URAL",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_1060"
+    },
+    {
+      "iname": "CM_PRO_1061",
+      "index": 8,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_URAL"
+        ],
+        "ival": 70
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_URAL",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_1061"
+    },
+    {
+      "iname": "CM_PRO_1062",
+      "index": 9,
+      "grpID": "CM_PRO_107_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_URAL"
+        ],
+        "ival": 75
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_URAL",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_1062"
     }
   ]
 }

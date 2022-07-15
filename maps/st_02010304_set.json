@@ -983,6 +983,33 @@
         },
         {
           "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_BFI",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 43
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_BFI_2",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 43
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_BFI_5",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 22
+        },
+        {
+          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
@@ -1019,21 +1046,21 @@
         },
         {
           "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_KUNAI_01",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 803
-        },
-        {
-          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
             "secret": 0
           },
           "weight": 0
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_KUNAI_01",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 803
         },
         {
           "drop_data": {
@@ -1141,7 +1168,7 @@
             "num": 0,
             "secret": 0
           },
-          "weight": 321
+          "weight": 213
         }
       ]
     }
