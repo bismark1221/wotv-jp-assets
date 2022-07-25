@@ -3529,6 +3529,46 @@
       "value": "クエスト情報<br>推奨：UnitLv.95 JobLv.14"
     },
     {
+      "key": "QE_ST_02110101",
+      "value": "クエスト情報<br>推奨：UnitLv.82 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110102",
+      "value": "クエスト情報<br>推奨：UnitLv.83 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110103",
+      "value": "クエスト情報<br>推奨：UnitLv.83 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110104",
+      "value": "クエスト情報<br>推奨：UnitLv.84 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110105",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110106",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110107",
+      "value": "クエスト情報<br>推奨：UnitLv.86 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110108",
+      "value": "クエスト情報<br>推奨：UnitLv.87 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110109",
+      "value": "クエスト情報<br>推奨：UnitLv.87 JobLv.13"
+    },
+    {
+      "key": "QE_ST_02110110",
+      "value": "クエスト情報<br>推奨：UnitLv.92 JobLv.14"
+    },
+    {
       "key": "QE_HA_LW_MONT",
       "value": "クエスト情報<br>推奨：UnitLv.17 JobLv.3"
     },
@@ -4101,6 +4141,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「マルグリット」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_MGRT2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「マルグリット」UnitLv.80以上<br>「キャラクタークエスト　マルグリット」をクリア"
+    },
+    {
       "key": "QE_CH_LW_PRAY",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「<<祈り>>」UnitLv.40以上"
     },
@@ -4127,6 +4171,10 @@
     {
       "key": "QE_CH_LW_VRID",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ヴァライド」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_VRID2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ヴァライド」UnitLv.80以上<br>「キャラクタークエスト　ヴァライド」をクリア"
     },
     {
       "key": "QE_CH_LW_NAIA",
@@ -4361,6 +4409,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ミランダ」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_MRND2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ミランダ」UnitLv.80以上<br>「キャラクタークエスト　ミランダ」をクリア"
+    },
+    {
       "key": "QE_CH_LW_DRND",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ドランド」UnitLv.40以上"
     },
@@ -4443,6 +4495,10 @@
     {
       "key": "QE_CH_LW_QILF",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「キルフェ」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_QILF2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「キルフェ」UnitLv.80以上<br>「キャラクタークエスト　キルフェ」をクリア"
     },
     {
       "key": "QE_CH_LW_LVES",
@@ -8125,6 +8181,14 @@
       "value": "クエスト情報<br>なし"
     },
     {
+      "key": "QE_EV_ART_CRF_49",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_ART_CRF_50",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_EV_ART_CRF_13",
       "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント：狩人は高台に登れるユニットで対処しよう"
     },
@@ -9482,6 +9546,10 @@
     },
     {
       "key": "QE_BR_WIND_13",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_BR_WIND_14",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -10883,6 +10951,14 @@
     {
       "key": "QE_RAID_RV_04_02",
       "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_ART_CRF_49",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_50",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
     },
     {
       "key": "QE_MU_ART_CRF_47",
@@ -12655,6 +12731,10 @@
     {
       "key": "QE_VC_LW_ALIA",
       "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「愛しき平穏」を獲得"
+    },
+    {
+      "key": "QE_VC_LW_FDRC",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「炎を越えて」を獲得"
     },
     {
       "key": "QE_TEST_FOR",

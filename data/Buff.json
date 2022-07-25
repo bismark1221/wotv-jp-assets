@@ -1235,6 +1235,28 @@
       "calc1": 30
     },
     {
+      "iname": "BUFF_LW_HUN_M_2_T_2",
+      "turn": 3,
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 348,
+      "calc1": 1,
+      "val1": 50,
+      "val11": 100
+    },
+    {
+      "iname": "BUFF_LW_HUN_S_4",
+      "turn": 3,
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 310,
+      "calc1": 1,
+      "val1": -10,
+      "val11": -25
+    },
+    {
       "iname": "BUFF_LW_HUN_M_3_T",
       "rate": 25,
       "turn": 3,
@@ -4945,15 +4967,30 @@
       "calc1": 31
     },
     {
+      "iname": "BUFF_LW_MMC_M_2",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 311,
+      "calc1": 1,
+      "val1": 10,
+      "val11": 20
+    },
+    {
       "iname": "BUFF_LW_MMC_M_3_1",
       "turn": 3,
       "timing": 2,
       "chktgt": 0,
       "chktiming": 2,
-      "type1": 65,
-      "calc1": 1,
-      "val1": 10,
-      "val11": 25
+      "type1": 23,
+      "calc1": 2,
+      "val1": 20,
+      "val11": 40,
+      "type2": 65,
+      "calc2": 1,
+      "val2": 10,
+      "val21": 25
     },
     {
       "iname": "BUFF_LW_MMC_M_3_2",
@@ -6439,8 +6476,8 @@
       "val11": 25,
       "type2": 191,
       "calc2": 1,
-      "val2": 30,
-      "val21": 60
+      "val2": 50,
+      "val21": 100
     },
     {
       "iname": "BUFF_LW_LIB_SOIL_M_2_2",
@@ -6450,8 +6487,8 @@
       "chktiming": 1,
       "type1": 310,
       "calc1": 1,
-      "val1": 5,
-      "val11": 15
+      "val1": 10,
+      "val11": 25
     },
     {
       "iname": "BUFF_LW_LIB_WATER_M_2_1",
@@ -6465,8 +6502,8 @@
       "val11": 25,
       "type2": 191,
       "calc2": 1,
-      "val2": 30,
-      "val21": 60
+      "val2": 50,
+      "val21": 100
     },
     {
       "iname": "BUFF_LW_LIB_WATER_M_2_2",
@@ -6476,8 +6513,8 @@
       "chktiming": 1,
       "type1": 310,
       "calc1": 1,
-      "val1": 5,
-      "val11": 15
+      "val1": 10,
+      "val11": 25
     },
     {
       "iname": "BUFF_LW_LIB_ICE_M_2_1",
@@ -6491,8 +6528,8 @@
       "val11": 25,
       "type2": 191,
       "calc2": 1,
-      "val2": 30,
-      "val21": 60
+      "val2": 50,
+      "val21": 100
     },
     {
       "iname": "BUFF_LW_LIB_ICE_M_2_2",
@@ -6502,8 +6539,8 @@
       "chktiming": 1,
       "type1": 310,
       "calc1": 1,
-      "val1": 5,
-      "val11": 15
+      "val1": 10,
+      "val11": 25
     },
     {
       "iname": "BUFF_LW_LIB_DARK_M_2_1",
@@ -6517,8 +6554,8 @@
       "val11": 25,
       "type2": 191,
       "calc2": 1,
-      "val2": 30,
-      "val21": 60
+      "val2": 50,
+      "val21": 100
     },
     {
       "iname": "BUFF_LW_LIB_DARK_M_2_2",
@@ -6528,8 +6565,8 @@
       "chktiming": 1,
       "type1": 310,
       "calc1": 1,
-      "val1": 5,
-      "val11": 15
+      "val1": 10,
+      "val11": 25
     },
     {
       "iname": "BUFF_LW_LIB_S_2",
@@ -6544,7 +6581,11 @@
       "type2": 203,
       "calc2": 1,
       "val2": 50,
-      "val21": 100
+      "val21": 100,
+      "type3": 278,
+      "calc3": 1,
+      "val3": 50,
+      "val31": 100
     },
     {
       "iname": "BUFF_LW_LIB_S_3_1",
@@ -8263,6 +8304,14 @@
       "val11": 40
     },
     {
+      "iname": "BUFF_LW_AXD_M_1",
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 113,
+      "calc1": 31
+    },
+    {
       "iname": "BUFF_LW_AXD_M_2",
       "rate": 25,
       "turn": 3,
@@ -8273,6 +8322,17 @@
       "calc1": 21,
       "val1": 5,
       "val11": 10
+    },
+    {
+      "iname": "BUFF_LW_AXD_M_2_2",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 347,
+      "calc1": 1,
+      "val1": -20,
+      "val11": -40
     },
     {
       "iname": "BUFF_LW_AXD_M_3_T",
@@ -8327,8 +8387,8 @@
       "chktiming": 1,
       "type1": 24,
       "calc1": 1,
-      "val1": 5,
-      "val11": 15
+      "val1": 10,
+      "val11": 25
     },
     {
       "iname": "BUFF_LW_AXD_S_4",
@@ -18915,6 +18975,14 @@
       "val11": -38
     },
     {
+      "iname": "BUFF_LB_LW_QILF_2",
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 104,
+      "calc1": 31
+    },
+    {
       "iname": "BUFF_LB_LW_ORDR",
       "turn": 3,
       "timing": 1,
@@ -21396,6 +21464,17 @@
       "val11": 15
     },
     {
+      "iname": "BUFF_LW_EC_HUN_A_04_3",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 314,
+      "calc1": 1,
+      "val1": -15,
+      "val11": -30
+    },
+    {
       "iname": "BUFF_LW_EC_HUN_C_08B",
       "timing": 0,
       "chktgt": 0,
@@ -22743,8 +22822,8 @@
       "chktiming": 1,
       "type1": 3,
       "calc1": 10,
-      "val1": 5,
-      "val11": 15
+      "val1": 15,
+      "val11": 30
     },
     {
       "iname": "BUFF_LW_EC_LIB_EN_A_S",
@@ -22769,8 +22848,8 @@
       "val11": 40,
       "type2": 191,
       "calc2": 1,
-      "val2": 30,
-      "val21": 60
+      "val2": 50,
+      "val21": 100
     },
     {
       "iname": "BUFF_LW_EC_LIB_C_01B_2",
@@ -22780,8 +22859,8 @@
       "chktiming": 1,
       "type1": 310,
       "calc1": 1,
-      "val1": 5,
-      "val11": 15
+      "val1": 10,
+      "val11": 25
     },
     {
       "iname": "BUFF_LW_EC_LIB_C_02B",
@@ -23497,7 +23576,11 @@
       "type1": 23,
       "calc1": 2,
       "val1": -20,
-      "val11": -39
+      "val11": -39,
+      "type2": 319,
+      "calc2": 1,
+      "val2": -15,
+      "val21": -30
     },
     {
       "iname": "BUFF_LW_EC_MMC_A_01_2",
@@ -23565,15 +23648,30 @@
       "val21": -40
     },
     {
+      "iname": "BUFF_LW_EC_MMC_A_02_2",
+      "turn": 3,
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 311,
+      "calc1": 1,
+      "val1": -10,
+      "val11": -25
+    },
+    {
       "iname": "BUFF_LW_EC_MMC_C_03_1",
       "turn": 3,
       "timing": 2,
       "chktgt": 0,
       "chktiming": 2,
-      "type1": 65,
-      "calc1": 1,
-      "val1": 10,
-      "val11": 25
+      "type1": 23,
+      "calc1": 2,
+      "val1": 20,
+      "val11": 40,
+      "type2": 65,
+      "calc2": 1,
+      "val2": 10,
+      "val21": 25
     },
     {
       "iname": "BUFF_LW_EC_MMC_C_03_2",
@@ -24586,8 +24684,8 @@
       "chktiming": 1,
       "type1": 24,
       "calc1": 1,
-      "val1": 5,
-      "val11": 15,
+      "val1": 10,
+      "val11": 25,
       "type2": 65,
       "calc2": 3,
       "val2": 5,
@@ -25946,6 +26044,48 @@
       "val31": 5
     },
     {
+      "iname": "BUFF_MA_LW_MRND_2",
+      "conds": [
+        16
+      ],
+      "continues": [
+        16
+      ],
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 10,
+      "val11": 10,
+      "type2": 47,
+      "calc2": 1,
+      "val2": 15,
+      "val21": 15
+    },
+    {
+      "iname": "BUFF_MA_LW_MRND_2_S",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 21,
+      "calc1": 2,
+      "val1": 15,
+      "val11": 15,
+      "type2": 23,
+      "calc2": 2,
+      "val2": 15,
+      "val21": 15,
+      "type3": 22,
+      "calc3": 1,
+      "val3": 20,
+      "val31": 20,
+      "type4": 319,
+      "calc4": 1,
+      "val4": 25,
+      "val41": 25
+    },
+    {
       "iname": "BUFF_MA_LW_AILN",
       "timing": 0,
       "chktgt": 0,
@@ -26733,6 +26873,52 @@
       "val21": 30
     },
     {
+      "iname": "BUFF_MA_LW_MGRT_2",
+      "conds": [
+        11
+      ],
+      "continues": [
+        11
+      ],
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 10,
+      "val11": 10,
+      "type2": 99,
+      "calc2": 3,
+      "val2": 25,
+      "val21": 25
+    },
+    {
+      "iname": "BUFF_MA_LW_MGRT_2_S",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 2,
+      "calc1": 2,
+      "val1": 15,
+      "val11": 15,
+      "type2": 65,
+      "calc2": 1,
+      "val2": 30,
+      "val21": 30,
+      "type3": 26,
+      "calc3": 2,
+      "val3": 10,
+      "val31": 10,
+      "type4": 183,
+      "calc4": 1,
+      "val4": -500,
+      "val41": -500,
+      "type5": 184,
+      "calc5": 1,
+      "val5": -500,
+      "val51": -500
+    },
+    {
       "iname": "BUFF_MA_LW_PRAY",
       "timing": 0,
       "chktgt": 0,
@@ -27045,6 +27231,24 @@
       "calc2": 1,
       "val2": 30,
       "val21": 30
+    },
+    {
+      "iname": "BUFF_MA_LW_VRID_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 2,
+      "calc1": 2,
+      "val1": 45,
+      "val11": 45,
+      "type2": 190,
+      "calc2": 1,
+      "val2": 30,
+      "val21": 30,
+      "type3": 311,
+      "calc3": 1,
+      "val3": 20,
+      "val31": 20
     },
     {
       "iname": "BUFF_MA_LW_NAIA",
@@ -28755,6 +28959,56 @@
       "calc3": 1,
       "val3": -200,
       "val31": -200
+    },
+    {
+      "iname": "BUFF_MA_LW_QILF_2",
+      "conds": [
+        14
+      ],
+      "continues": [
+        14
+      ],
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 10,
+      "val11": 10,
+      "type2": 45,
+      "calc2": 1,
+      "val2": 15,
+      "val21": 15
+    },
+    {
+      "iname": "BUFF_MA_LW_QILF_2_S",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 30,
+      "val11": 30,
+      "type2": 183,
+      "calc2": 1,
+      "val2": -200,
+      "val21": -200,
+      "type3": 184,
+      "calc3": 1,
+      "val3": -200,
+      "val31": -200,
+      "type4": 26,
+      "calc4": 2,
+      "val4": 10,
+      "val41": 10,
+      "type5": 61,
+      "calc5": 3,
+      "val5": 15,
+      "val51": 15,
+      "type6": 65,
+      "calc6": 3,
+      "val6": 15,
+      "val61": 15
     },
     {
       "iname": "BUFF_MA_LW_SIMR",
@@ -37142,6 +37396,60 @@
       "val11": 5
     },
     {
+      "iname": "BUFF_VC_LW_FDRC_GS",
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 126,
+      "calc1": 30,
+      "val1": 10,
+      "val11": 20,
+      "tag1": [
+        101
+      ],
+      "type2": 159,
+      "calc2": 1,
+      "val2": 2,
+      "val21": 8
+    },
+    {
+      "iname": "BUFF_VC_LW_FDRC_GS_AW",
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 126,
+      "calc1": 30,
+      "val1": 1,
+      "val11": 5,
+      "tag1": [
+        101
+      ],
+      "type2": 159,
+      "calc2": 1,
+      "val2": 1,
+      "val21": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_FDRC_GSMAX",
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 126,
+      "calc1": 30,
+      "val1": 5,
+      "val11": 5,
+      "tag1": [
+        101
+      ],
+      "type2": 159,
+      "calc2": 1,
+      "val2": 4,
+      "val21": 4
+    },
+    {
       "iname": "BUFF_VC_LW_IGNT_GS",
       "timing": 0,
       "chktgt": 0,
@@ -42798,6 +43106,36 @@
       ]
     },
     {
+      "iname": "BUFF_VC_LW_FDRC_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 64,
+      "calc1": 3,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_FDRC_GS_AW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 64,
+      "calc1": 3,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_FDRC_GSMAX_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 64,
+      "calc1": 3,
+      "val1": 20,
+      "val11": 20
+    },
+    {
       "iname": "BUFF_VC_LW_IGNT_GS_2",
       "conds": [
         17
@@ -45500,6 +45838,606 @@
       "calc1": 2,
       "val1": 5,
       "val11": 10
+    },
+    {
+      "iname": "BUFF_VC_LW_CACT_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_CACT_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_CACT_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 7,
+      "val11": 7
+    },
+    {
+      "iname": "BUFF_VC_LW_ARMN_01_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 190,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_ARMN_01_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 190,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_ARMN_01_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 190,
+      "calc1": 2,
+      "val1": 15,
+      "val11": 15
+    },
+    {
+      "iname": "BUFF_VC_LW_ZUUU_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 155,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_ZUUU_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 155,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_ZUUU_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 155,
+      "calc1": 1,
+      "val1": 9,
+      "val11": 9
+    },
+    {
+      "iname": "BUFF_VC_LW_OGRE_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_OGRE_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_OGRE_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 9,
+      "val11": 9
+    },
+    {
+      "iname": "BUFF_VC_LW_BOMB_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_BOMB_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_BOMB_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 7,
+      "val11": 7
+    },
+    {
+      "iname": "BUFF_VC_LW_BYLO_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 157,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_BYLO_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 157,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_BYLO_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 157,
+      "calc1": 1,
+      "val1": 9,
+      "val11": 9
+    },
+    {
+      "iname": "BUFF_VC_LW_RART_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 190,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_RART_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 190,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_RART_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 190,
+      "calc1": 2,
+      "val1": 15,
+      "val11": 15
+    },
+    {
+      "iname": "BUFF_VC_LW_RYER_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 155,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_RYER_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 155,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_RYER_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 155,
+      "calc1": 1,
+      "val1": 9,
+      "val11": 9
+    },
+    {
+      "iname": "BUFF_VC_LW_RIRY_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_RIRY_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_RIRY_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 9,
+      "val11": 9
+    },
+    {
+      "iname": "BUFF_VC_LW_VNLA_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 65,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_VNLA_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 65,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_VNLA_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 65,
+      "calc1": 1,
+      "val1": 11,
+      "val11": 11
+    },
+    {
+      "iname": "BUFF_VC_LW_LEONIS_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 64,
+      "calc1": 3,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_LEONIS_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 64,
+      "calc1": 3,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_LEONIS_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 64,
+      "calc1": 3,
+      "val1": 4,
+      "val11": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_HOURN_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 65,
+      "calc1": 3,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_HOURN_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 65,
+      "calc1": 3,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_HOURN_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 65,
+      "calc1": 3,
+      "val1": 4,
+      "val11": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_FENICE_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 27,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_FENICE_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 27,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_FENICE_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 27,
+      "calc1": 2,
+      "val1": 7,
+      "val11": 7
+    },
+    {
+      "iname": "BUFF_VC_LW_WEZETT_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 25,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_WEZETT_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 25,
+      "calc1": 2,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_WEZETT_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 25,
+      "calc1": 2,
+      "val1": 7,
+      "val11": 7
+    },
+    {
+      "iname": "BUFF_VC_LW_CRYSTAL_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 61,
+      "calc1": 3,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_CRYSTAL_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 61,
+      "calc1": 3,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_CRYSTAL_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 61,
+      "calc1": 3,
+      "val1": 4,
+      "val11": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_LEONIS2_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 159,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_LEONIS2_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 159,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_LEONIS2_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 159,
+      "calc1": 1,
+      "val1": 4,
+      "val11": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_HOURN2_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 159,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_HOURN2_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 159,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_HOURN2_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 159,
+      "calc1": 1,
+      "val1": 4,
+      "val11": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_FENICE2_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 156,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_FENICE2_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 156,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_FENICE2_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 156,
+      "calc1": 1,
+      "val1": 4,
+      "val11": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_WEZETT2_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 310,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_WEZETT2_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 310,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_WEZETT2_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 310,
+      "calc1": 1,
+      "val1": 4,
+      "val11": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_DYNVERK_GS_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 311,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_DYNVERK_GSAW_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 311,
+      "calc1": 1,
+      "val1": 0,
+      "val11": 0
+    },
+    {
+      "iname": "BUFF_VC_LW_DYNVERK_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 311,
+      "calc1": 1,
+      "val1": 4,
+      "val11": 4
     },
     {
       "iname": "BUFF_VC_LW_GLEM_P",
@@ -49749,6 +50687,48 @@
       "val11": 10
     },
     {
+      "iname": "BUFF_VC_LW_FDRC_P",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 1,
+      "val11": 2,
+      "type2": 21,
+      "calc2": 2,
+      "val2": 5,
+      "val21": 10
+    },
+    {
+      "iname": "BUFF_VC_LW_FDRC_PAW",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 1,
+      "val11": 2,
+      "type2": 21,
+      "calc2": 2,
+      "val2": 1,
+      "val21": 5
+    },
+    {
+      "iname": "BUFF_VC_LW_FDRC_PMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 1,
+      "val11": 1,
+      "type2": 21,
+      "calc2": 2,
+      "val2": 5,
+      "val21": 5
+    },
+    {
       "iname": "BUFF_VC_LW_IGNT_P",
       "timing": 0,
       "chktgt": 0,
@@ -53020,6 +54000,136 @@
       "val41": -300
     },
     {
+      "iname": "BUFF_LW_ROD_013_1_1",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 44,
+      "calc1": 1,
+      "val1": 2,
+      "val11": 2,
+      "type2": 311,
+      "calc2": 1,
+      "val2": 1,
+      "val21": 1,
+      "type3": 183,
+      "calc3": 1,
+      "val3": -50,
+      "val31": -50,
+      "type4": 184,
+      "calc4": 1,
+      "val4": -50,
+      "val41": -50,
+      "type5": 26,
+      "calc5": 2,
+      "val5": 10,
+      "val51": 10
+    },
+    {
+      "iname": "BUFF_LW_ROD_013_1_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 44,
+      "calc1": 1,
+      "val1": 3,
+      "val11": 3,
+      "type2": 311,
+      "calc2": 1,
+      "val2": 2,
+      "val21": 2,
+      "type3": 183,
+      "calc3": 1,
+      "val3": -100,
+      "val31": -100,
+      "type4": 184,
+      "calc4": 1,
+      "val4": -100,
+      "val41": -100,
+      "type5": 26,
+      "calc5": 2,
+      "val5": 10,
+      "val51": 10
+    },
+    {
+      "iname": "BUFF_LW_ROD_013_1_3",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 44,
+      "calc1": 1,
+      "val1": 5,
+      "val11": 5,
+      "type2": 311,
+      "calc2": 1,
+      "val2": 3,
+      "val21": 3,
+      "type3": 183,
+      "calc3": 1,
+      "val3": -150,
+      "val31": -150,
+      "type4": 184,
+      "calc4": 1,
+      "val4": -150,
+      "val41": -150,
+      "type5": 26,
+      "calc5": 2,
+      "val5": 10,
+      "val51": 10
+    },
+    {
+      "iname": "BUFF_LW_ROD_013_1_4",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 44,
+      "calc1": 1,
+      "val1": 8,
+      "val11": 8,
+      "type2": 311,
+      "calc2": 1,
+      "val2": 5,
+      "val21": 5,
+      "type3": 183,
+      "calc3": 1,
+      "val3": -200,
+      "val31": -200,
+      "type4": 184,
+      "calc4": 1,
+      "val4": -200,
+      "val41": -200,
+      "type5": 26,
+      "calc5": 2,
+      "val5": 10,
+      "val51": 10
+    },
+    {
+      "iname": "BUFF_LW_ROD_013_1_5",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 44,
+      "calc1": 1,
+      "val1": 15,
+      "val11": 15,
+      "type2": 311,
+      "calc2": 1,
+      "val2": 10,
+      "val21": 10,
+      "type3": 183,
+      "calc3": 1,
+      "val3": -300,
+      "val31": -300,
+      "type4": 184,
+      "calc4": 1,
+      "val4": -300,
+      "val41": -300,
+      "type5": 26,
+      "calc5": 2,
+      "val5": 10,
+      "val51": 10
+    },
+    {
       "iname": "BUFF_CLT_LW_ZZAN_01_2",
       "timing": 0,
       "chktgt": 0,
@@ -55372,6 +56482,26 @@
       "calc1": 1,
       "val1": 25,
       "val11": 25
+    },
+    {
+      "iname": "BUFF_LW_PLUS6_DEFPIERCE_10",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 314,
+      "calc1": 1,
+      "val1": 10,
+      "val11": 10
+    },
+    {
+      "iname": "BUFF_LW_PLUS6_REACTSTP_30",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 350,
+      "calc1": 1,
+      "val1": 30,
+      "val11": 30
     },
     {
       "iname": "BUFF_LW_SLASH_4_R",

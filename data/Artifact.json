@@ -2310,6 +2310,84 @@
       ]
     },
     {
+      "iname": "AF_LW_SWO_004_6",
+      "asset": "LAPSwpn_swo_004",
+      "type": 0,
+      "cat": [
+        2
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_SWORD",
+      "status": [
+        {
+          "hp": 3,
+          "atk": 6,
+          "def": 0,
+          "mag": 5,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 0
+        },
+        {
+          "hp": 59,
+          "atk": 165,
+          "mag": 115,
+          "hit": 17,
+          "crt": 9
+        }
+      ],
+      "randr": [
+        {
+          "hp": 42,
+          "atk": 46,
+          "mag": 46,
+          "hit": 18,
+          "crt": 18
+        }
+      ],
+      "randa": [
+        {
+          "hp": 2,
+          "atk": 5,
+          "def": 0,
+          "mag": 4,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_SWO_004",
+      "skl1": [
+        "SK_LW_SWO_004_1",
+        "SK_LW_SLASH_5_SSR",
+        "SK_LW_PLUS6_DEFPIERCE_10"
+      ],
+      "skl2": [
+        "SK_LW_SWO_004_1",
+        "SK_LW_SLASH_5_SSR",
+        "SK_LW_PLUS6_DEFPIERCE_10"
+      ],
+      "skl3": [
+        "SK_LW_SWO_004_1",
+        "SK_LW_SLASH_5_SSR",
+        "SK_LW_PLUS6_DEFPIERCE_10"
+      ],
+      "skl4": [
+        "SK_LW_SWO_004_1",
+        "SK_LW_SLASH_5_SSR",
+        "SK_LW_PLUS6_DEFPIERCE_10"
+      ],
+      "skl5": [
+        "SK_LW_SWO_004_5",
+        "SK_LW_SLASH_5_SSR",
+        "SK_LW_PLUS6_DEFPIERCE_10"
+      ]
+    },
+    {
       "iname": "AF_LW_SWO_005",
       "asset": "LAPSwpn_swo_005",
       "type": 0,
@@ -40374,7 +40452,87 @@
       "skl5": [
         "SK_LW_ROD_013_5",
         "SK_LW_MAGIC_5_UR"
-      ]
+      ],
+      "not_disassembly_flag": 1
+    },
+    {
+      "iname": "AF_LW_ROD_013_1",
+      "asset": "LAPSwpn_rod_013",
+      "type": 0,
+      "cat": [
+        5
+      ],
+      "rare": 4,
+      "cap": 1,
+      "sell": 0,
+      "hnum": 10,
+      "equip": "AEC_ROD",
+      "status": [
+        {
+          "hp": 9,
+          "atk": 1,
+          "mag": 9,
+          "hit": 3,
+          "crt": 1
+        },
+        {
+          "hp": 202,
+          "atk": 21,
+          "mag": 198,
+          "hit": 45,
+          "crt": 13
+        }
+      ],
+      "randr": [
+        {
+          "hp": 44,
+          "atk": 22,
+          "mag": 50,
+          "hit": 18,
+          "crt": 18
+        }
+      ],
+      "randa": [
+        {
+          "hp": 5,
+          "atk": 1,
+          "def": 0,
+          "mag": 7,
+          "mnd": 0,
+          "hit": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ROD_013",
+      "passives_condition": [
+        "APC_LW_ROD_013"
+      ],
+      "skl1": [
+        "SK_LW_ROD_013_1_1",
+        "SK_LW_MAGIC_1",
+        "SK_LW_PLUS6_REACTSTP_30"
+      ],
+      "skl2": [
+        "SK_LW_ROD_013_1_2",
+        "SK_LW_MAGIC_2",
+        "SK_LW_PLUS6_REACTSTP_30"
+      ],
+      "skl3": [
+        "SK_LW_ROD_013_1_3",
+        "SK_LW_MAGIC_3",
+        "SK_LW_PLUS6_REACTSTP_30"
+      ],
+      "skl4": [
+        "SK_LW_ROD_013_1_4",
+        "SK_LW_MAGIC_4_UR",
+        "SK_LW_PLUS6_REACTSTP_30"
+      ],
+      "skl5": [
+        "SK_LW_ROD_013_1_5",
+        "SK_LW_MAGIC_5_UR",
+        "SK_LW_PLUS6_REACTSTP_30"
+      ],
+      "not_disassembly_flag": 1
     },
     {
       "iname": "AF_LW_ROD_025",
