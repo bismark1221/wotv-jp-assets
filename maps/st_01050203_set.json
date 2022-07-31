@@ -1324,60 +1324,6 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_SPEAR_04",
-            "num": 2,
-            "secret": 0
-          },
-          "weight": 1700
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_AXE_04",
-            "num": 2,
-            "secret": 0
-          },
-          "weight": 1700
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_MAT_HEART_02",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 800
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_MAT_SAND_02",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 800
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_MM_SWN_4",
-            "num": 2,
-            "secret": 0
-          },
-          "weight": 85
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_JB_IM_ANGEL_4",
-            "num": 2,
-            "secret": 0
-          },
-          "weight": 350
-        },
-        {
-          "drop_data": {
-            "type": 0,
             "iname": "IT_JB_MM_BLM_4",
             "num": 2,
             "secret": 0
@@ -1387,20 +1333,11 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JB_EM_WIND_4",
+            "iname": "IT_JB_MM_SWN_4",
             "num": 2,
             "secret": 0
           },
-          "weight": 1700
-        },
-        {
-          "drop_data": {
-            "type": 0,
-            "iname": "IT_AF_LW_ARM_003",
-            "num": 1,
-            "secret": 0
-          },
-          "weight": 230
+          "weight": 85
         },
         {
           "drop_data": {
@@ -1431,12 +1368,84 @@
         },
         {
           "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_HLNA_4",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 85
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_HEART_02",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 800
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_SAND_02",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 800
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_LW_ARM_003",
+            "num": 1,
+            "secret": 0
+          },
+          "weight": 230
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_SPEAR_04",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 1700
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_AXE_04",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 1700
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_EM_WIND_4",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 1700
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_IM_ANGEL_4",
+            "num": 2,
+            "secret": 0
+          },
+          "weight": 350
+        },
+        {
+          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
             "secret": 0
           },
-          "weight": 1445
+          "weight": 1360
         }
       ]
     }

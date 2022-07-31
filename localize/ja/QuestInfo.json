@@ -4585,6 +4585,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「リリシュ（水着）」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_LI_01_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「リリシュ（水着）」UnitLv.80以上<br>「キャラクタークエスト　リリシュ（水着）」をクリア"
+    },
+    {
       "key": "QE_CH_LW_HWLT",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ハウレット」UnitLv.40以上"
     },
@@ -4615,6 +4619,10 @@
     {
       "key": "QE_CH_LW_KTON_01",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「キトン（水着）」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_KT_01_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「キトン（水着）」UnitLv.80以上<br>「キャラクタークエスト　キトン（水着）」をクリア"
     },
     {
       "key": "QE_CH_LW_NIVL",
@@ -4873,6 +4881,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「キルフェ（水着）」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_QI_01_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「キルフェ（水着）」UnitLv.80以上<br>「キャラクタークエスト　キルフェ（水着）」をクリア"
+    },
+    {
       "key": "QE_CH_FF15_NCTS",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ノクティス」UnitLv.40以上"
     },
@@ -4891,6 +4903,10 @@
     {
       "key": "QE_CH_LW_ELSR_01",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「エルシレール（水着）」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_EL_01_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「エルシレール（水着）」UnitLv.80以上<br>「キャラクタークエスト　エルシレール（水着）」をクリア"
     },
     {
       "key": "QE_CH_LW_LCIO",
@@ -5039,6 +5055,10 @@
     {
       "key": "QE_CH_LW_URAL",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ユーアル」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_HLNA_02",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ヘレナ（水着）」UnitLv.40以上"
     },
     {
       "key": "QE_EV_1100DL_FIR",
@@ -5199,6 +5219,38 @@
     {
       "key": "QE_EV_2_5ANV_7",
       "value": "2.5 Year Anniversaryまであと1日"
+    },
+    {
+      "key": "QE_EV_1000D_1",
+      "value": "リリース1000日記念まであと8日"
+    },
+    {
+      "key": "QE_EV_1000D_2",
+      "value": "リリース1000日記念まであと7日"
+    },
+    {
+      "key": "QE_EV_1000D_3",
+      "value": "リリース1000日記念まであと6日"
+    },
+    {
+      "key": "QE_EV_1000D_4",
+      "value": "リリース1000日記念まであと5日"
+    },
+    {
+      "key": "QE_EV_1000D_5",
+      "value": "リリース1000日記念まであと4日"
+    },
+    {
+      "key": "QE_EV_1000D_6",
+      "value": "リリース1000日記念まであと3日"
+    },
+    {
+      "key": "QE_EV_1000D_7",
+      "value": "リリース1000日記念まであと2日"
+    },
+    {
+      "key": "QE_EV_1000D_8",
+      "value": "リリース1000日記念まであと1日"
     },
     {
       "key": "QE_EV_SUMM_01",
@@ -5846,6 +5898,22 @@
     },
     {
       "key": "QE_EV_ALIA_04",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
+    },
+    {
+      "key": "QE_EV_HLNA_02_01",
+      "value": "クエスト情報<br>推奨：UnitLv.30 JobLv.6"
+    },
+    {
+      "key": "QE_EV_HLNA_02_02",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.10"
+    },
+    {
+      "key": "QE_EV_HLNA_02_03",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.10"
+    },
+    {
+      "key": "QE_EV_HLNA_02_04",
       "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
     },
     {
@@ -6986,6 +7054,54 @@
     },
     {
       "key": "QE_EV_FF13_EX_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_03",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_04",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_05",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_06",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_07",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_08",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_09",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_10",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_EX",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_19_EX_1",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -10665,18 +10781,6 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。<br>有効な攻略方法：このボスにはスロウが効果的です。"
     },
     {
-      "key": "QE_MU_EV_LB_EX1",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_EV_LB_EX2",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_EV_LB_EX3",
-      "value": "クエスト情報<br>なし"
-    },
-    {
       "key": "QE_MU_FF13_EX_01",
       "value": "クエスト情報<br>なし"
     },
@@ -10698,14 +10802,6 @@
     },
     {
       "key": "QE_MU_FFT_EX_04",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_CHAL_05_02",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_CHAL_05_03",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -10953,6 +11049,14 @@
       "value": "クエスト情報<br>なし"
     },
     {
+      "key": "QE_MU_EV_19_EX",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_EV_19_EX_1",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_MU_ART_CRF_49",
       "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
     },
@@ -10975,14 +11079,6 @@
     {
       "key": "QE_MU_EV_17_EX_1",
       "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_ART_CRF_45",
-      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
-    },
-    {
-      "key": "QE_MU_ART_CRF_46",
-      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
     },
     {
       "key": "QE_MU_AEX_115_1",
@@ -11205,28 +11301,12 @@
       "value": "クエスト情報<br>なし"
     },
     {
-      "key": "QE_MU_CHAL_04_02",
-      "value": "クエスト情報<br>ヒント：状態異常対策をしよう"
-    },
-    {
-      "key": "QE_MU_CHAL_04_03",
-      "value": "クエスト情報<br>ヒント：状態異常対策をしよう"
-    },
-    {
       "key": "QE_MU_EV_AL_EX1",
       "value": "クエスト情報<br>なし"
     },
     {
       "key": "QE_MU_EV_AL_EX2",
       "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_CHAL_03_02",
-      "value": "クエスト情報<br>ヒント1：ヘイト値と行動パターンの優先順に注目しよう<br>ヒント2：足元に気を付けよう"
-    },
-    {
-      "key": "QE_MU_CHAL_03_03",
-      "value": "クエスト情報<br>ヒント1：ヘイト値と行動パターンの優先順に注目しよう<br>ヒント2：足元に気を付けよう"
     },
     {
       "key": "QE_MU_FNRR_04",
@@ -11247,6 +11327,14 @@
     {
       "key": "QE_MU_IGNT_03",
       "value": "クエスト情報<br>ヒント：一定回数攻撃を与えると・・・"
+    },
+    {
+      "key": "QE_MU_ART_CRF_45",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_46",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
     },
     {
       "key": "QE_MU_ART_CRF_43",
@@ -11429,6 +11517,18 @@
       "value": "クエスト情報<br>ヒント：堅そうなヤツ等は防御、精神が非常に高いので下げて戦おう。メタルなヤツは残りHP割合や行動回数によって攻撃が変化するので気を付けよう。"
     },
     {
+      "key": "QE_MU_EV_LB_EX1",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_EV_LB_EX2",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_EV_LB_EX3",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_MU_EV_MC_EX1",
       "value": "クエスト情報<br>なし"
     },
@@ -11495,6 +11595,30 @@
     {
       "key": "QE_MU_EV_TH_EX2",
       "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_CHAL_05_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_CHAL_05_03",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_CHAL_04_02",
+      "value": "クエスト情報<br>ヒント：状態異常対策をしよう"
+    },
+    {
+      "key": "QE_MU_CHAL_04_03",
+      "value": "クエスト情報<br>ヒント：状態異常対策をしよう"
+    },
+    {
+      "key": "QE_MU_CHAL_03_02",
+      "value": "クエスト情報<br>ヒント1：ヘイト値と行動パターンの優先順に注目しよう<br>ヒント2：足元に気を付けよう"
+    },
+    {
+      "key": "QE_MU_CHAL_03_03",
+      "value": "クエスト情報<br>ヒント1：ヘイト値と行動パターンの優先順に注目しよう<br>ヒント2：足元に気を付けよう"
     },
     {
       "key": "QE_MU_EV_SCR_01",
@@ -11974,6 +12098,10 @@
     },
     {
       "key": "QE_PVP_FRE_0018",
+      "value": "なし"
+    },
+    {
+      "key": "QE_PVP_FRI_0082",
       "value": "なし"
     },
     {
