@@ -18440,9 +18440,9 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 2,
+      "priority": 8,
       "start_at": "2022/08/01",
-      "end_at": "2022/08/24 14:59:59"
+      "end_at": "2022/08/24 9:59:59"
     },
     {
       "id": 1320,
@@ -18454,9 +18454,9 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 3,
+      "priority": 9,
       "start_at": "2022/08/01",
-      "end_at": "2022/08/24 14:59:59"
+      "end_at": "2022/08/24 9:59:59"
     },
     {
       "id": 1321,
@@ -18482,9 +18482,9 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 8,
+      "priority": 14,
       "start_at": "2022/08/01",
-      "end_at": "2022/08/24 14:59:59"
+      "end_at": "2022/08/24 9:59:59"
     },
     {
       "id": 1323,
@@ -18513,6 +18513,132 @@
       "priority": 14,
       "start_at": "2022/08/01",
       "end_at": "2022/08/09 14:59:59"
+    },
+    {
+      "id": 1325,
+      "iname": "GachaBanner_1045",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1045",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 1,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/17 9:59:59"
+    },
+    {
+      "id": 1326,
+      "iname": "GachaBanner_1046",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1046",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/17 9:59:59"
+    },
+    {
+      "id": 1327,
+      "iname": "GachaBanner_1047",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1047",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 3,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/17 9:59:59"
+    },
+    {
+      "id": 1328,
+      "iname": "GachaBanner_1041",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1041",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 4,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/24 9:59:59"
+    },
+    {
+      "id": 1329,
+      "iname": "GachaBanner_1043",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1043",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 5,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/24 9:59:59"
+    },
+    {
+      "id": 1330,
+      "iname": "GachaBanner_1048",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1048",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 6,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/17 9:59:59"
+    },
+    {
+      "id": 1331,
+      "iname": "GachaBanner_1049",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1049",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 7,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/17 9:59:59"
+    },
+    {
+      "id": 1332,
+      "iname": "ev_raid_revi_07",
+      "appeal_category": 0,
+      "transition_destination": 5,
+      "sval": "ev_raid_revi_07",
+      "setting": {
+        "type": 1,
+        "unlock_id": "MultiQuest"
+      },
+      "priority": 10,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/17 9:59:59"
+    },
+    {
+      "id": 1333,
+      "iname": "LAPS_SHOP_LIMITED_0423",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0423",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 13,
+      "start_at": "2022/08/09 15:00:00",
+      "end_at": "2022/08/17 9:59:59"
     }
   ]
 }
