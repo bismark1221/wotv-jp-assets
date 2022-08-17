@@ -1165,6 +1165,18 @@
       "value": "魔法攻撃時認知存在キラー"
     },
     {
+      "key": "BUFF_KillerSpeciesUndefined",
+      "value": "???キラー"
+    },
+    {
+      "key": "BUFF_KillerSpeciesPUndefined",
+      "value": "物理攻撃時???キラー"
+    },
+    {
+      "key": "BUFF_KillerSpeciesMUndefined",
+      "value": "魔法攻撃時???キラー"
+    },
+    {
       "key": "BUFF_KillerSpeciesDamageHuman",
       "value": "人固定ダメージ"
     },
@@ -1227,6 +1239,10 @@
     {
       "key": "BUFF_KillerSpeciesDamageCognition",
       "value": "認知存在固定ダメージ"
+    },
+    {
+      "key": "BUFF_KillerSpeciesDamageUndefined",
+      "value": "???固定ダメージ"
     },
     {
       "key": "BUFF_KillerBirthUnknown",
@@ -2071,6 +2087,10 @@
     {
       "key": "BUFF_ResistSpeciesCognition",
       "value": "認知存在耐性"
+    },
+    {
+      "key": "BUFF_ResistSpeciesUndefined",
+      "value": "???耐性"
     },
     {
       "key": "BUFF_ExeShieldTarget1",

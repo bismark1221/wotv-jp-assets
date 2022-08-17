@@ -996,6 +996,24 @@
       "hurl": "ev_2_5Anv_01"
     },
     {
+      "iname": "SE_EV_OBON2022_1",
+      "hurl": "ev_obon2022_01"
+    },
+    {
+      "iname": "SE_EV_OBON2022_2",
+      "hurl": "ev_obon2022_02",
+      "o_cond_q": [
+        "QE_EV_OBON2022_1"
+      ]
+    },
+    {
+      "iname": "SE_EV_OBON2022_3",
+      "hurl": "ev_obon2022_03",
+      "o_cond_q": [
+        "QE_ST_01040110"
+      ]
+    },
+    {
       "iname": "SE_EV_D1000_1",
       "limit": 1,
       "hurl": "ev_d1000_01"
@@ -1038,6 +1056,21 @@
     {
       "iname": "SE_EV_HLNA_02_01",
       "hurl": "ev_hlna_02_01"
+    },
+    {
+      "iname": "SE_EV_LSTE",
+      "hurl": "ev_lste_01"
+    },
+    {
+      "iname": "SE_EV_LSTE_EX",
+      "hurl": "ev_lste_ex_01",
+      "o_cond_q": [
+        "QE_EV_LSTE_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_LSTE_EX",
+      "hurl": "ev_lste_ex_01"
     },
     {
       "iname": "SE_EV_19_01",

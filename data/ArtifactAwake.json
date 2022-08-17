@@ -8259,6 +8259,40 @@
       ]
     },
     {
+      "iname": "AF_LW_FIS_004_6",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_FIST,30",
+          "mat2": "IT_AF_MAT_LIQUID_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_FIST,50",
+          "mat2": "IT_AF_MAT_LIQUID_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_FIST,75",
+          "mat2": "IT_AF_MAT_LIQUID_03,40",
+          "mat3": "IT_AF_MAT_WIND_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_FIST,100",
+          "mat2": "IT_AF_MAT_LIQUID_03,50",
+          "mat3": "IT_AF_MAT_WIND_01,5"
+        }
+      ]
+    },
+    {
       "iname": "AF_PRS5_FIS_000",
       "awakes": [
         {
@@ -14531,6 +14565,40 @@
       ]
     },
     {
+      "iname": "AF_LW_BOW_004_6",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOW,30",
+          "mat2": "IT_AF_MAT_HEART_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOW,50",
+          "mat2": "IT_AF_MAT_HEART_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOW,75",
+          "mat2": "IT_AF_MAT_HEART_03,40",
+          "mat3": "IT_AF_MAT_LESS_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOW,100",
+          "mat2": "IT_AF_MAT_HEART_03,50",
+          "mat3": "IT_AF_MAT_LESS_01,5"
+        }
+      ]
+    },
+    {
       "iname": "AF_FF4_BOW_000",
       "awakes": [
         {
@@ -15377,6 +15445,210 @@
           "mat1": "IT_AF_AW_BOW,100",
           "mat2": "IT_AF_MAT_SAND_03,50",
           "mat3": "IT_AF_MAT_WATER_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_BOW_017",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOW,30",
+          "mat2": "IT_AF_MAT_LIQUID_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOW,50",
+          "mat2": "IT_AF_MAT_LIQUID_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOW,75",
+          "mat2": "IT_AF_MAT_LIQUID_03,40",
+          "mat3": "IT_AF_MAT_WIND_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOW,100",
+          "mat2": "IT_AF_MAT_LIQUID_03,50",
+          "mat3": "IT_AF_MAT_WIND_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_BOW_017_1",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOW,30",
+          "mat2": "IT_AF_MAT_LIQUID_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOW,50",
+          "mat2": "IT_AF_MAT_LIQUID_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOW,75",
+          "mat2": "IT_AF_MAT_LIQUID_03,40",
+          "mat3": "IT_AF_MAT_WIND_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOW,100",
+          "mat2": "IT_AF_MAT_LIQUID_03,50",
+          "mat3": "IT_AF_MAT_WIND_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_BOW_017_2",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOW,30",
+          "mat2": "IT_AF_MAT_LIQUID_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOW,50",
+          "mat2": "IT_AF_MAT_LIQUID_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOW,75",
+          "mat2": "IT_AF_MAT_LIQUID_03,40",
+          "mat3": "IT_AF_MAT_WIND_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOW,100",
+          "mat2": "IT_AF_MAT_LIQUID_03,50",
+          "mat3": "IT_AF_MAT_WIND_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_BOW_017_3",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOW,30",
+          "mat2": "IT_AF_MAT_LIQUID_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOW,50",
+          "mat2": "IT_AF_MAT_LIQUID_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOW,75",
+          "mat2": "IT_AF_MAT_LIQUID_03,40",
+          "mat3": "IT_AF_MAT_WIND_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOW,100",
+          "mat2": "IT_AF_MAT_LIQUID_03,50",
+          "mat3": "IT_AF_MAT_WIND_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_BOW_017_4",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOW,30",
+          "mat2": "IT_AF_MAT_LIQUID_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOW,50",
+          "mat2": "IT_AF_MAT_LIQUID_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOW,75",
+          "mat2": "IT_AF_MAT_LIQUID_03,40",
+          "mat3": "IT_AF_MAT_WIND_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOW,100",
+          "mat2": "IT_AF_MAT_LIQUID_03,50",
+          "mat3": "IT_AF_MAT_WIND_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_BOW_017_5",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOW,30",
+          "mat2": "IT_AF_MAT_LIQUID_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOW,50",
+          "mat2": "IT_AF_MAT_LIQUID_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOW,75",
+          "mat2": "IT_AF_MAT_LIQUID_03,40",
+          "mat3": "IT_AF_MAT_WIND_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOW,100",
+          "mat2": "IT_AF_MAT_LIQUID_03,50",
+          "mat3": "IT_AF_MAT_WIND_01,5"
         }
       ]
     },
@@ -17618,6 +17890,42 @@
     },
     {
       "iname": "AF_LW_ROD_019_5",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_STAFF,30",
+          "mat2": "IT_AF_MAT_SAP_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_STAFF,50",
+          "mat2": "IT_AF_MAT_SAP_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_STAFF,75",
+          "mat2": "IT_AF_MAT_SAP_03,40",
+          "mat3": "IT_AF_MAT_THUNDER_01,1",
+          "mat4": "IT_AF_MAT_SHINE_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_STAFF,100",
+          "mat2": "IT_AF_MAT_SAP_03,50",
+          "mat3": "IT_AF_MAT_THUNDER_01,2",
+          "mat4": "IT_AF_MAT_SHINE_01,2"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_ROD_019_6",
       "awakes": [
         {
           "lv": 10
@@ -37001,6 +37309,30 @@
     },
     {
       "iname": "AF_LW_ACC_083",
+      "awakes": [
+        {
+          "lv": 30
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_093",
+      "awakes": [
+        {
+          "lv": 30
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_094",
+      "awakes": [
+        {
+          "lv": 30
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_095",
       "awakes": [
         {
           "lv": 30
