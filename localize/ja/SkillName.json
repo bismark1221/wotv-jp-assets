@@ -581,6 +581,10 @@
       "value": "飛燕"
     },
     {
+      "key": "SK_LW_SAM_M_1_AD",
+      "value": "敵を戦闘不能にするとAP回復"
+    },
+    {
       "key": "SK_LW_SAM_S_3_INIT",
       "value": "黙想"
     },
@@ -1607,6 +1611,34 @@
     {
       "key": "SK_LW_GRM_DARK_M_2",
       "value": "バダーク"
+    },
+    {
+      "key": "SK_LW_GRM_M_4_ZOMA",
+      "value": "ウィーク"
+    },
+    {
+      "key": "SK_LW_GRM_M_5_ZOMA",
+      "value": "ルイン"
+    },
+    {
+      "key": "SK_LW_GRM_ICE_M_2_ZOMA",
+      "value": "バブリザ"
+    },
+    {
+      "key": "SK_LW_GRM_S_1_ZOMA",
+      "value": "デプロテ"
+    },
+    {
+      "key": "SK_LW_GRM_S_2_ZOMA",
+      "value": "デシェル"
+    },
+    {
+      "key": "SK_LW_GRM_M_1_ZOMA",
+      "value": "速力付与"
+    },
+    {
+      "key": "SK_LW_GRM_R_1_ZOMA",
+      "value": "デスペルカウンター"
     },
     {
       "key": "SK_LW_RDM_ATK",
@@ -3498,35 +3530,35 @@
     },
     {
       "key": "SK_LW_MKN_FIRE_M_1",
-      "value": "ファイガ剣"
+      "value": "ファイガセイバー"
     },
     {
       "key": "SK_LW_MKN_ICE_M_1",
-      "value": "ブリザガ剣"
+      "value": "ブリザガセイバー"
     },
     {
       "key": "SK_LW_MKN_WIND_M_1",
-      "value": "エアロガ剣"
+      "value": "エアロガセイバー"
     },
     {
       "key": "SK_LW_MKN_SOIL_M_1",
-      "value": "ストンガ剣"
+      "value": "ストンガセイバー"
     },
     {
       "key": "SK_LW_MKN_THUN_M_1",
-      "value": "サンダガ剣"
+      "value": "サンダガセイバー"
     },
     {
       "key": "SK_LW_MKN_WATR_M_1",
-      "value": "ウォタガ剣"
+      "value": "ウォタガセイバー"
     },
     {
       "key": "SK_LW_MKN_SHIN_M_1",
-      "value": "バニシュガ剣"
+      "value": "バニシュガセイバー"
     },
     {
       "key": "SK_LW_MKN_DARK_M_1",
-      "value": "ダーガ剣"
+      "value": "ダーガセイバー"
     },
     {
       "key": "SK_LW_MKN_M_2",
@@ -3650,35 +3682,35 @@
     },
     {
       "key": "SK_LW_MKN_FIRE_M_1_SUB",
-      "value": "ファイガ剣"
+      "value": "ファイガセイバー"
     },
     {
       "key": "SK_LW_MKN_ICE_M_1_SUB",
-      "value": "ブリザガ剣"
+      "value": "ブリザガセイバー"
     },
     {
       "key": "SK_LW_MKN_WIND_M_1_SUB",
-      "value": "エアロガ剣"
+      "value": "エアロガセイバー"
     },
     {
       "key": "SK_LW_MKN_SOIL_M_1_SUB",
-      "value": "ストンガ剣"
+      "value": "ストンガセイバー"
     },
     {
       "key": "SK_LW_MKN_THUN_M_1_SUB",
-      "value": "サンダガ剣"
+      "value": "サンダガセイバー"
     },
     {
       "key": "SK_LW_MKN_WATR_M_1_SUB",
-      "value": "ウォタガ剣"
+      "value": "ウォタガセイバー"
     },
     {
       "key": "SK_LW_MKN_SHIN_M_1_SUB",
-      "value": "バニシュガ剣"
+      "value": "バニシュガセイバー"
     },
     {
       "key": "SK_LW_MKN_DARK_M_1_SUB",
-      "value": "ダーガ剣"
+      "value": "ダーガセイバー"
     },
     {
       "key": "SK_LW_MKN_M_2_SUB",
@@ -5837,6 +5869,10 @@
       "value": "風援の教え"
     },
     {
+      "key": "SK_LW_SCR_ICE_S_2_INIT",
+      "value": "氷援の教え"
+    },
+    {
       "key": "SK_LW_SCR_DARK_S_2_INIT",
       "value": "闇援の教え"
     },
@@ -5869,6 +5905,10 @@
       "value": "風援の教え"
     },
     {
+      "key": "SK_LW_SCR_ICE_S_2",
+      "value": "氷援の教え"
+    },
+    {
       "key": "SK_LW_SCR_DARK_S_2",
       "value": "闇援の教え"
     },
@@ -5883,6 +5923,30 @@
     {
       "key": "SK_LW_SCR_M_3_SUB",
       "value": "活癒の法"
+    },
+    {
+      "key": "SK_LW_SCR_M_2_ZOMA",
+      "value": "身護の教え"
+    },
+    {
+      "key": "SK_LW_SCR_S_1_ZOMA",
+      "value": "ケアル"
+    },
+    {
+      "key": "SK_LW_SCR_ICE_S_2_ZOMA",
+      "value": "氷援の教え"
+    },
+    {
+      "key": "SK_LW_SCR_S_3_ZOMA",
+      "value": "払災の法"
+    },
+    {
+      "key": "SK_LW_SCR_S_4_ZOMA",
+      "value": "ケアルラ"
+    },
+    {
+      "key": "SK_LW_SCR_R_1_ZOMA",
+      "value": "反癒"
     },
     {
       "key": "SK_FF15_ARNA_ATK",
@@ -7869,6 +7933,134 @@
       "value": "真夏の魔法"
     },
     {
+      "key": "SK_DQTC_SLIM_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_DQTC_SLIM_M_1",
+      "value": "ハッスルダンス"
+    },
+    {
+      "key": "SK_DQTC_SLIM_M_1B",
+      "value": "ハッスルダンス＋１"
+    },
+    {
+      "key": "SK_DQTC_SLIM_M_2",
+      "value": "ピンチにめいそう"
+    },
+    {
+      "key": "SK_DQTC_SLIM_M_2_EN",
+      "value": "HP50％以下でHP回復"
+    },
+    {
+      "key": "SK_DQTC_SLIM_M_3",
+      "value": "しゃくねつ"
+    },
+    {
+      "key": "SK_DQTC_SLIM_S_1",
+      "value": "たいあたり"
+    },
+    {
+      "key": "SK_DQTC_SLIM_S_2",
+      "value": "デイン"
+    },
+    {
+      "key": "SK_DQTC_SLIM_S_3",
+      "value": "ピオラ"
+    },
+    {
+      "key": "SK_DQTC_SLIM_S_4",
+      "value": "バイキルト"
+    },
+    {
+      "key": "SK_DQTC_SLIM_R_1",
+      "value": "しゃくねつのかまえ"
+    },
+    {
+      "key": "SK_DQTC_SLIM_P_1",
+      "value": "くじけぬこころ"
+    },
+    {
+      "key": "SK_DQTC_SLIM_P_2",
+      "value": "ハッスルの極意"
+    },
+    {
+      "key": "SK_DQTC_SLIM_P_3",
+      "value": "スライムパワー"
+    },
+    {
+      "key": "SK_DQTC_SLIM_P_4",
+      "value": "メラ・ヒャド耐性"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_M_1",
+      "value": "サイコキャノン"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_M_2",
+      "value": "大魔王の威厳"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_M_3",
+      "value": "マヒャド"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_S_1",
+      "value": "魔氷の息"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_S_2",
+      "value": "絶望のチカラ"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_S_3",
+      "value": "ベホイミ"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_S_4",
+      "value": "こごえるふぶき"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_R_1",
+      "value": "いてつくはどう"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_P_1",
+      "value": "サイコブースト"
+    },
+    {
+      "key": "SK_DQTC_ZOMA_P_2",
+      "value": "やみのころも"
+    },
+    {
+      "key": "SK_DQTC_EC_ZOMA_A_01",
+      "value": "死絶の美学"
+    },
+    {
+      "key": "SK_DQTC_EC_ZOMA_C_01",
+      "value": "サイコブースト強化"
+    },
+    {
+      "key": "SK_DQTC_EC_ZOMA_C_01B",
+      "value": "サイコブースト＋１"
+    },
+    {
+      "key": "SK_DQTC_EC_ZOMA_C_01B_EN",
+      "value": "HP50%以下でHP回復"
+    },
+    {
+      "key": "SK_DQTC_EC_ZOMA_C_02",
+      "value": "マヒャド強化"
+    },
+    {
+      "key": "SK_DQTC_EC_ZOMA_C_02B",
+      "value": "マヒャド＋１"
+    },
+    {
       "key": "SK_LW_TU_BLM_ICE",
       "value": "ブリザラ"
     },
@@ -9653,6 +9845,90 @@
       "value": "カウンターストライク"
     },
     {
+      "key": "SK_EN_SLIM_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_EN_SLIM_M_01",
+      "value": "ピンチにめいそう"
+    },
+    {
+      "key": "SK_EN_SLIM_M_01B",
+      "value": "HP50％以下でHP回復"
+    },
+    {
+      "key": "SK_EN_SLIM_M_02",
+      "value": "たいあたり"
+    },
+    {
+      "key": "SK_EN_SLIM_M_03",
+      "value": "しゃくねつ"
+    },
+    {
+      "key": "SK_EN_SLIM_R_1",
+      "value": "しゃくねつのかまえ"
+    },
+    {
+      "key": "SK_EN_SLIM_P_1",
+      "value": "スライムパワー"
+    },
+    {
+      "key": "SK_EN_SLIM_01_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_EN_SLIM_01_M_01",
+      "value": "ピンチにめいそう"
+    },
+    {
+      "key": "SK_EN_SLIM_01_M_01B",
+      "value": "HP50％以下でHP回復"
+    },
+    {
+      "key": "SK_EN_SLIM_01_M_02",
+      "value": "たいあたり"
+    },
+    {
+      "key": "SK_EN_SLIM_01_M_03",
+      "value": "ヘナトス"
+    },
+    {
+      "key": "SK_EN_SLIM_01_R_01",
+      "value": "カウンター"
+    },
+    {
+      "key": "SK_EN_SLIM_02_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_EN_SLIM_02_M_01",
+      "value": "たいあたり"
+    },
+    {
+      "key": "SK_EN_SLIM_02_M_02",
+      "value": "メラ"
+    },
+    {
+      "key": "SK_EN_KLMN_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_EN_KLMN_M_01",
+      "value": "せんとうモード"
+    },
+    {
+      "key": "SK_EN_KLMN_M_02",
+      "value": "ボウガン"
+    },
+    {
+      "key": "SK_EN_KLMN_M_03",
+      "value": "はげしく斬りつける"
+    },
+    {
+      "key": "SK_EN_KLMN_M_04",
+      "value": "ローリングアタック"
+    },
+    {
       "key": "SK_IFRT_ATK",
       "value": "通常攻撃"
     },
@@ -10857,6 +11133,38 @@
       "value": "暗き力の魔撃・雷"
     },
     {
+      "key": "SK_LUMW_ATK",
+      "value": "業撃"
+    },
+    {
+      "key": "SK_LUMW_M01",
+      "value": "瘴撃波"
+    },
+    {
+      "key": "SK_LUMW_M02",
+      "value": "業魔激放"
+    },
+    {
+      "key": "SK_LUMW_M03",
+      "value": "瘴魔弾"
+    },
+    {
+      "key": "SK_LUMW_M04",
+      "value": "重瘴"
+    },
+    {
+      "key": "SK_LUMW_M05",
+      "value": "業異"
+    },
+    {
+      "key": "SK_LUMW_M06",
+      "value": "瘴業生起"
+    },
+    {
+      "key": "SK_LUMW_M07",
+      "value": "反瘴"
+    },
+    {
       "key": "SK_LW_E_VIK_ATK",
       "value": "通常攻撃"
     },
@@ -10995,6 +11303,18 @@
     {
       "key": "SK_GMK_ATK_RUBB",
       "value": "瓦礫"
+    },
+    {
+      "key": "SK_GMK_RI08_1",
+      "value": "お前ら、かかれ！"
+    },
+    {
+      "key": "SK_GMK_RI08_2",
+      "value": "この指輪があれば……！"
+    },
+    {
+      "key": "SK_GMK_RI08_3",
+      "value": "俺がアードラの王だ！"
     },
     {
       "key": "SK_LB_LW_MONT",
@@ -11535,6 +11855,10 @@
     {
       "key": "SK_LB_LW_SHLS",
       "value": "終の流星群"
+    },
+    {
+      "key": "SK_LB_DQTC_ZOMA",
+      "value": "滅びの氷塊"
     },
     {
       "key": "SK_SMN_IFRT",
@@ -13870,11 +14194,11 @@
     },
     {
       "key": "SK_LW_EC_MKN_C_03",
-      "value": "エアロガ剣強化"
+      "value": "エアロガセイバー強化"
     },
     {
       "key": "SK_LW_EC_MKN_C_03B",
-      "value": "エアロガ剣【集魔】"
+      "value": "エアロガセイバー【集魔】"
     },
     {
       "key": "SK_LW_EC_MKN_C_04",
@@ -14793,7 +15117,15 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_HWLT_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_LW_CHEL",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_CHEL_2",
       "value": "マスターアビリティ"
     },
     {
@@ -14802,6 +15134,10 @@
     },
     {
       "key": "SK_MA_LW_TITU",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_TITU_2",
       "value": "マスターアビリティ"
     },
     {
@@ -14998,6 +15334,10 @@
     },
     {
       "key": "SK_MA_LW_MURG",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_MURG_2",
       "value": "マスターアビリティ"
     },
     {
@@ -15266,6 +15606,14 @@
     },
     {
       "key": "SK_MA_LW_LSTE",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_DQTC_ZOMA",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_DQTC_SLIM",
       "value": "マスターアビリティ"
     },
     {
@@ -16701,6 +17049,26 @@
       "value": "静穏の闘靴"
     },
     {
+      "key": "SK_LW_ACC_062_1_1",
+      "value": "静穏の闘靴"
+    },
+    {
+      "key": "SK_LW_ACC_062_1_2",
+      "value": "静穏の闘靴"
+    },
+    {
+      "key": "SK_LW_ACC_062_1_3",
+      "value": "静穏の闘靴"
+    },
+    {
+      "key": "SK_LW_ACC_062_1_4",
+      "value": "静穏の闘靴"
+    },
+    {
+      "key": "SK_LW_ACC_062_1_5",
+      "value": "静穏の闘靴"
+    },
+    {
       "key": "SK_LW_ACC_067_1",
       "value": "サファイアイヤーカフ"
     },
@@ -17785,6 +18153,10 @@
       "value": "慈悲なき誓い"
     },
     {
+      "key": "SK_ACC_DQTC_ZOMA_1",
+      "value": "大魔王のオーラ"
+    },
+    {
       "key": "SK_VC_LW_SCAL_PVA",
       "value": "ルインジャ"
     },
@@ -18313,6 +18685,10 @@
       "value": "▼治癒力1-50ダウン"
     },
     {
+      "key": "SK_BTL_HEALP_1_999_D",
+      "value": "▼治癒力1-999ダウン"
+    },
+    {
       "key": "SK_BTL_STR_MAGIC_1_100_U",
       "value": "魔法攻撃力1-100アップ"
     },
@@ -18625,6 +19001,10 @@
       "value": "無機物の耐性"
     },
     {
+      "key": "SK_BTL_INV_BRAVEDOWN",
+      "value": "Braveダウン無効"
+    },
+    {
       "key": "SK_BTL_INV_CTDOWN",
       "value": "CT変動無効"
     },
@@ -18695,6 +19075,14 @@
     {
       "key": "SK_BTL_RATK_1-100_D",
       "value": "▼範囲攻撃耐性1-100ダウン"
+    },
+    {
+      "key": "SK_BTL_SATK_1-999_U",
+      "value": "単体攻撃耐性1-999アップ"
+    },
+    {
+      "key": "SK_BTL_RATK_1-999_U",
+      "value": "範囲攻撃耐性1-999アップ"
     },
     {
       "key": "SK_BTL_KILLER_MAN_1-100_U",

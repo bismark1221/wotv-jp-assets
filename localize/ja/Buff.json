@@ -1165,6 +1165,18 @@
       "value": "魔法攻撃時認知存在キラー"
     },
     {
+      "key": "BUFF_KillerSpeciesSlime",
+      "value": "スライムキラー"
+    },
+    {
+      "key": "BUFF_KillerSpeciesPSlime",
+      "value": "物理攻撃時スライムキラー"
+    },
+    {
+      "key": "BUFF_KillerSpeciesMSlime",
+      "value": "魔法攻撃時スライムキラー"
+    },
+    {
       "key": "BUFF_KillerSpeciesUndefined",
       "value": "???キラー"
     },
@@ -1239,6 +1251,10 @@
     {
       "key": "BUFF_KillerSpeciesDamageCognition",
       "value": "認知存在固定ダメージ"
+    },
+    {
+      "key": "BUFF_KillerSpeciesDamageSlime",
+      "value": "スライム固定ダメージ"
     },
     {
       "key": "BUFF_KillerSpeciesDamageUndefined",
@@ -1665,6 +1681,18 @@
       "value": "魔法攻撃時ペルソナ5 ザ・ロイヤルキラー"
     },
     {
+      "key": "BUFF_KillerBirthDQTC",
+      "value": "ドラゴンクエストタクトキラー"
+    },
+    {
+      "key": "BUFF_KillerBirthPDQTC",
+      "value": "物理攻撃時ドラゴンクエストタクトキラー"
+    },
+    {
+      "key": "BUFF_KillerBirthMDQTC",
+      "value": "魔法攻撃時ドラゴンクエストタクトキラー"
+    },
+    {
       "key": "BUFF_KillerBirthDamageUnknown",
       "value": "出身不明固定ダメージ"
     },
@@ -1803,6 +1831,10 @@
     {
       "key": "BUFF_KillerBirthDamageP5R",
       "value": "ペルソナ5 ザ・ロイヤル固定ダメージ"
+    },
+    {
+      "key": "BUFF_KillerBirthDamageDQTC",
+      "value": "ドラゴンクエストタクト固定ダメージ"
     },
     {
       "key": "BUFF_KillerUnitTagFloating",
@@ -2025,6 +2057,10 @@
       "value": "ペルソナ5 ザ・ロイヤル耐性"
     },
     {
+      "key": "BUFF_ResistBirthDQTC",
+      "value": "ドラゴンクエストタクト耐性"
+    },
+    {
       "key": "BUFF_ResistSpeciesHuman",
       "value": "人耐性"
     },
@@ -2087,6 +2123,10 @@
     {
       "key": "BUFF_ResistSpeciesCognition",
       "value": "認知存在耐性"
+    },
+    {
+      "key": "BUFF_ResistSpeciesSlime",
+      "value": "スライム耐性"
     },
     {
       "key": "BUFF_ResistSpeciesUndefined",

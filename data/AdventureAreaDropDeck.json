@@ -10609,6 +10609,70 @@
           "fix_rate": 470
         }
       ]
+    },
+    {
+      "area_iname": "AD_AREA_DQTC_01",
+      "campaign_string": "default",
+      "drop": [
+        {
+          "drop_id": 31001,
+          "is_rare": 1,
+          "rate": 300,
+          "fever_rate": 300,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 31101,
+          "rate": 73800,
+          "fever_rate": 60850,
+          "fix_rate": -1295
+        },
+        {
+          "drop_id": 31201,
+          "rate": 16490,
+          "fever_rate": 24735,
+          "fix_rate": 825
+        },
+        {
+          "drop_id": 31301,
+          "is_rare": 1,
+          "rate": 9410,
+          "fever_rate": 14115,
+          "fix_rate": 471
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_DQTC_01",
+      "campaign_string": "campaign_1",
+      "drop": [
+        {
+          "drop_id": 31001,
+          "is_rare": 1,
+          "rate": 300,
+          "fever_rate": 300,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 31101,
+          "rate": 60850,
+          "fever_rate": 47900,
+          "fix_rate": -1295
+        },
+        {
+          "drop_id": 31201,
+          "rate": 24735,
+          "fever_rate": 32980,
+          "fix_rate": 825
+        },
+        {
+          "drop_id": 31301,
+          "is_rare": 1,
+          "rate": 14115,
+          "fever_rate": 18820,
+          "fix_rate": 471
+        }
+      ]
     }
   ]
 }
