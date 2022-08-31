@@ -10673,6 +10673,98 @@
           "fix_rate": 471
         }
       ]
+    },
+    {
+      "area_iname": "AD_AREA_DQTC_02",
+      "campaign_string": "default",
+      "drop": [
+        {
+          "drop_id": 31002,
+          "is_rare": 1,
+          "rate": 300,
+          "fever_rate": 300,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 31001,
+          "is_rare": 1,
+          "rate": 300,
+          "fever_rate": 300,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 31003,
+          "is_rare": 1,
+          "rate": 200,
+          "fever_rate": 200,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 31102,
+          "rate": 73150,
+          "fever_rate": 60125,
+          "fix_rate": -1302
+        },
+        {
+          "drop_id": 31202,
+          "rate": 16640,
+          "fever_rate": 24960,
+          "fix_rate": 832
+        },
+        {
+          "drop_id": 31301,
+          "is_rare": 1,
+          "rate": 9410,
+          "fever_rate": 14115,
+          "fix_rate": 470
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_DQTC_02",
+      "campaign_string": "campaign_1",
+      "drop": [
+        {
+          "drop_id": 31002,
+          "is_rare": 1,
+          "rate": 300,
+          "fever_rate": 300,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 31001,
+          "is_rare": 1,
+          "rate": 300,
+          "fever_rate": 300,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 31003,
+          "is_rare": 1,
+          "rate": 200,
+          "fever_rate": 200,
+          "fix_rate": 0
+        },
+        {
+          "drop_id": 31102,
+          "rate": 60125,
+          "fever_rate": 47100,
+          "fix_rate": -1302
+        },
+        {
+          "drop_id": 31202,
+          "rate": 24960,
+          "fever_rate": 33280,
+          "fix_rate": 832
+        },
+        {
+          "drop_id": 31301,
+          "is_rare": 1,
+          "rate": 14115,
+          "fever_rate": 18820,
+          "fix_rate": 470
+        }
+      ]
     }
   ]
 }

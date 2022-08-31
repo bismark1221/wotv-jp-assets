@@ -1024,6 +1024,17 @@
       "hurl": "ev_DQT_ex_01"
     },
     {
+      "iname": "SE_EV_DQT_02_EX",
+      "hurl": "ev_DQT_ex_02",
+      "o_cond_q": [
+        "QE_EV_DQT_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_DQT_02_EX",
+      "hurl": "ev_DQT_ex_02"
+    },
+    {
       "iname": "SE_EV_DQT_04",
       "limit": 3,
       "hurl": "ev_DQT_04"
@@ -1129,22 +1140,6 @@
       "hurl": "ev_19_ex_01"
     },
     {
-      "iname": "SE_MU_ART_CRF_22",
-      "hurl": "ev_arti_crft_22"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_22",
-      "hurl": "ev_arti_crft_22"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_21",
-      "hurl": "ev_arti_crft_21"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_21",
-      "hurl": "ev_arti_crft_21"
-    },
-    {
       "iname": "SE_EV_ALIA_01",
       "hurl": "ev_alia_01"
     },
@@ -1203,21 +1198,6 @@
       "open_cond": [
         "COND_VC_LW_ZZAN2"
       ]
-    },
-    {
-      "iname": "SE_EV_17_01",
-      "hurl": "ev_17_01"
-    },
-    {
-      "iname": "SE_EV_17_EX_01",
-      "hurl": "ev_17_ex_01",
-      "o_cond_q": [
-        "QE_EV_17_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_17_EX",
-      "hurl": "ev_17_ex_01"
     },
     {
       "iname": "SE_PTQ_FF13_01",
@@ -1861,6 +1841,21 @@
       "won_dst_sheet_name": "bgm_ff4_Victory"
     },
     {
+      "iname": "SE_EV_17_01",
+      "hurl": "ev_17_01"
+    },
+    {
+      "iname": "SE_EV_17_EX_01",
+      "hurl": "ev_17_ex_01",
+      "o_cond_q": [
+        "QE_EV_17_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_17_EX",
+      "hurl": "ev_17_ex_01"
+    },
+    {
       "iname": "SE_EV_18_01",
       "hurl": "ev_18_01"
     },
@@ -2125,6 +2120,22 @@
     {
       "iname": "SE_MU_EV_01_EX",
       "hurl": "ev_01_ex_01"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_22",
+      "hurl": "ev_arti_crft_22"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_22",
+      "hurl": "ev_arti_crft_22"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_21",
+      "hurl": "ev_arti_crft_21"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_21",
+      "hurl": "ev_arti_crft_21"
     },
     {
       "iname": "SE_MU_ART_CRF_20",

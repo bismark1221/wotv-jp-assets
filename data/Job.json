@@ -73753,6 +73753,637 @@
       ]
     },
     {
+      "iname": "JB_DQTC_SLIM_M",
+      "mdl": "DQTCslim",
+      "cc_icon": "DQTCslim_EC",
+      "collaboType": 1,
+      "equips": [
+        2,
+        3,
+        4,
+        16,
+        10,
+        1,
+        6,
+        7,
+        14,
+        5,
+        15,
+        8,
+        23,
+        24,
+        25,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 1,
+      "lvtbl_main": "JBLV_DQTC_SLIM_EXM",
+      "lvtbl_sub": "JBLV_DQTC_SLIM_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 3015,
+          "ap": 3015,
+          "atk": 3045,
+          "mag": 3045,
+          "dex": 3045,
+          "spd": 3000,
+          "luk": 3060,
+          "iniap": -82
+        },
+        {
+          "hp": 6675,
+          "mp": 3022,
+          "ap": 3022,
+          "atk": 3067,
+          "mag": 3067,
+          "dex": 3067,
+          "spd": 3000,
+          "luk": 3090,
+          "iniap": -82
+        },
+        {
+          "hp": 6900,
+          "mp": 3030,
+          "ap": 3030,
+          "atk": 3090,
+          "mag": 3090,
+          "dex": 3090,
+          "spd": 3000,
+          "luk": 3120,
+          "iniap": -82
+        },
+        {
+          "hp": 7800,
+          "mp": 3060,
+          "ap": 3060,
+          "atk": 3180,
+          "mag": 3180,
+          "dex": 3180,
+          "spd": 3000,
+          "luk": 3240,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_SLIM_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 3067,
+          "ap": 3067,
+          "atk": 3202,
+          "mag": 3202,
+          "dex": 3202,
+          "spd": 3000,
+          "luk": 3270,
+          "iniap": -82
+        },
+        {
+          "hp": 8250,
+          "mp": 3075,
+          "ap": 3075,
+          "atk": 3225,
+          "mag": 3225,
+          "dex": 3225,
+          "spd": 3000,
+          "luk": 3300,
+          "iniap": -82
+        },
+        {
+          "hp": 9150,
+          "mp": 3105,
+          "ap": 3105,
+          "atk": 3315,
+          "mag": 3315,
+          "dex": 3315,
+          "spd": 3000,
+          "luk": 3420,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_SLIM_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 3112,
+          "ap": 3112,
+          "atk": 3337,
+          "mag": 3337,
+          "dex": 3337,
+          "spd": 3000,
+          "luk": 3450,
+          "iniap": -82
+        },
+        {
+          "hp": 9600,
+          "mp": 3120,
+          "ap": 3120,
+          "atk": 3360,
+          "mag": 3360,
+          "dex": 3360,
+          "spd": 3000,
+          "luk": 3480,
+          "iniap": -82
+        },
+        {
+          "hp": 10500,
+          "mp": 3150,
+          "ap": 3150,
+          "atk": 3450,
+          "mag": 3450,
+          "dex": 3450,
+          "spd": 3000,
+          "luk": 3600,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_SLIM_5,10"
+        }
+      ],
+      "not_appearance": 1,
+      "sklinfos": [
+        {
+          "type": 2,
+          "motnm": "DQTCslim/skl_WA00",
+          "effnm": "ef_DQTCslim_WA00",
+          "collabo": 1,
+          "chant": "None"
+        },
+        {
+          "type": 10,
+          "motnm": "DQTCslim/skl_VCA000",
+          "effnm": "ef_DQTCslim_VCA000",
+          "collabo": 1,
+          "chant": "None"
+        },
+        {
+          "type": 11,
+          "motnm": "DQTCslim/skl_VCA001",
+          "effnm": "ef_LAN_VCA_00",
+          "chant": "None"
+        },
+        {
+          "type": 12,
+          "motnm": "DQTCslim/skl_VCA002",
+          "effnm": "ef_SWN_VCA_00",
+          "chant": "None"
+        },
+        {
+          "type": 13,
+          "motnm": "DQTCslim/skl_M1",
+          "effnm": "ef_DQTCslim_M01",
+          "collabo": 1,
+          "chant": "None"
+        },
+        {
+          "type": 1,
+          "chant": "None"
+        },
+        {
+          "type": 2,
+          "chant": "None"
+        },
+        {
+          "type": 3,
+          "chant": "None"
+        },
+        {
+          "type": 4,
+          "chant": "None"
+        }
+      ]
+    },
+    {
+      "iname": "JB_DQTC_PSAR",
+      "mdl": "DQTCpsar",
+      "collaboType": 1,
+      "equips": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 2,
+      "lvtbl_main": "JBLV_DQTC_PSAR_M",
+      "lvtbl_sub": "JBLV_DQTC_PSAR_M",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 0,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "mag": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "iniap": -82
+        },
+        {
+          "hp": 200,
+          "mp": 205,
+          "ap": 589,
+          "atk": 1075,
+          "mag": 205,
+          "dex": 768,
+          "spd": 1075,
+          "luk": 1075,
+          "iniap": -82
+        },
+        {
+          "hp": 800,
+          "mp": 325,
+          "ap": 933,
+          "atk": 1704,
+          "mag": 325,
+          "dex": 1217,
+          "spd": 1704,
+          "luk": 1704,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_PSAR,1",
+          "s_eqid1": "IT_JB_MM_PSAR,1"
+        },
+        {
+          "hp": 1040,
+          "mp": 410,
+          "ap": 1177,
+          "atk": 2150,
+          "mag": 410,
+          "dex": 1536,
+          "spd": 2150,
+          "luk": 2150,
+          "iniap": -82
+        },
+        {
+          "hp": 1280,
+          "mp": 475,
+          "ap": 1367,
+          "atk": 2496,
+          "mag": 475,
+          "dex": 1783,
+          "spd": 2496,
+          "luk": 2496,
+          "iniap": -82
+        },
+        {
+          "hp": 2000,
+          "mp": 529,
+          "ap": 1522,
+          "atk": 2779,
+          "mag": 529,
+          "dex": 1985,
+          "spd": 2779,
+          "luk": 2779,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_PSAR_2,2",
+          "s_eqid1": "IT_JB_MM_PSAR_2,2"
+        },
+        {
+          "hp": 2240,
+          "mp": 575,
+          "ap": 1653,
+          "atk": 3018,
+          "mag": 575,
+          "dex": 2156,
+          "spd": 3018,
+          "luk": 3018,
+          "iniap": -82
+        },
+        {
+          "hp": 2480,
+          "mp": 614,
+          "ap": 1766,
+          "atk": 3225,
+          "mag": 614,
+          "dex": 2304,
+          "spd": 3225,
+          "luk": 3225,
+          "iniap": -82
+        },
+        {
+          "hp": 3200,
+          "mp": 649,
+          "ap": 1866,
+          "atk": 3408,
+          "mag": 649,
+          "dex": 2434,
+          "spd": 3408,
+          "luk": 3408,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_PSAR_3,3",
+          "s_eqid1": "IT_JB_MM_PSAR_3,3"
+        },
+        {
+          "hp": 3440,
+          "mp": 680,
+          "ap": 1956,
+          "atk": 3571,
+          "mag": 680,
+          "dex": 2551,
+          "spd": 3571,
+          "luk": 3571,
+          "iniap": -82
+        },
+        {
+          "hp": 3680,
+          "mp": 708,
+          "ap": 2037,
+          "atk": 3719,
+          "mag": 708,
+          "dex": 2656,
+          "spd": 3719,
+          "luk": 3719,
+          "iniap": -82
+        },
+        {
+          "hp": 4400,
+          "mp": 734,
+          "ap": 2110,
+          "atk": 3854,
+          "mag": 734,
+          "dex": 2753,
+          "spd": 3854,
+          "luk": 3854,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_PSAR_4,4",
+          "s_eqid1": "IT_JB_MM_PSAR_4,4"
+        },
+        {
+          "hp": 4666,
+          "mp": 758,
+          "ap": 2178,
+          "atk": 3978,
+          "mag": 758,
+          "dex": 2841,
+          "spd": 3978,
+          "luk": 3978,
+          "iniap": -82
+        },
+        {
+          "hp": 4932,
+          "mp": 780,
+          "ap": 2241,
+          "atk": 4093,
+          "mag": 780,
+          "dex": 2924,
+          "spd": 4093,
+          "luk": 4093,
+          "iniap": -82
+        },
+        {
+          "hp": 6000,
+          "mp": 800,
+          "ap": 2300,
+          "atk": 4200,
+          "mag": 800,
+          "dex": 3000,
+          "spd": 4200,
+          "luk": 4200,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_PSAR_5,5",
+          "s_eqid1": "IT_JB_MM_PSAR_5,5"
+        }
+      ],
+      "not_appearance": 1,
+      "sklinfos": [
+        {
+          "type": 2,
+          "motnm": "DQTCpsar/skl_WA00",
+          "effnm": "ef_DQTCpsar_WA00",
+          "collabo": 1,
+          "chant": "None"
+        },
+        {
+          "type": 10,
+          "motnm": "DQTCpsar/skl_SJ4",
+          "effnm": "ef_com_hit_00",
+          "chant": "None"
+        },
+        {
+          "type": 11,
+          "motnm": "DQTCpsar/skl_SJ10",
+          "effnm": "ef_LLN_M01",
+          "chant": "None"
+        },
+        {
+          "type": 12,
+          "motnm": "DQTCpsar/skl_VCA000",
+          "effnm": "ef_VCA_spe_000",
+          "chant": "None"
+        },
+        {
+          "type": 13,
+          "motnm": "DQTCpsar/skl_VCA001",
+          "effnm": "ef_DQTCpsar_VCA001",
+          "collabo": 1,
+          "chant": "None"
+        },
+        {
+          "type": 1,
+          "chant": "None"
+        },
+        {
+          "type": 2,
+          "chant": "None"
+        },
+        {
+          "type": 3,
+          "chant": "None"
+        },
+        {
+          "type": 4,
+          "chant": "None"
+        }
+      ]
+    },
+    {
+      "iname": "JB_DQTC_PSAR_M",
+      "mdl": "DQTCpsar",
+      "cc_icon": "DQTCpsar_EC",
+      "collaboType": 1,
+      "equips": [
+        2,
+        19,
+        21,
+        22
+      ],
+      "type": 1,
+      "role": 1,
+      "move": 3,
+      "jump": 2,
+      "lvtbl_main": "JBLV_DQTC_PSAR_EXM",
+      "lvtbl_sub": "JBLV_DQTC_PSAR_EXM",
+      "sub_rate": 50,
+      "ranks": [
+        {
+          "hp": 6450,
+          "mp": 804,
+          "ap": 2311,
+          "atk": 4263,
+          "mag": 812,
+          "dex": 3045,
+          "spd": 4200,
+          "luk": 4284,
+          "iniap": -82
+        },
+        {
+          "hp": 6675,
+          "mp": 806,
+          "ap": 2317,
+          "atk": 4294,
+          "mag": 818,
+          "dex": 3067,
+          "spd": 4200,
+          "luk": 4326,
+          "iniap": -82
+        },
+        {
+          "hp": 6900,
+          "mp": 808,
+          "ap": 2323,
+          "atk": 4326,
+          "mag": 824,
+          "dex": 3090,
+          "spd": 4200,
+          "luk": 4368,
+          "iniap": -82
+        },
+        {
+          "hp": 7800,
+          "mp": 816,
+          "ap": 2346,
+          "atk": 4452,
+          "mag": 848,
+          "dex": 3180,
+          "spd": 4200,
+          "luk": 4536,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_PSAR_5,5"
+        },
+        {
+          "hp": 8025,
+          "mp": 818,
+          "ap": 2351,
+          "atk": 4483,
+          "mag": 854,
+          "dex": 3202,
+          "spd": 4200,
+          "luk": 4578,
+          "iniap": -82
+        },
+        {
+          "hp": 8250,
+          "mp": 820,
+          "ap": 2357,
+          "atk": 4515,
+          "mag": 860,
+          "dex": 3225,
+          "spd": 4200,
+          "luk": 4620,
+          "iniap": -82
+        },
+        {
+          "hp": 9150,
+          "mp": 828,
+          "ap": 2380,
+          "atk": 4641,
+          "mag": 884,
+          "dex": 3315,
+          "spd": 4200,
+          "luk": 4788,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_PSAR_5,7"
+        },
+        {
+          "hp": 9375,
+          "mp": 830,
+          "ap": 2386,
+          "atk": 4672,
+          "mag": 890,
+          "dex": 3337,
+          "spd": 4200,
+          "luk": 4830,
+          "iniap": -82
+        },
+        {
+          "hp": 9600,
+          "mp": 832,
+          "ap": 2392,
+          "atk": 4704,
+          "mag": 896,
+          "dex": 3360,
+          "spd": 4200,
+          "luk": 4872,
+          "iniap": -82
+        },
+        {
+          "hp": 10500,
+          "mp": 840,
+          "ap": 2415,
+          "atk": 4830,
+          "mag": 920,
+          "dex": 3450,
+          "spd": 4200,
+          "luk": 5040,
+          "iniap": -82,
+          "eqid1": "IT_JB_MM_PSAR_5,10"
+        }
+      ],
+      "not_appearance": 1,
+      "sklinfos": [
+        {
+          "type": 2,
+          "motnm": "DQTCpsar/skl_WA00",
+          "effnm": "ef_DQTCpsar_WA00",
+          "collabo": 1,
+          "chant": "None"
+        },
+        {
+          "type": 10,
+          "motnm": "DQTCpsar/skl_SJ4",
+          "effnm": "ef_com_hit_00",
+          "chant": "None"
+        },
+        {
+          "type": 11,
+          "motnm": "DQTCpsar/skl_SJ10",
+          "effnm": "ef_LLN_M01",
+          "chant": "None"
+        },
+        {
+          "type": 12,
+          "motnm": "DQTCpsar/skl_VCA000",
+          "effnm": "ef_VCA_spe_000",
+          "chant": "None"
+        },
+        {
+          "type": 13,
+          "motnm": "DQTCpsar/skl_VCA001",
+          "effnm": "ef_DQTCpsar_VCA001",
+          "collabo": 1,
+          "chant": "None"
+        },
+        {
+          "type": 1,
+          "chant": "None"
+        },
+        {
+          "type": 2,
+          "chant": "None"
+        },
+        {
+          "type": 3,
+          "chant": "None"
+        },
+        {
+          "type": 4,
+          "chant": "None"
+        }
+      ]
+    },
+    {
       "iname": "JB_LW_DEAN_M",
       "mdl": "LAPSdean",
       "cc_icon": "LAPSdean_EC",

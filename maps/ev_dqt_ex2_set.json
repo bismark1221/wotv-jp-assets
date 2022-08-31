@@ -438,7 +438,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -555,7 +555,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -667,7 +667,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -779,7 +779,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -891,7 +891,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -998,7 +998,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1113,7 +1113,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1220,7 +1220,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1327,7 +1327,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "",
+      "drop": "QE_EV_DQT_EX",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1608,6 +1608,93 @@
             "secret": 0
           },
           "weight": 50
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "iname": "QE_EV_DQT_EX",
+      "num": 1,
+      "drop_list": [
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_DQTC_SWO_000",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 111
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_MYTHRIL",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 389
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_SAP_03",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 2667
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_FIRE_01",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 389
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_AW_SWORD",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 433
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_EXP_02",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 2333
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_EXP_03",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 2000
+        },
+        {
+          "drop_data": {
+            "type": -1,
+            "iname": "",
+            "num": 0,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 1678
         }
       ]
     }
