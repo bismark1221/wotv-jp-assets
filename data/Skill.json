@@ -3204,17 +3204,17 @@
       "motnm": "SWN/skl_M4",
       "effnm": "ef_com_hit_00",
       "cam_dir": 1,
-      "count": 2,
+      "count": 3,
       "cost_type": 0,
       "cost_ap": 29,
       "hp_cost_rate": 100,
-      "hp_cost": 25,
+      "hp_cost": 10,
       "range_s": 1,
       "range_l": 3,
       "range_h": 1,
       "eff_s": 0,
       "eff_l": 1,
-      "eff_h": 0,
+      "eff_h": 1,
       "type": 1,
       "timing": 0,
       "eff_type": 2,
@@ -3227,7 +3227,10 @@
       "def_wep": "AF_LW_BSW_INIT",
       "elem_pri": 1,
       "eff_val": 90,
-      "eff_val1": 125
+      "eff_val1": 125,
+      "t_buffs": [
+        "BUFF_LW_SWN_M_4"
+      ]
     },
     {
       "iname": "SK_LW_SWN_S_2",
@@ -3256,7 +3259,10 @@
       ],
       "eff_dst": 0,
       "eff_val": -80,
-      "eff_val1": -63
+      "eff_val1": -63,
+      "t_buffs": [
+        "BUFF_LW_SWN_S_2"
+      ]
     },
     {
       "iname": "SK_LW_SWN_S_2_ORDR",
@@ -3285,7 +3291,10 @@
       ],
       "eff_dst": 0,
       "eff_val": -80,
-      "eff_val1": -63
+      "eff_val1": -63,
+      "t_buffs": [
+        "BUFF_LW_SWN_S_2"
+      ]
     },
     {
       "iname": "SK_LW_SWN_S_3",
@@ -3315,7 +3324,8 @@
       "eff_val": 40,
       "eff_val1": 75,
       "t_buffs": [
-        "BUFF_LW_SWN_S_3_T"
+        "BUFF_LW_SWN_S_3_T",
+        "BUFF_LW_SWN_S_3_T_2"
       ]
     },
     {
@@ -3416,6 +3426,7 @@
       "timing": 0,
       "eff_type": 2,
       "target": 12,
+      "hit": 100,
       "atk_type": 1,
       "atk_base": 1,
       "atk_formula": 1,
@@ -3423,8 +3434,8 @@
       "atk_det": 1,
       "def_wep": "AF_LW_BSW_INIT",
       "elem_pri": 1,
-      "eff_val": -40,
-      "eff_val1": -14,
+      "eff_val": -5,
+      "eff_val1": 21,
       "t_buffs": [
         "BUFF_LW_SWN_S_1_T"
       ]
@@ -3439,9 +3450,9 @@
       "cam_dir": 1,
       "count": 2,
       "cost_type": 0,
-      "cost_ap": 38,
+      "cost_ap": 26,
       "hp_cost_rate": 100,
-      "hp_cost": 25,
+      "hp_cost": 10,
       "eff_s": 0,
       "eff_l": 1,
       "eff_h": 0,
@@ -3511,16 +3522,17 @@
       "motnm": "SWN/skl_M4",
       "effnm": "ef_com_hit_00",
       "cam_dir": 1,
-      "count": 2,
+      "count": 3,
       "cost_type": 0,
       "cost_ap": 29,
       "hp_cost_rate": 100,
-      "hp_cost": 25,
+      "hp_cost": 10,
       "range_s": 1,
       "range_l": 3,
       "range_h": 1,
       "eff_s": 0,
       "eff_l": 1,
+      "eff_h": 1,
       "type": 1,
       "timing": 0,
       "eff_type": 2,
@@ -3533,7 +3545,10 @@
       "def_wep": "AF_LW_BSW_INIT",
       "elem_pri": 1,
       "eff_val": 90,
-      "eff_val1": 125
+      "eff_val1": 125,
+      "t_buffs": [
+        "BUFF_LW_SWN_M_4"
+      ]
     },
     {
       "iname": "SK_LW_SWN_S_2_SUB",
@@ -3562,7 +3577,10 @@
       ],
       "eff_dst": 0,
       "eff_val": -80,
-      "eff_val1": -63
+      "eff_val1": -63,
+      "t_buffs": [
+        "BUFF_LW_SWN_S_2"
+      ]
     },
     {
       "iname": "SK_LW_SWN_S_3_SUB",
@@ -3592,7 +3610,8 @@
       "eff_val": 40,
       "eff_val1": 75,
       "t_buffs": [
-        "BUFF_LW_SWN_S_3_T"
+        "BUFF_LW_SWN_S_3_T",
+        "BUFF_LW_SWN_S_3_T_2"
       ]
     },
     {
@@ -10944,10 +10963,13 @@
       "range_s": 1,
       "range_l": 3,
       "range_h": 2,
+      "eff_s": 0,
+      "eff_l": 1,
+      "eff_h": 1,
       "selfsel": 1,
       "type": 1,
       "timing": 0,
-      "eff_type": 12,
+      "eff_type": 4,
       "target": 12,
       "atk_type": 2,
       "atk_det": 0,
@@ -10960,8 +10982,18 @@
       "ct_spd": 160,
       "ct_spd1": 360,
       "t_buffs": [
-        "BUFF_LW_CLR_M_3_T"
-      ]
+        "BUFF_LW_CLR_M_3_T",
+        "BUFF_LW_CLR_M_3_T_2"
+      ],
+      "barrier": {
+        "type": 3,
+        "mot": "cmn_guard",
+        "eff": "ef_com_guard_02",
+        "val": 1,
+        "tar": 1,
+        "scut": 30,
+        "ecut": 50
+      }
     },
     {
       "iname": "SK_LW_CLR_M_4",
@@ -10976,10 +11008,10 @@
       "cost_type": 1,
       "cost_mp": 26,
       "range_s": 1,
-      "range_l": 3,
+      "range_l": 5,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "selfsel": 1,
       "type": 1,
@@ -11035,6 +11067,9 @@
       "ct_spd1": 360,
       "t_buffs": [
         "BUFF_LW_CLR_S_2_T"
+      ],
+      "s_buffs": [
+        "BUFF_LW_CLR_S_2_T_2"
       ]
     },
     {
@@ -11081,7 +11116,6 @@
       "lvup_cost_rate": 100,
       "motnm": "WHM/skl_care_00",
       "effnm": "ef_mag_w_care_00",
-      "ischa": 1,
       "count": 8,
       "cost_type": 1,
       "cost_mp": 12,
@@ -11264,10 +11298,13 @@
       "range_s": 1,
       "range_l": 3,
       "range_h": 2,
+      "eff_s": 0,
+      "eff_l": 1,
+      "eff_h": 1,
       "selfsel": 1,
       "type": 1,
       "timing": 0,
-      "eff_type": 12,
+      "eff_type": 4,
       "target": 12,
       "atk_type": 2,
       "atk_det": 0,
@@ -11280,8 +11317,18 @@
       "ct_spd": 160,
       "ct_spd1": 360,
       "t_buffs": [
-        "BUFF_LW_CLR_M_3_T"
-      ]
+        "BUFF_LW_CLR_M_3_T",
+        "BUFF_LW_CLR_M_3_T_2"
+      ],
+      "barrier": {
+        "type": 3,
+        "mot": "cmn_guard",
+        "eff": "ef_com_guard_02",
+        "val": 1,
+        "tar": 1,
+        "scut": 30,
+        "ecut": 50
+      }
     },
     {
       "iname": "SK_LW_CLR_M_4_SUB",
@@ -11296,10 +11343,10 @@
       "cost_type": 1,
       "cost_mp": 26,
       "range_s": 1,
-      "range_l": 3,
+      "range_l": 5,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "selfsel": 1,
       "type": 1,
@@ -11355,6 +11402,9 @@
       "ct_spd1": 360,
       "t_buffs": [
         "BUFF_LW_CLR_S_2_T"
+      ],
+      "s_buffs": [
+        "BUFF_LW_CLR_S_2_T_2"
       ]
     },
     {
@@ -11401,7 +11451,6 @@
       "lvup_cost_rate": 100,
       "motnm": "WHM/skl_care_00",
       "effnm": "ef_mag_w_care_00",
-      "ischa": 1,
       "count": 8,
       "cost_type": 1,
       "cost_mp": 12,
@@ -33672,7 +33721,7 @@
       "cost_type": 0,
       "cost_ap": 22,
       "range_s": 1,
-      "range_l": 2,
+      "range_l": 3,
       "range_h": 1,
       "type": 1,
       "timing": 0,
@@ -33711,7 +33760,7 @@
       "cost_type": 0,
       "cost_ap": 28,
       "range_s": 1,
-      "range_l": 3,
+      "range_l": 4,
       "range_h": 1,
       "eff_s": 0,
       "eff_l": 1,
@@ -33728,9 +33777,12 @@
       "def_wep": "AF_LW_BSW_INIT",
       "elem_pri": 1,
       "eff_val": 35,
+      "ira_val": 50,
       "eff_val1": 65,
+      "ira_val1": 100,
       "t_buffs": [
-        "BUFF_LW_MSW_M_2"
+        "BUFF_LW_MSW_M_2",
+        "BUFF_LW_MSW_M_2_2"
       ]
     },
     {
@@ -33741,7 +33793,7 @@
       "motnm": "MSW/skl_M3",
       "effnm": "ef_MSW_M03",
       "cam_dir": 1,
-      "count": 2,
+      "count": 3,
       "cost_type": 1,
       "cost_mp": 30,
       "eff_s": 0,
@@ -33755,7 +33807,8 @@
       "atk_type": 1,
       "def_wep": "AF_LW_BSW_INIT",
       "t_buffs": [
-        "BUFF_LW_MSW_M_3_T"
+        "BUFF_LW_MSW_M_3_T",
+        "BUFF_LW_MSW_M_3_T_2"
       ],
       "s_buffs": [
         "BUFF_LW_MSW_M_3_S"
@@ -33803,7 +33856,7 @@
       "cost_mp": 36,
       "eff_s": 0,
       "eff_l": 1,
-      "eff_h": 0,
+      "eff_h": 1,
       "selfsel": 1,
       "type": 1,
       "timing": 0,
@@ -33922,7 +33975,7 @@
       "cost_type": 0,
       "cost_ap": 22,
       "range_s": 1,
-      "range_l": 2,
+      "range_l": 3,
       "range_h": 1,
       "type": 1,
       "timing": 0,
@@ -33961,7 +34014,7 @@
       "cost_type": 0,
       "cost_ap": 28,
       "range_s": 1,
-      "range_l": 3,
+      "range_l": 4,
       "range_h": 1,
       "eff_s": 0,
       "eff_l": 1,
@@ -33978,9 +34031,12 @@
       "def_wep": "AF_LW_BSW_INIT",
       "elem_pri": 1,
       "eff_val": 35,
+      "ira_val": 50,
       "eff_val1": 65,
+      "ira_val1": 100,
       "t_buffs": [
-        "BUFF_LW_MSW_M_2"
+        "BUFF_LW_MSW_M_2",
+        "BUFF_LW_MSW_M_2_2"
       ]
     },
     {
@@ -33991,7 +34047,7 @@
       "motnm": "MSW/skl_M3",
       "effnm": "ef_MSW_M03",
       "cam_dir": 1,
-      "count": 2,
+      "count": 3,
       "cost_type": 1,
       "cost_mp": 30,
       "eff_s": 0,
@@ -34005,7 +34061,8 @@
       "atk_type": 1,
       "def_wep": "AF_LW_BSW_INIT",
       "t_buffs": [
-        "BUFF_LW_MSW_M_3_T"
+        "BUFF_LW_MSW_M_3_T",
+        "BUFF_LW_MSW_M_3_T_2"
       ],
       "s_buffs": [
         "BUFF_LW_MSW_M_3_S"
@@ -34053,7 +34110,7 @@
       "cost_mp": 36,
       "eff_s": 0,
       "eff_l": 1,
-      "eff_h": 0,
+      "eff_h": 1,
       "selfsel": 1,
       "type": 1,
       "timing": 0,
@@ -41939,7 +41996,7 @@
       "count": 3,
       "cost_type": 0,
       "cost_ap": 25,
-      "range_s": 0,
+      "range_s": 1,
       "range_l": 3,
       "range_h": 1,
       "eff_s": 0,
@@ -41962,7 +42019,8 @@
       "eff_val1": 70,
       "ira_val1": 100,
       "t_buffs": [
-        "BUFF_LW_MSM_M_1"
+        "BUFF_LW_MSM_M_1",
+        "BUFF_LW_MSM_M_1_2"
       ]
     },
     {
@@ -41977,7 +42035,7 @@
       "cost_type": 0,
       "cost_ap": 24,
       "range_s": 1,
-      "range_l": 2,
+      "range_l": 4,
       "range_h": 1,
       "type": 1,
       "timing": 0,
@@ -41994,7 +42052,8 @@
       "eff_val1": 100,
       "s_buffs": [
         "BUFF_LW_MSM_M_2"
-      ]
+      ],
+      "bbrk": 3
     },
     {
       "iname": "SK_LW_MSM_M_3",
@@ -42014,12 +42073,15 @@
       "target": 0,
       "atk_type": 2,
       "def_wep": "AF_LW_KAT_INIT",
+      "t_buffs": [
+        "BUFF_LW_MSM_M_3"
+      ],
       "barrier": {
         "type": 2,
         "mot": "cmn_guard",
         "eff": "ef_com_guard_00",
-        "slife": 1500,
-        "elife": 3500,
+        "slife": 3500,
+        "elife": 7500,
         "tar": 3
       }
     },
@@ -42266,7 +42328,7 @@
       "count": 3,
       "cost_type": 0,
       "cost_ap": 25,
-      "range_s": 0,
+      "range_s": 1,
       "range_l": 3,
       "range_h": 1,
       "eff_s": 0,
@@ -42289,7 +42351,8 @@
       "eff_val1": 70,
       "ira_val1": 100,
       "t_buffs": [
-        "BUFF_LW_MSM_M_1"
+        "BUFF_LW_MSM_M_1",
+        "BUFF_LW_MSM_M_1_2"
       ]
     },
     {
@@ -42304,7 +42367,7 @@
       "cost_type": 0,
       "cost_ap": 24,
       "range_s": 1,
-      "range_l": 2,
+      "range_l": 4,
       "range_h": 1,
       "type": 1,
       "timing": 0,
@@ -42321,7 +42384,8 @@
       "eff_val1": 100,
       "s_buffs": [
         "BUFF_LW_MSM_M_2"
-      ]
+      ],
+      "bbrk": 3
     },
     {
       "iname": "SK_LW_MSM_M_3_SUB",
@@ -42341,12 +42405,15 @@
       "target": 0,
       "atk_type": 2,
       "def_wep": "AF_LW_KAT_INIT",
+      "t_buffs": [
+        "BUFF_LW_MSM_M_3"
+      ],
       "barrier": {
         "type": 2,
         "mot": "cmn_guard",
         "eff": "ef_com_guard_00",
-        "slife": 1500,
-        "elife": 3500,
+        "slife": 3500,
+        "elife": 7500,
         "tar": 3
       }
     },
@@ -59240,6 +59307,47 @@
         "BUFF_DQTC_EC_SLIM_C_02B"
       ],
       "dupli": 1
+    },
+    {
+      "iname": "SK_DQTC_EC_SLIM_C_03",
+      "slot": 9,
+      "cap": 1,
+      "lvup_cost_rate": 100,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "replace": [
+        {
+          "skill_base": "SK_DQTC_SLIM_S_3",
+          "skill_after": "SK_DQTC_EC_SLIM_C_03B"
+        }
+      ]
+    },
+    {
+      "iname": "SK_DQTC_EC_SLIM_C_03B",
+      "slot": 1,
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "DQTCslim/skl_S5",
+      "effnm": "ef_DQTCslim_S05",
+      "collaboType": 1,
+      "count": 3,
+      "cost_type": 1,
+      "cost_mp": 25,
+      "eff_s": 1,
+      "eff_l": 2,
+      "eff_h": 1,
+      "selfsel": 1,
+      "type": 1,
+      "timing": 0,
+      "eff_type": 4,
+      "target": 10,
+      "atk_type": 2,
+      "def_wep": "AF_LW_GLO_INIT",
+      "t_buffs": [
+        "BUFF_DQTC_SLIM_S_3"
+      ]
     },
     {
       "iname": "SK_DQTC_ZOMA_ATK",
@@ -90045,9 +90153,9 @@
       "cost_type": 0,
       "cost_ap": 22,
       "hp_cost_rate": 100,
-      "hp_cost": 25,
+      "hp_cost": 10,
       "range_s": 1,
-      "range_l": 3,
+      "range_l": 4,
       "range_h": 1,
       "type": 1,
       "timing": 0,
@@ -90063,8 +90171,10 @@
       "eff_val": 65,
       "eff_val1": 100,
       "t_buffs": [
-        "BUFF_LW_EC_SWN_A_01"
-      ]
+        "BUFF_LW_EC_SWN_A_01",
+        "BUFF_LW_EC_SWN_A_01_2"
+      ],
+      "bbrk": 2
     },
     {
       "iname": "SK_LW_EC_SWN_C_01",
@@ -90090,17 +90200,17 @@
       "motnm": "SWN/skl_M4",
       "effnm": "ef_com_hit_00",
       "cam_dir": 1,
-      "count": 2,
+      "count": 3,
       "cost_type": 0,
       "cost_ap": 29,
       "hp_cost_rate": 100,
-      "hp_cost": 25,
+      "hp_cost": 10,
       "range_s": 1,
       "range_l": 3,
       "range_h": 1,
       "eff_s": 0,
       "eff_l": 1,
-      "eff_h": 0,
+      "eff_h": 1,
       "type": 1,
       "timing": 0,
       "eff_type": 2,
@@ -90113,7 +90223,10 @@
       "def_wep": "AF_LW_BSW_INIT",
       "elem_pri": 1,
       "eff_val": 115,
-      "eff_val1": 165
+      "eff_val1": 165,
+      "t_buffs": [
+        "BUFF_LW_SWN_M_4"
+      ]
     },
     {
       "iname": "SK_LW_EC_SWN_C_02",
@@ -90166,7 +90279,7 @@
       "motnm": "SWN/skl_M4",
       "effnm": "ef_com_hit_00",
       "cam_dir": 1,
-      "count": 2,
+      "count": 3,
       "cost_type": 0,
       "cost_ap": 20,
       "range_s": 1,
@@ -90183,10 +90296,11 @@
       "atk_det": 1,
       "def_wep": "AF_LW_BSW_INIT",
       "elem_pri": 1,
-      "eff_val": 5,
-      "eff_val1": 31,
+      "eff_val": 30,
+      "eff_val1": 65,
       "t_buffs": [
-        "BUFF_LW_EC_SWN_A_02_T"
+        "BUFF_LW_EC_SWN_A_02_T",
+        "BUFF_LW_EC_SWN_A_02_T_2"
       ],
       "s_buffs": [
         "BUFF_LW_EC_SWN_A_02_S"
@@ -90273,17 +90387,17 @@
       "motnm": "SWN/skl_M4",
       "effnm": "ef_com_hit_00",
       "cam_dir": 1,
-      "count": 2,
+      "count": 3,
       "cost_type": 0,
       "cost_ap": 28,
       "hp_cost_rate": 100,
-      "hp_cost": 15,
+      "hp_cost": 5,
       "range_s": 1,
       "range_l": 3,
       "range_h": 1,
       "eff_s": 0,
       "eff_l": 1,
-      "eff_h": 0,
+      "eff_h": 1,
       "type": 1,
       "timing": 0,
       "eff_type": 2,
@@ -90299,6 +90413,9 @@
       "eff_val1": 80,
       "t_buffs": [
         "BUFF_LW_EC_SWN_A_03"
+      ],
+      "s_buffs": [
+        "BUFF_LW_EC_SWN_A_03_S"
       ]
     },
     {
@@ -90345,7 +90462,8 @@
       "eff_val": 75,
       "eff_val1": 110,
       "t_buffs": [
-        "BUFF_LW_EC_SWN_C_05B"
+        "BUFF_LW_EC_SWN_C_05B",
+        "BUFF_LW_SWN_S_3_T_2"
       ]
     },
     {
@@ -97509,8 +97627,8 @@
       "elem": [
         7
       ],
-      "eff_val": 30,
-      "eff_val1": 65,
+      "eff_val": 65,
+      "eff_val1": 100,
       "s_buffs": [
         "BUFF_LW_EC_CLR_A_01_1",
         "BUFF_LW_EC_CLR_A_01_2"
@@ -97546,8 +97664,8 @@
       "range_s": 1,
       "range_l": 3,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "selfsel": 1,
       "type": 1,
@@ -97563,11 +97681,21 @@
       "t_buffs": [
         "BUFF_LW_EC_CLR_C_01B_1",
         "BUFF_LW_EC_CLR_C_01B_1_2",
-        "BUFF_LW_EC_CLR_C_01B_2"
+        "BUFF_LW_EC_CLR_C_01B_2",
+        "BUFF_LW_CLR_M_3_T_2"
       ],
       "s_buffs": [
         "BUFF_LW_EC_CLR_C_01B_S"
-      ]
+      ],
+      "barrier": {
+        "type": 3,
+        "mot": "cmn_guard",
+        "eff": "ef_com_guard_02",
+        "val": 1,
+        "tar": 1,
+        "scut": 30,
+        "ecut": 50
+      }
     },
     {
       "iname": "SK_LW_EC_CLR_C_02",
@@ -97686,6 +97814,9 @@
       "t_buffs": [
         "BUFF_LW_EC_CLR_C_03B_1",
         "BUFF_LW_EC_CLR_C_03B_2"
+      ],
+      "s_buffs": [
+        "BUFF_LW_CLR_S_2_T_2"
       ]
     },
     {
@@ -99657,18 +99788,21 @@
       "selfsel": 1,
       "type": 1,
       "timing": 0,
-      "eff_type": 1,
+      "eff_type": 4,
       "target": 0,
       "atk_type": 1,
       "def_wep": "AF_LW_BSW_INIT",
+      "t_buffs": [
+        "BUFF_LW_EC_MSW_A_01"
+      ],
       "barrier": {
         "type": 3,
         "mot": "cmn_guard",
         "eff": "ef_com_guard_00",
         "val": 3,
         "tar": 2,
-        "scut": 30,
-        "ecut": 50
+        "scut": 35,
+        "ecut": 70
       }
     },
     {
@@ -99699,7 +99833,7 @@
       "cost_type": 0,
       "cost_ap": 22,
       "range_s": 1,
-      "range_l": 3,
+      "range_l": 4,
       "range_h": 1,
       "type": 1,
       "timing": 0,
@@ -99784,7 +99918,8 @@
       "eff_val1": 65,
       "t_buffs": [
         "BUFF_LW_EC_MSW_A_02_1",
-        "BUFF_LW_EC_MSW_A_02_2"
+        "BUFF_LW_EC_MSW_A_02_2",
+        "BUFF_LW_EC_MSW_A_02_3"
       ]
     },
     {
@@ -99811,7 +99946,7 @@
       "motnm": "MSW/skl_M3",
       "effnm": "ef_MSW_M03",
       "cam_dir": 1,
-      "count": 2,
+      "count": 3,
       "cost_type": 1,
       "cost_mp": 30,
       "eff_s": 0,
@@ -99825,7 +99960,8 @@
       "atk_type": 1,
       "def_wep": "AF_LW_BSW_INIT",
       "t_buffs": [
-        "BUFF_LW_EC_MSW_C_03B_T"
+        "BUFF_LW_EC_MSW_C_03B_T",
+        "BUFF_LW_MSW_M_3_T_2"
       ],
       "s_buffs": [
         "BUFF_LW_EC_MSW_C_03B_S_1",
@@ -100265,7 +100401,7 @@
       "cost_type": 0,
       "cost_ap": 28,
       "range_s": 0,
-      "range_l": 2,
+      "range_l": 4,
       "range_h": 1,
       "eff_s": 3,
       "eff_l": 1,
@@ -100281,8 +100417,11 @@
       "atk_det": 1,
       "def_wep": "AF_LW_KAT_INIT",
       "elem_pri": 1,
-      "eff_val": 30,
-      "eff_val1": 65,
+      "eff_val": 65,
+      "eff_val1": 100,
+      "t_buffs": [
+        "BUFF_LW_MSM_EN_A_01"
+      ],
       "strength": [
         {
           "type": 99,
@@ -100328,14 +100467,15 @@
       "atk_type": 2,
       "def_wep": "AF_LW_KAT_INIT",
       "t_buffs": [
-        "BUFF_LW_EC_MSM_C_01B"
+        "BUFF_LW_EC_MSM_C_01B",
+        "BUFF_LW_MSM_M_3"
       ],
       "barrier": {
         "type": 2,
         "mot": "cmn_guard",
         "eff": "ef_com_guard_00",
-        "slife": 1500,
-        "elife": 3500,
+        "slife": 3500,
+        "elife": 7500,
         "tar": 3
       }
     },
@@ -100410,6 +100550,9 @@
       "elem_pri": 1,
       "eff_val": 30,
       "eff_val1": 65,
+      "t_buffs": [
+        "BUFF_LW_MSM_EN_A_02_T"
+      ],
       "s_buffs": [
         "BUFF_LW_MSM_EN_A_02"
       ],
@@ -100444,7 +100587,7 @@
       "cost_type": 0,
       "cost_ap": 24,
       "range_s": 1,
-      "range_l": 2,
+      "range_l": 4,
       "range_h": 1,
       "type": 1,
       "timing": 0,
@@ -100464,7 +100607,8 @@
       ],
       "s_buffs": [
         "BUFF_LW_EC_MSM_C_03B_S"
-      ]
+      ],
+      "bbrk": 3
     },
     {
       "iname": "SK_LW_EC_MSM_C_04",
@@ -104194,6 +104338,21 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_LILS_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_LILS_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_LILS_2_S"
+      ]
+    },
+    {
       "iname": "SK_MA_LW_RAMD",
       "slot": 7,
       "cap": 1,
@@ -105922,6 +106081,21 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_LATH_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_LATH_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_LATH_2_S"
+      ]
+    },
+    {
       "iname": "SK_MA_LW_TITU",
       "slot": 7,
       "cap": 1,
@@ -106767,6 +106941,21 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_VLRC_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_VLRC"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_VLRC_2_S"
+      ]
+    },
+    {
       "iname": "SK_MA_LW_LMRE",
       "slot": 7,
       "cap": 1,
@@ -106779,6 +106968,33 @@
       ],
       "s_buffs": [
         "BUFF_MA_LW_LMRE_S"
+      ]
+    },
+    {
+      "iname": "SK_MA_LW_LMRE_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_LMRE"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_LMRE_2_S_1",
+        "BUFF_MA_LW_LMRE_2_S_2"
+      ],
+      "strength": [
+        {
+          "type": 100,
+          "formula": 5,
+          "dst": 21,
+          "calc": 0,
+          "val1": 1,
+          "rate1": 100,
+          "exc": "SKE_MA_LW_LMRE_2"
+        }
       ]
     },
     {
@@ -114217,6 +114433,71 @@
       ]
     },
     {
+      "iname": "SK_DQTC_ACC_002_1",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_DQTC_ACC_002_1"
+      ]
+    },
+    {
+      "iname": "SK_DQTC_ACC_002_2",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_DQTC_ACC_002_2"
+      ]
+    },
+    {
+      "iname": "SK_DQTC_ACC_002_3",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_DQTC_ACC_002_3"
+      ]
+    },
+    {
+      "iname": "SK_DQTC_ACC_002_4",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_DQTC_ACC_002_4"
+      ]
+    },
+    {
+      "iname": "SK_DQTC_ACC_002_5",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_DQTC_ACC_002_5"
+      ]
+    },
+    {
       "iname": "SK_LW_PLUS6_1_1",
       "cap": 50,
       "grow": "ARTIFACT_50",
@@ -114695,6 +114976,19 @@
       "target": 0,
       "s_buffs": [
         "BUFF_LW_PLUS6_ATKCHNT_200"
+      ]
+    },
+    {
+      "iname": "SK_LW_PLUS6_MDF_10",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_PLUS6_MDF_10"
       ]
     },
     {
@@ -118878,6 +119172,19 @@
       "target": 0,
       "s_buffs": [
         "BUFF_LW_ARW_001_5"
+      ]
+    },
+    {
+      "iname": "SK_LW_ARW_001_6",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ARW_001_6"
       ]
     },
     {
@@ -123705,6 +124012,86 @@
         "BUFF_VC_DQTC_MV1_GSMAX"
       ],
       "gdupli": "SK_VC_DQTC_MV1_GS"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_GS",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV2_GS"
+      ]
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_GS_AW",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV2_GS_AW"
+      ],
+      "gdupli": "SK_VC_DQTC_MV2_GS"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_GSMAX",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV2_GSMAX"
+      ],
+      "gdupli": "SK_VC_DQTC_MV2_GS"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_GS",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV3_GS"
+      ]
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_GS_AW",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV3_GS_AW"
+      ],
+      "gdupli": "SK_VC_DQTC_MV3_GS"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_GSMAX",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV3_GSMAX"
+      ],
+      "gdupli": "SK_VC_DQTC_MV3_GS"
     },
     {
       "iname": "SK_VC_LW_IGNT_GS",
@@ -128788,6 +129175,86 @@
         "BUFF_VC_DQTC_MV1_GSMAX_2"
       ],
       "gdupli": "SK_VC_DQTC_MV1_GS_2"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_GS_2",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV2_GS_2"
+      ]
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_GS_AW_2",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV2_GS_AW_2"
+      ],
+      "gdupli": "SK_VC_DQTC_MV2_GS_2"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_GSMAX_2",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV2_GSMAX_2"
+      ],
+      "gdupli": "SK_VC_DQTC_MV2_GS_2"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_GS_2",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV3_GS_2"
+      ]
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_GS_AW_2",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV3_GS_AW_2"
+      ],
+      "gdupli": "SK_VC_DQTC_MV3_GS_2"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_GSMAX_2",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_DQTC_MV3_GSMAX_2"
+      ],
+      "gdupli": "SK_VC_DQTC_MV3_GS_2"
     },
     {
       "iname": "SK_VC_LW_IGNT_GS_2",
@@ -135960,6 +136427,86 @@
         "BUFF_VC_DQTC_MV1_PMAX"
       ],
       "gdupli": "SK_VC_DQTC_MV1_P"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_P",
+      "slot": 3,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_DQTC_MV2_P"
+      ]
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_PAW",
+      "slot": 3,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_DQTC_MV2_PAW"
+      ],
+      "gdupli": "SK_VC_DQTC_MV2_P"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV2_PMAX",
+      "slot": 3,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_DQTC_MV2_PMAX"
+      ],
+      "gdupli": "SK_VC_DQTC_MV2_P"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_P",
+      "slot": 3,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_DQTC_MV3_P"
+      ]
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_PAW",
+      "slot": 3,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_DQTC_MV3_PAW"
+      ],
+      "gdupli": "SK_VC_DQTC_MV3_P"
+    },
+    {
+      "iname": "SK_VC_DQTC_MV3_PMAX",
+      "slot": 3,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_DQTC_MV3_PMAX"
+      ],
+      "gdupli": "SK_VC_DQTC_MV3_P"
     },
     {
       "iname": "SK_VC_LW_IGNT_P",

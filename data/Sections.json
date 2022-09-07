@@ -478,6 +478,12 @@
       "back_unit": "UN_LW_ST_021101"
     },
     {
+      "iname": "SE_ST_021201",
+      "chap": "CH_ST_0212",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_P_GLMS"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -1197,6 +1203,13 @@
       "hurl": "ev_vc_zzan_01",
       "open_cond": [
         "COND_VC_LW_ZZAN2"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_DQT_01",
+      "hurl": "ev_vc_dqt_01",
+      "open_cond": [
+        "COND_VC_LW_DQT"
       ]
     },
     {
