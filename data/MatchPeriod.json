@@ -374,6 +374,20 @@
         }
       ],
       "start_at": "2022/08/17 10:30:00",
+      "end_at": "2022/09/14 10:29:59",
+      "participation_reward_id": "MT_MP_RW_0001",
+      "match_result_reward_id": "MT_MR_RW_0001"
+    },
+    {
+      "iname": "MT_FRE_0027",
+      "duel_type": 2,
+      "quest_info_list": [
+        {
+          "quest_id": "QE_PVP_FRE_0027",
+          "thumbnail": "MapIcon_0023"
+        }
+      ],
+      "start_at": "2022/09/14 10:30:00",
       "end_at": "2030/01/01",
       "participation_reward_id": "MT_MP_RW_0001",
       "match_result_reward_id": "MT_MR_RW_0001"
@@ -383,8 +397,12 @@
       "duel_type": 3,
       "quest_info_list": [
         {
-          "quest_id": "QE_PVP_FRI_0083",
-          "thumbnail": "MapIcon_0053"
+          "quest_id": "QE_PVP_FRI_0090",
+          "thumbnail": "MapIcon_0023"
+        },
+        {
+          "quest_id": "QE_PVP_FRI_0089",
+          "thumbnail": "MapIcon_0069"
         },
         {
           "quest_id": "QE_PVP_FRI_0086",
