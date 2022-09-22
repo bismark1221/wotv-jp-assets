@@ -19238,9 +19238,9 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 15,
+      "priority": 16,
       "start_at": "2022/09/14 10:30:00",
-      "end_at": "2022/09/30 23:59:59"
+      "end_at": "2022/09/22 10:59:59"
     },
     {
       "id": 1377,
@@ -19266,7 +19266,7 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 16,
+      "priority": 17,
       "start_at": "2022/09/14 10:30:00",
       "end_at": "2122/04/15 23:59:59"
     },
@@ -19437,6 +19437,62 @@
       "priority": 2,
       "start_at": "2022/09/22 5:00:00",
       "end_at": "2022/09/22 14:59:59"
+    },
+    {
+      "id": 1391,
+      "iname": "GachaBanner_1092",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1092",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 1,
+      "start_at": "2022/09/22 15:00:00",
+      "end_at": "2022/10/01 4:59:59"
+    },
+    {
+      "id": 1392,
+      "iname": "GachaBanner_1080",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1080",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 2,
+      "start_at": "2022/09/22 15:00:00",
+      "end_at": "2022/10/07 14:59:59"
+    },
+    {
+      "id": 1393,
+      "iname": "LAPS_SHOP_LIMITED_0443",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0443",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 16,
+      "start_at": "2022/09/22 15:00:00",
+      "end_at": "2022/09/30 23:59:59"
+    },
+    {
+      "id": 1394,
+      "iname": "ev_rank_02",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_rank_02",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 15,
+      "start_at": "2022/09/22 15:00:00",
+      "end_at": "2022/10/07 14:59:59"
     }
   ]
 }

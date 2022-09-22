@@ -1554,7 +1554,10 @@
         1
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_WATR_M_4",
@@ -1592,7 +1595,10 @@
         6
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_ICE_M_4",
@@ -1630,7 +1636,10 @@
         2
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_SOIL_M_4",
@@ -1668,7 +1677,10 @@
         4
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_THUN_M_4",
@@ -1706,7 +1718,10 @@
         5
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_WIND_M_4",
@@ -1744,7 +1759,10 @@
         3
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_SHIN_M_4",
@@ -1782,7 +1800,10 @@
         7
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_DARK_M_4",
@@ -1820,7 +1841,10 @@
         8
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_M_2",
@@ -1918,8 +1942,8 @@
         "eff": "ef_com_guard_02",
         "val": 3,
         "tar": 3,
-        "scut": 30,
-        "ecut": 50
+        "scut": 35,
+        "ecut": 70
       }
     },
     {
@@ -2256,7 +2280,7 @@
       "cost_mp": 35,
       "eff_s": 0,
       "eff_l": 1,
-      "eff_h": 0,
+      "eff_h": 1,
       "selfsel": 1,
       "type": 1,
       "timing": 0,
@@ -2484,7 +2508,10 @@
         1
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_WATR_M_4_SUB",
@@ -2522,7 +2549,10 @@
         6
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_ICE_M_4_SUB",
@@ -2560,7 +2590,10 @@
         2
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_SOIL_M_4_SUB",
@@ -2598,7 +2631,10 @@
         4
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_THUN_M_4_SUB",
@@ -2636,7 +2672,10 @@
         5
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_WIND_M_4_SUB",
@@ -2674,7 +2713,10 @@
         3
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_SHIN_M_4_SUB",
@@ -2712,7 +2754,10 @@
         7
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_DARK_M_4_SUB",
@@ -2750,7 +2795,10 @@
         8
       ],
       "eff_val": 70,
-      "eff_val1": 105
+      "eff_val1": 105,
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
+      ]
     },
     {
       "iname": "SK_LW_MGK_M_2_SUB",
@@ -2848,8 +2896,8 @@
         "eff": "ef_com_guard_02",
         "val": 3,
         "tar": 3,
-        "scut": 30,
-        "ecut": 50
+        "scut": 35,
+        "ecut": 70
       }
     },
     {
@@ -5380,7 +5428,7 @@
       "timing": 0,
       "eff_type": 2,
       "target": 12,
-      "crt_hit": 20,
+      "crt_hit": 50,
       "atk_type": 1,
       "atk_base": 1,
       "atk_formula": 0,
@@ -5422,10 +5470,11 @@
       "atk_det": 1,
       "def_wep": "AF_LW_NKN_INIT",
       "elem_pri": 1,
-      "eff_val": 5,
-      "eff_val1": 31,
+      "eff_val": 40,
+      "eff_val1": 75,
       "t_buffs": [
-        "BUFF_LW_NIN_S_3_T"
+        "BUFF_LW_NIN_S_3_T",
+        "BUFF_LW_NIN_S_3_T_2"
       ]
     },
     {
@@ -5893,7 +5942,7 @@
       "timing": 0,
       "eff_type": 2,
       "target": 12,
-      "crt_hit": 20,
+      "crt_hit": 50,
       "atk_type": 1,
       "atk_base": 1,
       "atk_formula": 0,
@@ -5935,10 +5984,11 @@
       "atk_det": 1,
       "def_wep": "AF_LW_NKN_INIT",
       "elem_pri": 1,
-      "eff_val": 5,
-      "eff_val1": 31,
+      "eff_val": 40,
+      "eff_val1": 75,
       "t_buffs": [
-        "BUFF_LW_NIN_S_3_T"
+        "BUFF_LW_NIN_S_3_T",
+        "BUFF_LW_NIN_S_3_T_2"
       ]
     },
     {
@@ -6060,7 +6110,7 @@
       "cam_dir": 1,
       "count": 3,
       "cost_type": 0,
-      "cost_ap": 33,
+      "cost_ap": 26,
       "line": 1,
       "range_s": 0,
       "range_l": 3,
@@ -6070,6 +6120,7 @@
       "timing": 0,
       "eff_type": 2,
       "target": 12,
+      "hit": 100,
       "atk_type": 1,
       "atk_base": 1,
       "atk_formula": 0,
@@ -6114,7 +6165,10 @@
       "def_wep": "AF_LW_SPE_INIT",
       "elem_pri": 1,
       "eff_val": 35,
-      "eff_val1": 70
+      "eff_val1": 70,
+      "t_buffs": [
+        "BUFF_LW_LAN_S_4_T"
+      ]
     },
     {
       "iname": "SK_LW_LAN_S_3",
@@ -6149,6 +6203,9 @@
       "eff_val1": -9,
       "t_buffs": [
         "BUFF_LW_LAN_S_3_T"
+      ],
+      "s_buffs": [
+        "BUFF_LW_LAN_S_3_S"
       ]
     },
     {
@@ -6162,9 +6219,9 @@
       "cost_type": 0,
       "cost_ap": 17,
       "line": 2,
-      "range_s": 0,
+      "range_s": 1,
       "range_l": 4,
-      "range_h": 1,
+      "range_h": 5,
       "range_bns": 3,
       "range_mh": 5,
       "type": 1,
@@ -6382,7 +6439,7 @@
       "cam_dir": 1,
       "count": 3,
       "cost_type": 0,
-      "cost_ap": 33,
+      "cost_ap": 26,
       "line": 1,
       "range_s": 0,
       "range_l": 3,
@@ -6392,6 +6449,7 @@
       "timing": 0,
       "eff_type": 2,
       "target": 12,
+      "hit": 100,
       "atk_type": 1,
       "atk_base": 1,
       "atk_formula": 0,
@@ -6436,7 +6494,10 @@
       "def_wep": "AF_LW_SPE_INIT",
       "elem_pri": 1,
       "eff_val": 35,
-      "eff_val1": 70
+      "eff_val1": 70,
+      "t_buffs": [
+        "BUFF_LW_LAN_S_4_T"
+      ]
     },
     {
       "iname": "SK_LW_LAN_S_3_SUB",
@@ -6471,6 +6532,9 @@
       "eff_val1": -9,
       "t_buffs": [
         "BUFF_LW_LAN_S_3_T"
+      ],
+      "s_buffs": [
+        "BUFF_LW_LAN_S_3_S"
       ]
     },
     {
@@ -6484,9 +6548,9 @@
       "cost_type": 0,
       "cost_ap": 17,
       "line": 2,
-      "range_s": 0,
+      "range_s": 1,
       "range_l": 4,
-      "range_h": 1,
+      "range_h": 5,
       "range_bns": 3,
       "range_mh": 5,
       "type": 1,
@@ -8313,7 +8377,8 @@
       "eff_val": 100,
       "ct_spd": 120,
       "eff_val1": 222,
-      "ct_spd1": 200
+      "ct_spd1": 200,
+      "bbrk": 3
     },
     {
       "iname": "SK_LW_BLM_M_3",
@@ -8365,8 +8430,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -8386,9 +8451,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -8406,8 +8471,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -8427,9 +8492,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -8447,8 +8512,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -8468,9 +8533,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -8488,8 +8553,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -8509,9 +8574,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -8529,8 +8594,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -8550,9 +8615,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -8570,8 +8635,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -8591,9 +8656,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -8611,8 +8676,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -8632,9 +8697,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -8652,8 +8717,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -8673,9 +8738,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -9087,9 +9152,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -9128,9 +9193,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -9169,9 +9234,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -9210,9 +9275,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -9251,9 +9316,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -9292,9 +9357,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -9333,9 +9398,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -9374,9 +9439,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -9530,7 +9595,8 @@
       "eff_val": 100,
       "ct_spd": 120,
       "eff_val1": 222,
-      "ct_spd1": 200
+      "ct_spd1": 200,
+      "bbrk": 3
     },
     {
       "iname": "SK_LW_BLM_M_3_SUB",
@@ -9582,8 +9648,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -9603,9 +9669,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -9623,8 +9689,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -9644,9 +9710,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -9664,8 +9730,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -9685,9 +9751,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -9705,8 +9771,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -9726,9 +9792,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -9746,8 +9812,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -9767,9 +9833,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -9787,8 +9853,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -9808,9 +9874,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -9828,8 +9894,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -9849,9 +9915,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -9869,8 +9935,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -9890,9 +9956,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200
     },
     {
@@ -13605,9 +13671,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -13646,9 +13712,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -13687,9 +13753,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -13728,9 +13794,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -13769,9 +13835,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -13810,9 +13876,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -13851,9 +13917,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -13892,9 +13958,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -14186,9 +14252,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -14227,9 +14293,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -14268,9 +14334,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -14309,9 +14375,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -14350,9 +14416,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -14391,9 +14457,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -14432,9 +14498,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -14473,9 +14539,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280
     },
     {
@@ -67549,6 +67615,129 @@
       "eff_val1": 100
     },
     {
+      "iname": "SK_CRWL_ATK",
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "LAPScrwl/atk",
+      "effnm": "ef_com_hit_00",
+      "range_s": 0,
+      "range_l": 1,
+      "range_h": 1,
+      "type": 0,
+      "timing": 0,
+      "eff_type": 2,
+      "target": 12,
+      "atk_type": 1,
+      "atk_base": 1,
+      "atk_det": 3,
+      "eff_val": -30,
+      "eff_val1": -30
+    },
+    {
+      "iname": "SK_CRWL_M_01",
+      "slot": 1,
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "LAPScrwl/skl_M1",
+      "effnm": "ef_LAPScrwl_M01",
+      "count": 5,
+      "cost_type": 1,
+      "cost_mp": 24,
+      "line": 1,
+      "range_s": 1,
+      "range_l": 4,
+      "range_h": 2,
+      "type": 1,
+      "timing": 0,
+      "eff_type": 5,
+      "target": 12,
+      "atk_type": 1,
+      "t_buffs": [
+        "BUFF_CRWL_M_01",
+        "BUFF_CRWL_M_01_2"
+      ],
+      "strength": [
+        {
+          "type": 100,
+          "formula": 5,
+          "dst": 21,
+          "calc": 0,
+          "val1": 1,
+          "rate1": 100,
+          "exc": "SKE_CRWL_M_01"
+        }
+      ]
+    },
+    {
+      "iname": "SK_CRWL_M_02",
+      "slot": 1,
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "LAPScrwl/skl_M2",
+      "effnm": "ef_LAPScrwl_M02",
+      "count": 5,
+      "cost_type": 0,
+      "cost_ap": 18,
+      "range_s": 0,
+      "range_l": 1,
+      "range_h": 1,
+      "type": 1,
+      "timing": 0,
+      "eff_type": 3,
+      "target": 12,
+      "crt_hit": -100,
+      "atk_base": 52,
+      "atk_det": 0,
+      "elem": [
+        0
+      ],
+      "eff_dst": 0,
+      "eff_val": -80,
+      "eff_val1": -63
+    },
+    {
+      "iname": "SK_CRWL_M_03",
+      "slot": 1,
+      "cap": 20,
+      "lvup_cost_rate": 100,
+      "motnm": "LAPScrwl/skl_M3",
+      "effnm": "ef_LAPScrwl_M03",
+      "count": 4,
+      "cost_type": 0,
+      "cost_ap": 24,
+      "line": 1,
+      "range_s": 0,
+      "range_l": 2,
+      "range_h": 1,
+      "type": 1,
+      "timing": 0,
+      "eff_type": 2,
+      "target": 12,
+      "atk_type": 1,
+      "atk_base": 1,
+      "atk_det": 3,
+      "elem_pri": 1,
+      "eff_val": 70,
+      "eff_val1": 105,
+      "move": {
+        "type": 2,
+        "flock": 2,
+        "height": 1,
+        "ismov": 1
+      },
+      "strength": [
+        {
+          "type": 100,
+          "formula": 40,
+          "dst": 0,
+          "calc": 0,
+          "val1": 1,
+          "rate1": 60,
+          "exc": "SKE_CRWL_M_03"
+        }
+      ]
+    },
+    {
       "iname": "SK_MRGE_ATK",
       "cap": 20,
       "lvup_cost_rate": 100,
@@ -90051,7 +90240,7 @@
       "effnm": "ef_com_hit_00",
       "count": 3,
       "cost_type": 0,
-      "cost_ap": 32,
+      "cost_ap": 24,
       "line": 1,
       "range_s": 0,
       "range_l": 2,
@@ -90059,7 +90248,7 @@
       "pierce": 1,
       "type": 1,
       "timing": 0,
-      "eff_type": 2,
+      "eff_type": 3,
       "target": 12,
       "atk_type": 1,
       "atk_base": 1,
@@ -90151,7 +90340,7 @@
       "cam_dir": 1,
       "count": 3,
       "cost_type": 0,
-      "cost_ap": 33,
+      "cost_ap": 26,
       "line": 1,
       "range_s": 0,
       "range_l": 3,
@@ -90161,6 +90350,7 @@
       "timing": 0,
       "eff_type": 2,
       "target": 11,
+      "hit": 100,
       "atk_type": 1,
       "atk_base": 1,
       "atk_formula": 0,
@@ -90207,7 +90397,10 @@
       "def_wep": "AF_LW_SPE_INIT",
       "elem_pri": 1,
       "eff_val": 65,
-      "eff_val1": 100
+      "eff_val1": 100,
+      "t_buffs": [
+        "BUFF_LW_EC_LAN_A_02_1"
+      ]
     },
     {
       "iname": "SK_LW_EC_LAN_C_03",
@@ -90304,7 +90497,10 @@
       "def_wep": "AF_LW_SPE_INIT",
       "elem_pri": 1,
       "eff_val": 65,
-      "eff_val1": 100
+      "eff_val1": 100,
+      "t_buffs": [
+        "BUFF_LW_LAN_S_4_T"
+      ]
     },
     {
       "iname": "SK_LW_EC_LAN_A_03",
@@ -90434,6 +90630,9 @@
       "t_buffs": [
         "BUFF_LW_EC_LAN_C_04B_1",
         "BUFF_LW_EC_LAN_C_04B_2"
+      ],
+      "s_buffs": [
+        "BUFF_LW_LAN_S_3_S"
       ]
     },
     {
@@ -90573,10 +90772,11 @@
       "target": 2,
       "def_wep": "AF_LW_SPE_INIT",
       "t_buffs": [
-        "BUFF_LW_EC_LAN_A_05"
+        "BUFF_LW_EC_LAN_A_05_1"
       ],
       "s_buffs": [
-        "BUFF_LW_EC_LAN_A_05"
+        "BUFF_LW_EC_LAN_A_05_1",
+        "BUFF_LW_EC_LAN_A_05_2"
       ]
     },
     {
@@ -90606,9 +90806,9 @@
       "cost_type": 0,
       "cost_ap": 17,
       "line": 2,
-      "range_s": 0,
+      "range_s": 1,
       "range_l": 5,
-      "range_h": 1,
+      "range_h": 5,
       "range_bns": 3,
       "range_mh": 5,
       "type": 1,
@@ -94023,7 +94223,7 @@
       "cost_type": 0,
       "cost_ap": 24,
       "range_s": 1,
-      "range_l": 4,
+      "range_l": 5,
       "range_h": 2,
       "eff_s": 0,
       "eff_l": 1,
@@ -94046,9 +94246,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280,
       "t_buffs": [
         "BUFF_LW_EC_BLM_A_01_ICE_1",
@@ -94107,7 +94307,8 @@
       "eff_val": 100,
       "ct_spd": 120,
       "eff_val1": 222,
-      "ct_spd1": 200
+      "ct_spd1": 200,
+      "bbrk": 3
     },
     {
       "iname": "SK_LW_EC_BLM_C_02",
@@ -94354,8 +94555,8 @@
       "range_s": 1,
       "range_l": 5,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -94375,9 +94576,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200,
       "t_buffs": [
         "BUFF_LW_EC_BLM_C_05_B"
@@ -94466,10 +94667,10 @@
       "elem_pri": 1,
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": -15,
-      "ct_spd": 120,
-      "eff_val1": 5,
-      "ct_spd1": 280,
+      "eff_val": 15,
+      "ct_spd": 160,
+      "eff_val1": 41,
+      "ct_spd1": 320,
       "t_buffs": [
         "BUFF_LW_EC_BLM_A_04"
       ]
@@ -94535,8 +94736,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 2,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -94556,10 +94757,21 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 160,
-      "eff_val1": 85,
-      "ct_spd1": 360
+      "eff_val1": 120,
+      "ct_spd1": 360,
+      "strength": [
+        {
+          "type": 100,
+          "formula": 40,
+          "dst": 0,
+          "calc": 0,
+          "val1": 1,
+          "rate1": 60,
+          "exc": "SKE_LW_EC_BLM_C_08_WIND_B"
+        }
+      ]
     },
     {
       "iname": "SK_LW_EC_BLM_A_05",
@@ -94658,7 +94870,8 @@
       "ct_spd1": 200,
       "t_buffs": [
         "BUFF_LW_EC_BLM_C_09B"
-      ]
+      ],
+      "bbrk": 3
     },
     {
       "iname": "SK_LW_EC_BLM_C_10",
@@ -94726,10 +94939,10 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
-      "ct_spd": 120,
-      "eff_val1": 85,
-      "ct_spd1": 280,
+      "eff_val": 85,
+      "ct_spd": 160,
+      "eff_val1": 120,
+      "ct_spd1": 320,
       "t_buffs": [
         "BUFF_LW_EC_BLM_A_06"
       ]
@@ -94877,8 +95090,8 @@
       "range_s": 1,
       "range_l": 4,
       "range_h": 2,
-      "eff_s": 0,
-      "eff_l": 1,
+      "eff_s": 1,
+      "eff_l": 2,
       "eff_h": 1,
       "reftar": 1,
       "type": 1,
@@ -94898,9 +95111,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 50,
+      "eff_val": 85,
       "ct_spd": 120,
-      "eff_val1": 85,
+      "eff_val1": 120,
       "ct_spd1": 200,
       "t_buffs": [
         "BUFF_LW_EC_BLM_C_13B_1",
@@ -97067,9 +97280,9 @@
       ],
       "ct_type": 1,
       "ct_lock": 1,
-      "eff_val": 15,
+      "eff_val": 50,
       "ct_spd": 120,
-      "eff_val1": 41,
+      "eff_val1": 85,
       "ct_spd1": 280,
       "t_buffs": [
         "BUFF_LW_EC_RDM_C_04B_1",
@@ -99511,11 +99724,12 @@
       "atk_det": 1,
       "def_wep": "AF_LW_NKN_INIT",
       "elem_pri": 1,
-      "eff_val": 5,
-      "eff_val1": 31,
+      "eff_val": 40,
+      "eff_val1": 75,
       "t_buffs": [
         "BUFF_LW_EC_NIN_C_03B",
-        "BUFF_LW_NIN_S_3_T"
+        "BUFF_LW_NIN_S_3_T",
+        "BUFF_LW_NIN_S_3_T_2"
       ]
     },
     {
@@ -99615,7 +99829,7 @@
       "timing": 0,
       "eff_type": 2,
       "target": 12,
-      "crt_hit": 20,
+      "crt_hit": 50,
       "atk_type": 1,
       "atk_base": 1,
       "atk_formula": 0,
@@ -99769,8 +99983,8 @@
         "eff": "ef_com_guard_02",
         "val": 5,
         "tar": 3,
-        "scut": 30,
-        "ecut": 50
+        "scut": 35,
+        "ecut": 70
       }
     },
     {
@@ -99892,6 +100106,9 @@
       "eff_val1": 105,
       "t_buffs": [
         "BUFF_LW_EC_MGK_C_03B"
+      ],
+      "s_buffs": [
+        "BUFF_LW_MGK_FIRE_M_4"
       ]
     },
     {
@@ -100031,8 +100248,8 @@
         "eff": "ef_com_guard_02",
         "val": 3,
         "tar": 3,
-        "scut": 30,
-        "ecut": 50
+        "scut": 35,
+        "ecut": 70
       }
     },
     {
@@ -106440,6 +106657,21 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_RRIR_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_RRIR_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_RRIR_2_S_1"
+      ]
+    },
+    {
       "iname": "SK_MA_LW_LSWL",
       "slot": 7,
       "cap": 1,
@@ -106479,6 +106711,22 @@
       ]
     },
     {
+      "iname": "SK_MA_LW_SCAL_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_SCAL_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_SCAL_2_S_1",
+        "BUFF_MA_LW_SCAL_2_S_2"
+      ]
+    },
+    {
       "iname": "SK_MA_LW_MRAL",
       "slot": 7,
       "cap": 1,
@@ -106488,6 +106736,22 @@
       "target": 0,
       "t_buffs": [
         "BUFF_MA_LW_MRAL"
+      ]
+    },
+    {
+      "iname": "SK_MA_LW_MRAL_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_MRAL_2"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_MRAL_2_S_1",
+        "BUFF_MA_LW_MRAL_2_S_2"
       ]
     },
     {
@@ -107527,6 +107791,21 @@
       ],
       "s_buffs": [
         "BUFF_MA_LW_GRGS_S"
+      ]
+    },
+    {
+      "iname": "SK_MA_LW_GRGS_2",
+      "slot": 7,
+      "cap": 1,
+      "type": 3,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_MA_LW_GRGS"
+      ],
+      "s_buffs": [
+        "BUFF_MA_LW_GRGS_2_S"
       ]
     },
     {
@@ -113389,6 +113668,71 @@
       ]
     },
     {
+      "iname": "SK_LW_ACC_067_1_1",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_067_1_1"
+      ]
+    },
+    {
+      "iname": "SK_LW_ACC_067_1_2",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_067_1_2"
+      ]
+    },
+    {
+      "iname": "SK_LW_ACC_067_1_3",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_067_1_3"
+      ]
+    },
+    {
+      "iname": "SK_LW_ACC_067_1_4",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_067_1_4"
+      ]
+    },
+    {
+      "iname": "SK_LW_ACC_067_1_5",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_ACC_067_1_5"
+      ]
+    },
+    {
       "iname": "SK_LW_ROD_028_1",
       "cap": 50,
       "grow": "ARTIFACT_50",
@@ -115599,6 +115943,19 @@
       "target": 0,
       "s_buffs": [
         "BUFF_LW_PLUS6_MAGIC_10"
+      ]
+    },
+    {
+      "iname": "SK_LW_PLUS6_AVO_10",
+      "cap": 50,
+      "grow": "ARTIFACT_50",
+      "lvup_cost_rate": 100,
+      "type": 6,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_LW_PLUS6_AVO_10"
       ]
     },
     {
@@ -124764,6 +125121,46 @@
       "gdupli": "SK_VC_LW_IBRA_GS"
     },
     {
+      "iname": "SK_VC_LW_LYCS_GS",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_LYCS_GS"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_LYCS_GS_AW",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_LYCS_GS_AW"
+      ],
+      "gdupli": "SK_VC_LW_LYCS_GS"
+    },
+    {
+      "iname": "SK_VC_LW_LYCS_GSMAX",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_LYCS_GSMAX"
+      ],
+      "gdupli": "SK_VC_LW_LYCS_GS"
+    },
+    {
       "iname": "SK_VC_LW_IGNT_GS",
       "slot": 8,
       "cap": 70,
@@ -129965,6 +130362,46 @@
         "BUFF_VC_LW_IBRA_GSMAX_2"
       ],
       "gdupli": "SK_VC_LW_IBRA_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_LYCS_GS_2",
+      "slot": 8,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_LYCS_GS_2"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_LYCS_GS_AW_2",
+      "slot": 8,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_LYCS_GS_AW_2"
+      ],
+      "gdupli": "SK_VC_LW_LYCS_GS_2"
+    },
+    {
+      "iname": "SK_VC_LW_LYCS_GSMAX_2",
+      "slot": 8,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 10,
+      "t_buffs": [
+        "BUFF_VC_LW_LYCS_GSMAX_2"
+      ],
+      "gdupli": "SK_VC_LW_LYCS_GS_2"
     },
     {
       "iname": "SK_VC_LW_IGNT_GS_2",
@@ -137257,6 +137694,46 @@
         "BUFF_VC_LW_IBRA_PMAX"
       ],
       "gdupli": "SK_VC_LW_IBRA_P"
+    },
+    {
+      "iname": "SK_VC_LW_LYCS_P",
+      "slot": 3,
+      "cap": 99,
+      "grow": "VCGROW_UR",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_LYCS_P"
+      ]
+    },
+    {
+      "iname": "SK_VC_LW_LYCS_PAW",
+      "slot": 3,
+      "cap": 4,
+      "grow": "VCAWAKE",
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_LYCS_PAW"
+      ],
+      "gdupli": "SK_VC_LW_LYCS_P"
+    },
+    {
+      "iname": "SK_VC_LW_LYCS_PMAX",
+      "slot": 3,
+      "cap": 1,
+      "type": 9,
+      "timing": 1,
+      "eff_type": 0,
+      "target": 0,
+      "s_buffs": [
+        "BUFF_VC_LW_LYCS_PMAX"
+      ],
+      "gdupli": "SK_VC_LW_LYCS_P"
     },
     {
       "iname": "SK_VC_LW_IGNT_P",

@@ -381,7 +381,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":4,\"value\":352},{\"type\":7,\"value\":10},{\"type\":9,\"value\":76},{\"type\":8,\"value\":284},{\"type\":10,\"value\":286},{\"type\":2,\"value\":176},{\"type\":3,\"value\":179},{\"type\":1,\"value\":4153},{\"type\":251,\"value\":10},{\"type\":252,\"value\":-10},{\"type\":250,\"value\":10},{\"type\":254,\"value\":-10},{\"type\":5,\"value\":10}]}",
+      "status": "{\"list\":[{\"type\":4,\"value\":89},{\"type\":7,\"value\":10},{\"type\":9,\"value\":76},{\"type\":8,\"value\":284},{\"type\":10,\"value\":286},{\"type\":2,\"value\":176},{\"type\":3,\"value\":179},{\"type\":1,\"value\":4153},{\"type\":251,\"value\":10},{\"type\":252,\"value\":-10},{\"type\":250,\"value\":10},{\"type\":254,\"value\":-10},{\"type\":5,\"value\":10},{\"type\":6,\"value\":352}]}",
       "groupId": "",
       "infUnit": false
     },
@@ -478,7 +478,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":4,\"value\":352},{\"type\":7,\"value\":10},{\"type\":9,\"value\":76},{\"type\":8,\"value\":284},{\"type\":10,\"value\":286},{\"type\":2,\"value\":176},{\"type\":3,\"value\":179},{\"type\":1,\"value\":4153},{\"type\":251,\"value\":10},{\"type\":252,\"value\":-10},{\"type\":250,\"value\":10},{\"type\":254,\"value\":-10},{\"type\":5,\"value\":10}]}",
+      "status": "{\"list\":[{\"type\":4,\"value\":89},{\"type\":7,\"value\":10},{\"type\":9,\"value\":76},{\"type\":8,\"value\":284},{\"type\":10,\"value\":286},{\"type\":2,\"value\":176},{\"type\":3,\"value\":179},{\"type\":1,\"value\":4153},{\"type\":251,\"value\":10},{\"type\":252,\"value\":-10},{\"type\":250,\"value\":10},{\"type\":254,\"value\":-10},{\"type\":5,\"value\":10},{\"type\":6,\"value\":352}]}",
       "groupId": "",
       "infUnit": false
     },
@@ -1308,7 +1308,15 @@
       "entry_cond": {
         "timing": 0,
         "expr": "",
-        "list": []
+        "list": [
+          {
+            "self": {
+              "type": 19,
+              "json": "{\"side\":1,\"count\":5}"
+            },
+            "childs": []
+          }
+        ]
       },
       "wait_m": 0,
       "parent": "",
@@ -1374,7 +1382,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":4,\"value\":352},{\"type\":7,\"value\":10},{\"type\":9,\"value\":76},{\"type\":8,\"value\":284},{\"type\":10,\"value\":286},{\"type\":2,\"value\":176},{\"type\":3,\"value\":179},{\"type\":1,\"value\":4153},{\"type\":251,\"value\":10},{\"type\":252,\"value\":-10},{\"type\":250,\"value\":10},{\"type\":254,\"value\":-10},{\"type\":5,\"value\":10}]}",
+      "status": "{\"list\":[{\"type\":4,\"value\":89},{\"type\":7,\"value\":10},{\"type\":9,\"value\":76},{\"type\":8,\"value\":284},{\"type\":10,\"value\":286},{\"type\":2,\"value\":176},{\"type\":3,\"value\":179},{\"type\":1,\"value\":4153},{\"type\":251,\"value\":10},{\"type\":252,\"value\":-10},{\"type\":250,\"value\":10},{\"type\":254,\"value\":-10},{\"type\":5,\"value\":10},{\"type\":6,\"value\":352}]}",
       "groupId": "",
       "infUnit": false
     }

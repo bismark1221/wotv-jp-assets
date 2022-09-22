@@ -1035,7 +1035,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "QE_VC_LW_VSTR",
+      "drop": "QE_VC_LW_LYCS",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1102,13 +1102,13 @@
   "drop_table_list": [
     {
       "type": 0,
-      "iname": "QE_VC_LW_VSTR",
+      "iname": "QE_VC_LW_LYCS",
       "num": 1,
       "drop_list": [
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_PI_LW_VSTR",
+            "iname": "IT_VPI_LW_LYCS",
             "num": 1,
             "subNum1": 0,
             "secret": 0
@@ -1373,7 +1373,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 756
+          "weight": 971
         },
         {
           "drop_data": {
@@ -1383,7 +1383,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 778
+          "weight": 1000
         },
         {
           "drop_data": {
@@ -1393,7 +1393,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1333
+          "weight": 1714
         },
         {
           "drop_data": {
@@ -1403,7 +1403,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 556
+          "weight": 714
         },
         {
           "drop_data": {
@@ -1413,7 +1413,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 6577
+          "weight": 5601
         }
       ]
     }
