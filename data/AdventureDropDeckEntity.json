@@ -1,6 +1,17 @@
 {
   "items": [
     {
+      "drop_id": 1007,
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_PRNE",
+          "num": 1,
+          "rate": 100
+        }
+      ]
+    },
+    {
       "drop_id": 1006,
       "rewards": [
         {
@@ -1673,6 +1684,41 @@
           "iname": "IT_VC_EXP_01",
           "num": 1,
           "rate": 17755
+        },
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_WATER_R2",
+          "num": 1,
+          "rate": 6000
+        },
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_WATER_R3",
+          "num": 1,
+          "rate": 3000
+        }
+      ]
+    },
+    {
+      "drop_id": 1107,
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_SB_EXP_WATER_01",
+          "num": 1,
+          "rate": 28650
+        },
+        {
+          "type": 0,
+          "iname": "IT_JB_MM_ALL",
+          "num": 1,
+          "rate": 1500
+        },
+        {
+          "type": 0,
+          "iname": "IT_VC_EXP_01",
+          "num": 1,
+          "rate": 17655
         },
         {
           "type": 0,

@@ -172,6 +172,15 @@
       "keytime": 86400
     },
     {
+      "iname": "AC_ART_CRF_23",
+      "section_group_iname": "SEG_ART_CRF_23",
+      "hurl": "ac_art_crf_23",
+      "type": 1,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
       "iname": "AC_ART_CRF_S1",
       "section_group_iname": "SEG_ART_CRF_S1",
       "hurl": "ac_art_crf_s1",
@@ -430,6 +439,18 @@
       "keytime": 86400
     },
     {
+      "iname": "AC_19_01",
+      "section_group_iname": "SEG_19_01",
+      "shop_inames": [
+        "Event-Quest_20220801"
+      ],
+      "hurl": "ac_19_01",
+      "type": 0,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
       "iname": "AC_ETRE",
       "section_group_iname": "SEG_ETRE",
       "hurl": "ac_etre",
@@ -478,6 +499,15 @@
       "iname": "AC_LBRK",
       "section_group_iname": "SEG_LBRK",
       "hurl": "ac_lbrk",
+      "type": 2,
+      "keyitem1": "IT_KEY_ARCHIVE",
+      "keynum1": 1,
+      "keytime": 86400
+    },
+    {
+      "iname": "AC_LSTE",
+      "section_group_iname": "SEG_LSTE",
+      "hurl": "ac_lste",
       "type": 2,
       "keyitem1": "IT_KEY_ARCHIVE",
       "keynum1": 1,

@@ -1014,15 +1014,27 @@
       "hurl": "ev_2_5Anv_01"
     },
     {
+      "iname": "SE_EV_AEX_020101",
+      "hurl": "ev_ast_ex_0201"
+    },
+    {
+      "iname": "SE_MU_AEX_020101",
+      "hurl": "ev_ast_ex_0201"
+    },
+    {
+      "iname": "SE_EV_PRNE_01",
+      "hurl": "ev_prne_01"
+    },
+    {
+      "iname": "SE_EV_RANK_02",
+      "hurl": "ev_rank_02"
+    },
+    {
       "iname": "SE_EV_AST_020101",
       "hurl": "ev_ast_0201",
       "o_cond_q": [
         "QE_EV_AST_010110"
       ]
-    },
-    {
-      "iname": "SE_EV_RANK_02",
-      "hurl": "ev_rank_02"
     },
     {
       "iname": "SE_MU_ART_CRF_24",
@@ -1069,14 +1081,6 @@
       "iname": "SE_EV_DQT_04",
       "limit": 3,
       "hurl": "ev_DQT_04"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_23",
-      "hurl": "ev_arti_crft_23"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_23",
-      "hurl": "ev_arti_crft_23"
     },
     {
       "iname": "SE_EV_OBON2022_1",
@@ -1139,36 +1143,6 @@
     {
       "iname": "SE_EV_HLNA_02_01",
       "hurl": "ev_hlna_02_01"
-    },
-    {
-      "iname": "SE_EV_LSTE",
-      "hurl": "ev_lste_01"
-    },
-    {
-      "iname": "SE_EV_LSTE_EX",
-      "hurl": "ev_lste_ex_01",
-      "o_cond_q": [
-        "QE_EV_LSTE_05"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_LSTE_EX",
-      "hurl": "ev_lste_ex_01"
-    },
-    {
-      "iname": "SE_EV_19_01",
-      "hurl": "ev_19_01"
-    },
-    {
-      "iname": "SE_EV_19_EX_01",
-      "hurl": "ev_19_ex_01",
-      "o_cond_q": [
-        "QE_EV_19_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_19_EX",
-      "hurl": "ev_19_ex_01"
     },
     {
       "iname": "SE_EV_ALIA_01",
@@ -1879,6 +1853,21 @@
       "won_dst_sheet_name": "bgm_ff4_Victory"
     },
     {
+      "iname": "SE_EV_19_01",
+      "hurl": "ev_19_01"
+    },
+    {
+      "iname": "SE_EV_19_EX_01",
+      "hurl": "ev_19_ex_01",
+      "o_cond_q": [
+        "QE_EV_19_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_19_EX",
+      "hurl": "ev_19_ex_01"
+    },
+    {
       "iname": "SE_EV_17_01",
       "hurl": "ev_17_01"
     },
@@ -2160,6 +2149,14 @@
       "hurl": "ev_01_ex_01"
     },
     {
+      "iname": "SE_EV_ART_CRF_23",
+      "hurl": "ev_arti_crft_23"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_23",
+      "hurl": "ev_arti_crft_23"
+    },
+    {
       "iname": "SE_MU_ART_CRF_22",
       "hurl": "ev_arti_crft_22"
     },
@@ -2358,6 +2355,21 @@
     {
       "iname": "SE_MU_ART_CRF_06",
       "hurl": "ev_arti_crft_06"
+    },
+    {
+      "iname": "SE_EV_LSTE",
+      "hurl": "ev_lste_01"
+    },
+    {
+      "iname": "SE_EV_LSTE_EX",
+      "hurl": "ev_lste_ex_01",
+      "o_cond_q": [
+        "QE_EV_LSTE_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_LSTE_EX",
+      "hurl": "ev_lste_ex_01"
     },
     {
       "iname": "SE_EV_LBRK",
