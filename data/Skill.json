@@ -47929,18 +47929,7 @@
         "BUFF_LW_RAB_M_1_2"
       ],
       "combo_num": 2,
-      "combo_rate": 59,
-      "strength": [
-        {
-          "type": 100,
-          "formula": 5,
-          "dst": 21,
-          "calc": 0,
-          "val1": 1,
-          "rate1": 100,
-          "exc": "SKE_LW_RAB_M_1"
-        }
-      ]
+      "combo_rate": 59
     },
     {
       "iname": "SK_LW_RAB_M_2",
@@ -48248,18 +48237,7 @@
         "BUFF_LW_RAB_M_1_2"
       ],
       "combo_num": 2,
-      "combo_rate": 59,
-      "strength": [
-        {
-          "type": 100,
-          "formula": 5,
-          "dst": 21,
-          "calc": 0,
-          "val1": 1,
-          "rate1": 100,
-          "exc": "SKE_LW_RAB_M_1"
-        }
-      ]
+      "combo_rate": 59
     },
     {
       "iname": "SK_LW_RAB_M_2_SUB",
@@ -104402,15 +104380,6 @@
           "dst": 9,
           "calc": 1,
           "rate1": -70
-        },
-        {
-          "type": 100,
-          "formula": 5,
-          "dst": 21,
-          "calc": 0,
-          "val1": 1,
-          "rate1": 100,
-          "exc": "SKE_LW_RAB_M_1"
         }
       ]
     },
@@ -104534,18 +104503,7 @@
       ],
       "combo_num": 2,
       "combo_rate": 59,
-      "bbrk": 2,
-      "strength": [
-        {
-          "type": 100,
-          "formula": 5,
-          "dst": 21,
-          "calc": 0,
-          "val1": 1,
-          "rate1": 100,
-          "exc": "SKE_LW_RAB_M_1"
-        }
-      ]
+      "bbrk": 2
     },
     {
       "iname": "SK_LW_EC_RAB_C_04",
