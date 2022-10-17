@@ -37,6 +37,14 @@
       "value": "延長"
     },
     {
+      "key": "BUFF_Reduction",
+      "value": "軽減率"
+    },
+    {
+      "key": "BUFF_Effect",
+      "value": "効果"
+    },
+    {
       "key": "BUFFHEAL_Hp",
       "value": "HP回復"
     },
@@ -431,6 +439,14 @@
     {
       "key": "BUFF_CondAddCostMP",
       "value": "TP消費でダメージ増"
+    },
+    {
+      "key": "BUFF_CondAdditionalSkill",
+      "value": "追加スキル"
+    },
+    {
+      "key": "BUFF_CondCancelPerfectHit",
+      "value": "必中効果無効"
     },
     {
       "key": "BUFF_OtherInitAp",
@@ -835,6 +851,14 @@
     {
       "key": "BUFF_OtherAvoidMagic",
       "value": "魔法攻撃回避率"
+    },
+    {
+      "key": "BUFF_OtherChainRedRateAtk",
+      "value": "チェイン"
+    },
+    {
+      "key": "BUFF_OtherChainRedRateElem",
+      "value": "エレメントチェイン"
     },
     {
       "key": "BUFF_UnitTagFloating",
@@ -1693,6 +1717,18 @@
       "value": "魔法攻撃時ドラゴンクエストタクトキラー"
     },
     {
+      "key": "BUFF_KillerBirthReserve02",
+      "value": "黒無の使徒キラー"
+    },
+    {
+      "key": "BUFF_KillerBirthPReserve02",
+      "value": "物理攻撃時黒無の使徒キラー"
+    },
+    {
+      "key": "BUFF_KillerBirthMReserve02",
+      "value": "魔法攻撃時黒無の使徒キラー"
+    },
+    {
       "key": "BUFF_KillerBirthDamageUnknown",
       "value": "出身不明固定ダメージ"
     },
@@ -1835,6 +1871,10 @@
     {
       "key": "BUFF_KillerBirthDamageDQTC",
       "value": "ドラゴンクエストタクト固定ダメージ"
+    },
+    {
+      "key": "BUFF_KillerBirthDamageReserve02",
+      "value": "黒無の使徒固定ダメージ"
     },
     {
       "key": "BUFF_KillerUnitTagFloating",
@@ -2059,6 +2099,10 @@
     {
       "key": "BUFF_ResistBirthDQTC",
       "value": "ドラゴンクエストタクト耐性"
+    },
+    {
+      "key": "BUFF_ResistBirthReserve02",
+      "value": "黒無の使徒耐性"
     },
     {
       "key": "BUFF_ResistSpeciesHuman",

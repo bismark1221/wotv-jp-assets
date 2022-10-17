@@ -521,128 +521,160 @@
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01020110"
-      ]
+        "QE_ST_01020110",
+        "QE_ST_02020210"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010105",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01020210"
-      ]
+        "QE_ST_01020210",
+        "QE_ST_020202_10"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010106",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01020310"
-      ]
+        "QE_ST_01020310",
+        "QE_ST_020203_10"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010107",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01030110"
-      ]
+        "QE_ST_01030110",
+        "QE_ST_02030110"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010108",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01030210"
-      ]
+        "QE_ST_01030210",
+        "QE_ST_02030210"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010109",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01030310"
-      ]
+        "QE_ST_01030310",
+        "QE_ST_02030310"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010110",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01040110"
-      ]
+        "QE_ST_01040110",
+        "QE_ST_02040110"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010201",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01040210"
-      ]
+        "QE_ST_01040210",
+        "QE_ST_02040210"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010202",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01040310"
-      ]
+        "QE_ST_01040310",
+        "QE_ST_02040310"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010203",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01050110"
-      ]
+        "QE_ST_01050110",
+        "QE_ST_02050110"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010204",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01050210"
-      ]
+        "QE_ST_01050210",
+        "QE_ST_02050210"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010205",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01050310"
-      ]
+        "QE_ST_01050310",
+        "QE_ST_02050310"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010206",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01060110"
-      ]
+        "QE_ST_01060110",
+        "QE_ST_02060110"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010207",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01060210"
-      ]
+        "QE_ST_01060210",
+        "QE_ST_02060210"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010208",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01060310"
-      ]
+        "QE_ST_01060310",
+        "QE_ST_02060310"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_WD_010209",
       "chap": "CH_WD_0102",
       "skip_ticket": "IT_TICKET_STORY",
       "o_cond_q": [
-        "QE_ST_01070110"
-      ]
+        "QE_ST_01070110",
+        "QE_ST_02070110"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_EV_VKTR_01",
@@ -1020,20 +1052,15 @@
       "hurl": "ev_2_5Anv_01"
     },
     {
-      "iname": "SE_EV_AEX_020101",
-      "hurl": "ev_ast_ex_0201"
-    },
-    {
-      "iname": "SE_MU_AEX_020101",
-      "hurl": "ev_ast_ex_0201"
-    },
-    {
-      "iname": "SE_EV_PRNE_01",
-      "hurl": "ev_prne_01"
-    },
-    {
       "iname": "SE_EV_RANK_02",
       "hurl": "ev_rank_02"
+    },
+    {
+      "iname": "SE_EV_AST_020201",
+      "hurl": "ev_ast_0202",
+      "o_cond_q": [
+        "QE_EV_AST_010110"
+      ]
     },
     {
       "iname": "SE_EV_AST_020101",
@@ -1041,6 +1068,22 @@
       "o_cond_q": [
         "QE_EV_AST_010110"
       ]
+    },
+    {
+      "iname": "SE_MU_ART_CRF_25",
+      "hurl": "ev_arti_crft_25"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_25",
+      "hurl": "ev_arti_crft_25"
+    },
+    {
+      "iname": "SE_EV_AEX_020101",
+      "hurl": "ev_ast_ex_0201"
+    },
+    {
+      "iname": "SE_MU_AEX_020101",
+      "hurl": "ev_ast_ex_0201"
     },
     {
       "iname": "SE_MU_ART_CRF_24",
@@ -1145,6 +1188,10 @@
       "iname": "SE_EV_D1000_8",
       "limit": 1,
       "hurl": "ev_d1000_01"
+    },
+    {
+      "iname": "SE_EV_PRNE_01",
+      "hurl": "ev_prne_01"
     },
     {
       "iname": "SE_EV_HLNA_02_01",
@@ -1345,10 +1392,6 @@
       "won_dst_sheet_name": "bgm_P5R_Battle_Result"
     },
     {
-      "iname": "SE_EV_AEX_LCIO",
-      "hurl": "ev_ast_ex_lcio"
-    },
-    {
       "iname": "SE_EV_P5R_01_01",
       "hurl": "ev_P5R_01",
       "won_dst_sheet_name": "bgm_P5R_Battle_Result"
@@ -1378,6 +1421,10 @@
       "iname": "SE_MU_P5R_01_EX",
       "hurl": "ev_P5R_ex_01",
       "won_dst_sheet_name": "bgm_P5R_Battle_Result"
+    },
+    {
+      "iname": "SE_EV_AEX_LCIO",
+      "hurl": "ev_ast_ex_lcio"
     },
     {
       "iname": "SE_EV_AEX_010501",

@@ -583,6 +583,21 @@
           "iname": "BUFF_LW_RAB_M_1_2"
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_MHA_S_2_INIT",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 105,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_MHA_S_2_S"
+        }
+      ]
     }
   ]
 }
