@@ -1,60 +1,60 @@
 {
-  "infos": [
+  "items": [
     {
-      "key": "TALK_001",
-      "value": "セレクションクエストでは制限が厳しい分、<br>ここでしか得られない報酬もありますわ。"
+      "iname": "SE_TEST_SQ_001",
+      "uiname": "UN_LW_P_RRIR",
+      "image": "ev_05_01",
+      "bgm": "law_201_battle",
+      "start": "2020/10/01 15:00:00",
+      "end": "2020/10/31 14:59:59"
     },
     {
-      "key": "TALK_002",
-      "value": "意外なメンバーが<br>活躍するかもしれませんわね。<br>ぜひ挑戦してみてください。"
+      "iname": "SE_TEST_SQ_002",
+      "uiname": "UN_LW_P_SCAL",
+      "image": "ev_07_01",
+      "bgm": "law_202_battle_midboss",
+      "start": "2020/10/01 15:00:00",
+      "end": "2020/10/31 14:59:59"
     },
     {
-      "key": "DIALOG_001_T",
-      "value": "◆セレクションクエスト◆"
+      "iname": "SE_BR_SHINE",
+      "image": "br_shine_01",
+      "bgm": "law_100_event_brave"
     },
     {
-      "key": "DIALOG_001_M",
-      "value": "◆セレクションクエスト◆<br>セレクションクエストでは、<br><color=#00ffff>出撃制限</color>に従って適切なユニットを選出し、<br>クエストに挑戦します。"
+      "iname": "SE_BR_SOIL",
+      "image": "br_SOIL_01",
+      "bgm": "law_100_event_brave"
     },
     {
-      "key": "DIALOG_002_T",
-      "value": "◆出撃制限◆"
+      "iname": "SE_BR_WIND",
+      "image": "br_WIND_01",
+      "bgm": "law_100_event_brave"
     },
     {
-      "key": "DIALOG_002_M",
-      "value": "◆出撃制限◆<br>ユニットの<color=#00ffff>属性やレアリティ</color>など、<br>様々な出撃制限が存在します。"
+      "iname": "SE_BR_THUNDER",
+      "image": "br_THUNDER_01",
+      "bgm": "law_100_event_brave"
     },
     {
-      "key": "DIALOG_003_T",
-      "value": "◆育成◆"
+      "iname": "SE_BR_DARK",
+      "image": "br_DARK_01",
+      "bgm": "law_100_event_brave"
     },
     {
-      "key": "DIALOG_003_M",
-      "value": "◆育成◆<br>攻略するためには、<br>多くの<color=#00ffff>ユニットを育成</color>する必要があります。"
+      "iname": "SE_BR_FIRE",
+      "image": "br_FIRE_01",
+      "bgm": "law_100_event_brave"
     },
     {
-      "key": "DIALOG_004_T",
-      "value": "◆報酬◆"
+      "iname": "SE_BR_ICE",
+      "image": "br_ICE_01",
+      "bgm": "law_100_event_brave"
     },
     {
-      "key": "DIALOG_004_M",
-      "value": "◆報酬◆<br>クエストをクリアすることで、<br><color=#00ffff>豪華な報酬</color>を獲得できます。"
-    },
-    {
-      "key": "SKIP_TITLE",
-      "value": "◆ダミー◆"
-    },
-    {
-      "key": "SKIP_MSG",
-      "value": "ダミーのチュートリアルを見ますか？"
-    },
-    {
-      "key": "SKIP_YES",
-      "value": "はい"
-    },
-    {
-      "key": "SKIP_NO",
-      "value": "いいえ"
+      "iname": "SE_BR_WATER",
+      "image": "br_WATER_01",
+      "bgm": "law_100_event_brave"
     }
   ]
 }

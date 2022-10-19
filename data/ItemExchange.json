@@ -1,116 +1,84 @@
 {
-  "infos": [
+  "items": [
     {
-      "key": "TALK_001",
-      "value": "ここでは、手持ちのアイテムを使って<br>色や文様などが異なる他のアイテムと<br>交換することができるようですわ。"
+      "iname": "EX_AW_VBALL",
+      "icon": "IT_AW_VBALL_UR",
+      "rate_iname": "EX_RATE_VBALL"
     },
     {
-      "key": "TALK_002",
-      "value": "余ったアイテムと交換して<br>不足しているアイテムを<br>入手しましょう。"
+      "iname": "EX_UN_AW",
+      "icon": "IT_UN_AW_FIRE",
+      "rate_iname": "EX_RATE_UN_AW"
     },
     {
-      "key": "TALK_003",
-      "value": "特定のアイテムが少しだけ足りないとき、<br>どうしても今すぐ欲しいときなどには<br>便利かもしれませんわね。"
+      "iname": "EX_PI_COM",
+      "icon": "IT_PI_COM_FIRE",
+      "rate_iname": "EX_RATE_PI_COM"
     },
     {
-      "key": "TALK_004",
-      "value": "まず、先に欲しいものを選び……"
+      "iname": "EX_UN_AW_2_6",
+      "icon": "IT_UN_AW_FIRE_R6",
+      "rate_iname": "EX_RATE_AW_2_6"
     },
     {
-      "key": "TALK_005",
-      "value": "手持ちと欲しいアイテムとの<br>レア度によって選ぶ場所が変わります。<br>ご注意ください。"
+      "iname": "EX_JB_ELM",
+      "icon": "IT_JB_EM_FIRE_5",
+      "rate_iname": "EX_RATE_JB_ELM"
     },
     {
-      "key": "TALK_006",
-      "value": "次に、何を使って交換するかを<br>決めると交換が成立します。"
+      "iname": "EX_JB_IM_A",
+      "icon": "IT_JB_IM_ANGEL_5",
+      "rate_iname": "EX_RATE_JB_IM_A"
     },
     {
-      "key": "TALK_007",
-      "value": "基本的な操作は素材交換と同じです。"
+      "iname": "EX_JB_IM_D",
+      "icon": "IT_JB_IM_DRAGON_5",
+      "rate_iname": "EX_RATE_JB_IM_D"
     },
     {
-      "key": "TALK_008",
-      "value": "なお、ジョブLvに関するアイテムの交換は<br>ユニット詳細の画面からも直接行えます。<br>そちらも試してみましょう。"
+      "iname": "EX_JB_MM_ALL",
+      "icon": "IT_JB_MM_ALL_5",
+      "rate_iname": "EX_RATE_MM_ALL"
     },
     {
-      "key": "DIALOG_001_T",
-      "value": "◆交換所◆"
+      "iname": "EX_JB_WEAPON",
+      "icon": "IT_JB_SWORD_05",
+      "rate_iname": "EX_RATE_JB_WPN"
     },
     {
-      "key": "DIALOG_001_M",
-      "value": "欲しいアイテムを選択、<br>下位素材から交換、上位素材から交換、等価素材と交換を選んで、<br>レートに応じて交換します。"
+      "iname": "EX_JB_JBEX",
+      "icon": "IT_JBEX_SWORD",
+      "rate_iname": "EX_RATE_JB_JBEX"
     },
     {
-      "key": "DIALOG_002_T",
-      "value": "◆逆引き◆"
+      "iname": "EX_AW_MTPI",
+      "icon": "IT_AW_MTPI_I_UR",
+      "rate_iname": "EX_RATE_AW_MTPI"
     },
     {
-      "key": "DIALOG_002_M",
-      "value": "メニューの「ユニット」の<br>「ジョブ強化素材」からも<br>検索して「アイテム交換」することもできます。"
+      "iname": "EX_AF_RESET",
+      "icon": "IT_AF_RESET",
+      "rate_iname": "EX_RATE_AF_RESET"
     },
     {
-      "key": "DIALOG_003_T",
-      "value": "◆下位素材から交換◆"
+      "iname": "EX_AF_PT",
+      "icon": "IT_AF_PT_ATK",
+      "rate_iname": "EX_RATE_AF_PT"
     },
     {
-      "key": "DIALOG_003_M",
-      "value": "◆下位素材から交換◆<br>蒼輝の幻球を使って星虹の幻球にするなど、<br>よりレア度の高いアイテムへ交換します。"
+      "iname": "EX_AF_EXP",
+      "icon": "IT_AF_EXP_03",
+      "rate_iname": "EX_RATE_AF_EXP"
     },
     {
-      "key": "DIALOG_004_T",
-      "value": "◆上位素材から交換◆"
+      "iname": "EX_AF_AW",
+      "icon": "IT_AF_AW_SWORD",
+      "rate_iname": "EX_RATE_AF_AW"
     },
     {
-      "key": "DIALOG_004_M",
-      "value": "◆上位素材から交換◆<br>白銀の幻球を使って赤銅の幻球にするなど、<br>よりレア度の低いアイテムへ交換します。"
-    },
-    {
-      "key": "DIALOG_005_T",
-      "value": "◆等価素材と交換◆"
-    },
-    {
-      "key": "DIALOG_005_M",
-      "value": "◆等価素材と交換◆<br>火の輝石を使って水の輝石にするなど、<br>属性違いのものと交換します。"
-    },
-    {
-      "key": "DIALOG_006_T",
-      "value": "◆ジョブ強化◆"
-    },
-    {
-      "key": "DIALOG_006_M",
-      "value": "ジョブ強化の素材に関しては<br>ユニット詳細からも交換できます。"
-    },
-    {
-      "key": "DIALOG_007_T",
-      "value": "◆ゲージ◆"
-    },
-    {
-      "key": "DIALOG_007_M",
-      "value": "スライドバーを左右に動かすと<br>交換する数を変えることができます。"
-    },
-    {
-      "key": "DIALOG_008_T",
-      "value": "◆交換内容◆"
-    },
-    {
-      "key": "DIALOG_008_M",
-      "value": "左側にある交換元のアイテムから<br>右側の交換先のアイテムに交換できます。"
-    },
-    {
-      "key": "SKIP_TITLE",
-      "value": "◆アイテム交換◆"
-    },
-    {
-      "key": "SKIP_MSG",
-      "value": "アイテム交換に関するチュートリアルを見ますか？"
-    },
-    {
-      "key": "SKIP_YES",
-      "value": "はい"
-    },
-    {
-      "key": "SKIP_NO",
-      "value": "いいえ"
+      "iname": "EX_AF_SUP",
+      "icon": "IT_AF_SUP_HP",
+      "rate_iname": "EX_RATE_AF_SUP"
     }
   ]
 }

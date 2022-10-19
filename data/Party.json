@@ -1,40 +1,69 @@
 {
-  "infos": [
+  "items": [
     {
-      "key": "TALK_001",
-      "value": "「おまかせ編成」を使うと、<br>強いメンバーを自動的に選出して<br>編成することができます。"
+      "type": 1,
+      "team": 20,
+      "slot": 5
     },
     {
-      "key": "TALK_002",
-      "value": "無事編成できたようですね。"
+      "type": 2,
+      "team": 10,
+      "slot": 4
     },
     {
-      "key": "TALK_003",
-      "value": "慣れないうちは、もしくは慣れてきた後でも<br>手早く編成をしたいときなどに<br>お使いください。"
+      "type": 4,
+      "team": 10,
+      "slot": 4
     },
     {
-      "key": "DIALOG_001_T",
-      "value": "◆おまかせ編成◆"
+      "type": 3,
+      "team": 10,
+      "slot": 3
     },
     {
-      "key": "DIALOG_001_M",
-      "value": "◆おまかせ編成◆<br><color=#00ffff>おまかせ編成</color>では<color=#00ffff>自動</color>で<br><color=#00ffff>優先する項目</color>に沿って<color=#00ffff>最適な編成</color>を<br>おこなってくれます。"
+      "type": 5,
+      "team": 5,
+      "slot": 3
     },
     {
-      "key": "SKIP_TITLE",
-      "value": "◆編成◆"
+      "type": 6,
+      "team": 5,
+      "slot": 3
     },
     {
-      "key": "SKIP_MSG",
-      "value": "編成のチュートリアルを見ますか？"
+      "type": 7,
+      "team": 10,
+      "slot": 5
     },
     {
-      "key": "SKIP_YES",
-      "value": "はい"
+      "type": 8,
+      "team": 10,
+      "slot": 5
     },
     {
-      "key": "SKIP_NO",
-      "value": "いいえ"
+      "type": 9,
+      "team": 50,
+      "slot": 3
+    },
+    {
+      "type": 10,
+      "team": 50,
+      "slot": 3
+    },
+    {
+      "type": 11,
+      "team": 5,
+      "slot": 6
+    },
+    {
+      "type": 12,
+      "team": 100,
+      "slot": 5
+    },
+    {
+      "type": 13,
+      "team": 50,
+      "slot": 5
     }
   ]
 }
