@@ -28549,11 +28549,21 @@
       "iname": "BUFF_LW_MHA_EN_A_01",
       "rate": 25,
       "turn": 3,
-      "timing": 1,
+      "timing": 2,
       "chktgt": 0,
       "chktiming": 2,
       "type1": 92,
       "calc1": 30
+    },
+    {
+      "iname": "BUFF_LW_MHA_EN_A_01_2",
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 6,
+      "type1": 348,
+      "calc1": 1,
+      "val1": 50,
+      "val11": 100
     },
     {
       "iname": "BUFF_LW_EC_MHA_C_01B_S",

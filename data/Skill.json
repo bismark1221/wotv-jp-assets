@@ -105887,6 +105887,7 @@
       "timing": 0,
       "eff_type": 2,
       "target": 12,
+      "hit": 100,
       "atk_type": 2,
       "atk_base": 3,
       "atk_formula": 0,
@@ -105896,10 +105897,13 @@
       "atk_det": 5,
       "def_wep": "AF_LW_BOK_INIT",
       "elem_pri": 1,
-      "eff_val": 65,
-      "eff_val1": 100,
+      "eff_val": 110,
+      "ira_val": 50,
+      "eff_val1": 150,
+      "ira_val1": 100,
       "t_buffs": [
-        "BUFF_LW_MHA_EN_A_01"
+        "BUFF_LW_MHA_EN_A_01",
+        "BUFF_LW_MHA_EN_A_01_2"
       ]
     },
     {
