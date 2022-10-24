@@ -598,6 +598,51 @@
           "iname": "BUFF_LW_MHA_S_2_S"
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_SCR_M_1",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 86,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_SCR_M_1_2"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_RDM_S_4",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 95,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_RDM_S_4_T_3"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_MNK_S_4",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 102,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_MNK_S_4_T_2"
+        }
+      ]
     }
   ]
 }
