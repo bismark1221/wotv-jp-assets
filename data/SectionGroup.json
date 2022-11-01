@@ -78,6 +78,9 @@
       "section_list": [
         {
           "section": "SE_EV_AEX_020101"
+        },
+        {
+          "section": "SE_EV_AEX_020201"
         }
       ],
       "banner": "ev_ast_ex_02",
@@ -391,6 +394,19 @@
         }
       ],
       "banner": "ev_arti_crft_23",
+      "bg": "UN_LW_P_MONT"
+    },
+    {
+      "iname": "SEG_ART_CRF_24",
+      "section_list": [
+        {
+          "section": "SE_EV_ART_CRF_24"
+        },
+        {
+          "section": "SE_MU_ART_CRF_24"
+        }
+      ],
+      "banner": "ev_arti_crft_24",
       "bg": "UN_LW_P_MONT"
     },
     {
@@ -944,6 +960,16 @@
         }
       ],
       "banner": "ev_rank_01",
+      "bg": "UN_LW_P_MONT"
+    },
+    {
+      "iname": "SEG_RANK_02",
+      "section_list": [
+        {
+          "section": "SE_EV_RANK_02"
+        }
+      ],
+      "banner": "ev_rank_02",
       "bg": "UN_LW_P_MONT"
     }
   ]

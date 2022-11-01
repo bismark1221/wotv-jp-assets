@@ -15972,6 +15972,201 @@
       "val21": 24
     },
     {
+      "iname": "BUFF_LW_LLGA_M_1",
+      "turn": 3,
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 156,
+      "calc1": 1,
+      "val1": -10,
+      "val11": -25
+    },
+    {
+      "iname": "BUFF_LW_LLGA_M_2",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 28,
+      "calc1": 1,
+      "val1": -1,
+      "val11": -1
+    },
+    {
+      "iname": "BUFF_LW_LLGA_M_3_T",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 81,
+      "calc1": 11,
+      "val1": 5,
+      "val11": 10
+    },
+    {
+      "iname": "BUFF_LW_LLGA_M_3_S_1",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 314,
+      "calc1": 1,
+      "val1": 20,
+      "val11": 40
+    },
+    {
+      "iname": "BUFF_LW_LLGA_M_3_S_2",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 3,
+      "calc1": 10,
+      "val1": 10,
+      "val11": 20
+    },
+    {
+      "iname": "BUFF_LW_LLGA_S_1",
+      "turn": 1,
+      "timing": 1,
+      "chktgt": 1,
+      "chktiming": 6,
+      "type1": 64,
+      "calc1": 3,
+      "val1": -10,
+      "val11": -25
+    },
+    {
+      "iname": "BUFF_LW_LLGA_S_2_1",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "no_dupli": 1,
+      "type1": 152,
+      "calc1": 1,
+      "val1": 1,
+      "val11": 1
+    },
+    {
+      "iname": "BUFF_LW_LLGA_S_2_2",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 180,
+      "calc1": 1,
+      "val1": -4,
+      "val11": -6
+    },
+    {
+      "iname": "BUFF_LW_LLGA_S_3",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 26,
+      "calc1": 2,
+      "val1": -10,
+      "val11": -20
+    },
+    {
+      "iname": "BUFF_LW_LLGA_S_4",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 4,
+      "calc1": 10,
+      "val1": 100,
+      "val11": 250
+    },
+    {
+      "iname": "BUFF_LW_LLGA_S_5",
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 1,
+      "calc1": 11,
+      "val1": 10,
+      "val11": 30
+    },
+    {
+      "iname": "BUFF_LW_LLGA_R_1",
+      "rate": 25,
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 99,
+      "calc1": 30
+    },
+    {
+      "iname": "BUFF_LW_LLGA_P_1",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 152,
+      "calc1": 1,
+      "val1": 1,
+      "val11": 1,
+      "type2": 327,
+      "calc2": 1,
+      "val2": 20,
+      "val21": 40
+    },
+    {
+      "iname": "BUFF_LW_LLGA_P_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 151,
+      "calc1": 1,
+      "val1": 5,
+      "val11": 15,
+      "type2": 155,
+      "calc2": 1,
+      "val2": 10,
+      "val21": 25,
+      "type3": 28,
+      "calc3": 1,
+      "val3": -1,
+      "val31": -1
+    },
+    {
+      "iname": "BUFF_LW_LLGA_EN_A_01",
+      "rate": 200,
+      "turn": 1,
+      "timing": 1,
+      "chktgt": 1,
+      "chktiming": 1,
+      "type1": 512,
+      "calc1": 30,
+      "id1": "SK_LW_LLGA_EN_A_01_AD"
+    },
+    {
+      "iname": "BUFF_LW_EC_LLGA_C_01_B",
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 105,
+      "calc1": 31,
+      "type2": 106,
+      "calc2": 31
+    },
+    {
+      "iname": "BUFF_LW_EC_LLGA_C_02_B",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 152,
+      "calc1": 1,
+      "val1": 2,
+      "val11": 2,
+      "type2": 327,
+      "calc2": 1,
+      "val2": 20,
+      "val21": 40
+    },
+    {
       "iname": "BUFF_LW_BLM_BGN_M_3_T",
       "rate": 100,
       "turn": 3,
@@ -23004,6 +23199,28 @@
       "type1": 512,
       "calc1": 30,
       "id1": "SK_LB_LW_LUCA_01_AD"
+    },
+    {
+      "iname": "BUFF_LB_LW_LLGA_1",
+      "turn": 3,
+      "timing": 1,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 21,
+      "calc1": 2,
+      "val1": 20,
+      "val11": 40
+    },
+    {
+      "iname": "BUFF_LB_LW_LLGA_2",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 2,
+      "type1": 83,
+      "calc1": 11,
+      "val1": 2,
+      "val11": 5
     },
     {
       "iname": "BUFF_SMN_THDG",
@@ -37599,6 +37816,40 @@
       "val21": 10
     },
     {
+      "iname": "BUFF_MA_LW_LLGA",
+      "conds": [
+        14
+      ],
+      "continues": [
+        14
+      ],
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 1,
+      "calc1": 2,
+      "val1": 10,
+      "val11": 10,
+      "type2": 45,
+      "calc2": 1,
+      "val2": 15,
+      "val21": 15
+    },
+    {
+      "iname": "BUFF_MA_LW_LLGA_S",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 316,
+      "calc1": 1,
+      "val1": 20,
+      "val11": 20,
+      "type2": 21,
+      "calc2": 2,
+      "val2": 10,
+      "val21": 10
+    },
+    {
       "iname": "BUFF_VC_LW_GLEM_GS",
       "timing": 0,
       "chktgt": 0,
@@ -42463,6 +42714,36 @@
       "calc2": 1,
       "val2": 4,
       "val21": 4
+    },
+    {
+      "iname": "BUFF_VC_LW_WEDDING_GS",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 7,
+      "val11": 15
+    },
+    {
+      "iname": "BUFF_VC_LW_WEDDING_GS_AW",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 1,
+      "val11": 5
+    },
+    {
+      "iname": "BUFF_VC_LW_WEDDING_GSMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 5,
+      "val11": 5
     },
     {
       "iname": "BUFF_VC_LW_IGNT_GS",
@@ -48431,6 +48712,66 @@
       "calc1": 1,
       "val1": 20,
       "val11": 20
+    },
+    {
+      "iname": "BUFF_VC_LW_WEDDING_GS_2",
+      "conds": [
+        11
+      ],
+      "continues": [
+        11
+      ],
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 120,
+      "calc1": 30,
+      "val1": 0,
+      "val11": 0,
+      "tag1": [
+        105
+      ]
+    },
+    {
+      "iname": "BUFF_VC_LW_WEDDING_GS_AW_2",
+      "conds": [
+        11
+      ],
+      "continues": [
+        11
+      ],
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 120,
+      "calc1": 30,
+      "val1": 0,
+      "val11": 0,
+      "tag1": [
+        105
+      ]
+    },
+    {
+      "iname": "BUFF_VC_LW_WEDDING_GSMAX_2",
+      "conds": [
+        11
+      ],
+      "continues": [
+        11
+      ],
+      "rate": 200,
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 120,
+      "calc1": 30,
+      "val1": 25,
+      "val11": 25,
+      "tag1": [
+        105
+      ]
     },
     {
       "iname": "BUFF_VC_LW_IGNT_GS_2",
@@ -56383,6 +56724,36 @@
       "val11": 2
     },
     {
+      "iname": "BUFF_VC_LW_WEDDING_P",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 194,
+      "calc1": 2,
+      "val1": 15,
+      "val11": 30
+    },
+    {
+      "iname": "BUFF_VC_LW_WEDDING_PAW",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 194,
+      "calc1": 2,
+      "val1": 1,
+      "val11": 10
+    },
+    {
+      "iname": "BUFF_VC_LW_WEDDING_PMAX",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 194,
+      "calc1": 2,
+      "val1": 10,
+      "val11": 10
+    },
+    {
       "iname": "BUFF_VC_LW_IGNT_P",
       "timing": 0,
       "chktgt": 0,
@@ -62712,6 +63083,60 @@
       ]
     },
     {
+      "iname": "BUFF_LW_GUN_014_1",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 2,
+      "val11": 2
+    },
+    {
+      "iname": "BUFF_LW_GUN_014_2",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 3,
+      "val11": 3
+    },
+    {
+      "iname": "BUFF_LW_GUN_014_3",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 5,
+      "val11": 5
+    },
+    {
+      "iname": "BUFF_LW_GUN_014_4",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 7,
+      "val11": 7
+    },
+    {
+      "iname": "BUFF_LW_GUN_014_5",
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 158,
+      "calc1": 1,
+      "val1": 15,
+      "val11": 15,
+      "type2": 157,
+      "calc2": 1,
+      "val2": 15,
+      "val21": 15
+    },
+    {
       "iname": "BUFF_LW_PLUS6_1_1",
       "timing": 0,
       "chktgt": 0,
@@ -67391,6 +67816,21 @@
       "val11": 2000
     },
     {
+      "iname": "BUFF_ACC_LW_LLGA_1",
+      "turn": 3,
+      "timing": 2,
+      "chktgt": 0,
+      "chktiming": 1,
+      "type1": 22,
+      "calc1": 1,
+      "val1": 10,
+      "val11": 20,
+      "type2": 105,
+      "calc2": 30,
+      "val2": 10,
+      "val21": 25
+    },
+    {
       "iname": "BUFF_HAT_LW_WHIS_1_2",
       "timing": 0,
       "chktgt": 0,
@@ -71638,6 +72078,22 @@
       "calc1": 2,
       "val1": 30,
       "val11": 30
+    },
+    {
+      "iname": "BUFF_GVG_034",
+      "conds": [
+        14
+      ],
+      "continues": [
+        14
+      ],
+      "timing": 0,
+      "chktgt": 0,
+      "chktiming": 0,
+      "type1": 310,
+      "calc1": 1,
+      "val1": 20,
+      "val11": 20
     },
     {
       "iname": "BUFF_CLASSMATCH_001",

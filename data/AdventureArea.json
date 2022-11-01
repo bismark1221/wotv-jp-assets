@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "area_iname": "AD_AREA_3RDANV",
+      "banner": "ExpeditionBanner_Anniversary3_bouquet_1",
+      "header": "ExpeditionHeader_Anniversary3_bouquet_1",
+      "begin_at": "2022/11/1 0:00:00",
+      "end_at": "2022/11/8 14:59:59",
+      "drop": [
+        {
+          "drop_area_id": "AD_AREA_3RDANV"
+        }
+      ]
+    },
+    {
       "area_iname": "AD_AREA_DQTC_01",
       "banner": "ExpeditionBanner_DQT_1",
       "header": "ExpeditionHeader_DQT_1",
@@ -513,6 +525,11 @@
         {
           "drop_area_id": "AD_AREA_SOIL_06",
           "drop_start_at": "2022/07/15 10:30:00",
+          "drop_end_at": "2022/10/31 23:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_SOIL_07",
+          "drop_start_at": "2022/11/01",
           "drop_end_at": "2120/10/01"
         }
       ]

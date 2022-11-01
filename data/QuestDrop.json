@@ -350,6 +350,7 @@
         "QE_EV_ALIA_01",
         "QE_EV_HLNA_02_01",
         "QE_EV_PRNE_01",
+        "QE_EV_LLGA_01",
         "QE_EV_FF1_01",
         "QE_EV_FF1_02",
         "QE_EV_FFT_01",
@@ -973,6 +974,7 @@
         "QE_EV_ALIA_01",
         "QE_EV_HLNA_02_01",
         "QE_EV_PRNE_01",
+        "QE_EV_LLGA_01",
         "QE_EV_FF1_03",
         "QE_EV_FF1_04",
         "QE_EV_FF1_05",
@@ -1722,6 +1724,7 @@
         "QE_EV_ALIA_02",
         "QE_EV_HLNA_02_02",
         "QE_EV_PRNE_02",
+        "QE_EV_LLGA_02",
         "QE_EV_FF1_07",
         "QE_EV_FF1_08",
         "QE_EV_FF1_09",
@@ -2246,6 +2249,7 @@
         "QE_HA_LW_SHLS",
         "QE_HA_LW_IBRA",
         "QE_HA_LW_PRNE",
+        "QE_HA_LW_LLGA",
         "QE_EV_AST_020207",
         "QE_EV_AST_020208",
         "QE_EV_AST_020209",
@@ -2286,6 +2290,7 @@
         "QE_EV_ALIA_02",
         "QE_EV_HLNA_02_02",
         "QE_EV_PRNE_02",
+        "QE_EV_LLGA_02",
         "QE_EV_FFT_10",
         "QE_BR_SHINE_07",
         "QE_BR_SHINE_08",
@@ -2558,7 +2563,8 @@
         "QE_EV_GRSR_02_03",
         "QE_EV_ALIA_03",
         "QE_EV_HLNA_02_03",
-        "QE_EV_PRNE_03"
+        "QE_EV_PRNE_03",
+        "QE_EV_LLGA_03"
       ]
     },
     {
@@ -4522,6 +4528,7 @@
         "QE_HA_LW_JUME",
         "QE_HA_LW_IREZ",
         "QE_HA_LW_GR_02",
+        "QE_HA_LW_LLGA",
         "QE_EV_AST_020207",
         "QE_EV_AST_020110",
         "QE_EV_AST_010508",
@@ -5600,6 +5607,7 @@
         "QE_HA_LW_IREZ",
         "QE_HA_LW_ALIA",
         "QE_HA_LW_SHLS",
+        "QE_HA_LW_LLGA",
         "QE_EV_AST_020209",
         "QE_EV_AST_010302",
         "QE_EV_AST_010309"
@@ -5698,6 +5706,7 @@
         "QE_EV_AST_020203",
         "QE_EV_JDN_01",
         "QE_EV_ALIA_01",
+        "QE_EV_LLGA_01",
         "QE_EV_FFT02_01",
         "QE_EV_FF15_02",
         "QE_EV_17_01",
@@ -5784,6 +5793,7 @@
         "QE_EV_AST_010206",
         "QE_EV_JDN_01",
         "QE_EV_ALIA_01",
+        "QE_EV_LLGA_01",
         "QE_EV_FFT02_03",
         "QE_EV_FF15_04",
         "QE_EV_FF15_06",
@@ -5886,6 +5896,7 @@
         "QE_EV_AST_010206",
         "QE_EV_JDN_02",
         "QE_EV_ALIA_02",
+        "QE_EV_LLGA_02",
         "QE_EV_FFT02_05",
         "QE_EV_FF15_08",
         "QE_EV_FF15_10",
@@ -5963,12 +5974,14 @@
         "QE_HA_LW_JEDN",
         "QE_HA_LW_ALIA",
         "QE_HA_LW_SHLS",
+        "QE_HA_LW_LLGA",
         "QE_EV_AST_020210",
         "QE_EV_AST_010407",
         "QE_EV_AST_010303",
         "QE_EV_AST_010310",
         "QE_EV_JDN_02",
-        "QE_EV_ALIA_02"
+        "QE_EV_ALIA_02",
+        "QE_EV_LLGA_02"
       ]
     },
     {
@@ -6021,7 +6034,8 @@
         "QE_ST_02110210",
         "QE_ST_02110307",
         "QE_EV_JDN_03",
-        "QE_EV_ALIA_03"
+        "QE_EV_ALIA_03",
+        "QE_EV_LLGA_03"
       ]
     },
     {
@@ -9169,6 +9183,7 @@
         "QE_HA_LW_ALIM",
         "QE_HA_LW_DEAN",
         "QE_HA_LW_JUME",
+        "QE_HA_LW_LLGA",
         "QE_EV_AST_010408"
       ]
     },
@@ -13150,6 +13165,7 @@
         "QE_HA_LW_CWEL",
         "QE_HA_LW_STIA",
         "QE_HA_LW_ASTR",
+        "QE_HA_LW_LLGA",
         "QE_EV_AST_010506"
       ]
     },
@@ -18394,6 +18410,103 @@
       ]
     },
     {
+      "iname": "IT_JB_MM_LLGA",
+      "questlist": [
+        "QE_ST_01010201",
+        "QE_ST_01070106",
+        "QE_ST_01100101",
+        "QE_ST_01130101",
+        "QE_ST_02010102",
+        "QE_ST_02040202",
+        "QE_ST_02070101",
+        "QE_ST_02110101",
+        "QE_ST_03010101",
+        "QE_EV_LLGA_01"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LLGA_2",
+      "questlist": [
+        "QE_ST_01070106",
+        "QE_ST_01080104",
+        "QE_ST_01100101",
+        "QE_ST_01110101",
+        "QE_ST_01130101",
+        "QE_ST_01140209",
+        "QE_ST_02010102",
+        "QE_ST_02020201",
+        "QE_ST_02040202",
+        "QE_ST_02050306",
+        "QE_ST_02070101",
+        "QE_ST_02080103",
+        "QE_ST_02100105",
+        "QE_ST_02110101",
+        "QE_ST_03010101",
+        "QE_EV_LLGA_01"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LLGA_3",
+      "questlist": [
+        "QE_ST_01020306",
+        "QE_ST_01030306",
+        "QE_ST_01040103",
+        "QE_ST_01080104",
+        "QE_ST_01090101",
+        "QE_ST_01110101",
+        "QE_ST_01120101",
+        "QE_ST_01140209",
+        "QE_ST_01150109",
+        "QE_ST_02020201",
+        "QE_ST_02030209",
+        "QE_ST_02050306",
+        "QE_ST_02060204",
+        "QE_ST_02080103",
+        "QE_ST_02090105",
+        "QE_ST_02100105",
+        "QE_ST_02120101",
+        "QE_ST_03010101",
+        "QE_EV_LLGA_02",
+        "QE_EV_AEX_212_1",
+        "QE_EV_AEX_212_2"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LLGA_4",
+      "questlist": [
+        "QE_EV_AW_H09_7",
+        "QE_ST_01050108",
+        "QE_ST_01060105",
+        "QE_ST_01090101",
+        "QE_ST_01120101",
+        "QE_ST_01150109",
+        "QE_ST_02030209",
+        "QE_ST_02060204",
+        "QE_ST_02090105",
+        "QE_ST_02120101",
+        "QE_HA_LW_LLGA",
+        "QE_EV_LLGA_02",
+        "QE_EV_AEX_212_1",
+        "QE_EV_AEX_212_2"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_LLGA_5",
+      "questlist": [
+        "QE_EV_AW_H13_7",
+        "QE_EV_AW_H15_7",
+        "QE_ST_01070106",
+        "QE_ST_01100101",
+        "QE_ST_01130101",
+        "QE_ST_02010102",
+        "QE_ST_02040202",
+        "QE_ST_02070101",
+        "QE_ST_02110101",
+        "QE_EV_LLGA_03",
+        "QE_EV_LLGA_04"
+      ]
+    },
+    {
       "iname": "IT_JB_EM_FIRE_1",
       "questlist": [
         "QE_EV_AW_FIRE_01",
@@ -19449,6 +19562,7 @@
         "QE_EV_AST_010402",
         "QE_EV_OBR_01",
         "QE_EV_MACR_02_01",
+        "QE_EV_LLGA_01",
         "QE_EV_FFT02_01",
         "QE_EV_FF15_01",
         "QE_EV_18_01",
@@ -19539,6 +19653,7 @@
         "QE_EV_AST_010206",
         "QE_EV_OBR_01",
         "QE_EV_MACR_02_01",
+        "QE_EV_LLGA_01",
         "QE_EV_FFT02_03",
         "QE_EV_FF15_03",
         "QE_EV_FF15_05",
@@ -19641,6 +19756,7 @@
         "QE_EV_AST_010206",
         "QE_EV_OBR_02",
         "QE_EV_MACR_02_02",
+        "QE_EV_LLGA_02",
         "QE_EV_FFT02_05",
         "QE_EV_FF15_07",
         "QE_EV_FF15_09",
@@ -19716,12 +19832,14 @@
         "QE_HA_LW_OBRN",
         "QE_HA_LW_MA_02",
         "QE_HA_LW_URAL",
+        "QE_HA_LW_LLGA",
         "QE_EV_AST_020210",
         "QE_EV_AST_010508",
         "QE_EV_AST_010410",
         "QE_EV_AST_010304",
         "QE_EV_OBR_02",
         "QE_EV_MACR_02_02",
+        "QE_EV_LLGA_02",
         "QE_BR_SOIL_07",
         "QE_BR_SOIL_08",
         "QE_BR_SOIL_09"
@@ -19762,7 +19880,8 @@
         "QE_ST_02110210",
         "QE_ST_02110308",
         "QE_EV_OBR_03",
-        "QE_EV_MACR_02_03"
+        "QE_EV_MACR_02_03",
+        "QE_EV_LLGA_03"
       ]
     },
     {
@@ -22569,6 +22688,7 @@
         "QE_EV_MACR_02_01",
         "QE_EV_ALIA_01",
         "QE_EV_HLNA_02_01",
+        "QE_EV_LLGA_01",
         "QE_EV_FF1_01",
         "QE_EV_FFT_01",
         "QE_EV_FFT_02",
@@ -22878,6 +22998,7 @@
         "QE_EV_MACR_02_01",
         "QE_EV_ALIA_01",
         "QE_EV_HLNA_02_01",
+        "QE_EV_LLGA_01",
         "QE_EV_FF1_03",
         "QE_EV_FF1_05",
         "QE_EV_FFT_03",
@@ -23258,6 +23379,7 @@
         "QE_EV_MACR_02_02",
         "QE_EV_ALIA_02",
         "QE_EV_HLNA_02_02",
+        "QE_EV_LLGA_02",
         "QE_EV_FF1_07",
         "QE_EV_FF1_09",
         "QE_EV_FFT_05",
@@ -23526,6 +23648,7 @@
         "QE_HA_LW_SHNC",
         "QE_HA_LW_ALIA",
         "QE_HA_LW_IBRA",
+        "QE_HA_LW_LLGA",
         "QE_EV_AST_020208",
         "QE_EV_AST_020210",
         "QE_EV_AST_020108",
@@ -23543,6 +23666,7 @@
         "QE_EV_MACR_02_02",
         "QE_EV_ALIA_02",
         "QE_EV_HLNA_02_02",
+        "QE_EV_LLGA_02",
         "QE_EV_FFT_10",
         "QE_BR_SHINE_08",
         "QE_BR_SHINE_09",
@@ -23689,7 +23813,8 @@
         "QE_EV_JDN_03",
         "QE_EV_MACR_02_03",
         "QE_EV_ALIA_03",
-        "QE_EV_HLNA_02_03"
+        "QE_EV_HLNA_02_03",
+        "QE_EV_LLGA_03"
       ]
     },
     {
@@ -23903,7 +24028,8 @@
       "questlist": [
         "QE_EV_AW_EAR_06",
         "QE_EV_OBR_04",
-        "QE_EV_MACR_02_04"
+        "QE_EV_MACR_02_04",
+        "QE_EV_LLGA_04"
       ]
     },
     {
@@ -23974,7 +24100,8 @@
         "QE_EV_AW_H15_2",
         "QE_EV_AW_H15_1",
         "QE_EV_JDN_04",
-        "QE_EV_ALIA_04"
+        "QE_EV_ALIA_04",
+        "QE_EV_LLGA_04"
       ]
     },
     {
@@ -25584,6 +25711,12 @@
       "iname": "IT_PI_LW_PRNE",
       "questlist": [
         "QE_HA_LW_PRNE"
+      ]
+    },
+    {
+      "iname": "IT_PI_LW_LLGA",
+      "questlist": [
+        "QE_HA_LW_LLGA"
       ]
     },
     {
