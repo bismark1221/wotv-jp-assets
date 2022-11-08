@@ -1321,6 +1321,10 @@
       "value": "ケアルガ"
     },
     {
+      "key": "SK_LW_WHM_S_4_1_PRAY",
+      "value": "ケアルガ"
+    },
+    {
       "key": "SK_LW_WHM_M_4",
       "value": "リジェネ"
     },
@@ -1806,11 +1810,11 @@
     },
     {
       "key": "SK_LW_TIM_M_5",
-      "value": "メテオ"
+      "value": "メテオ＋"
     },
     {
       "key": "SK_LW_TIM_S_2",
-      "value": "ストップ"
+      "value": "ストップダウン"
     },
     {
       "key": "SK_LW_TIM_M_4",
@@ -1822,11 +1826,11 @@
     },
     {
       "key": "SK_LW_TIM_S_3_INIT",
-      "value": "ドンムブ"
+      "value": "ヘビードンムブ"
     },
     {
       "key": "SK_LW_TIM_M_1",
-      "value": "ヘイスト"
+      "value": "ガードヘイスト"
     },
     {
       "key": "SK_LW_TIM_S_4",
@@ -1838,7 +1842,7 @@
     },
     {
       "key": "SK_LW_TIM_S_1",
-      "value": "スロウ"
+      "value": "スロウダウン"
     },
     {
       "key": "SK_LW_TIM_R_1",
@@ -1854,11 +1858,11 @@
     },
     {
       "key": "SK_LW_TIM_M_5_SUB",
-      "value": "メテオ"
+      "value": "メテオ＋"
     },
     {
       "key": "SK_LW_TIM_S_2_SUB",
-      "value": "ストップ"
+      "value": "ストップダウン"
     },
     {
       "key": "SK_LW_TIM_M_4_SUB",
@@ -1870,7 +1874,7 @@
     },
     {
       "key": "SK_LW_TIM_S_3",
-      "value": "ドンムブ"
+      "value": "ヘビードンムブ"
     },
     {
       "key": "SK_LW_GLMS_ATK",
@@ -5281,6 +5285,10 @@
       "value": "いのり"
     },
     {
+      "key": "SK_FF7_AERT_M_1_B",
+      "value": "いのり"
+    },
+    {
       "key": "SK_FF7_AERT_M_2",
       "value": "ジャッジメントレイ"
     },
@@ -5334,6 +5342,10 @@
     },
     {
       "key": "SK_FF7_EC_AERT_C_02B",
+      "value": "聖なるいのり"
+    },
+    {
+      "key": "SK_FF7_EC_AERT_C_02B_B",
       "value": "聖なるいのり"
     },
     {
@@ -9533,6 +9545,26 @@
       "value": "縛り喰い"
     },
     {
+      "key": "SK_MBAT_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_MBAT_M_01",
+      "value": "ひっかき"
+    },
+    {
+      "key": "SK_MBAT_M_02",
+      "value": "AP吸血"
+    },
+    {
+      "key": "SK_MBAT_M_03",
+      "value": "TP吸血"
+    },
+    {
+      "key": "SK_MBAT_M_04",
+      "value": "超高周波"
+    },
+    {
       "key": "SK_MRGE_ATK",
       "value": "通常攻撃"
     },
@@ -13526,15 +13558,15 @@
     },
     {
       "key": "SK_LW_EC_TIM_A_02",
-      "value": "ヘイスジャ"
+      "value": "ガードヘイスジャ"
     },
     {
       "key": "SK_LW_EC_TIM_C_03",
-      "value": "ストップ強化"
+      "value": "ストップダウン強化"
     },
     {
       "key": "SK_LW_EC_TIM_C_03B",
-      "value": "ストップ【遠見】"
+      "value": "ストップダウン【遠見】"
     },
     {
       "key": "SK_LW_EC_TIM_C_04",
@@ -13550,11 +13582,11 @@
     },
     {
       "key": "SK_LW_EC_TIM_C_05",
-      "value": "メテオ強化"
+      "value": "メテオ＋強化"
     },
     {
       "key": "SK_LW_EC_TIM_C_05B",
-      "value": "メテオ【狂星】"
+      "value": "メテオ＋【狂星】"
     },
     {
       "key": "SK_LW_EC_TIM_C_06",
@@ -13570,11 +13602,11 @@
     },
     {
       "key": "SK_LW_EC_TIM_C_07",
-      "value": "メテオ強化"
+      "value": "メテオ＋強化"
     },
     {
       "key": "SK_LW_EC_TIM_C_07B",
-      "value": "メテオ【解戻】"
+      "value": "メテオ＋【解戻】"
     },
     {
       "key": "SK_LW_EC_TIM_C_08",
@@ -13938,6 +13970,10 @@
     },
     {
       "key": "SK_LW_EC_WHM_C_05B",
+      "value": "ケアルガ【耐精】"
+    },
+    {
+      "key": "SK_LW_EC_WHM_C_05B_2",
       "value": "ケアルガ【耐精】"
     },
     {
@@ -15273,6 +15309,10 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_PRAY_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_FF14_YSTL",
       "value": "マスターアビリティ"
     },
@@ -15569,6 +15609,10 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_TREL_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_LW_RAIN",
       "value": "マスターアビリティ"
     },
@@ -15813,6 +15857,10 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_GABL_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_LW_ELSR",
       "value": "マスターアビリティ"
     },
@@ -15981,7 +16029,15 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF7_CLUD_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_FF7_TIFA",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_FF7_TIFA_2",
       "value": "マスターアビリティ"
     },
     {
@@ -15989,7 +16045,15 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF7_AERT_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_FF7_BART",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_FF7_BART_2",
       "value": "マスターアビリティ"
     },
     {
@@ -16018,6 +16082,10 @@
     },
     {
       "key": "SK_MA_LW_VLUC",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_VLUC_2",
       "value": "マスターアビリティ"
     },
     {
@@ -18357,6 +18425,26 @@
       "value": "填星百式専用パッシブ"
     },
     {
+      "key": "SK_FF7_GUN_000_1",
+      "value": "ガトリングガンパッシブ"
+    },
+    {
+      "key": "SK_FF7_GUN_000_2",
+      "value": "ガトリングガンパッシブ"
+    },
+    {
+      "key": "SK_FF7_GUN_000_3",
+      "value": "ガトリングガンパッシブ"
+    },
+    {
+      "key": "SK_FF7_GUN_000_4",
+      "value": "ガトリングガンパッシブ"
+    },
+    {
+      "key": "SK_FF7_GUN_000_5",
+      "value": "ガトリングガンパッシブ"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "フラタニティ 覚醒2"
     },
@@ -19865,6 +19953,10 @@
       "value": "レイズ無効"
     },
     {
+      "key": "SK_BTL_INV_EXT_ECHAIN",
+      "value": "エレメントチェイン継続無効"
+    },
+    {
       "key": "SK_BTL_HP_100-99900_U_PA",
       "value": "最大HP100-99900アップ(パッシブ）"
     },
@@ -20255,6 +20347,22 @@
     {
       "key": "SK_BTL_INVINCIBLE",
       "value": "無敵"
+    },
+    {
+      "key": "SK_BTL_BARRIER",
+      "value": "完全バリア（1回）"
+    },
+    {
+      "key": "SK_BTL_AP_LESS_1_100_U",
+      "value": "消費AP軽減率1-100アップ"
+    },
+    {
+      "key": "SK_BTL_GUTS_HP_70_MORE",
+      "value": "HP70%以上で致死ダメージを受けても生存"
+    },
+    {
+      "key": "SK_BTL_CRI_AP_RECOVREY",
+      "value": "クリティカル発生時APを回復"
     },
     {
       "key": "SK_BTL_JOB_THI_1_15_U",
