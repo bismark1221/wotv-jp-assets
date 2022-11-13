@@ -269,6 +269,26 @@
       "id": 54,
       "key": "PROXY_ON",
       "Action": 0
+    },
+    {
+      "id": 55,
+      "key": "NPC_GUILD_BATTLE_START",
+      "Action": 0
+    },
+    {
+      "id": 56,
+      "key": "NPC_GUILD_BATTLE_END",
+      "Action": 0
+    },
+    {
+      "id": 57,
+      "key": "NPC_GUILD_BATTLE_ATTACK",
+      "Action": 1
+    },
+    {
+      "id": 58,
+      "key": "NPC_GUILD_BATTLE_SUPPORT",
+      "Action": 1
     }
   ]
 }

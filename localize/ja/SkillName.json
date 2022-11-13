@@ -1830,7 +1830,7 @@
     },
     {
       "key": "SK_LW_TIM_M_1",
-      "value": "ガードヘイスト"
+      "value": "ヘイスト"
     },
     {
       "key": "SK_LW_TIM_S_4",
@@ -4793,6 +4793,10 @@
       "value": "癒壊の法閃"
     },
     {
+      "key": "SK_LW_LIB_FIRE_M_2",
+      "value": "火召の陣"
+    },
+    {
       "key": "SK_LW_LIB_SOIL_M_2",
       "value": "土召の陣"
     },
@@ -4855,6 +4859,10 @@
     {
       "key": "SK_LW_LIB_M_1_B_SUB",
       "value": "癒壊の法閃"
+    },
+    {
+      "key": "SK_LW_LIB_FIRE_M_2_SUB",
+      "value": "火召の陣"
     },
     {
       "key": "SK_LW_LIB_SOIL_M_2_SUB",
@@ -8501,6 +8509,150 @@
       "value": "陸戦の狙撃術"
     },
     {
+      "key": "SK_FF7_SPRT_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_FF7_SPRT_M_1",
+      "value": "獄門"
+    },
+    {
+      "key": "SK_FF7_SPRT_M_2",
+      "value": "ダークウォール"
+    },
+    {
+      "key": "SK_FF7_SPRT_M_3",
+      "value": "動地"
+    },
+    {
+      "key": "SK_FF7_SPRT_S_1",
+      "value": "一陣"
+    },
+    {
+      "key": "SK_FF7_SPRT_S_2",
+      "value": "正宗の構え"
+    },
+    {
+      "key": "SK_FF7_SPRT_S_3",
+      "value": "運命の宣告"
+    },
+    {
+      "key": "SK_FF7_SPRT_S_4",
+      "value": "絶空"
+    },
+    {
+      "key": "SK_FF7_SPRT_R_1",
+      "value": "瞬避"
+    },
+    {
+      "key": "SK_FF7_SPRT_R_2",
+      "value": "閃光"
+    },
+    {
+      "key": "SK_FF7_SPRT_P_1",
+      "value": "星を巡る命の力"
+    },
+    {
+      "key": "SK_FF7_SPRT_P_2",
+      "value": "孤高の英雄"
+    },
+    {
+      "key": "SK_FF7_SPRT_EN_A_01",
+      "value": "シャドウフレア"
+    },
+    {
+      "key": "SK_FF7_SPRT_EN_A_01B",
+      "value": "シャドウフレア"
+    },
+    {
+      "key": "SK_FF7_EC_SPRT_C_01",
+      "value": "ダークウォール強化"
+    },
+    {
+      "key": "SK_FF7_EC_SPRT_C_01B",
+      "value": "ダークウォール改"
+    },
+    {
+      "key": "SK_FF7_EC_SPRT_C_02",
+      "value": "星を巡る命の力強化"
+    },
+    {
+      "key": "SK_FF7_EC_SPRT_C_02B",
+      "value": "星を巡る命の力・改"
+    },
+    {
+      "key": "SK_LW_AMNR_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_LW_AMNR_M_1",
+      "value": "煌棘"
+    },
+    {
+      "key": "SK_LW_AMNR_M_2",
+      "value": "抗う魔盾の刻"
+    },
+    {
+      "key": "SK_LW_AMNR_M_3",
+      "value": "弐封"
+    },
+    {
+      "key": "SK_LW_AMNR_S_1",
+      "value": "解蘇"
+    },
+    {
+      "key": "SK_LW_AMNR_S_2",
+      "value": "先なる癒しの刻"
+    },
+    {
+      "key": "SK_LW_AMNR_S_2B",
+      "value": "HP50％以下でHP回復"
+    },
+    {
+      "key": "SK_LW_AMNR_S_3",
+      "value": "奔る縮唱の刻"
+    },
+    {
+      "key": "SK_LW_AMNR_S_4",
+      "value": "天裁"
+    },
+    {
+      "key": "SK_LW_AMNR_R_1",
+      "value": "鈍き眠りの刻"
+    },
+    {
+      "key": "SK_LW_AMNR_P_1",
+      "value": "幻魔の粋"
+    },
+    {
+      "key": "SK_LW_AMNR_P_2",
+      "value": "預言者の幻視"
+    },
+    {
+      "key": "SK_LW_AMNR_EN_A_01",
+      "value": "解鎧"
+    },
+    {
+      "key": "SK_LW_AMNR_EN_A_01B",
+      "value": "解鎧"
+    },
+    {
+      "key": "SK_LW_EC_AMNR_C_01",
+      "value": "弐封強化"
+    },
+    {
+      "key": "SK_LW_EC_AMNR_C_01B",
+      "value": "参封"
+    },
+    {
+      "key": "SK_LW_EC_AMNR_C_02",
+      "value": "幻魔の粋強化"
+    },
+    {
+      "key": "SK_LW_EC_AMNR_C_02B",
+      "value": "幻魔の秘法"
+    },
+    {
       "key": "SK_LW_TU_BLM_ICE",
       "value": "ブリザラ"
     },
@@ -10003,6 +10155,30 @@
     {
       "key": "SK_SCPN_M_4",
       "value": "テイルレーザー"
+    },
+    {
+      "key": "SK_FF7_SCRT_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_FF7_SCRT_M_01",
+      "value": "マシンガン掃射"
+    },
+    {
+      "key": "SK_FF7_SCRT_M_02",
+      "value": "突進"
+    },
+    {
+      "key": "SK_FF7_SCRT_M_03",
+      "value": "援護射撃要請"
+    },
+    {
+      "key": "SK_FF7_SCRT_M_04",
+      "value": "スウィングブレード"
+    },
+    {
+      "key": "SK_FF7_SCRT_M_05",
+      "value": "ミサイル"
     },
     {
       "key": "SK_ENTP_ATK",
@@ -12429,6 +12605,14 @@
       "value": "惨射転変"
     },
     {
+      "key": "SK_LB_FF7_SPRT",
+      "value": "八刀一閃"
+    },
+    {
+      "key": "SK_LB_LW_AMNR",
+      "value": "来"
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "地獄の火炎"
     },
@@ -13558,7 +13742,7 @@
     },
     {
       "key": "SK_LW_EC_TIM_A_02",
-      "value": "ガードヘイスジャ"
+      "value": "ヘイスジャ"
     },
     {
       "key": "SK_LW_EC_TIM_C_03",
@@ -16329,6 +16513,134 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF7_SPRT",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_AMNR",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_UES_FF7_CLUD",
+      "value": "クラウド夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF7_EC_CLUD_A_01B",
+      "value": "メガスラッシュ"
+    },
+    {
+      "key": "SK_UES_FF7_TIFA",
+      "value": "ティファ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF7_EC_TIFA_A_01B",
+      "value": "強打コンビネーション"
+    },
+    {
+      "key": "SK_UES_FF7_BART",
+      "value": "バレット夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF7_EC_BART_C_01C",
+      "value": "超ド根性"
+    },
+    {
+      "key": "SK_UES_FF7_AERT",
+      "value": "エアリス夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF7_EC_AERT_A_01B",
+      "value": "リレイズ改"
+    },
+    {
+      "key": "SK_FF7_EC_AERT_A_01B_EN",
+      "value": "リレイズ後CTアップ"
+    },
+    {
+      "key": "SK_UES_LW_MONT",
+      "value": "モント夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_MONT_C_01C",
+      "value": "ドレインキラー"
+    },
+    {
+      "key": "SK_UES_LW_MONT_01",
+      "value": "王モント夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_MONT_01_C_01C",
+      "value": "リオニスの宿命"
+    },
+    {
+      "key": "SK_LW_EC_MONT_01_C_01C_EN",
+      "value": "HP50%以下でHP回復"
+    },
+    {
+      "key": "SK_UES_LW_ELDE",
+      "value": "エルデ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_LAN_A_01B",
+      "value": "リベンジスラスト"
+    },
+    {
+      "key": "SK_UES_LW_STRN",
+      "value": "シュテル夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_SWN_A_01B",
+      "value": "カラミティハザード"
+    },
+    {
+      "key": "SK_UES_LW_MDNA",
+      "value": "メディエナ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_BLM_A_01B_ICE",
+      "value": "ブリザラ【秘術】"
+    },
+    {
+      "key": "SK_UES_LW_MACR",
+      "value": "マシュリー夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_CLR_A_01B",
+      "value": "オーバーレイ"
+    },
+    {
+      "key": "SK_UES_LW_OBRN",
+      "value": "オベロン夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_OBRN_A_01B",
+      "value": "雷滅必中衝"
+    },
+    {
+      "key": "SK_UES_LW_NASR",
+      "value": "ナーシア夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_PLD_A_01B",
+      "value": "ディバインヴェール"
+    },
+    {
+      "key": "SK_UES_LW_RYER",
+      "value": "リレルリラ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_MGK_A_01B",
+      "value": "サイレススペル"
+    },
+    {
+      "key": "SK_UES_FF7_SPRT",
+      "value": "セフィロス夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_UES_LW_AMNR",
+      "value": "アムネリス夢幻転生パッシブ"
+    },
+    {
       "key": "SK_LW_SLASH_1",
       "value": "斬撃攻撃力+2"
     },
@@ -18445,6 +18757,46 @@
       "value": "ガトリングガンパッシブ"
     },
     {
+      "key": "SK_FF7_KAT_000_1",
+      "value": "正宗パッシブ"
+    },
+    {
+      "key": "SK_FF7_KAT_000_2",
+      "value": "正宗パッシブ"
+    },
+    {
+      "key": "SK_FF7_KAT_000_3",
+      "value": "正宗パッシブ"
+    },
+    {
+      "key": "SK_FF7_KAT_000_4",
+      "value": "正宗パッシブ"
+    },
+    {
+      "key": "SK_FF7_KAT_000_5",
+      "value": "正宗パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_032_1",
+      "value": "鯨の髭専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_032_2",
+      "value": "鯨の髭専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_032_3",
+      "value": "鯨の髭専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_032_4",
+      "value": "鯨の髭専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_032_5",
+      "value": "鯨の髭専用パッシブ"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "フラタニティ 覚醒2"
     },
@@ -19091,6 +19443,14 @@
     {
       "key": "SK_ACC_LW_LLGA_1",
       "value": "大地の防殻"
+    },
+    {
+      "key": "SK_CLT_FF7_SPRT_1",
+      "value": "英雄の覇気"
+    },
+    {
+      "key": "SK_CLT_LW_AMNR_1",
+      "value": "天帝の喚び声"
     },
     {
       "key": "SK_VC_LW_SCAL_PVA",
@@ -22207,6 +22567,110 @@
     {
       "key": "SK_TM_SETB_TP_3",
       "value": "最大TPアップ+10%・獲得APアップ+25%"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_PYSATK",
+      "value": "物理アタッカータイプ転生伸び値"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_PYSAVO",
+      "value": "物理回避タイプ転生伸び値"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_PYSSHOT",
+      "value": "物理射撃タイプ転生伸び値"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_PYSTANK",
+      "value": "物理タンクタイプ転生伸び値"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_MGKATK",
+      "value": "魔法アタッカータイプ転生伸び値"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_MGKAVO",
+      "value": "魔法回避タイプ転生伸び値"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_MGKSHOT",
+      "value": "魔法射撃タイプ転生伸び値"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_MGKTANK",
+      "value": "魔法タンクタイプ転生伸び値"
+    },
+    {
+      "key": "SK_TENSEI_SAMPLE_HEAL",
+      "value": "ヒーラータイプ転生伸び値"
+    },
+    {
+      "key": "SK_NGB_STATUS",
+      "value": "NPCギルバト用パッシブ"
+    },
+    {
+      "key": "SK_MA_NGB_FIRE",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_FIRE_2",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_ICE",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_ICE_2",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_WIND",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_WIND_2",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_SOIL",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_SOIL_2",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_THUNDER",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_THUNDER_2",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_WATER",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_WATER_2",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_SHINE",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_SHINE_2",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_DARK",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_NGB_DARK_2",
+      "value": "マスターアビリティ"
     }
   ]
 }

@@ -737,6 +737,14 @@
       "value": "ルルギア"
     },
     {
+      "key": "UN_FF7_P_SPRT",
+      "value": "セフィロス"
+    },
+    {
+      "key": "UN_LW_P_AMNR",
+      "value": "アムネリス"
+    },
+    {
       "key": "UN_LW_E_MONT",
       "value": "モント・リオニス"
     },
@@ -1455,6 +1463,10 @@
     {
       "key": "UN_LW_E_IBRA",
       "value": "イバラ"
+    },
+    {
+      "key": "UN_FF7_E_SPRT",
+      "value": "セフィロス"
     },
     {
       "key": "UN_LW_E_TH_00",
@@ -4189,6 +4201,10 @@
       "value": "ガードスコーピオン"
     },
     {
+      "key": "UN_FF7_E_SCRT",
+      "value": "クリムゾン・メア"
+    },
+    {
       "key": "UN_FF15_E_ARNA",
       "value": "アラネア"
     },
@@ -5595,6 +5611,1202 @@
     {
       "key": "UN_GM_TREASURE",
       "value": "宝箱"
+    },
+    {
+      "key": "UN_LW_NG01_MDNA",
+      "value": "メディエナ"
+    },
+    {
+      "key": "UN_LW_NG01_VKTR",
+      "value": "ヴィクトラ"
+    },
+    {
+      "key": "UN_LW_NG01_CLEY",
+      "value": "クーリ・ウェズエット"
+    },
+    {
+      "key": "UN_LW_NG01_SRJS",
+      "value": "サージェス"
+    },
+    {
+      "key": "UN_LW_NG01_RFAL",
+      "value": "ラファール"
+    },
+    {
+      "key": "UN_LW_NG01_PNIX",
+      "value": "フェニックス"
+    },
+    {
+      "key": "UN_LW_NG01_GCAL",
+      "value": "グラシアール"
+    },
+    {
+      "key": "UN_LW_NG01_ZUUU",
+      "value": "ズー"
+    },
+    {
+      "key": "UN_LW_NG01_HLDV",
+      "value": "ダイブイーグル"
+    },
+    {
+      "key": "UN_LW_NG01_HLDV_01",
+      "value": "ゴールドイーグル"
+    },
+    {
+      "key": "UN_LW_NG01_GRSR",
+      "value": "グラセラ・ウェズエット"
+    },
+    {
+      "key": "UN_LW_NG01_SEVR",
+      "value": "セヴェロ"
+    },
+    {
+      "key": "UN_LW_NG01_TREL",
+      "value": "ティレル"
+    },
+    {
+      "key": "UN_LW_NG01_MRND",
+      "value": "ミランダ"
+    },
+    {
+      "key": "UN_LW_NG01_UNII",
+      "value": "ユニ"
+    },
+    {
+      "key": "UN_LW_NG01_THLA",
+      "value": "サリア"
+    },
+    {
+      "key": "UN_LW_NG01_SZRT",
+      "value": "シュゼルト"
+    },
+    {
+      "key": "UN_LW_NG01_FDRC",
+      "value": "フェデリカ"
+    },
+    {
+      "key": "UN_LW_NG01_LSTE",
+      "value": "リゼット"
+    },
+    {
+      "key": "UN_LW_NG01_LRNZ",
+      "value": "ロレンツォ"
+    },
+    {
+      "key": "UN_LW_NG01_MURG",
+      "value": "ムラガ・フェネス"
+    },
+    {
+      "key": "UN_LW_NG01_VNLA_01",
+      "value": "ヴィネラ（Xmas）"
+    },
+    {
+      "key": "UN_LW_NG01_QILF",
+      "value": "キルフェ"
+    },
+    {
+      "key": "UN_LW_NG01_RIRY_01",
+      "value": "ライリュウ（ハロウィン）"
+    },
+    {
+      "key": "UN_LW_NG01_DRND",
+      "value": "ドランド"
+    },
+    {
+      "key": "UN_LW_NG01_SRTN",
+      "value": "シェラタン"
+    },
+    {
+      "key": "UN_LW_NG01_OCHU",
+      "value": "オチュー"
+    },
+    {
+      "key": "UN_LW_NG01_CACT",
+      "value": "サボテンダー"
+    },
+    {
+      "key": "UN_LW_NG01_MABR",
+      "value": "モルボル"
+    },
+    {
+      "key": "UN_LW_NG01_HLNA_01",
+      "value": "ヘレナ（黒衣の魔女）"
+    },
+    {
+      "key": "UN_LW_NG01_RYER_02",
+      "value": "麗刃のリレルリラ"
+    },
+    {
+      "key": "UN_LW_NG01_STRN",
+      "value": "シュテル・リオニス"
+    },
+    {
+      "key": "UN_LW_NG01_DEAN",
+      "value": "ディーン"
+    },
+    {
+      "key": "UN_LW_NG01_GABL",
+      "value": "ガーブル"
+    },
+    {
+      "key": "UN_LW_NG01_ROBB",
+      "value": "ロブ・ホルン"
+    },
+    {
+      "key": "UN_LW_NG01_MACR",
+      "value": "マシュリー・ホルン"
+    },
+    {
+      "key": "UN_LW_NG01_ENBT",
+      "value": "エンゲルベルト"
+    },
+    {
+      "key": "UN_LW_NG01_CMLO",
+      "value": "カミッロ"
+    },
+    {
+      "key": "UN_LW_NG01_VSTR",
+      "value": "ヴィストラール"
+    },
+    {
+      "key": "UN_LW_NG01_LVAT",
+      "value": "リヴァイアサン"
+    },
+    {
+      "key": "UN_LW_NG01_KRKN",
+      "value": "クラーケン"
+    },
+    {
+      "key": "UN_LW_NG01_MDFY",
+      "value": "マインドフレイア"
+    },
+    {
+      "key": "UN_LW_NG01_SHGN_02",
+      "value": "デビルサハギン"
+    },
+    {
+      "key": "UN_LW_NG01_EURP",
+      "value": "エウロペ"
+    },
+    {
+      "key": "UN_LW_NG01_OMEG",
+      "value": "オメガ"
+    },
+    {
+      "key": "UN_LW_NG01_AGON",
+      "value": "アイガイオン"
+    },
+    {
+      "key": "UN_LW_NG01_ICGM",
+      "value": "アイスゴーレム"
+    },
+    {
+      "key": "UN_LW_NG01_IFRT",
+      "value": "イフリート"
+    },
+    {
+      "key": "UN_LW_NG01_EFKS",
+      "value": "エラフィケラス"
+    },
+    {
+      "key": "UN_LW_NG01_CBCL",
+      "value": "カーバンクル"
+    },
+    {
+      "key": "UN_LW_NG01_BOMB",
+      "value": "ボム"
+    },
+    {
+      "key": "UN_LW_NG01_SNAK",
+      "value": "魔蛇"
+    },
+    {
+      "key": "UN_LW_NG01_THDG",
+      "value": "２ヘッドドラゴン"
+    },
+    {
+      "key": "UN_LW_NG01_WHDG",
+      "value": "白竜"
+    },
+    {
+      "key": "UN_LW_NG01_DRGN",
+      "value": "ミニドラゴン"
+    },
+    {
+      "key": "UN_LW_NG01_WYVN",
+      "value": "ワイバーン"
+    },
+    {
+      "key": "UN_LW_NG01_BCRD",
+      "value": "ブラキオレイドス"
+    },
+    {
+      "key": "UN_LW_NG01_BLMN",
+      "value": "ブラッディムーン"
+    },
+    {
+      "key": "UN_LW_NG01_ELEM",
+      "value": "ファイアエレメンタル"
+    },
+    {
+      "key": "UN_LW_NG01_SCAL",
+      "value": "スカール"
+    },
+    {
+      "key": "UN_LW_NG01_KTON",
+      "value": "キトン"
+    },
+    {
+      "key": "UN_LW_NG01_RVAL",
+      "value": "リヴィアル"
+    },
+    {
+      "key": "UN_LW_NG01_ALIM",
+      "value": "アリム"
+    },
+    {
+      "key": "UN_LW_NG01_MIIA",
+      "value": "ミーア"
+    },
+    {
+      "key": "UN_LW_NG01_JUME",
+      "value": "ジューム"
+    },
+    {
+      "key": "UN_LW_NG01_ASTR",
+      "value": "アルストリア"
+    },
+    {
+      "key": "UN_LW_NG01_PRNE",
+      "value": "ペレーネ"
+    },
+    {
+      "key": "UN_LW_NG01_LCIO",
+      "value": "ルシオ"
+    },
+    {
+      "key": "UN_LW_NG01_STIA",
+      "value": "セティア"
+    },
+    {
+      "key": "UN_LW_NG01_FALM",
+      "value": "ファルム"
+    },
+    {
+      "key": "UN_LW_NG01_ZZAN_01",
+      "value": "不死身のザザン"
+    },
+    {
+      "key": "UN_LW_NG01_SLEN",
+      "value": "スターライトエレナ"
+    },
+    {
+      "key": "UN_LW_NG01_SDLX",
+      "value": "シャドウリンクス"
+    },
+    {
+      "key": "UN_LW_NG01_AYKA",
+      "value": "アヤカ"
+    },
+    {
+      "key": "UN_LW_NG01_JEDN",
+      "value": "ジェーダン・ランダル"
+    },
+    {
+      "key": "UN_LW_NG01_LUCA",
+      "value": "ル・シア"
+    },
+    {
+      "key": "UN_LW_NG01_ALIA",
+      "value": "アライア・ランダル"
+    },
+    {
+      "key": "UN_LW_NG01_CRIS",
+      "value": "クレイス"
+    },
+    {
+      "key": "UN_LW_NG01_VKTR_01",
+      "value": "ヴィクトラ（Xmas）"
+    },
+    {
+      "key": "UN_LW_NG01_IBRA",
+      "value": "イバラ"
+    },
+    {
+      "key": "UN_LW_NG01_MDFY_2",
+      "value": "マインドフレイア"
+    },
+    {
+      "key": "UN_LW_NG01_LAMA_02",
+      "value": "マザーラミア"
+    },
+    {
+      "key": "UN_LW_NG01_TYPN",
+      "value": "テュポーン"
+    },
+    {
+      "key": "UN_LW_NG01_MRLT",
+      "value": "マリリス"
+    },
+    {
+      "key": "UN_LW_NG01_DMCM",
+      "value": "デビルキマイラ"
+    },
+    {
+      "key": "UN_LW_NG01_BHMT_01",
+      "value": "キングベヒーモス"
+    },
+    {
+      "key": "UN_LW_NG01_WRAT_01",
+      "value": "スタナー"
+    },
+    {
+      "key": "UN_LW_NG01_CORL",
+      "value": "クアール"
+    },
+    {
+      "key": "UN_LW_NG01_CORL_02",
+      "value": "バンデルクアール "
+    },
+    {
+      "key": "UN_LW_NG01_ANIM",
+      "value": "アニマ"
+    },
+    {
+      "key": "UN_LW_NG01_LICH",
+      "value": "リッチ"
+    },
+    {
+      "key": "UN_LW_NG01_SKEL",
+      "value": "スケルトン"
+    },
+    {
+      "key": "UN_LW_NG01_SKEL_02",
+      "value": "カースドスカル"
+    },
+    {
+      "key": "UN_LW_NG01_GHUL_02",
+      "value": "レブナント"
+    },
+    {
+      "key": "UN_LW_NG01_ELDE",
+      "value": "エルデ・リオニス"
+    },
+    {
+      "key": "UN_LW_NG01_OBRN",
+      "value": "オベロン・ハインドラ"
+    },
+    {
+      "key": "UN_LW_NG01_SDLE",
+      "value": "サーダリー・クルステア"
+    },
+    {
+      "key": "UN_LW_NG01_MACR_02",
+      "value": "ホルン女王マシュリー"
+    },
+    {
+      "key": "UN_LW_NG01_STRN_1",
+      "value": "シュテル・リオニス"
+    },
+    {
+      "key": "UN_LW_NG01_RYER_1",
+      "value": "リレルリラ"
+    },
+    {
+      "key": "UN_LW_NG01_GRSR_02",
+      "value": "革命の旗手グラセラ"
+    },
+    {
+      "key": "UN_LW_NG01_RIRY_1",
+      "value": "ライリュウ"
+    },
+    {
+      "key": "UN_LW_NG01_ZZAN_1",
+      "value": "ザザン"
+    },
+    {
+      "key": "UN_LW_NG01_RSNC",
+      "value": "レズニック"
+    },
+    {
+      "key": "UN_LW_NG01_MORE",
+      "value": "ムーア"
+    },
+    {
+      "key": "UN_LW_NG01_HLNA_02",
+      "value": "ヘレナ（水着）"
+    },
+    {
+      "key": "UN_LW_NG01_QILF_01",
+      "value": "キルフェ（水着）"
+    },
+    {
+      "key": "UN_LW_NG01_VNLA_01_1",
+      "value": "ヴィネラ（Xmas）"
+    },
+    {
+      "key": "UN_LW_NG01_LATH_01",
+      "value": "ルアーサ（Xmas）"
+    },
+    {
+      "key": "UN_LW_NG01_MONT_01",
+      "value": "リオニス王モント"
+    },
+    {
+      "key": "UN_LW_NG01_LILS",
+      "value": "リリシュ"
+    },
+    {
+      "key": "UN_LW_NG01_STRN_01",
+      "value": "シュテル（破滅の騎士）"
+    },
+    {
+      "key": "UN_LW_NG01_WHIS",
+      "value": "≪囁き≫"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_1_WI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_1_SO",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_1_TH",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_1_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_1_FI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_1_LI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_2_SO",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_2_TH",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_2_WA",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_2_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_LLN_2_IC",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_1_TH",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_1_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_1_IC",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_1_WI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_1_SO",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_2_DA",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_2_IC",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_2_WI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_2_SO",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_MNK_2_FI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_WHM_SO",
+      "value": "白魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_WHM_TH",
+      "value": "白魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_WHM_WA",
+      "value": "白魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_WHM_IC",
+      "value": "白魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_WHM_WI",
+      "value": "白魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_WHM_LI",
+      "value": "白魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_WHM_DA",
+      "value": "白魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_1_WI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_1_SO",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_1_TH",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_1_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_1_DA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_2_FI",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_2_TH",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_2_WI",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_2_WA",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_SAM_2_IC",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_LAN_WI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_LAN_DA",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_LAN_WA",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_LAN_FI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_1_IC",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_1_WI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_1_TH",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_1_FI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_1_WA",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_2_TH",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_2_FI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_2_WA",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_2_LI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_HUN_2_IC",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_DAC_3_LI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_DAC_3_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_DAC_3_IC",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_DAC_3_WI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_DAC_3_SO",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_BLM_FI",
+      "value": "黒魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_BLM_IC",
+      "value": "黒魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_BLM_WI",
+      "value": "黒魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_BLM_WA",
+      "value": "黒魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_BLM_TH",
+      "value": "黒魔道士"
+    },
+    {
+      "key": "UN_LW_NG01_PLD_LI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_PLD_FI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_PLD_TH",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_PLD_WI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_1_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_1_DA",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_1_LI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_1_TH",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_1_WA",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_2_WA",
+      "value": "フェネス兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_2_FI",
+      "value": "フェネス兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_2_WI",
+      "value": "フェネス兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_2_SO",
+      "value": "フェネス兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_3_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_3_LI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_3_DA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_3_SO",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_BEA_3_TH",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MMC_WA",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_MMC_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_MMC_IC",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_MMC_SO",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_MMC_TH",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_WAR_TH",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_WAR_WA",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_WAR_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_WAR_IC",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_WAR_SO",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_LIB_TH",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_LIB_LI",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_LIB_FI",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_LIB_IC",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_LIB_WI",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_1_WI",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_1_TH",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_1_WA",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_1_FI",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_1_IC",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_2_LI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_2_WA",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_2_DA",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_2_IC",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_DRG_2_SO",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_DAC_IC",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_DAC_WI",
+      "value": "ホルン兵"
+    },
+    {
+      "key": "UN_LW_NG01_KNT_LI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_KNT_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_KNT_IC",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_KNT_WI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_GRM_SO",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_GRM_TH",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_GRM_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_GRM_FI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_GRM_IC",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_1_TH",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_1_SO",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_1_WA",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_1_FI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_1_IC",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_2_TH",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_2_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_2_IC",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_2_WI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_WGN_2_SO",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MKN_SO",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_MKN_WI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_MKN_TH",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_MKN_WA",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_MKN_FI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_CLR_SO",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_CLR_TH",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_CLR_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_CLR_IC",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_CLR_LI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_RAB_WI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_RAB_SO",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_RAB_LI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_RAB_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_1_SO",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_1_FI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_1_IC",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_1_WI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_2_WA",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_2_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_2_IC",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_2_LI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_GUN_2_TH",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_VIK_WI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_VIK_SO",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_VIK_LI",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_VIK_IC",
+      "value": "ハインドラ兵"
+    },
+    {
+      "key": "UN_LW_NG01_MGK_DA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MGK_IC",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MGK_WI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MGK_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MGK_FI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_TIM_SO",
+      "value": "フェネス兵"
+    },
+    {
+      "key": "UN_LW_NG01_TIM_WA",
+      "value": "フェネス兵"
+    },
+    {
+      "key": "UN_LW_NG01_TIM_DA",
+      "value": "フェネス兵"
+    },
+    {
+      "key": "UN_LW_NG01_TIM_WI",
+      "value": "フェネス兵"
+    },
+    {
+      "key": "UN_LW_NG01_RDM_IC",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_RDM_WA",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_RDM_TH",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_RDM_FI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_SCR_FI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_SCR_TH",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_SCR_WI",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_SCR_IC",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_SCR_DA",
+      "value": "ウェズエット兵"
+    },
+    {
+      "key": "UN_LW_NG01_MSW_SO",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MSW_TH",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MSW_WA",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MSW_IC",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_MSW_WI",
+      "value": "リオニス兵"
+    },
+    {
+      "key": "UN_LW_NG01_CAL_IC",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_CAL_LI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_CAL_SO",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_CAL_TH",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_CAL_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_PSI_FI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_PSI_IC",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_PSI_WI",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_PSI_SO",
+      "value": "僧兵"
+    },
+    {
+      "key": "UN_LW_NG01_PSI_WA",
+      "value": "僧兵"
     },
     {
       "key": "UN_GM_CRYSTAL",

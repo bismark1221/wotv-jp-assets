@@ -215,6 +215,22 @@
     {
       "key": "54",
       "value": "${playerName}さんがギルドバトル代理操作を${onoff}しました"
+    },
+    {
+      "key": "55",
+      "value": "${scheduleName}開始"
+    },
+    {
+      "key": "56",
+      "value": "${scheduleName}終了"
+    },
+    {
+      "key": "57",
+      "value": "<color=#00F0FF>${playerName}、${slotIname}、</color>${actionCount}回目の行動。<color=#E03030>${fortIname}防御パーティー${enemyNo}</color>を攻撃。<color=#F0C040>${score}pt</color>を獲得。"
+    },
+    {
+      "key": "58",
+      "value": "<color=#00F0FF>${fromName}}</color>が<color=#00F0FF>${toName}の${toSlotIname}}</color>に${actionIname}をしました。"
     }
   ]
 }

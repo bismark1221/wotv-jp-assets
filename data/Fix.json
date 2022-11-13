@@ -1223,7 +1223,7 @@
     {
       "iname": "barracks_limit_brave",
       "type": 0,
-      "value": 70
+      "value": 97
     },
     {
       "iname": "barracks_settings_faith_default",
@@ -1233,7 +1233,7 @@
     {
       "iname": "barracks_upper_limit_faith",
       "type": 0,
-      "value": 70
+      "value": 97
     },
     {
       "iname": "barracks_lower_limit_faith",
@@ -2178,17 +2178,17 @@
     {
       "iname": "ex_star_gain_star_once_lvup",
       "type": 0,
-      "value": 10
+      "value": 3
     },
     {
       "iname": "ex_star_gain_star_lvup",
       "type": 0,
-      "value": 3
+      "value": 1
     },
     {
       "iname": "is_allowed_exstar",
       "type": 0,
-      "value": 0
+      "value": 1
     },
     {
       "iname": "save_materia_template_num",
@@ -2198,7 +2198,7 @@
     {
       "iname": "is_allowed_spirit_exchange",
       "type": 0,
-      "value": 0
+      "value": 1
     },
     {
       "iname": "is_release_bg_repeat",
@@ -2218,7 +2218,7 @@
     {
       "iname": "npc_guild_battle_open",
       "type": 0,
-      "value": 0
+      "value": 1
     },
     {
       "iname": "atk_chain_reduction_rate_max",
@@ -2239,6 +2239,11 @@
       "iname": "elem_chain_reduction_rate_min",
       "type": 0,
       "value": -80
+    },
+    {
+      "iname": "spirit_exchange_unit_lv",
+      "type": 0,
+      "value": 120
     }
   ]
 }

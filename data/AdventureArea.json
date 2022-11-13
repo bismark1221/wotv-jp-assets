@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "area_iname": "AD_AREA_FF07ITGR_01",
+      "banner": "ExpeditionBanner_FF7R_ITGR_1",
+      "header": "ExpeditionHeader_FF7R_ITGR_1",
+      "begin_at": "2022/11/13 18:30:00",
+      "end_at": "2022/12/23 14:59:59",
+      "drop": [
+        {
+          "drop_area_id": "AD_AREA_FF07ITGR_01",
+          "drop_start_at": "2022/11/13 18:30:00",
+          "drop_end_at": "2022/12/23 14:59:59"
+        }
+      ]
+    },
+    {
       "area_iname": "AD_AREA_FF07_02",
       "banner": "ExpeditionBanner_FF7R_R_1",
       "header": "ExpeditionHeader_FF7R_R_1",
@@ -371,6 +385,11 @@
         {
           "drop_area_id": "AD_AREA_WATER_07",
           "drop_start_at": "2022/10/01",
+          "drop_end_at": "2022/11/13 18:29:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_WATER_08",
+          "drop_start_at": "2022/11/13 18:30:00",
           "drop_end_at": "2120/10/01"
         }
       ]

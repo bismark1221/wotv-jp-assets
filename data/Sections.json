@@ -958,10 +958,19 @@
       "hurl": "ev_arna_01"
     },
     {
-      "iname": "SE_PTQ_FF6_01",
-      "skip_ticket": "IT_PT_SKIP_FF6_1",
-      "hurl": "pt_ff6_01",
-      "won_dst_sheet_name": "bgm_ff6_Fanfare"
+      "iname": "SE_EV_FF7IG_01",
+      "hurl": "ev_FF7R_ITGR_01"
+    },
+    {
+      "iname": "SE_EV_FF7IG_EX",
+      "hurl": "ev_FF7R_ITGR_ex_01",
+      "o_cond_q": [
+        "QE_EV_FF7IG_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_FF7IG_EX01",
+      "hurl": "ev_FF7R_ITGR_ex_01"
     },
     {
       "iname": "SE_EV_FFS_01",
@@ -1053,6 +1062,14 @@
     {
       "iname": "SE_MU_FF7_02_EX",
       "hurl": "ev_FF7R_ex_02"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_26",
+      "hurl": "ev_arti_crft_26"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_26",
+      "hurl": "ev_arti_crft_26"
     },
     {
       "iname": "SE_EV_NY2022_1",
@@ -1341,6 +1358,12 @@
       "open_cond": [
         "COND_VC_LW_DQT"
       ]
+    },
+    {
+      "iname": "SE_PTQ_FF6_01",
+      "skip_ticket": "IT_PT_SKIP_FF6_1",
+      "hurl": "pt_ff6_01",
+      "won_dst_sheet_name": "bgm_ff6_Fanfare"
     },
     {
       "iname": "SE_PTQ_FF13_01",

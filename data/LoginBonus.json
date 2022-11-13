@@ -27427,6 +27427,351 @@
           "num": 3
         }
       ]
+    },
+    {
+      "iname": "LB_LIMIT_0159",
+      "type": 6,
+      "banner": "Banner_Login_ff7r_itgr_01",
+      "priority": 2,
+      "begin_at": "2022/11/13 18:30:00",
+      "end_at": "2022/12/23 14:59:59",
+      "at_first_already_login_ok": 1,
+      "bonuses": [
+        {
+          "point": 1,
+          "type": 3,
+          "num": 200
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 20
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_VC_EXP_04",
+          "num": 100
+        },
+        {
+          "point": 2,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_US_EXP_04",
+          "num": 100
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_US_G_PU_SPRT",
+          "num": 1
+        },
+        {
+          "point": 3,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_US_SE_PI_COM_02",
+          "num": 1
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_LB_EXP_03",
+          "num": 50
+        },
+        {
+          "point": 4,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_WA_EXP_03",
+          "num": 50
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_US_G_PU_SPRT",
+          "num": 1
+        },
+        {
+          "point": 5,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_AW_VC_UR",
+          "num": 80
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_PI_FF7_SPRT",
+          "num": 40
+        },
+        {
+          "point": 6,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_PI_COM_ALL",
+          "num": 1
+        },
+        {
+          "point": 7,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_JBEX_MM",
+          "num": 1
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_SP_FF7_ITGR_UR",
+          "num": 20
+        }
+      ]
+    },
+    {
+      "iname": "LB_LIMIT_0160",
+      "type": 6,
+      "banner": "LoginBonus_PeriodBanner_0159",
+      "priority": 2,
+      "begin_at": "2022/11/13 18:30:00",
+      "end_at": "2022/11/30 23:59:59",
+      "at_first_already_login_ok": 1,
+      "bonuses": [
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_UN_RE_SSR",
+          "num": 1
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_UN_RELV_SSR",
+          "num": 20
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 8,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 8,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 9,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 9,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 10,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 10,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 10,
+          "type": 0,
+          "iname": "IT_UN_RE_UR",
+          "num": 1
+        },
+        {
+          "point": 11,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 11,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 12,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 12,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 13,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 13,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 14,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 14,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 15,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 10
+        },
+        {
+          "point": 15,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 15
+        },
+        {
+          "point": 15,
+          "type": 0,
+          "iname": "IT_UN_RELV_UR",
+          "num": 20
+        }
+      ]
     }
   ]
 }
