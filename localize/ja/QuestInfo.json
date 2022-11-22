@@ -4541,6 +4541,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ミーア」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_MIIA2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ミーア」UnitLv.80以上<br>「キャラクタークエスト　ミーア」をクリア"
+    },
+    {
       "key": "QE_CH_LW_ZZAN",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ザザン」UnitLv.40以上"
     },
@@ -4953,8 +4957,16 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ニヴ・ル」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_NIVL2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ニヴ・ル」UnitLv.80以上<br>「キャラクタークエスト　ニヴ・ル」をクリア"
+    },
+    {
       "key": "QE_CH_LW_RVAL",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「リヴィアル」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_RVAL2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「リヴィアル」UnitLv.80以上<br>「キャラクタークエスト　リヴィアル」をクリア"
     },
     {
       "key": "QE_CH_LW_SAKR",
@@ -5245,6 +5257,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ラメイガ」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_LMIG2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ラメイガ」UnitLv.80以上<br>「キャラクタークエスト　ラメイガ」をクリア"
+    },
+    {
       "key": "QE_CH_LW_OBRN",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「オベロン・ハインドラ」UnitLv.40以上"
     },
@@ -5487,6 +5503,10 @@
     {
       "key": "QE_CH_FF7_SPRT",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「セフィロス」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_FF7_YUFE",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ユフィ」UnitLv.40以上"
     },
     {
       "key": "QE_EV_1100DL_FIR",
@@ -9929,6 +9949,18 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。HPが0になった敵はターンを待たずに消えます。"
     },
     {
+      "key": "QE_EV_VC_FF7IG_1",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_VC_FF7IG_2",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_VC_FF7IG_3",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_EV_CWEL_01",
       "value": "クエスト情報<br>なし"
     },
@@ -10833,6 +10865,10 @@
       "value": "クエスト情報<br>なし"
     },
     {
+      "key": "QE_BR_ICE_14",
+      "value": "クエスト情報<br>パーティーの一番左に編成しているユニットが「リーダーユニット」となります。"
+    },
+    {
       "key": "QE_BR_WATER_01",
       "value": "クエスト情報<br>なし"
     },
@@ -11315,6 +11351,14 @@
     {
       "key": "QE_SB_RAMU_01_02",
       "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_SB_IFRT_01_01",
+      "value": "クエスト情報<br>ヒント:バリア破壊を活用しよう"
+    },
+    {
+      "key": "QE_SB_IFRT_01_02",
+      "value": "クエスト情報<br>ヒント:バリア破壊を活用しよう"
     },
     {
       "key": "QE_SB_MABR_01",
@@ -14451,6 +14495,10 @@
     {
       "key": "QE_VC_LW_LATH",
       "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「追跡者」を獲得"
+    },
+    {
+      "key": "QE_VC_LW_IFRT01",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「猛炎獣牙　ダークイフリート」を獲得"
     },
     {
       "key": "QE_TEST_FOR",

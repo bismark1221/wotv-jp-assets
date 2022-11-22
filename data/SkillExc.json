@@ -763,6 +763,21 @@
           "iname": "BUFF_FF7_EC_BART_C_01C_2"
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_EC_NIN_A_02B_DARK",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 85,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_EC_NIN_A_02B_DARK"
+        }
+      ]
     }
   ]
 }

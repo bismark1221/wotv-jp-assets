@@ -1353,6 +1353,10 @@
       "value": "ユニット「セフィロス」のレベルが40以上"
     },
     {
+      "key": "COND_CH_YUFE",
+      "value": "ユニット「ユフィ」のレベルが40以上"
+    },
+    {
       "key": "COND_CH_LW_RART2",
       "value": "ユニット「リアート」のレベルが80以上"
     },
@@ -1771,6 +1775,22 @@
     {
       "key": "COND_CH_LW_PRAY2",
       "value": "ユニット「≪祈り≫」のレベルが80以上"
+    },
+    {
+      "key": "COND_CH_LW_NIVL2",
+      "value": "ユニット「ニヴ・ル」のレベルが80以上"
+    },
+    {
+      "key": "COND_CH_LW_LMIG2",
+      "value": "ユニット「ラメイガ」のレベルが80以上"
+    },
+    {
+      "key": "COND_CH_LW_RVAL2",
+      "value": "ユニット「リヴィアル」のレベルが80以上"
+    },
+    {
+      "key": "COND_CH_LW_MIIA2",
+      "value": "ユニット「ミーア」のレベルが80以上"
     },
     {
       "key": "COND_VC_LW_BAHM",
@@ -2287,6 +2307,10 @@
     {
       "key": "COND_VC_LW_LATH",
       "value": "ビジョンカード「追跡者」のレベルが1以上"
+    },
+    {
+      "key": "COND_VC_LW_IFRT1",
+      "value": "ビジョンカード「猛炎獣牙　ダークイフリート」のレベルが1以上"
     }
   ]
 }
