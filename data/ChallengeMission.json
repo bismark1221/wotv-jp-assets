@@ -24694,6 +24694,186 @@
         }
       ],
       "chk_ver": "CM_PRO_1233"
+    },
+    {
+      "iname": "CM_PRO_1234",
+      "index": 1,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_RESL"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1234"
+    },
+    {
+      "iname": "CM_PRO_1235",
+      "index": 2,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 84,
+        "sval": [
+          "UN_LW_P_RESL"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1235"
+    },
+    {
+      "iname": "CM_PRO_1236",
+      "index": 3,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_RESL"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_RESL",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1236"
+    },
+    {
+      "iname": "CM_PRO_1237",
+      "index": 4,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_RESL,JB_LW_RESL"
+        ],
+        "ival": 6
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_RESL",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1237"
+    },
+    {
+      "iname": "CM_PRO_1238",
+      "index": 5,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_RESL"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_RESL",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_1238"
+    },
+    {
+      "iname": "CM_PRO_1239",
+      "index": 6,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_RESL,JB_LW_RESL"
+        ],
+        "ival": 9
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_RESL",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_1239"
+    },
+    {
+      "iname": "CM_PRO_1240",
+      "index": 7,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_RESL"
+        ],
+        "ival": 60
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_RESL",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_1240"
+    },
+    {
+      "iname": "CM_PRO_1241",
+      "index": 8,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_RESL"
+        ],
+        "ival": 70
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_RESL",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_1241"
+    },
+    {
+      "iname": "CM_PRO_1242",
+      "index": 9,
+      "grpID": "CM_PRO_125_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_RESL"
+        ],
+        "ival": 75
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_RESL",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_1242"
     }
   ]
 }

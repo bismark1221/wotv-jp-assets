@@ -1051,6 +1051,11 @@
       "image": "ev_mt_02_06"
     },
     {
+      "iname": "SE_EV_AEX_020202",
+      "event_type": 1,
+      "image": "ev_ast_ex2_0202"
+    },
+    {
       "iname": "SE_EV_AEX_020201",
       "event_type": 1,
       "image": "ev_ast_ex_0202"
@@ -2061,10 +2066,8 @@
     },
     {
       "iname": "SE_EV_ART_CRF_25",
-      "event_type": 1,
-      "image": "ev_arti_crft_25",
-      "start": "2022/10/17 10:30:00",
-      "end": "2022/10/31 23:59:59"
+      "event_type": 6,
+      "image": "ev_arti_crft_25"
     },
     {
       "iname": "SE_EV_ART_CRF_26",
@@ -2569,6 +2572,13 @@
       "end": "2022/11/08 4:59:59"
     },
     {
+      "iname": "SE_EV_RESL_01",
+      "event_type": 1,
+      "image": "ev_resl_01",
+      "start": "2022/12/01 5:00:00",
+      "end": "2022/12/09 4:59:59"
+    },
+    {
       "iname": "SE_EV_NCTS_01",
       "event_type": 1,
       "image": "ev_FF15_02",
@@ -2602,6 +2612,13 @@
       "image": "ev_Col2021",
       "start": "2021/12/08 15:00:00",
       "end": "2021/12/31 23:59:59"
+    },
+    {
+      "iname": "SE_EV_COL2022",
+      "event_type": 1,
+      "image": "ev_Col2022",
+      "start": "2022/12/01",
+      "end": "2022/12/23 14:59:59"
     },
     {
       "iname": "SE_EV_SDLE_VS",
