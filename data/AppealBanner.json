@@ -20668,7 +20668,7 @@
       },
       "priority": 291,
       "start_at": "2022/11/22 15:00:00",
-      "end_at": "2022/12/23 14:59:59"
+      "end_at": "2022/12/09 10:59:59"
     },
     {
       "id": 1479,
@@ -20792,9 +20792,93 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 501,
+      "priority": 797,
       "start_at": "2022/12/01",
       "end_at": "2022/12/23 14:59:59"
+    },
+    {
+      "id": 1488,
+      "iname": "GachaBanner_FF1_0006_R2",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF1_0006_R2",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 287,
+      "start_at": "2022/12/09 15:00:00",
+      "end_at": "2022/12/23 14:59:59"
+    },
+    {
+      "id": 1489,
+      "iname": "GachaBanner_FF1_0001_R2",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF1_0001_R2",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 288,
+      "start_at": "2022/12/09 15:00:00",
+      "end_at": "2022/12/23 14:59:59"
+    },
+    {
+      "id": 1490,
+      "iname": "GachaBanner_1229",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1229",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 289,
+      "start_at": "2022/12/09 15:00:00",
+      "end_at": "2022/12/23 14:59:59"
+    },
+    {
+      "id": 1491,
+      "iname": "GachaBanner_1227",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1227",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 290,
+      "start_at": "2022/12/09 15:00:00",
+      "end_at": "2022/12/23 14:59:59"
+    },
+    {
+      "id": 1492,
+      "iname": "ev_ff1_R2_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_ff1_R2_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 500,
+      "start_at": "2022/12/09 15:00:00",
+      "end_at": "2022/12/23 14:59:59"
+    },
+    {
+      "id": 1493,
+      "iname": "LAPS_SHOP_LIMITED_0478",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0478",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 699,
+      "start_at": "2022/12/09 15:00:00",
+      "end_at": "2022/12/16 9:59:59"
     }
   ]
 }

@@ -15,6 +15,11 @@
         {
           "drop_area_id": "AD_AREA_FF07ITGR_02",
           "drop_start_at": "2022/11/22 15:00:00",
+          "drop_end_at": "2022/12/9 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_FF07ITGR_03",
+          "drop_start_at": "2022/12/9 15:00:00",
           "drop_end_at": "2022/12/23 14:59:59"
         }
       ]
@@ -28,6 +33,18 @@
       "drop": [
         {
           "drop_area_id": "AD_AREA_FF07_04"
+        }
+      ]
+    },
+    {
+      "area_iname": "AD_AREA_FF01_02",
+      "banner": "ExpeditionBanner_FF01_1",
+      "header": "ExpeditionHeader_FF01_1",
+      "begin_at": "2022/12/9 15:00:00",
+      "end_at": "2022/12/23 14:59:59",
+      "drop": [
+        {
+          "drop_area_id": "AD_AREA_FF01_02"
         }
       ]
     },

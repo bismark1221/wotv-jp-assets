@@ -133,12 +133,20 @@
       "value": "攻撃時AP自動回復・ヘイスト解除"
     },
     {
+      "key": "BUFF_MA_FF1_WROL_2_EN",
+      "value": "HP50%以下で回復"
+    },
+    {
       "key": "BUFF_MA_LW_RRIR_2_S_2",
       "value": "クリティカル時1ターン攻撃アップ"
     },
     {
       "key": "BUFF_MA_LW_LSWL_2_SB",
       "value": "クリティカル時AP回復"
+    },
+    {
+      "key": "BUFF_MA_LW_CRIS_2_SB",
+      "value": "クリティカル時CTアップ"
     },
     {
       "key": "BUFF_LW_EC_MONT_01_C_01C_EN",
@@ -201,16 +209,16 @@
       "value": "クリティカル時1ターンAP消費率ダウン"
     },
     {
+      "key": "BUFF_LW_PLUS6_CRT_ATKMGK_UP_EN",
+      "value": "クリティカル時3ターン攻撃・魔力アップ"
+    },
+    {
       "key": "BUFF_LW_PLUS6_13_EN",
       "value": "クリティカル時AP回復"
     },
     {
       "key": "BUFF_LW_PLUS6_14_EN",
       "value": "クリティカル時3ターン素早さアップ"
-    },
-    {
-      "key": "BUFF_LW_PLUS6_CRT_ATKMGK_UP_EN",
-      "value": "クリティカル時3ターン攻撃・魔力アップ"
     },
     {
       "key": "BUFF_ACC_LW_FDRC_01_1B",
