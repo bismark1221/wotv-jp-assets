@@ -20808,7 +20808,7 @@
       },
       "priority": 287,
       "start_at": "2022/12/09 15:00:00",
-      "end_at": "2022/12/23 14:59:59"
+      "end_at": "2022/12/16 9:59:59"
     },
     {
       "id": 1489,
@@ -20836,7 +20836,7 @@
       },
       "priority": 289,
       "start_at": "2022/12/09 15:00:00",
-      "end_at": "2022/12/23 14:59:59"
+      "end_at": "2022/12/16 9:59:59"
     },
     {
       "id": 1491,
@@ -20864,7 +20864,7 @@
       },
       "priority": 500,
       "start_at": "2022/12/09 15:00:00",
-      "end_at": "2022/12/23 14:59:59"
+      "end_at": "2022/12/16 9:59:59"
     },
     {
       "id": 1493,
@@ -20879,6 +20879,62 @@
       "priority": 699,
       "start_at": "2022/12/09 15:00:00",
       "end_at": "2022/12/16 9:59:59"
+    },
+    {
+      "id": 1494,
+      "iname": "LAPS_SHOP_LIMITED_0483",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0483",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 699,
+      "start_at": "2022/12/16 10:30:00",
+      "end_at": "2022/12/23 14:59:59"
+    },
+    {
+      "id": 1495,
+      "iname": "ev_arti_crft_27",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_arti_crft_27",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 499,
+      "start_at": "2022/12/16 10:30:00",
+      "end_at": "2022/12/31 23:59:59"
+    },
+    {
+      "id": 1496,
+      "iname": "GachaBanner_1239",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1239",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 285,
+      "start_at": "2022/12/16 10:30:00",
+      "end_at": "2022/12/31 23:59:59"
+    },
+    {
+      "id": 1497,
+      "iname": "GachaBanner_1242",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1242",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 286,
+      "start_at": "2022/12/16 10:30:00",
+      "end_at": "2022/12/31 23:59:59"
     }
   ]
 }
