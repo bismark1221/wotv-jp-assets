@@ -38,7 +38,7 @@
     },
     {
       "key": "BUFF_Reduction",
-      "value": "軽減率"
+      "value": "耐性"
     },
     {
       "key": "BUFF_Effect",
@@ -422,11 +422,11 @@
     },
     {
       "key": "BUFF_CondPhysicalDmgUp",
-      "value": "物理ダメージ上昇状態"
+      "value": "物理ダメージ上昇"
     },
     {
       "key": "BUFF_CondMagicalDmgUp",
-      "value": "魔法ダメージ上昇状態"
+      "value": "魔法ダメージ上昇"
     },
     {
       "key": "BUFF_CondChainKeepAttack",
@@ -1745,6 +1745,18 @@
       "value": "魔法攻撃時黒無の使徒キラー"
     },
     {
+      "key": "BUFF_KillerBirthFMAlchemist",
+      "value": "鋼の錬金術師FAキラー"
+    },
+    {
+      "key": "BUFF_KillerBirthPFMAlchemist",
+      "value": "物理攻撃時鋼の錬金術師FAキラー"
+    },
+    {
+      "key": "BUFF_KillerBirthMFMAlchemist",
+      "value": "魔法攻撃時鋼の錬金術師FAキラー"
+    },
+    {
       "key": "BUFF_KillerBirthDamageUnknown",
       "value": "出身不明固定ダメージ"
     },
@@ -1895,6 +1907,10 @@
     {
       "key": "BUFF_KillerBirthDamageApostleOfVoid",
       "value": "黒無の使徒固定ダメージ"
+    },
+    {
+      "key": "BUFF_KillerBirthDamageFMAlchemist",
+      "value": "鋼の錬金術師FA固定ダメージ"
     },
     {
       "key": "BUFF_KillerUnitTagFloating",
@@ -2127,6 +2143,10 @@
     {
       "key": "BUFF_ResistBirthApostleOfVoid",
       "value": "黒無の使徒耐性"
+    },
+    {
+      "key": "BUFF_ResistBirthFMAlchemist",
+      "value": "鋼の錬金術師FA耐性"
     },
     {
       "key": "BUFF_ResistSpeciesHuman",

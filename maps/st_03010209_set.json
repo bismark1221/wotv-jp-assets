@@ -1,16 +1,18 @@
 {
   "info": {
     "angle_override": true,
-    "angle": 270,
+    "angle": 180,
     "crystal_fade_enable": false,
-    "crystal_fade_max": 0
+    "crystal_fade_max": 0,
+    "start_wave": 0,
+    "max_wave": 0
   },
   "party": [
     {
       "name": "id:1",
-      "x": 11,
+      "x": 5,
       "y": 1,
-      "dir": 2,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -31,6 +33,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -48,9 +55,9 @@
     },
     {
       "name": "id:2",
-      "x": 11,
-      "y": 2,
-      "dir": 2,
+      "x": 6,
+      "y": 1,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -71,6 +78,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -88,9 +100,9 @@
     },
     {
       "name": "id:3",
-      "x": 11,
-      "y": 3,
-      "dir": 2,
+      "x": 7,
+      "y": 1,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -111,6 +123,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -128,9 +145,9 @@
     },
     {
       "name": "id:4",
-      "x": 11,
-      "y": 5,
-      "dir": 2,
+      "x": 5,
+      "y": 0,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -151,6 +168,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -168,9 +190,9 @@
     },
     {
       "name": "id:5",
-      "x": 11,
-      "y": 6,
-      "dir": 2,
+      "x": 6,
+      "y": 0,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -195,6 +217,11 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
       "parent": "",
       "part": {
@@ -208,9 +235,9 @@
     },
     {
       "name": "",
-      "x": 11,
-      "y": 7,
-      "dir": 2,
+      "x": 7,
+      "y": 0,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -235,6 +262,11 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
       "parent": "",
       "part": {
@@ -248,9 +280,9 @@
     },
     {
       "name": "",
-      "x": 12,
-      "y": 3,
-      "dir": 2,
+      "x": 4,
+      "y": 1,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -275,6 +307,11 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
       "parent": "",
       "part": {
@@ -288,9 +325,9 @@
     },
     {
       "name": "",
-      "x": 12,
-      "y": 5,
-      "dir": 2,
+      "x": 4,
+      "y": 0,
+      "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 0,
@@ -311,6 +348,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -330,9 +372,9 @@
   "enemy": [
     {
       "name": "",
-      "x": 2,
-      "y": 0,
-      "dir": 0,
+      "x": 1,
+      "y": 11,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -345,7 +387,7 @@
       "block": 0,
       "ai": {
         "iname": "AI_ENEMY_ATK_LV5",
-        "wait_e": -1,
+        "wait_e": 0,
         "search": 20,
         "sensing": 0
       },
@@ -355,15 +397,12 @@
       "entry_cond": {
         "timing": 0,
         "expr": "",
-        "list": [
-          {
-            "self": {
-              "type": 19,
-              "json": "{\"side\":1,\"count\":4}"
-            },
-            "childs": []
-          }
-        ]
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
       },
       "wait_m": 0,
       "parent": "",
@@ -436,13 +475,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":5014},{\"type\":4,\"value\":415},{\"type\":2,\"value\":178},{\"type\":6,\"value\":410},{\"type\":3,\"value\":185},{\"type\":9,\"value\":72},{\"type\":8,\"value\":304},{\"type\":10,\"value\":310}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 0,
-      "y": 3,
-      "dir": 0,
+      "x": 4,
+      "y": 12,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -455,7 +495,7 @@
       "block": 0,
       "ai": {
         "iname": "AI_ENEMY_ATK_LV5",
-        "wait_e": -1,
+        "wait_e": 0,
         "search": 20,
         "sensing": 0
       },
@@ -465,15 +505,12 @@
       "entry_cond": {
         "timing": 0,
         "expr": "",
-        "list": [
-          {
-            "self": {
-              "type": 19,
-              "json": "{\"side\":1,\"count\":6}"
-            },
-            "childs": []
-          }
-        ]
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
       },
       "wait_m": 0,
       "parent": "",
@@ -546,13 +583,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":5014},{\"type\":4,\"value\":415},{\"type\":2,\"value\":178},{\"type\":6,\"value\":410},{\"type\":3,\"value\":185},{\"type\":9,\"value\":72},{\"type\":8,\"value\":304},{\"type\":10,\"value\":310}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 1,
-      "y": 4,
-      "dir": 0,
+      "x": 7,
+      "y": 12,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -565,7 +603,7 @@
       "block": 0,
       "ai": {
         "iname": "AI_ENEMY_ATK_LV5",
-        "wait_e": -1,
+        "wait_e": 0,
         "search": 20,
         "sensing": 0
       },
@@ -575,15 +613,12 @@
       "entry_cond": {
         "timing": 0,
         "expr": "",
-        "list": [
-          {
-            "self": {
-              "type": 19,
-              "json": "{\"side\":1,\"count\":4}"
-            },
-            "childs": []
-          }
-        ]
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
       },
       "wait_m": 0,
       "parent": "",
@@ -656,13 +691,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":5014},{\"type\":4,\"value\":415},{\"type\":2,\"value\":178},{\"type\":6,\"value\":410},{\"type\":3,\"value\":185},{\"type\":9,\"value\":72},{\"type\":8,\"value\":304},{\"type\":10,\"value\":310}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 0,
-      "y": 5,
-      "dir": 0,
+      "x": 10,
+      "y": 11,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -675,7 +711,7 @@
       "block": 0,
       "ai": {
         "iname": "AI_ENEMY_ATK_LV5",
-        "wait_e": -1,
+        "wait_e": 0,
         "search": 20,
         "sensing": 0
       },
@@ -685,15 +721,12 @@
       "entry_cond": {
         "timing": 0,
         "expr": "",
-        "list": [
-          {
-            "self": {
-              "type": 19,
-              "json": "{\"side\":1,\"count\":6}"
-            },
-            "childs": []
-          }
-        ]
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
       },
       "wait_m": 0,
       "parent": "",
@@ -766,13 +799,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":5014},{\"type\":4,\"value\":415},{\"type\":2,\"value\":178},{\"type\":6,\"value\":410},{\"type\":3,\"value\":185},{\"type\":9,\"value\":72},{\"type\":8,\"value\":304},{\"type\":10,\"value\":310}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 2,
-      "y": 8,
-      "dir": 0,
+      "x": 6,
+      "y": 10,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -785,7 +819,7 @@
       "block": 0,
       "ai": {
         "iname": "AI_ENEMY_ATK_LV5",
-        "wait_e": -1,
+        "wait_e": 0,
         "search": 20,
         "sensing": 0
       },
@@ -795,15 +829,12 @@
       "entry_cond": {
         "timing": 0,
         "expr": "",
-        "list": [
-          {
-            "self": {
-              "type": 19,
-              "json": "{\"side\":1,\"count\":4}"
-            },
-            "childs": []
-          }
-        ]
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
       },
       "wait_m": 0,
       "parent": "",
@@ -876,13 +907,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":5014},{\"type\":4,\"value\":415},{\"type\":2,\"value\":178},{\"type\":6,\"value\":410},{\"type\":3,\"value\":185},{\"type\":9,\"value\":72},{\"type\":8,\"value\":304},{\"type\":10,\"value\":310}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 4,
-      "y": 1,
-      "dir": 0,
+      "x": 2,
+      "y": 9,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -903,6 +935,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -978,13 +1015,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":4418},{\"type\":4,\"value\":394},{\"type\":2,\"value\":154},{\"type\":6,\"value\":124},{\"type\":3,\"value\":137},{\"type\":9,\"value\":75},{\"type\":8,\"value\":282},{\"type\":10,\"value\":270},{\"type\":151,\"value\":0},{\"type\":152,\"value\":-10},{\"type\":154,\"value\":10}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 3,
-      "y": 3,
-      "dir": 0,
+      "x": 4,
+      "y": 7,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -1005,6 +1043,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -1080,13 +1123,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":4418},{\"type\":4,\"value\":394},{\"type\":2,\"value\":154},{\"type\":6,\"value\":124},{\"type\":3,\"value\":137},{\"type\":9,\"value\":75},{\"type\":8,\"value\":282},{\"type\":10,\"value\":270},{\"type\":151,\"value\":0},{\"type\":152,\"value\":-10},{\"type\":154,\"value\":10}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 3,
-      "y": 5,
-      "dir": 0,
+      "x": 7,
+      "y": 7,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -1107,6 +1151,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -1182,13 +1231,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":4418},{\"type\":4,\"value\":394},{\"type\":2,\"value\":154},{\"type\":6,\"value\":124},{\"type\":3,\"value\":137},{\"type\":9,\"value\":75},{\"type\":8,\"value\":282},{\"type\":10,\"value\":270},{\"type\":151,\"value\":0},{\"type\":152,\"value\":-10},{\"type\":154,\"value\":10}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 4,
-      "y": 7,
-      "dir": 0,
+      "x": 9,
+      "y": 9,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -1209,6 +1259,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -1284,13 +1339,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":4418},{\"type\":4,\"value\":394},{\"type\":2,\"value\":154},{\"type\":6,\"value\":124},{\"type\":3,\"value\":137},{\"type\":9,\"value\":75},{\"type\":8,\"value\":282},{\"type\":10,\"value\":270},{\"type\":151,\"value\":0},{\"type\":152,\"value\":-10},{\"type\":154,\"value\":10}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 6,
+      "x": 1,
       "y": 3,
-      "dir": 0,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -1311,6 +1367,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -1386,13 +1447,14 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":3854},{\"type\":4,\"value\":425},{\"type\":2,\"value\":162},{\"type\":3,\"value\":200},{\"type\":6,\"value\":80},{\"type\":9,\"value\":70},{\"type\":8,\"value\":340},{\"type\":10,\"value\":310},{\"type\":157,\"value\":-10}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     },
     {
       "name": "",
-      "x": 6,
-      "y": 5,
-      "dir": 0,
+      "x": 10,
+      "y": 3,
+      "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
       "brave": 40,
@@ -1413,6 +1475,11 @@
         "hp_tbl": []
       },
       "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
@@ -1488,7 +1555,8 @@
       "referenceGObjName": "",
       "status": "{\"list\":[{\"type\":1,\"value\":3854},{\"type\":4,\"value\":425},{\"type\":2,\"value\":162},{\"type\":3,\"value\":200},{\"type\":6,\"value\":80},{\"type\":9,\"value\":70},{\"type\":8,\"value\":340},{\"type\":10,\"value\":310},{\"type\":157,\"value\":-10}]}",
       "groupId": "",
-      "infUnit": false
+      "infUnit": false,
+      "wave_id": 0
     }
   ],
   "arena": [],

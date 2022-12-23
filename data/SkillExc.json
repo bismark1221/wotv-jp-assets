@@ -838,6 +838,116 @@
           "iname": "BUFF_LB_LW_RESL_2"
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_EC_DRG_C_05C",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 113,
+          "calc": 4
+        },
+        {
+          "tar": 1,
+          "type": 104,
+          "calc": 4
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_EC_MNK_A_02_B",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 89,
+          "calc": 4
+        },
+        {
+          "tar": 1,
+          "type": 101,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_EC_MNK_A_02_B"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_FMAM_EC_EDWD_A_01_B",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 83,
+          "calc": 4
+        }
+      ]
+    },
+    {
+      "iname": "SKE_FMAM_EDWD_S_3",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 99,
+          "calc": 4
+        },
+        {
+          "tar": 1,
+          "type": 100,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_FMAM_EDWD_S_3_2"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_CLT_FMAM_EDWD_1_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 81,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_CLT_FMAM_EDWD_1_2"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_FMAM_BRDL_M_3",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 22,
+          "calc": 1
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_FMAM_BRDL_M_3_3"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_FMAM_BRDL_S_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 113,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_FMAM_BRDL_S_2_3"
+        }
+      ]
     }
   ]
 }

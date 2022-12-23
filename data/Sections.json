@@ -502,6 +502,12 @@
       "back_unit": "UN_LW_ST_030101"
     },
     {
+      "iname": "SE_ST_030102",
+      "chap": "CH_ST_0301",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_030101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -956,6 +962,21 @@
       "iname": "SE_EV_ARNA_01",
       "limit": 1,
       "hurl": "ev_arna_01"
+    },
+    {
+      "iname": "SE_EV_FMAM_01",
+      "hurl": "ev_FMAM_01"
+    },
+    {
+      "iname": "SE_EV_FMAM_EX01",
+      "hurl": "ev_FMAM_ex_01",
+      "o_cond_q": [
+        "QE_EV_FMAM_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_FMAM_EX01",
+      "hurl": "ev_FMAM_ex_01"
     },
     {
       "iname": "SE_PTQ_FF7R_02",
@@ -2887,6 +2908,10 @@
       "hurl": "ev_nmap_05"
     },
     {
+      "iname": "SE_BR_WATER",
+      "hurl": "br_water_01"
+    },
+    {
       "iname": "SE_BR_ICE",
       "hurl": "br_ice_01"
     },
@@ -2913,10 +2938,6 @@
     {
       "iname": "SE_BR_SHINE",
       "hurl": "br_shine_01"
-    },
-    {
-      "iname": "SE_BR_WATER",
-      "hurl": "br_water_01"
     },
     {
       "iname": "SE_EV_MT_01",
