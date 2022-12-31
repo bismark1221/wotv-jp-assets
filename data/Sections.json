@@ -964,8 +964,38 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_NY2023_1",
+      "hurl": "ev_newyear2023"
+    },
+    {
+      "iname": "SE_EV_NY2023_2",
+      "hurl": "ev_newyear2023"
+    },
+    {
+      "iname": "SE_EV_NY2023_3",
+      "hurl": "ev_newyear2023"
+    },
+    {
+      "iname": "SE_EV_VC_FMAM_01",
+      "hurl": "ev_vc_FMAM_01",
+      "open_cond": [
+        "COND_VC_LW_FMAM"
+      ]
+    },
+    {
       "iname": "SE_EV_FMAM_01",
       "hurl": "ev_FMAM_01"
+    },
+    {
+      "iname": "SE_EV_FMAM_EX02",
+      "hurl": "ev_FMAM_ex_02",
+      "o_cond_q": [
+        "QE_EV_FMAM_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_FMAM_EX02",
+      "hurl": "ev_FMAM_ex_02"
     },
     {
       "iname": "SE_EV_FMAM_EX01",
@@ -977,6 +1007,32 @@
     {
       "iname": "SE_MU_FMAM_EX01",
       "hurl": "ev_FMAM_ex_01"
+    },
+    {
+      "iname": "SE_EV_FMAM_EX03",
+      "hurl": "ev_FMAM_ex_03",
+      "o_cond_q": [
+        "QE_EV_FMAM_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_FMAM_EX03",
+      "hurl": "ev_FMAM_ex_03"
+    },
+    {
+      "iname": "SE_EV_20_01",
+      "hurl": "ev_20_01"
+    },
+    {
+      "iname": "SE_EV_20_EX_01",
+      "hurl": "ev_20_ex_01",
+      "o_cond_q": [
+        "QE_EV_20_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_20_EX",
+      "hurl": "ev_20_ex_01"
     },
     {
       "iname": "SE_PTQ_FF7R_02",
@@ -1016,6 +1072,10 @@
     {
       "iname": "SE_EV_VC_FF7_01",
       "hurl": "ev_FF7R_ITGR_02"
+    },
+    {
+      "iname": "SE_EV_STRN_02_01",
+      "hurl": "ev_strn_02_01"
     },
     {
       "iname": "SE_EV_RESL_01",
@@ -1134,14 +1194,6 @@
     {
       "iname": "SE_MU_FF7_02_EX",
       "hurl": "ev_FF7R_ex_02"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_26",
-      "hurl": "ev_arti_crft_26"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_26",
-      "hurl": "ev_arti_crft_26"
     },
     {
       "iname": "SE_EV_NY2022_1",
@@ -2313,6 +2365,14 @@
     {
       "iname": "SE_MU_EV_01_EX",
       "hurl": "ev_01_ex_01"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_26",
+      "hurl": "ev_arti_crft_26"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_26",
+      "hurl": "ev_arti_crft_26"
     },
     {
       "iname": "SE_MU_ART_CRF_25",

@@ -417,7 +417,7 @@
   "enemy": [
     {
       "name": "",
-      "x": 7,
+      "x": 8,
       "y": 10,
       "dir": 3,
       "ct_calc": 0,
@@ -569,7 +569,7 @@
     {
       "name": "",
       "x": 7,
-      "y": 9,
+      "y": 10,
       "dir": 3,
       "ct_calc": 0,
       "ct_val": 500,
@@ -715,7 +715,7 @@
       "dmganm": 0,
       "block": 0,
       "ai": {
-        "iname": "AI_ENEMY_1_BUFF_2_MAG",
+        "iname": "AI_ENEMY_1_BUFF_2_ATK",
         "wait_e": 0,
         "search": 15,
         "sensing": 0
@@ -1296,7 +1296,7 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_AXD_M_2",
+          "iname": "SK_LW_AXD_S_1_INIT",
           "rank": 20,
           "rate": 100
         },
@@ -1756,7 +1756,7 @@
     },
     {
       "name": "",
-      "x": 5,
+      "x": 6,
       "y": 10,
       "dir": 3,
       "ct_calc": 0,
@@ -1965,7 +1965,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_FF7_ITGR_1",
+            "iname": "IT_EC_FMAM_1",
             "num": 210,
             "subNum1": 0,
             "secret": 0
@@ -1975,7 +1975,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_FF7_ITGR_1",
+            "iname": "IT_EC_FMAM_1",
             "num": 230,
             "subNum1": 0,
             "secret": 0
@@ -1985,7 +1985,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_EC_FF7_ITGR_1",
+            "iname": "IT_EC_FMAM_1",
             "num": 250,
             "subNum1": 0,
             "secret": 0
@@ -2002,7 +2002,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_FF7_KAT_000",
+            "iname": "IT_AF_FMAM_GLO_000",
             "num": 1,
             "subNum1": 0,
             "secret": 0
@@ -2012,7 +2012,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_MAT_WOLF",
+            "iname": "IT_AF_MAT_BOMB",
             "num": 1,
             "subNum1": 0,
             "secret": 0
@@ -2032,7 +2032,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_MAT_DARK_01",
+            "iname": "IT_AF_MAT_FIRE_01",
             "num": 1,
             "subNum1": 0,
             "secret": 0
@@ -2042,7 +2042,7 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_AW_JSWORD",
+            "iname": "IT_AF_AW_GLOVE",
             "num": 1,
             "subNum1": 0,
             "secret": 0

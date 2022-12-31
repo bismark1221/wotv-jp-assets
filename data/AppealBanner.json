@@ -20946,7 +20946,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 276,
+      "priority": 250,
       "start_at": "2022/12/23 15:00:00",
       "end_at": "2023/01/31 23:59:59"
     },
@@ -21102,7 +21102,7 @@
       },
       "priority": 278,
       "start_at": "2022/12/23 15:00:00",
-      "end_at": "2023/01/31 23:59:59"
+      "end_at": "2022/12/31 22:59:59"
     },
     {
       "id": 1510,
@@ -21130,7 +21130,7 @@
       },
       "priority": 280,
       "start_at": "2022/12/23 15:00:00",
-      "end_at": "2023/01/31 23:59:59"
+      "end_at": "2022/12/31 22:59:59"
     },
     {
       "id": 1512,
@@ -21158,7 +21158,7 @@
       },
       "priority": 282,
       "start_at": "2022/12/23 15:00:00",
-      "end_at": "2023/01/31 23:59:59"
+      "end_at": "2022/12/31 22:59:59"
     },
     {
       "id": 1514,
@@ -21212,7 +21212,7 @@
         "type": 1,
         "unlock_id": "EventQuest"
       },
-      "priority": 496,
+      "priority": 600,
       "start_at": "2022/12/23 15:00:00",
       "end_at": "2023/01/31 23:59:59"
     },
@@ -21240,9 +21240,149 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 497,
+      "priority": 601,
       "start_at": "2022/12/23 15:00:00",
       "end_at": "2023/01/31 23:59:59"
+    },
+    {
+      "id": 1520,
+      "iname": "GachaBanner_FMAM_0024",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FMAM_0024",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 270,
+      "start_at": "2023/01/01",
+      "end_at": "2023/01/31 23:59:59"
+    },
+    {
+      "id": 1521,
+      "iname": "GachaBanner_FMAM_0022",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FMAM_0022",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 271,
+      "start_at": "2023/01/01",
+      "end_at": "2023/01/31 23:59:59"
+    },
+    {
+      "id": 1522,
+      "iname": "GachaBanner_FMAM_0030",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FMAM_0030",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 274,
+      "start_at": "2023/01/01",
+      "end_at": "2023/01/31 23:59:59"
+    },
+    {
+      "id": 1523,
+      "iname": "GachaBanner_FMAM_0023",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FMAM_0023",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 275,
+      "start_at": "2023/01/01",
+      "end_at": "2023/01/31 23:59:59"
+    },
+    {
+      "id": 1524,
+      "iname": "GachaBanner_1277",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1277",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 272,
+      "start_at": "2023/01/01",
+      "end_at": "2023/01/17 0:59:59"
+    },
+    {
+      "id": 1525,
+      "iname": "GachaBanner_1275",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1275",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 273,
+      "start_at": "2023/01/01",
+      "end_at": "2023/01/17 0:59:59"
+    },
+    {
+      "id": 1526,
+      "iname": "LAPS_SHOP_LIMITED_0488",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0488",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 500,
+      "start_at": "2023/01/01",
+      "end_at": "2023/01/10 14:59:59"
+    },
+    {
+      "id": 1527,
+      "iname": "GachaBanner_1274_1",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1274_1",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 251,
+      "start_at": "2023/01/01",
+      "end_at": "2023/01/01 23:59:59"
+    },
+    {
+      "id": 1528,
+      "iname": "GachaBanner_1274_2",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1274_2",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 251,
+      "start_at": "2023/01/02",
+      "end_at": "2023/01/02 23:59:59"
+    },
+    {
+      "id": 1529,
+      "iname": "GachaBanner_1274_3",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_1274_3",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 251,
+      "start_at": "2023/01/03",
+      "end_at": "2023/01/03 23:59:59"
     }
   ]
 }

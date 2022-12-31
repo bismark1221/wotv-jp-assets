@@ -238,6 +238,22 @@
       "units": [
         "UN_FMAM_P_ALPN"
       ]
+    },
+    {
+      "iname": "APC_FMAM_GLO_000",
+      "units": [
+        "UN_FMAM_P_ROYM"
+      ]
+    },
+    {
+      "iname": "APC_LW_SWO_038",
+      "mainjobs": [
+        "JB_LW_WAR_FIRE",
+        "JB_LW_KNT_FIRE",
+        "JB_LW_PLD_FIRE",
+        "JB_LW_RAB_FIRE",
+        "JB_LW_STRN_01"
+      ]
     }
   ]
 }

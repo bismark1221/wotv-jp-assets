@@ -315,6 +315,13 @@
       "image": "ev_19_ex_01"
     },
     {
+      "iname": "SE_MU_EV_20_EX",
+      "event_type": 1,
+      "image": "ev_20_ex_01",
+      "start": "2023/01/01",
+      "end": "2023/01/24 14:59:59"
+    },
+    {
       "iname": "SE_MU_EV_SCR_01",
       "event_type": 1,
       "image": "ev_art_secret_02",
@@ -546,10 +553,8 @@
     },
     {
       "iname": "SE_MU_ART_CRF_26",
-      "event_type": 1,
-      "image": "ev_arti_crft_26",
-      "start": "2022/11/13 18:30:00",
-      "end": "2022/11/30 23:59:59"
+      "event_type": 6,
+      "image": "ev_arti_crft_26"
     },
     {
       "iname": "SE_MU_ART_CRF_27",
@@ -861,6 +866,20 @@
       "event_type": 1,
       "image": "ev_FMAM_ex_01",
       "start": "2022/12/23 15:00:00",
+      "end": "2023/01/31 23:59:59"
+    },
+    {
+      "iname": "SE_MU_FMAM_EX02",
+      "event_type": 1,
+      "image": "ev_FMAM_ex_02",
+      "start": "2023/01/01",
+      "end": "2023/01/31 23:59:59"
+    },
+    {
+      "iname": "SE_MU_FMAM_EX03",
+      "event_type": 1,
+      "image": "ev_FMAM_ex_03",
+      "start": "2023/01/10 15:00:00",
       "end": "2023/01/31 23:59:59"
     }
   ]
