@@ -193,8 +193,8 @@
     },
     {
       "iname": "PB_LGB_UC240",
-      "slot": 19,
-      "order": 19,
+      "slot": 34,
+      "order": 34,
       "sex": 0,
       "rarity_min": 0,
       "rarity_max": 5,
@@ -310,6 +310,18 @@
       "rarity_min": 0,
       "rarity_max": 5,
       "cost_max": 550
+    },
+    {
+      "iname": "PB_LGB_C560MU",
+      "slot": 33,
+      "order": 33,
+      "sex": 1,
+      "sex_add": [
+        3
+      ],
+      "rarity_min": 0,
+      "rarity_max": 5,
+      "cost_max": 560
     }
   ]
 }

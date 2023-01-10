@@ -280,17 +280,17 @@
           "rate": 100
         },
         {
-          "iname": "SK_FMAM_BRDL_R_2",
-          "rank": 20,
-          "rate": 100
-        },
-        {
           "iname": "SK_BTL_HIT_1_999_U",
           "rank": 80,
           "rate": 100
         },
         {
           "iname": "SK_BTL_INV_HPDOWN",
+          "rank": 1,
+          "rate": 100
+        },
+        {
+          "iname": "SK_BTL_INV_CTDOWN",
           "rank": 1,
           "rate": 100
         }
@@ -360,7 +360,7 @@
       "rare": 0,
       "awake": 5,
       "rank": 5,
-      "elem": 1,
+      "elem": 4,
       "search": 0,
       "ctrl": 0,
       "nottar": 0,
@@ -463,7 +463,7 @@
       "rare": 0,
       "awake": 5,
       "rank": 5,
-      "elem": 1,
+      "elem": 4,
       "search": 0,
       "ctrl": 0,
       "nottar": 0,

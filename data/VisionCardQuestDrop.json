@@ -382,9 +382,7 @@
       "iname": "IT_VPI_DQTC_MV3",
       "questlist": [
         "QE_EV_VC_DQT_1",
-        "QE_EV_VC_DQT_2",
-        "QE_EV_VC_FMAM_1",
-        "QE_EV_VC_FMAM_2"
+        "QE_EV_VC_DQT_2"
       ]
     },
     {
@@ -434,6 +432,19 @@
       "iname": "IT_VPI_LW_GNBC",
       "questlist": [
         "QE_VC_LW_GNBC"
+      ]
+    },
+    {
+      "iname": "IT_VPI_LW_BAHM_01",
+      "questlist": [
+        "QE_VC_LW_BAHM_01"
+      ]
+    },
+    {
+      "iname": "IT_VPI_FMAM_MV2",
+      "questlist": [
+        "QE_EV_VC_FMAM_1",
+        "QE_EV_VC_FMAM_2"
       ]
     },
     {
@@ -923,7 +934,8 @@
         "QE_VC_LW_MINU",
         "QE_VC_LW_LATH",
         "QE_VC_LW_IFRT01",
-        "QE_VC_LW_GNBC"
+        "QE_VC_LW_GNBC",
+        "QE_VC_LW_BAHM_01"
       ]
     },
     {
@@ -1093,7 +1105,8 @@
         "QE_VC_LW_MINU",
         "QE_VC_LW_LATH",
         "QE_VC_LW_IFRT01",
-        "QE_VC_LW_GNBC"
+        "QE_VC_LW_GNBC",
+        "QE_VC_LW_BAHM_01"
       ]
     },
     {
@@ -1261,7 +1274,8 @@
         "QE_VC_LW_MINU",
         "QE_VC_LW_LATH",
         "QE_VC_LW_IFRT01",
-        "QE_VC_LW_GNBC"
+        "QE_VC_LW_GNBC",
+        "QE_VC_LW_BAHM_01"
       ]
     },
     {
@@ -1388,7 +1402,8 @@
         "QE_VC_LW_MINU",
         "QE_VC_LW_LATH",
         "QE_VC_LW_IFRT01",
-        "QE_VC_LW_GNBC"
+        "QE_VC_LW_GNBC",
+        "QE_VC_LW_BAHM_01"
       ]
     }
   ]

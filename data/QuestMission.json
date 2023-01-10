@@ -36029,6 +36029,18 @@
       ]
     },
     {
+      "iname": "QM_CH_MM_159",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_BRDL_3",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_CH_MM_A01",
       "type": 102,
       "value1": 0,
@@ -40132,6 +40144,42 @@
         {
           "type": 0,
           "item": "IT_JB_EM_FIRE_3",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_324",
+      "type": 15,
+      "value1": "UN_LW_P_ENBT",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SHINE_4",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_325",
+      "type": 15,
+      "value1": "UN_LW_P_KADI",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_WIND_4",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_326",
+      "type": 15,
+      "value1": "UN_FMAM_P_BRDL",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_3",
           "num": 10
         }
       ]
@@ -44443,6 +44491,74 @@
         {
           "type": 0,
           "item": "IT_SB_AW_FIRE",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_BAHM_01_01",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_BAHM_01_R2",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_BAHM_01_02",
+      "type": 105,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_BAHM_01_R2",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_BAHM_01_03",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_SHINE",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_BAHM_01_04",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_BAHM_01_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_BAHM_01_05",
+      "type": 105,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_BAHM_01_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_BAHM_01_06",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_SHINE",
           "num": 10
         }
       ]
@@ -68731,7 +68847,7 @@
       "rewards": [
         {
           "type": 0,
-          "item": "IT_VPI_DQTC_MV3",
+          "item": "IT_VPI_FMAM_MV2",
           "num": 10
         }
       ]
@@ -68777,7 +68893,7 @@
       "rewards": [
         {
           "type": 0,
-          "item": "IT_VPI_DQTC_MV3",
+          "item": "IT_VPI_FMAM_MV2",
           "num": 20
         }
       ]
@@ -68823,7 +68939,7 @@
       "rewards": [
         {
           "type": 0,
-          "item": "IT_VPI_DQTC_MV3",
+          "item": "IT_VPI_FMAM_MV2",
           "num": 35
         }
       ]
@@ -68834,7 +68950,7 @@
       "rewards": [
         {
           "type": 0,
-          "item": "IT_VPI_DQTC_MV3",
+          "item": "IT_VPI_FMAM_MV2",
           "num": 35
         }
       ]
@@ -68846,7 +68962,7 @@
       "rewards": [
         {
           "type": 0,
-          "item": "IT_VPI_DQTC_MV3",
+          "item": "IT_VPI_FMAM_MV2",
           "num": 35
         }
       ]
@@ -68858,7 +68974,7 @@
       "rewards": [
         {
           "type": 0,
-          "item": "IT_VPI_DQTC_MV3",
+          "item": "IT_VPI_FMAM_MV2",
           "num": 35
         }
       ]
@@ -68869,7 +68985,7 @@
       "rewards": [
         {
           "type": 0,
-          "item": "IT_VPI_DQTC_MV3",
+          "item": "IT_VPI_FMAM_MV2",
           "num": 100
         }
       ]
@@ -77059,7 +77175,7 @@
       "rewards": [
         {
           "type": 0,
-          "item": "IT_US_EXP_01",
+          "item": "IT_AF_FMAM_SWO_000",
           "num": 1
         }
       ]
@@ -77101,8 +77217,8 @@
     },
     {
       "iname": "QM_EV_FMAM_EX4_3",
-      "type": 81,
-      "value1": 2,
+      "type": 105,
+      "value1": 4,
       "rewards": [
         {
           "type": 0,
@@ -77120,6 +77236,20 @@
           "type": 0,
           "item": "IT_AF_EXP_03",
           "num": 100
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_FMAM_EX4_5",
+      "type": 10,
+      "value2": [
+        4
+      ],
+      "rewards": [
+        {
+          "type": 1,
+          "item": "AF_FMAM_SWO_000_3",
+          "num": 1
         }
       ]
     },
