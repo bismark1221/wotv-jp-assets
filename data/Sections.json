@@ -1020,6 +1020,28 @@
       "hurl": "ev_FMAM_ex_01"
     },
     {
+      "iname": "SE_MU_ART_CRF_28",
+      "hurl": "ev_arti_crft_28"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_28",
+      "hurl": "ev_arti_crft_28"
+    },
+    {
+      "iname": "SE_EV_AST_020401",
+      "hurl": "ev_ast_0204",
+      "o_cond_q": [
+        "QE_EV_AST_010110"
+      ]
+    },
+    {
+      "iname": "SE_EV_AST_020301",
+      "hurl": "ev_ast_0203",
+      "o_cond_q": [
+        "QE_EV_AST_010110"
+      ]
+    },
+    {
       "iname": "SE_EV_20_01",
       "hurl": "ev_20_01"
     },

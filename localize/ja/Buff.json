@@ -430,7 +430,7 @@
     },
     {
       "key": "BUFF_CondChainKeepAttack",
-      "value": "行動後もチェイン継続"
+      "value": "行動後もタイプチェイン継続"
     },
     {
       "key": "BUFF_CondChainKeepElement",
@@ -858,11 +858,31 @@
     },
     {
       "key": "BUFF_OtherChainRedRateAtk",
-      "value": "チェイン"
+      "value": "タイプチェイン"
     },
     {
       "key": "BUFF_OtherChainRedRateElem",
       "value": "エレメントチェイン"
+    },
+    {
+      "key": "BUFF_OtherDamageMaxSlash",
+      "value": "斬撃ダメージ上限"
+    },
+    {
+      "key": "BUFF_OtherDamageMaxPierce",
+      "value": "刺突ダメージ上限"
+    },
+    {
+      "key": "BUFF_OtherDamageMaxBlow",
+      "value": "打撃ダメージ上限"
+    },
+    {
+      "key": "BUFF_OtherDamageMaxShot",
+      "value": "射撃ダメージ上限"
+    },
+    {
+      "key": "BUFF_OtherDamageMaxMagic",
+      "value": "魔法ダメージ上限"
     },
     {
       "key": "BUFF_UnitTagFloating",

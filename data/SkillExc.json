@@ -967,6 +967,21 @@
           "iname": "BUFF_FMAM_BRDL_S_2_3"
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_REGN_M_3",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 113,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_REGN_M_3_2"
+        }
+      ]
     }
   ]
 }
