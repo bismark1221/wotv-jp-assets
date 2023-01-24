@@ -982,6 +982,41 @@
           "iname": "BUFF_LW_REGN_M_3_2"
         }
       ]
+    },
+    {
+      "iname": "SKE_MA_LW_JUME_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 105,
+          "calc": 4
+        },
+        {
+          "tar": 1,
+          "type": 106,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_MA_LW_JUME_2_S_2"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_MA_LW_ASTR_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 113,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_MA_LW_ASTR_S_2_2"
+        }
+      ]
     }
   ]
 }

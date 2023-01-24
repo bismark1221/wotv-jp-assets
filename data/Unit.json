@@ -9691,6 +9691,14 @@
           "m": "JB_LW_MRAL_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_SHINE_SSR",
+        "unlock_count": 1,
+        "id": "UES_LW_MRAL",
+        "lvup_item_id": "UES_LU_SHINE",
+        "re_id": "UES_RNC_SHINE_SSR",
+        "skill_set_id": "UESSET_LW_MRAL"
+      },
       "ai": "AI_PLAYER_LW_MGK",
       "buff_pri": "BUFFPRI_MAGTANK",
       "debuff_pri": "DEBUFFPRI_MAGTANK",
@@ -11016,6 +11024,14 @@
           "m": "JB_LW_RVAL_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_SOIL_SSR",
+        "unlock_count": 1,
+        "id": "UES_LW_RVAL",
+        "lvup_item_id": "UES_LU_SOIL",
+        "re_id": "UES_RNC_SOIL_SSR",
+        "skill_set_id": "UESSET_LW_RVAL"
+      },
       "ai": "AI_PLAYER_LW_BLM",
       "buff_pri": "BUFFPRI_MAGATK",
       "debuff_pri": "DEBUFFPRI_MAGATK",
@@ -13350,6 +13366,14 @@
           "m": "JB_LW_SIRM_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_THUNDER_SSR",
+        "unlock_count": 1,
+        "id": "UES_LW_SIRM",
+        "lvup_item_id": "UES_LU_THUNDER",
+        "re_id": "UES_RNC_THUNDER_SSR",
+        "skill_set_id": "UESSET_LW_SIRM"
+      },
       "ai": "AI_PLAYER_LW_RDM",
       "buff_pri": "BUFFPRI_MAGATK",
       "debuff_pri": "DEBUFFPRI_MAGATK",
@@ -14428,6 +14452,14 @@
           "m": "JB_LW_VLRC_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_ICE_UR",
+        "unlock_count": 1,
+        "id": "UES_LW_VLRC",
+        "lvup_item_id": "UES_LU_ICE",
+        "re_id": "UES_RNC_ICE_UR",
+        "skill_set_id": "UESSET_LW_VLRC"
+      },
       "ai": "AI_PLAYER_LW_MSW",
       "buff_pri": "BUFFPRI_PHYATK",
       "debuff_pri": "DEBUFFPRI_PHYATK",
@@ -16886,7 +16918,8 @@
       "trust": "AF_ACC_LW_LCIO_1",
       "atkskl": "SK_LW_LCIO_ATK",
       "mstskl": [
-        "SK_MA_LW_LCIO"
+        "SK_MA_LW_LCIO",
+        "SK_MA_LW_LCIO_2"
       ],
       "jobsets": [
         "JB_LW_LCIO",
@@ -16898,6 +16931,14 @@
           "m": "JB_LW_LCIO_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_LCIO",
+        "unlock_count": 1,
+        "id": "UES_LW_LCIO",
+        "lvup_item_id": "UES_LU_SHINE",
+        "re_id": "UES_RNC_LCIO",
+        "skill_set_id": "UESSET_LW_LCIO"
+      },
       "ai": "AI_PLAYER_LW_LCIO",
       "buff_pri": "BUFFPRI_PHYATK",
       "debuff_pri": "DEBUFFPRI_PHYATK",
@@ -17005,7 +17046,8 @@
       "trust": "AF_CLT_LW_RFAL_1",
       "atkskl": "SK_LW_ASS_ATK",
       "mstskl": [
-        "SK_MA_LW_RFAL"
+        "SK_MA_LW_RFAL",
+        "SK_MA_LW_RFAL_2"
       ],
       "jobsets": [
         "JB_LW_ASS_ICE",
@@ -17127,7 +17169,8 @@
       "trust": "AF_ACC_LW_JUME_1",
       "atkskl": "SK_LW_JUME_ATK",
       "mstskl": [
-        "SK_MA_LW_JUME"
+        "SK_MA_LW_JUME",
+        "SK_MA_LW_JUME_2"
       ],
       "jobsets": [
         "JB_LW_JUME",
@@ -17139,6 +17182,14 @@
           "m": "JB_LW_JUME_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_WIND_UR",
+        "unlock_count": 1,
+        "id": "UES_LW_JUME",
+        "lvup_item_id": "UES_LU_WIND",
+        "re_id": "UES_RNC_WIND_UR",
+        "skill_set_id": "UESSET_LW_JUME"
+      },
       "ai": "AI_PLAYER_LW_JUME",
       "buff_pri": "BUFFPRI_PHYTANK",
       "debuff_pri": "DEBUFFPRI_PHYTANK",
@@ -18243,7 +18294,8 @@
       "trust": "AF_ACC_LW_BELS_1",
       "atkskl": "SK_LW_BELS_ATK",
       "mstskl": [
-        "SK_MA_LW_BELS"
+        "SK_MA_LW_BELS",
+        "SK_MA_LW_BELS_2"
       ],
       "jobsets": [
         "JB_LW_BELS",
@@ -18255,6 +18307,14 @@
           "m": "JB_LW_BELS_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_ICE_UR",
+        "unlock_count": 1,
+        "id": "UES_LW_BELS",
+        "lvup_item_id": "UES_LU_ICE",
+        "re_id": "UES_RNC_ICE_UR",
+        "skill_set_id": "UESSET_LW_BELS"
+      },
       "ai": "AI_PLAYER_LW_BELS",
       "buff_pri": "BUFFPRI_MAGATK",
       "debuff_pri": "DEBUFFPRI_MAGATK",
@@ -18974,7 +19034,8 @@
       "trust": "AF_ACC_LW_ASTR_1",
       "atkskl": "SK_LW_ASTR_ATK",
       "mstskl": [
-        "SK_MA_LW_ASTR"
+        "SK_MA_LW_ASTR",
+        "SK_MA_LW_ASTR_2"
       ],
       "jobsets": [
         "JB_LW_ASTR",
@@ -18986,6 +19047,14 @@
           "m": "JB_LW_ASTR_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_WATER_UR",
+        "unlock_count": 1,
+        "id": "UES_LW_ASTR",
+        "lvup_item_id": "UES_LU_WATER",
+        "re_id": "UES_RNC_WATER_UR",
+        "skill_set_id": "UESSET_LW_ASTR"
+      },
       "ai": "AI_PLAYER_LW_ASTR",
       "buff_pri": "BUFFPRI_PHYATK",
       "debuff_pri": "DEBUFFPRI_PHYATK",
@@ -19716,6 +19785,14 @@
           "m": "JB_LW_IREZ_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_ICE_UR",
+        "unlock_count": 1,
+        "id": "UES_LW_IREZ",
+        "lvup_item_id": "UES_LU_ICE",
+        "re_id": "UES_RNC_ICE_UR",
+        "skill_set_id": "UESSET_LW_IREZ"
+      },
       "ai": "AI_PLAYER_LW_DAC",
       "buff_pri": "BUFFPRI_PHYATK",
       "debuff_pri": "DEBUFFPRI_PHYATK",
@@ -19838,6 +19915,14 @@
           "m": "JB_LW_RNEL_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_DARK_SSR",
+        "unlock_count": 1,
+        "id": "UES_LW_RNEL",
+        "lvup_item_id": "UES_LU_DARK",
+        "re_id": "UES_RNC_DARK_SSR",
+        "skill_set_id": "UESSET_LW_RNEL"
+      },
       "ai": "AI_PLAYER_LW_BNI",
       "buff_pri": "BUFFPRI_PHYATK",
       "debuff_pri": "DEBUFFPRI_PHYATK",
@@ -20950,6 +21035,14 @@
           "m": "JB_LW_SHNC_M"
         }
       ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_WATER_UR",
+        "unlock_count": 1,
+        "id": "UES_LW_SHNC",
+        "lvup_item_id": "UES_LU_WATER",
+        "re_id": "UES_RNC_WATER_UR",
+        "skill_set_id": "UESSET_LW_SHNC"
+      },
       "ai": "AI_PLAYER_LW_RAB",
       "buff_pri": "BUFFPRI_PHYATK",
       "debuff_pri": "DEBUFFPRI_PHYATK",
@@ -39028,6 +39121,105 @@
           "stn": 10,
           "mov": 3,
           "jmp": 1,
+          "dmax": 9999
+        }
+      ],
+      "unit_medal_num": 0
+    },
+    {
+      "iname": "UN_LW_E_RZRM_99",
+      "sex": 2,
+      "size": 0,
+      "body_type": "W",
+      "personal": 5,
+      "charaId": "LAPSrzrn",
+      "anm_type": 1,
+      "voiceId": "LAPSrzrn_00",
+      "type": 7,
+      "elem": [
+        2
+      ],
+      "species": [
+        1
+      ],
+      "birth": 5,
+      "rare": 4,
+      "grow": "SR_DEFAULT",
+      "cost": 100,
+      "atkskl": "SK_LW_DAC_ATK",
+      "jobsets": [
+        "JB_LW_DAC_ICE"
+      ],
+      "ai": "AI_PLAYER_LW_DAC",
+      "buff_pri": "BUFFPRI_PHYATK",
+      "debuff_pri": "DEBUFFPRI_PHYATK",
+      "status": [
+        {
+          "hp": 296,
+          "mp": 59,
+          "ap": 78,
+          "atk": 79,
+          "def": 0,
+          "mag": 32,
+          "mnd": 0,
+          "dex": 78,
+          "spd": 31,
+          "luk": 64,
+          "efi": -10,
+          "ewi": 20,
+          "cpo": 999,
+          "cbl": 999,
+          "csl": 999,
+          "cmu": 999,
+          "cpa": 999,
+          "ccf": 999,
+          "cpe": 999,
+          "cfr": 999,
+          "csw": 999,
+          "cst": 999,
+          "cch": 999,
+          "cdm": 999,
+          "cda": 999,
+          "cbe": 999,
+          "cdo": 999,
+          "frz": 999,
+          "stn": 999,
+          "mov": 3,
+          "jmp": 2,
+          "dmax": 9999
+        },
+        {
+          "hp": 1002,
+          "mp": 92,
+          "ap": 96,
+          "atk": 133,
+          "def": 0,
+          "mag": 54,
+          "mnd": 0,
+          "dex": 117,
+          "spd": 36,
+          "luk": 90,
+          "efi": -10,
+          "ewi": 20,
+          "cpo": 999,
+          "cbl": 999,
+          "csl": 999,
+          "cmu": 999,
+          "cpa": 999,
+          "ccf": 999,
+          "cpe": 999,
+          "cfr": 999,
+          "csw": 999,
+          "cst": 999,
+          "cch": 999,
+          "cdm": 999,
+          "cda": 999,
+          "cbe": 999,
+          "cdo": 999,
+          "frz": 999,
+          "stn": 999,
+          "mov": 3,
+          "jmp": 2,
           "dmax": 9999
         }
       ],
@@ -97034,7 +97226,7 @@
       "iname": "UN_LW_TU_ERKA",
       "sex": 2,
       "size": 0,
-      "body_type": "W",
+      "body_type": "S",
       "personal": 2,
       "charaId": "LAPSerka",
       "anm_type": 1,
@@ -139991,6 +140183,53 @@
       "sex": 3,
       "size": 0,
       "charaId": "GMCKston",
+      "anm_type": 3,
+      "type": 6,
+      "rare": 0,
+      "cost": 1,
+      "notsmn": 1,
+      "stop": 1,
+      "height": 10,
+      "status": [
+        {
+          "hp": 1000,
+          "mp": 0,
+          "ap": 0,
+          "atk": 0,
+          "def": 0,
+          "mag": 0,
+          "mnd": 0,
+          "dex": 0,
+          "spd": 0,
+          "luk": 0,
+          "cpo": 999,
+          "cbl": 999,
+          "csl": 999,
+          "cmu": 999,
+          "cpa": 999,
+          "ccf": 999,
+          "cpe": 999,
+          "cfr": 999,
+          "csw": 999,
+          "cst": 999,
+          "cch": 999,
+          "cdm": 999,
+          "cda": 999,
+          "cbe": 999,
+          "cdo": 999,
+          "frz": 999,
+          "stn": 999
+        }
+      ],
+      "no_kb": 1,
+      "no_swap": 1,
+      "unit_medal_num": 0
+    },
+    {
+      "iname": "UN_GM_ARAI",
+      "sex": 3,
+      "size": 0,
+      "charaId": "GMCKarai",
       "anm_type": 3,
       "type": 6,
       "rare": 0,
