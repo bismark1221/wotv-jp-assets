@@ -5089,6 +5089,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「アリム」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_ALIM_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「アリム」UnitLv.80以上<br>「キャラクタークエスト　アリム」をクリア"
+    },
+    {
       "key": "QE_CH_LW_RYER_01",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「リレルリラ（ハロウィン）」UnitLv.40以上"
     },
@@ -5387,6 +5391,10 @@
     {
       "key": "QE_CH_LW_FALM",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ファルム」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_FALM_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ファルム」UnitLv.80以上<br>「キャラクタークエスト　ファルム」をクリア"
     },
     {
       "key": "QE_CH_LW_QILF_01",
@@ -5930,6 +5938,38 @@
     },
     {
       "key": "QE_EV_VALE_01",
+      "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+    },
+    {
+      "key": "QE_EV_VALE_02_1",
+      "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+    },
+    {
+      "key": "QE_EV_VALE_02_2",
+      "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+    },
+    {
+      "key": "QE_EV_VALE_02_3",
+      "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+    },
+    {
+      "key": "QE_EV_VALE_02_4",
+      "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+    },
+    {
+      "key": "QE_EV_VALE_02_5",
+      "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+    },
+    {
+      "key": "QE_EV_VALE_02_6",
+      "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+    },
+    {
+      "key": "QE_EV_VALE_02_7",
+      "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
+    },
+    {
+      "key": "QE_EV_VALE_02_8",
       "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
     },
     {
@@ -10781,6 +10821,142 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。HPが0になった敵はターンを待たずに消えます。"
     },
     {
+      "key": "QE_RAID_RV_01_01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_01_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_01_03",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_01_04",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_01_05",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_01_06",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_01_07",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_01_08",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_02_01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_02_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_02_03",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_02_04",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_02_05",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_02_06",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_02_07",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_02_08",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_04_01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_04_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_05_01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_05_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_05_03",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_05_04",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_05_05",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_05_06",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_05_07",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_05_08",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_06_01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_06_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_06_03",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_06_04",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_06_05",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_06_06",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_06_07",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_RAID_RV_06_08",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_EV_AEX_214_1",
       "value": "クエスト情報<br>なし"
     },
@@ -12021,6 +12197,14 @@
       "value": "クエスト情報<br>ヒント:命中率に気を付けよう"
     },
     {
+      "key": "QE_SB_MCOR_01",
+      "value": "クエスト情報<br>ヒント：麻痺に気を付けよう"
+    },
+    {
+      "key": "QE_SB_MCOR_02",
+      "value": "クエスト情報<br>ヒント：麻痺に気を付けよう"
+    },
+    {
       "key": "QE_SB_MABR_01",
       "value": "クエスト情報<br>なし"
     },
@@ -12517,10 +12701,6 @@
       "value": "クエスト情報<br>なし"
     },
     {
-      "key": "QE_MU_EV_10_EX_2",
-      "value": "クエスト情報<br>なし"
-    },
-    {
       "key": "QE_MU_AEX_213_1",
       "value": "クエスト情報<br>なし"
     },
@@ -12805,142 +12985,6 @@
       "value": "クエスト情報<br>なし"
     },
     {
-      "key": "QE_RAID_RV_01_01",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_01_02",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_01_03",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_01_04",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_01_05",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_01_06",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_01_07",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_01_08",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_02_01",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_02_02",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_02_03",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_02_04",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_02_05",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_02_06",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_02_07",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_02_08",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_04_01",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_04_02",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_05_01",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_05_02",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_05_03",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_05_04",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_05_05",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_05_06",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_05_07",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_05_08",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_06_01",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_06_02",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_06_03",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_06_04",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_06_05",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_06_06",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_06_07",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_RAID_RV_06_08",
-      "value": "クエスト情報<br>なし"
-    },
-    {
       "key": "QE_MU_AEX_212_1",
       "value": "クエスト情報<br>なし"
     },
@@ -13074,6 +13118,10 @@
     },
     {
       "key": "QE_MU_EV_11_EX_1",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_EV_10_EX_2",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -15287,6 +15335,10 @@
     {
       "key": "QE_VC_LW_REGN",
       "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「異界の共闘」を獲得"
+    },
+    {
+      "key": "QE_VC_LW_MCOR",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「長髭雷牙　マスタークアール」を獲得"
     },
     {
       "key": "QE_TEST_FOR",

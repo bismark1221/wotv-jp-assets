@@ -75914,7 +75914,72 @@
       ],
       "skl5": [
         "SK_LW_RNG_010_5"
-      ]
+      ],
+      "not_disassembly_flag": 1
+    },
+    {
+      "iname": "AF_LW_RNG_010_1",
+      "asset": "LAPSwpn_rng_010",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "cap": 1,
+      "sell": 0,
+      "hnum": 10,
+      "equip": "AEC_RNG_010",
+      "status": [
+        {
+          "hp": 17,
+          "atk": 5,
+          "def": 1,
+          "mag": 5,
+          "mnd": 1
+        },
+        {
+          "hp": 484,
+          "atk": 110,
+          "def": 26,
+          "mag": 110,
+          "mnd": 26
+        }
+      ],
+      "randr": [
+        {
+          "hp": 44,
+          "atk": 40,
+          "def": 18,
+          "mag": 40,
+          "mnd": 18
+        }
+      ],
+      "randa": [
+        {
+          "hp": 10,
+          "atk": 3,
+          "def": 2,
+          "mag": 3,
+          "mnd": 2
+        }
+      ],
+      "rtype": "AF_LOT_LW_RNG_007",
+      "skl1": [
+        "SK_LW_RNG_010_1_5"
+      ],
+      "skl2": [
+        "SK_LW_RNG_010_1_5"
+      ],
+      "skl3": [
+        "SK_LW_RNG_010_1_5"
+      ],
+      "skl4": [
+        "SK_LW_RNG_010_1_5"
+      ],
+      "skl5": [
+        "SK_LW_RNG_010_1_5"
+      ],
+      "not_disassembly_flag": 1
     },
     {
       "iname": "AF_LW_RNG_011",
@@ -79305,6 +79370,77 @@
       "skl5": [
         "SK_LW_ACC_003_5_S",
         "SK_LW_ACC_003_5"
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_036_6",
+      "asset": "LAPSwpn_acc_036",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 30,
+          "def": 1,
+          "mnd": 0,
+          "hit": 1,
+          "crt": 1,
+          "crta": 1
+        },
+        {
+          "hp": 960,
+          "def": 15,
+          "mnd": 9,
+          "hit": 11,
+          "crt": 11,
+          "crta": 18
+        }
+      ],
+      "randr": [
+        {
+          "hp": 44,
+          "def": 18,
+          "mnd": 18,
+          "hit": 18,
+          "crt": 18,
+          "crta": 36
+        }
+      ],
+      "randa": [
+        {
+          "hp": 22,
+          "def": 1,
+          "mnd": 1,
+          "hit": 1,
+          "crt": 1,
+          "crta": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_036",
+      "skl1": [
+        "SK_LW_ACC_003_1_S",
+        "SK_LW_ACC_003_6"
+      ],
+      "skl2": [
+        "SK_LW_ACC_003_1_S",
+        "SK_LW_ACC_003_6"
+      ],
+      "skl3": [
+        "SK_LW_ACC_003_1_S",
+        "SK_LW_ACC_003_6"
+      ],
+      "skl4": [
+        "SK_LW_ACC_003_1_S",
+        "SK_LW_ACC_003_6"
+      ],
+      "skl5": [
+        "SK_LW_ACC_003_5_S",
+        "SK_LW_ACC_003_6"
       ]
     },
     {
