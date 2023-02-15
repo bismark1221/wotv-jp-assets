@@ -141,6 +141,10 @@
       "value": "レイド用"
     },
     {
+      "key": "BUFF_UMWP_P_01_EN",
+      "value": "HP30%以下で回復"
+    },
+    {
       "key": "BUFF_LB_LW_GRSR_02",
       "value": "行動後もエレメントチェイン継続"
     },
@@ -517,6 +521,10 @@
       "value": "土属性ユニットの範囲攻撃耐性アップ"
     },
     {
+      "key": "BUFF_ARENA_00043",
+      "value": "光属性ユニットのHP・魔力アップ"
+    },
+    {
       "key": "BUFF_GVG_001",
       "value": "闇属性アビリティ攻撃アップ"
     },
@@ -819,6 +827,10 @@
     {
       "key": "BUFF_DRAFTMATCH_009",
       "value": "範囲攻撃耐性+20、召喚ゲージ獲得量100%アップ、リアクション阻止率+100"
+    },
+    {
+      "key": "BUFF_DRAFTMATCH_010",
+      "value": "ヘイスト無効"
     },
     {
       "key": "BUFF_01130310",
@@ -6670,7 +6682,7 @@
     },
     {
       "key": "BUFF_MCOR_05",
-      "value": "AP獲得補正+5%"
+      "value": "獲得AP+5%"
     },
     {
       "key": "BUFF_MCOR_06",
@@ -6714,7 +6726,7 @@
     },
     {
       "key": "BUFF_MCOR_16",
-      "value": "AP獲得補正+10%"
+      "value": "獲得AP+10%"
     },
     {
       "key": "BUFF_MCOR_17",
