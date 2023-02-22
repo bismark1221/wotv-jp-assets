@@ -5505,6 +5505,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「レイシェス」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_LYCS2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「レイシェス」UnitLv.80以上<br>「キャラクタークエスト　レイシェス」をクリア"
+    },
+    {
       "key": "QE_CH_LW_STIA",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「セティア」UnitLv.40以上"
     },
@@ -5533,12 +5537,24 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ロック」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_FF6_LOCK2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ロック」UnitLv.80以上<br>「キャラクタークエスト　ロック」をクリア"
+    },
+    {
       "key": "QE_CH_FF6_TERA",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ティナ」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_FF6_TERA2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ティナ」UnitLv.80以上<br>「キャラクタークエスト　ティナ」をクリア"
+    },
+    {
       "key": "QE_CH_FF6_CLES",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「セリス」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_FF6_CLES2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「セリス」UnitLv.80以上<br>「キャラクタークエスト　セリス」をクリア"
     },
     {
       "key": "QE_CH_LW_BELS",
@@ -5567,6 +5583,10 @@
     {
       "key": "QE_CH_LW_ZZAN_01",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「不死身のザザン」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_ZZ_01_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「不死身のザザン」UnitLv.80以上<br>「キャラクタークエスト　不死身のザザン」をクリア"
     },
     {
       "key": "QE_CH_PRS5_VOLT",
@@ -5751,6 +5771,10 @@
     {
       "key": "QE_CH_LW_MRND_01",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ミランダ（バレンタイン）」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_FF6_KFKA",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ケフカ」UnitLv.40以上"
     },
     {
       "key": "QE_EV_1100DL_FIR",
@@ -8079,6 +8103,14 @@
     {
       "key": "QE_EV_FF6_EX_06",
       "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_FF6_EX_07",
+      "value": "クエスト情報<br>ヒント：マジックマスターには無属性魔法が有効だ！"
+    },
+    {
+      "key": "QE_EV_FF6_EX_08",
+      "value": "クエスト情報<br>ヒント：マジックマスターには無属性魔法が有効だ！"
     },
     {
       "key": "QE_EV_P5R_01",
@@ -11369,6 +11401,30 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。HPが0になった敵はターンを待たずに消えます。"
     },
     {
+      "key": "QE_WQ_01_02_ST",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_WQ_01_02_01",
+      "value": "クエスト情報<br>・有効：光属性ユニット、火属性ユニット、範囲攻撃"
+    },
+    {
+      "key": "QE_WQ_01_02_02",
+      "value": "クエスト情報<br>・有効：魔法攻撃、水属性ユニット<br>・クアールは近づかれる前にドンムブで足止めしよう<br>・ボムは自爆する前に倒しきろう"
+    },
+    {
+      "key": "QE_WQ_01_02_03",
+      "value": "クエスト情報<br>・有効：雷属性ユニット、闇属性ユニット<br>・APが足りなくなったらポットを攻撃しよう"
+    },
+    {
+      "key": "QE_WQ_01_02_04",
+      "value": "クエスト情報<br>・有効：土属性ユニット、氷属性ユニット、射撃攻撃耐性<br>・回避が高い敵は睡眠を付与して攻撃を当てよう"
+    },
+    {
+      "key": "QE_WQ_01_02_05",
+      "value": "クエスト情報<br>・有効：斬撃攻撃、光属性ユニット、雷属性ユニット"
+    },
+    {
       "key": "QE_WQ_01_01_OP",
       "value": "クエスト情報<br>なし"
     },
@@ -11506,6 +11562,10 @@
     },
     {
       "key": "QE_BR_SOIL_14",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_BR_SOIL_15",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -11677,6 +11737,10 @@
       "value": "クエスト情報<br>なし"
     },
     {
+      "key": "QE_BR_DARK_15",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_BR_FIRE_01",
       "value": "クエスト情報<br>なし"
     },
@@ -11842,6 +11906,10 @@
     },
     {
       "key": "QE_BR_WATER_14",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_BR_SO_DA_01",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -12789,6 +12857,38 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。<br>有効な攻略方法：このボスにはCTダウンと素早さダウンが効果的です。"
     },
     {
+      "key": "QE_MU_FF6_EX_07",
+      "value": "クエスト情報<br>ヒント：マジックマスターには無属性魔法が有効だ！"
+    },
+    {
+      "key": "QE_MU_FF6_EX_08",
+      "value": "クエスト情報<br>ヒント：マジックマスターには無属性魔法が有効だ！"
+    },
+    {
+      "key": "QE_MU_FF6_EX_03",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_FF6_EX_06",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_FF6_EX_01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_FF6_EX_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_FF6_EX_04",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_FF6_EX_05",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_MU_ART_CRF_64",
       "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
     },
@@ -13022,30 +13122,6 @@
     },
     {
       "key": "QE_MU_FF15_EX_06",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_FF6_EX_03",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_FF6_EX_06",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_FF6_EX_01",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_FF6_EX_02",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_FF6_EX_04",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_FF6_EX_05",
       "value": "クエスト情報<br>なし"
     },
     {

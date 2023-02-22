@@ -88,6 +88,8 @@
         "QE_EV_FF6_EX_05",
         "QE_EV_FF6_EX_03",
         "QE_EV_FF6_EX_06",
+        "QE_EV_FF6_EX_07",
+        "QE_EV_FF6_EX_08",
         "QE_EV_P5R_EX_01",
         "QE_EV_P5R_EX_02",
         "QE_EV_P5R_EX_04",
@@ -359,6 +361,8 @@
         "QE_EV_FF6_EX_05",
         "QE_EV_FF6_EX_03",
         "QE_EV_FF6_EX_06",
+        "QE_EV_FF6_EX_07",
+        "QE_EV_FF6_EX_08",
         "QE_EV_P5R_EX_01",
         "QE_EV_P5R_EX_02",
         "QE_EV_P5R_EX_04",
@@ -829,6 +833,8 @@
       "iname": "IT_AF_AW_GLOVE",
       "questlist": [
         "QE_EV_MT_06_1",
+        "QE_EV_FF6_EX_07",
+        "QE_EV_FF6_EX_08",
         "QE_EV_FMAM_EX_03",
         "QE_EV_FMAM_EX_07",
         "QE_EV_19_EX",
@@ -926,6 +932,8 @@
       "questlist": [
         "QE_EV_FF6_EX_01",
         "QE_EV_FF6_EX_04",
+        "QE_EV_FF6_EX_07",
+        "QE_EV_FF6_EX_08",
         "QE_EV_DQT_EX_03",
         "QE_EV_DQT_EX_04",
         "QE_EV_FMAM_EX_03",
@@ -3100,6 +3108,10 @@
         "QE_EV_FF15_06",
         "QE_EV_FF15_08",
         "QE_EV_FF15_10",
+        "QE_EV_FF6_03",
+        "QE_EV_FF6_06",
+        "QE_EV_FF6_07",
+        "QE_EV_FF6_10",
         "QE_EV_P5R_02",
         "QE_EV_P5R_04",
         "QE_EV_P5R_06",
@@ -3582,6 +3594,8 @@
         "QE_EV_FF15_EX_04",
         "QE_EV_FF6_EX_01",
         "QE_EV_FF6_EX_04",
+        "QE_EV_FF6_EX_07",
+        "QE_EV_FF6_EX_08",
         "QE_EV_P5R_EX_03",
         "QE_EV_P5R_EX_06",
         "QE_EV_FF13_EX_01",
@@ -3749,6 +3763,8 @@
         "QE_EV_FF10_EX_03",
         "QE_EV_FF6_EX_02",
         "QE_EV_FF6_EX_05",
+        "QE_EV_FF6_EX_07",
+        "QE_EV_FF6_EX_08",
         "QE_EV_18_EX2",
         "QE_EV_18_EX_2",
         "QE_EV_10_EX_2",
@@ -6297,6 +6313,10 @@
         "QE_ST_01030106",
         "QE_ST_01030204",
         "QE_ST_01030306",
+        "QE_EV_FF6_03",
+        "QE_EV_FF6_06",
+        "QE_EV_FF6_07",
+        "QE_EV_FF6_10",
         "QE_EV_FF13_02",
         "QE_EV_FF13_05",
         "QE_EV_FF13_08",
@@ -7057,6 +7077,13 @@
       "questlist": [
         "QE_EV_ART_CRF_64",
         "QE_EV_ART_CRF_65"
+      ]
+    },
+    {
+      "iname": "IT_AF_FF6_GLO_000",
+      "questlist": [
+        "QE_EV_FF6_EX_07",
+        "QE_EV_FF6_EX_08"
       ]
     },
     {

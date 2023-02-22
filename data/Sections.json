@@ -1008,6 +1008,50 @@
       "hurl": "ev_vale_02"
     },
     {
+      "iname": "SE_EV_FF6_01_01",
+      "hurl": "ev_FF6_R_01",
+      "won_dst_sheet_name": "bgm_ff6_Fanfare"
+    },
+    {
+      "iname": "SE_EV_FF6_03_EX",
+      "hurl": "ev_FF6_R_ex_03",
+      "o_cond_q": [
+        "QE_EV_FF6_10"
+      ],
+      "won_dst_sheet_name": "bgm_ff6_Fanfare"
+    },
+    {
+      "iname": "SE_MU_FF6_03_EX",
+      "hurl": "ev_FF6_R_ex_03",
+      "won_dst_sheet_name": "bgm_ff6_Fanfare"
+    },
+    {
+      "iname": "SE_EV_FF6_02_EX",
+      "hurl": "ev_FF6_R_ex_02",
+      "o_cond_q": [
+        "QE_EV_FF6_10"
+      ],
+      "won_dst_sheet_name": "bgm_ff6_Fanfare"
+    },
+    {
+      "iname": "SE_MU_FF6_02_EX",
+      "hurl": "ev_FF6_R_ex_02",
+      "won_dst_sheet_name": "bgm_ff6_Fanfare"
+    },
+    {
+      "iname": "SE_EV_FF6_01_EX",
+      "hurl": "ev_FF6_R_ex_01",
+      "o_cond_q": [
+        "QE_EV_FF6_10"
+      ],
+      "won_dst_sheet_name": "bgm_ff6_Fanfare"
+    },
+    {
+      "iname": "SE_MU_FF6_01_EX",
+      "hurl": "ev_FF6_R_ex_01",
+      "won_dst_sheet_name": "bgm_ff6_Fanfare"
+    },
+    {
       "iname": "SE_EV_AST_020501",
       "hurl": "ev_ast_0205",
       "o_cond_q": [
@@ -1803,37 +1847,6 @@
     {
       "iname": "SE_EV_COL2021",
       "hurl": "ev_col2021"
-    },
-    {
-      "iname": "SE_EV_FF6_01_01",
-      "hurl": "ev_FF6_01",
-      "won_dst_sheet_name": "bgm_ff6_Fanfare"
-    },
-    {
-      "iname": "SE_EV_FF6_02_EX",
-      "hurl": "ev_FF6_ex_02",
-      "o_cond_q": [
-        "QE_EV_FF6_10"
-      ],
-      "won_dst_sheet_name": "bgm_ff6_Fanfare"
-    },
-    {
-      "iname": "SE_MU_FF6_02_EX",
-      "hurl": "ev_FF6_ex_02",
-      "won_dst_sheet_name": "bgm_ff6_Fanfare"
-    },
-    {
-      "iname": "SE_EV_FF6_01_EX",
-      "hurl": "ev_FF6_ex_01",
-      "o_cond_q": [
-        "QE_EV_FF6_10"
-      ],
-      "won_dst_sheet_name": "bgm_ff6_Fanfare"
-    },
-    {
-      "iname": "SE_MU_FF6_01_EX",
-      "hurl": "ev_FF6_ex_01",
-      "won_dst_sheet_name": "bgm_ff6_Fanfare"
     },
     {
       "iname": "SE_EV_FF14_01",
@@ -3081,8 +3094,29 @@
       "hurl": "ev_nmap_05"
     },
     {
+      "iname": "SE_WQ_01_02",
+      "hurl": "wq_01_02"
+    },
+    {
       "iname": "SE_WQ_01_01",
       "hurl": "wq_01_01"
+    },
+    {
+      "iname": "SE_BR_SO_DA",
+      "hurl": "br_so_da_01",
+      "o_cond_q": [
+        "QE_BR_SOIL_15",
+        "QE_BR_DARK_15"
+      ],
+      "is_switch_to_or_o_cond_q": 1
+    },
+    {
+      "iname": "SE_BR_SOIL",
+      "hurl": "br_soil_01"
+    },
+    {
+      "iname": "SE_BR_DARK",
+      "hurl": "br_dark_01"
     },
     {
       "iname": "SE_BR_WATER",
@@ -3097,20 +3131,12 @@
       "hurl": "br_fire_01"
     },
     {
-      "iname": "SE_BR_DARK",
-      "hurl": "br_dark_01"
-    },
-    {
       "iname": "SE_BR_THUNDER",
       "hurl": "br_thunder_01"
     },
     {
       "iname": "SE_BR_WIND",
       "hurl": "br_wind_01"
-    },
-    {
-      "iname": "SE_BR_SOIL",
-      "hurl": "br_soil_01"
     },
     {
       "iname": "SE_BR_SHINE",

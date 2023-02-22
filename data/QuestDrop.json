@@ -20230,6 +20230,26 @@
       ]
     },
     {
+      "iname": "IT_JB_MM_FF6_KFKA",
+      "questlist": [
+        "QE_EV_FF6_02"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF6_KFKA_2",
+      "questlist": [
+        "QE_EV_FF6_04",
+        "QE_EV_FF6_06"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF6_KFKA_3",
+      "questlist": [
+        "QE_EV_FF6_08",
+        "QE_EV_FF6_10"
+      ]
+    },
+    {
       "iname": "IT_JB_EM_FIRE_1",
       "questlist": [
         "QE_EV_AW_FIRE_01",
@@ -26013,7 +26033,9 @@
         "QE_BR_SOIL_11",
         "QE_BR_SOIL_12",
         "QE_BR_SOIL_13",
-        "QE_BR_SOIL_14"
+        "QE_BR_SOIL_14",
+        "QE_BR_SOIL_15",
+        "QE_BR_SO_DA_01"
       ]
     },
     {
@@ -26089,7 +26111,9 @@
         "QE_BR_DARK_11",
         "QE_BR_DARK_12",
         "QE_BR_DARK_13",
-        "QE_BR_DARK_14"
+        "QE_BR_DARK_14",
+        "QE_BR_DARK_15",
+        "QE_BR_SO_DA_01"
       ]
     },
     {
@@ -26157,7 +26181,8 @@
         "QE_EV_AW_EAR_06",
         "QE_EV_OBR_04",
         "QE_EV_MACR_02_04",
-        "QE_EV_LLGA_04"
+        "QE_EV_LLGA_04",
+        "QE_BR_SO_DA_01"
       ]
     },
     {
@@ -26166,7 +26191,8 @@
         "QE_EV_AW_DARK_06",
         "QE_EV_WIZ_04",
         "QE_EV_REG_04",
-        "QE_EV_RYER_02_04"
+        "QE_EV_RYER_02_04",
+        "QE_BR_SO_DA_01"
       ]
     },
     {
@@ -26739,7 +26765,9 @@
         "QE_BR_SOIL_11",
         "QE_BR_SOIL_12",
         "QE_BR_SOIL_13",
-        "QE_BR_SOIL_14"
+        "QE_BR_SOIL_14",
+        "QE_BR_SOIL_15",
+        "QE_BR_SO_DA_01"
       ]
     },
     {
@@ -26815,7 +26843,9 @@
         "QE_BR_DARK_11",
         "QE_BR_DARK_12",
         "QE_BR_DARK_13",
-        "QE_BR_DARK_14"
+        "QE_BR_DARK_14",
+        "QE_BR_DARK_15",
+        "QE_BR_SO_DA_01"
       ]
     },
     {
@@ -26843,6 +26873,7 @@
         "QE_BR_SOIL_12",
         "QE_BR_SOIL_13",
         "QE_BR_SOIL_14",
+        "QE_BR_SOIL_15",
         "QE_BR_WIND_04",
         "QE_BR_WIND_05",
         "QE_BR_WIND_06",
@@ -26876,6 +26907,7 @@
         "QE_BR_DARK_12",
         "QE_BR_DARK_13",
         "QE_BR_DARK_14",
+        "QE_BR_DARK_15",
         "QE_BR_FIRE_04",
         "QE_BR_FIRE_05",
         "QE_BR_FIRE_06",
@@ -26942,6 +26974,7 @@
         "QE_BR_SOIL_12",
         "QE_BR_SOIL_13",
         "QE_BR_SOIL_14",
+        "QE_BR_SOIL_15",
         "QE_BR_WIND_01",
         "QE_BR_WIND_02",
         "QE_BR_WIND_03",
@@ -26984,6 +27017,7 @@
         "QE_BR_DARK_12",
         "QE_BR_DARK_13",
         "QE_BR_DARK_14",
+        "QE_BR_DARK_15",
         "QE_BR_FIRE_01",
         "QE_BR_FIRE_02",
         "QE_BR_FIRE_03",
@@ -27954,6 +27988,12 @@
       "iname": "IT_SP_LW_LSTE",
       "questlist": [
         "QE_EV_LSTE_EX3"
+      ]
+    },
+    {
+      "iname": "IT_SP_LW_MURG_LMIG",
+      "questlist": [
+        "QE_BR_SO_DA_01"
       ]
     }
   ]
