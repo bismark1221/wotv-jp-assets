@@ -32187,6 +32187,18 @@
       ]
     },
     {
+      "iname": "QM_HD_PI_119",
+      "type": 104,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_PI_LW_DARD",
+          "num": 5
+        }
+      ]
+    },
+    {
       "iname": "QM_HD_0001",
       "type": 100,
       "value1": 0,
@@ -36847,6 +36859,18 @@
       ]
     },
     {
+      "iname": "QM_CH_MM_165",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_DARD_3",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_CH_MM_A01",
       "type": 102,
       "value1": 0,
@@ -41190,6 +41214,18 @@
         {
           "type": 0,
           "item": "IT_JB_EM_SOIL_4",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_344",
+      "type": 15,
+      "value1": "UN_LW_P_DARD",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_3",
           "num": 10
         }
       ]
@@ -83709,6 +83745,123 @@
       ]
     },
     {
+      "iname": "QM_EV_AEX_215_1_1",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_HEART_03",
+          "num": 30
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_1_2",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_JELLY",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_1_3",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_AW_SPEAR",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_1_4",
+      "type": 81,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_LESS_01",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_2_1",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_HEART_03",
+          "num": 30
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_2_2",
+      "type": 105,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_LESS_01",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_2_3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_JELLY",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_2_4",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_AW_SPEAR",
+          "num": 50
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_2_5",
+      "type": 10,
+      "value2": [
+        4
+      ],
+      "rewards": [
+        {
+          "type": 1,
+          "item": "AF_LW_SPE_027_3",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_AEX_215_2_6",
+      "type": 201,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JBEX_MM",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_BR_SHINE_01_1",
       "type": 60,
       "value1": 3,
@@ -95804,6 +95957,254 @@
         {
           "type": 0,
           "item": "IT_JBEX_AXE",
+          "num": 75
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_01_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_SPEAR_01",
+          "num": 15
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_01_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_1",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_01_3",
+      "type": 81,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_SPEAR_02",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_01_4",
+      "type": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_2",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_01_5",
+      "type": 15,
+      "value1": "UN_LW_P_DARD",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_DARD_2",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_02_1",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_SPEAR_03",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_02_2",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_3",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_02_3",
+      "type": 81,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_SPEAR_04",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_02_4",
+      "type": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_4",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_02_5",
+      "type": 15,
+      "value1": "UN_LW_P_DARD",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_DARD_3",
+          "num": 2
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_02_6",
+      "type": 86,
+      "value1": 2000,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_DARD_4",
+          "num": 2
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_03_1",
+      "type": 84,
+      "value1": 15000,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_SPEAR_05",
+          "num": 25
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_03_2",
+      "type": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_5",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_03_3",
+      "type": 15,
+      "value1": "UN_LW_P_DARD",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_DARD_5",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_03_4",
+      "type": 102,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_IM_ANGEL_5",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_04_1",
+      "type": 81,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_SPEAR_05",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_04_2",
+      "type": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_5",
+          "num": 60
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_04_3",
+      "type": 15,
+      "value1": "UN_LW_P_DARD",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_DARD_5",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_04_4",
+      "type": 84,
+      "value1": 18000,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_DARD_5",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_04_5",
+      "type": 86,
+      "value1": 5000,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JBEX_SOIL",
+          "num": 75
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_DARD_04_6",
+      "type": 102,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JBEX_SPEAR",
           "num": 75
         }
       ]

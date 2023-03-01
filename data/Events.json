@@ -1135,6 +1135,11 @@
       "end": "2023/01/31 23:59:59"
     },
     {
+      "iname": "SE_EV_AEX_020501",
+      "event_type": 1,
+      "image": "ev_ast_ex_0205"
+    },
+    {
       "iname": "SE_EV_AEX_020401",
       "event_type": 1,
       "image": "ev_ast_ex_0204"
@@ -2191,10 +2196,8 @@
     },
     {
       "iname": "SE_EV_ART_CRF_28",
-      "event_type": 1,
-      "image": "ev_arti_crft_28",
-      "start": "2023/01/17 9:30:00",
-      "end": "2023/01/31 23:59:59"
+      "event_type": 6,
+      "image": "ev_arti_crft_28"
     },
     {
       "iname": "SE_EV_ART_CRF_29",
@@ -2718,6 +2721,13 @@
       "image": "ev_biga_01",
       "start": "2023/02/01 5:00:00",
       "end": "2023/02/08 4:59:59"
+    },
+    {
+      "iname": "SE_EV_DARD_01",
+      "event_type": 1,
+      "image": "ev_dard_01",
+      "start": "2023/03/01 5:00:00",
+      "end": "2023/03/08 4:59:59"
     },
     {
       "iname": "SE_EV_NCTS_01",
