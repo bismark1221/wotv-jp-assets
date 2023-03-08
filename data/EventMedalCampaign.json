@@ -243,6 +243,59 @@
           "drop_weight": 10
         }
       ]
+    },
+    {
+      "iname": "EMC_BR_2303_02",
+      "start": "2023/02/22 15:00:00",
+      "end": "2023/03/31 23:59:59",
+      "quest_type": 26,
+      "event_medal_iname": "IT_EC_FF6_R_1",
+      "reward_type": 0,
+      "event_medal_drop_weight": [
+        {
+          "drop_num": 7,
+          "drop_weight": 80
+        },
+        {
+          "drop_num": 9,
+          "drop_weight": 10
+        },
+        {
+          "drop_num": 10,
+          "drop_weight": 10
+        }
+      ]
+    },
+    {
+      "iname": "EMC_EV_2303_03",
+      "start": "2023/03/14 5:00:00",
+      "end": "2023/03/21 4:59:59",
+      "quest_type": 2,
+      "section_inames": [
+        "SE_EV_WHIT_02_1",
+        "SE_EV_WHIT_02_2",
+        "SE_EV_WHIT_02_3",
+        "SE_EV_WHIT_02_4",
+        "SE_EV_WHIT_02_5",
+        "SE_EV_WHIT_02_6",
+        "SE_EV_WHIT_02_7"
+      ],
+      "event_medal_iname": "IT_EC_FF6_R_1",
+      "reward_type": 0,
+      "event_medal_drop_weight": [
+        {
+          "drop_num": 7,
+          "drop_weight": 80
+        },
+        {
+          "drop_num": 9,
+          "drop_weight": 10
+        },
+        {
+          "drop_num": 10,
+          "drop_weight": 10
+        }
+      ]
     }
   ]
 }
