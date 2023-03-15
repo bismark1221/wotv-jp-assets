@@ -24918,6 +24918,266 @@
       "unit_medal_num": 20
     },
     {
+      "iname": "UN_LW_P_HWLT_01",
+      "sex": 1,
+      "size": 0,
+      "body_type": "MM",
+      "personal": 0,
+      "charaId": "LAPShwlt",
+      "anm_type": 5,
+      "anm_id": "hwlt",
+      "voiceId": "LAPShwlt_01",
+      "type": 0,
+      "elem": [
+        2
+      ],
+      "species": [
+        1
+      ],
+      "birth": 54,
+      "rare": 4,
+      "grow": "SR_DEFAULT",
+      "cost": 100,
+      "piece": "IT_PI_LW_HWLT_01",
+      "piece_num": 40,
+      "db_num": 1,
+      "trust": "AF_CLT_LW_HWLT_01_1",
+      "atkskl": "SK_LW_HWLT_ATK",
+      "mstskl": [
+        "SK_MA_LW_HWLT_01"
+      ],
+      "jobsets": [
+        "JB_LW_HWLT",
+        "JB_LW_MKN_ICE",
+        "JB_LW_CLR_ICE"
+      ],
+      "ccsets": [
+        {
+          "m": "JB_LW_HWLT_01_M"
+        }
+      ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_ICE_UR",
+        "unlock_count": 1,
+        "id": "UES_LW_HWLT_01",
+        "lvup_item_id": "UES_LU_ICE",
+        "re_id": "UES_RNC_ICE_UR",
+        "skill_set_id": "UESSET_LW_HWLT_01"
+      },
+      "ai": "AI_PLAYER_LW_HWLT",
+      "buff_pri": "BUFFPRI_MAGATK",
+      "debuff_pri": "DEBUFFPRI_MAGATK",
+      "status": [
+        {
+          "hp": 327,
+          "mp": 60,
+          "ap": 73,
+          "atk": 32,
+          "def": 0,
+          "mag": 103,
+          "mnd": 0,
+          "dex": 64,
+          "spd": 30,
+          "luk": 72,
+          "efi": -10,
+          "ewi": 20,
+          "asl": 20,
+          "abl": 15,
+          "ash": -5,
+          "ama": 10,
+          "cbl": 50,
+          "cst": 10,
+          "cch": 50,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        },
+        {
+          "hp": 1168,
+          "mp": 94,
+          "ap": 90,
+          "atk": 55,
+          "def": 0,
+          "mag": 174,
+          "mnd": 0,
+          "dex": 95,
+          "spd": 35,
+          "luk": 101,
+          "efi": -10,
+          "ewi": 20,
+          "asl": 20,
+          "abl": 15,
+          "ash": -5,
+          "ama": 10,
+          "cbl": 50,
+          "cst": 10,
+          "cch": 50,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        },
+        {
+          "hp": 1226,
+          "mp": 98,
+          "ap": 94,
+          "atk": 71,
+          "def": 0,
+          "mag": 226,
+          "mnd": 0,
+          "dex": 114,
+          "spd": 35,
+          "luk": 111,
+          "efi": -10,
+          "ewi": 20,
+          "asl": 20,
+          "abl": 15,
+          "ash": -5,
+          "ama": 10,
+          "cbl": 50,
+          "cst": 10,
+          "cch": 50,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        }
+      ],
+      "limit": "SK_LB_LW_HWLT_01",
+      "awake_tbl_id": "UN_AW_ICE_UR",
+      "unit_medal_num": 20
+    },
+    {
+      "iname": "UN_LW_P_DIAA",
+      "sex": 2,
+      "size": 0,
+      "body_type": "W",
+      "personal": 6,
+      "charaId": "LAPSdiaa",
+      "anm_type": 1,
+      "voiceId": "LAPSdiaa_00",
+      "type": 0,
+      "elem": [
+        6
+      ],
+      "species": [
+        1
+      ],
+      "birth": 11,
+      "rare": 3,
+      "grow": "SR_DEFAULT",
+      "cost": 50,
+      "piece": "IT_PI_LW_DIAA",
+      "piece_num": 20,
+      "db_num": 1,
+      "trust": "AF_KAT_LW_DIAA_1",
+      "atkskl": "SK_LW_SSA_ATK",
+      "mstskl": [
+        "SK_MA_LW_DIAA"
+      ],
+      "jobsets": [
+        "JB_LW_SSA_WATER",
+        "JB_LW_BNI_WATER",
+        "JB_LW_MKN_WATER"
+      ],
+      "ccsets": [
+        {
+          "m": "JB_LW_DIAA_M"
+        }
+      ],
+      "ex_star": {
+        "unlock_item_id": "UEX_RCP_WATER_SSR",
+        "unlock_count": 1,
+        "id": "UES_LW_DIAA",
+        "lvup_item_id": "UES_LU_WATER",
+        "re_id": "UES_RNC_WATER_SSR",
+        "skill_set_id": "UESSET_LW_DIAA"
+      },
+      "ai": "AI_PLAYER_LW_SSA",
+      "buff_pri": "BUFFPRI_MAGATK",
+      "debuff_pri": "DEBUFFPRI_MAGATK",
+      "status": [
+        {
+          "hp": 249,
+          "mp": 48,
+          "ap": 57,
+          "atk": 27,
+          "def": 0,
+          "mag": 67,
+          "mnd": 0,
+          "dex": 54,
+          "spd": 27,
+          "luk": 60,
+          "efi": 10,
+          "eth": -20,
+          "asl": 10,
+          "api": -10,
+          "abl": -10,
+          "ash": 15,
+          "ama": 10,
+          "ccf": 50,
+          "cfr": 50,
+          "cdm": -25,
+          "cbe": 10,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        },
+        {
+          "hp": 880,
+          "mp": 74,
+          "ap": 70,
+          "atk": 45,
+          "def": 0,
+          "mag": 113,
+          "mnd": 0,
+          "dex": 82,
+          "spd": 32,
+          "luk": 85,
+          "efi": 10,
+          "eth": -20,
+          "asl": 10,
+          "api": -10,
+          "abl": -10,
+          "ash": 15,
+          "ama": 10,
+          "ccf": 50,
+          "cfr": 50,
+          "cdm": -25,
+          "cbe": 10,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        },
+        {
+          "hp": 1012,
+          "mp": 77,
+          "ap": 73,
+          "atk": 81,
+          "def": 0,
+          "mag": 203,
+          "mnd": 0,
+          "dex": 102,
+          "spd": 32,
+          "luk": 93,
+          "efi": 10,
+          "eth": -20,
+          "asl": 10,
+          "api": -10,
+          "abl": -10,
+          "ash": 15,
+          "ama": 10,
+          "ccf": 50,
+          "cfr": 50,
+          "cdm": -25,
+          "cbe": 10,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        }
+      ],
+      "awake_tbl_id": "UN_AW_WATER_SSR",
+      "unit_medal_num": 0
+    },
+    {
       "iname": "UN_LW_E_MONT",
       "sex": 1,
       "size": 0,
@@ -28561,6 +28821,7 @@
       "personal": 6,
       "charaId": "LAPSdiaa",
       "anm_type": 1,
+      "voiceId": "LAPSdiaa_00",
       "type": 7,
       "elem": [
         8
@@ -40475,6 +40736,87 @@
       "unit_medal_num": 0
     },
     {
+      "iname": "UN_LW_E_MRND_01",
+      "sex": 2,
+      "size": 0,
+      "body_type": "W",
+      "personal": 5,
+      "charaId": "LAPSmrnd",
+      "anm_type": 1,
+      "voiceId": "LAPSmrnd_01",
+      "type": 7,
+      "elem": [
+        7
+      ],
+      "species": [
+        1
+      ],
+      "birth": 5,
+      "rare": 4,
+      "grow": "SR_DEFAULT",
+      "cost": 70,
+      "atkskl": "SK_LW_SSA_ATK",
+      "jobsets": [
+        "JB_LW_SSA_SHINE",
+        "JB_LW_MHA_SHINE",
+        "JB_LW_WHM_SHINE"
+      ],
+      "ai": "AI_PLAYER_LW_SSA",
+      "buff_pri": "BUFFPRI_MAGATK",
+      "debuff_pri": "DEBUFFPRI_MAGATK",
+      "status": [
+        {
+          "hp": 329,
+          "mp": 55,
+          "ap": 75,
+          "atk": 32,
+          "def": 0,
+          "mag": 87,
+          "mnd": 0,
+          "dex": 73,
+          "spd": 29,
+          "luk": 68,
+          "eda": -10,
+          "asl": 10,
+          "api": -10,
+          "abl": 20,
+          "ash": 20,
+          "ama": 0,
+          "cfr": 10,
+          "csw": 50,
+          "frz": 50,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        },
+        {
+          "hp": 1174,
+          "mp": 85,
+          "ap": 92,
+          "atk": 54,
+          "def": 0,
+          "mag": 147,
+          "mnd": 0,
+          "dex": 109,
+          "spd": 34,
+          "luk": 96,
+          "eda": -10,
+          "asl": 10,
+          "api": -10,
+          "abl": 20,
+          "ash": 20,
+          "ama": 0,
+          "cfr": 10,
+          "csw": 50,
+          "frz": 50,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        }
+      ],
+      "unit_medal_num": 0
+    },
+    {
       "iname": "UN_LW_E_TH_00",
       "sex": 1,
       "size": 0,
@@ -49456,6 +49798,60 @@
           "ama": -10,
           "mov": 3,
           "jmp": 2,
+          "dmax": 9999
+        }
+      ],
+      "unit_medal_num": 0
+    },
+    {
+      "iname": "UN_LW_E_SO_01_HSW",
+      "base_unit_iname": "UN_LW_E_SO_01",
+      "type": 7,
+      "atkskl": "SK_LW_HSW_ATK",
+      "jobsets": [
+        "JB_LW_HSW_FIRE"
+      ],
+      "ai": "AI_PLAYER_LW_HSW",
+      "steal": "ST_JB_LSWORD",
+      "status": [
+        {
+          "hp": 282,
+          "mp": 59,
+          "ap": 71,
+          "atk": 96,
+          "def": 0,
+          "mag": 32,
+          "mnd": 0,
+          "dex": 75,
+          "spd": 30,
+          "luk": 67,
+          "asl": 5,
+          "api": 20,
+          "abl": -10,
+          "ash": 20,
+          "ama": 0,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        },
+        {
+          "hp": 1146,
+          "mp": 92,
+          "ap": 87,
+          "atk": 162,
+          "def": 0,
+          "mag": 54,
+          "mnd": 0,
+          "dex": 111,
+          "spd": 35,
+          "luk": 95,
+          "asl": 5,
+          "api": 20,
+          "abl": -10,
+          "ash": 20,
+          "ama": 0,
+          "mov": 3,
+          "jmp": 1,
           "dmax": 9999
         }
       ],

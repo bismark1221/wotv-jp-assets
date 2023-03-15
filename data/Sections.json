@@ -1010,6 +1010,21 @@
       "hurl": "ev_whit_02"
     },
     {
+      "iname": "SE_EV_DIAA",
+      "hurl": "ev_diaa_01"
+    },
+    {
+      "iname": "SE_EV_DIAA_EX",
+      "hurl": "ev_diaa_ex_01",
+      "o_cond_q": [
+        "QE_EV_DIAA_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_DIAA_EX",
+      "hurl": "ev_diaa_ex_01"
+    },
+    {
       "iname": "SE_PTQ_FF6_R_01",
       "skip_ticket": "IT_PT_SKIP_FF6_R_1",
       "hurl": "pt_ff6_R_01",
