@@ -3161,12 +3161,25 @@
       "hurl": "ev_nmap_05"
     },
     {
+      "iname": "SE_WQ_01_03",
+      "hurl": "wq_01_03"
+    },
+    {
       "iname": "SE_WQ_01_02",
       "hurl": "wq_01_02"
     },
     {
       "iname": "SE_WQ_01_01",
       "hurl": "wq_01_01"
+    },
+    {
+      "iname": "SE_BR_IC_WA",
+      "hurl": "br_ic_wa_01",
+      "o_cond_q": [
+        "QE_BR_ICE_15",
+        "QE_BR_WATER_15"
+      ],
+      "is_switch_to_or_o_cond_q": 1
     },
     {
       "iname": "SE_BR_SO_DA",
@@ -3178,20 +3191,20 @@
       "is_switch_to_or_o_cond_q": 1
     },
     {
-      "iname": "SE_BR_SOIL",
-      "hurl": "br_soil_01"
-    },
-    {
-      "iname": "SE_BR_DARK",
-      "hurl": "br_dark_01"
-    },
-    {
       "iname": "SE_BR_WATER",
       "hurl": "br_water_01"
     },
     {
       "iname": "SE_BR_ICE",
       "hurl": "br_ice_01"
+    },
+    {
+      "iname": "SE_BR_SOIL",
+      "hurl": "br_soil_01"
+    },
+    {
+      "iname": "SE_BR_DARK",
+      "hurl": "br_dark_01"
     },
     {
       "iname": "SE_BR_FIRE",

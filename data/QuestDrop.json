@@ -26488,7 +26488,9 @@
         "QE_BR_ICE_11",
         "QE_BR_ICE_12",
         "QE_BR_ICE_13",
-        "QE_BR_ICE_14"
+        "QE_BR_ICE_14",
+        "QE_BR_ICE_15",
+        "QE_BR_IC_WA_01"
       ]
     },
     {
@@ -26566,7 +26568,9 @@
         "QE_BR_WATER_11",
         "QE_BR_WATER_12",
         "QE_BR_WATER_13",
-        "QE_BR_WATER_14"
+        "QE_BR_WATER_14",
+        "QE_BR_WATER_15",
+        "QE_BR_IC_WA_01"
       ]
     },
     {
@@ -26640,7 +26644,8 @@
       "iname": "IT_JBEX_WATER",
       "questlist": [
         "QE_EV_AW_WTR_06",
-        "QE_EV_PRNE_04"
+        "QE_EV_PRNE_04",
+        "QE_BR_IC_WA_01"
       ]
     },
     {
@@ -26665,7 +26670,8 @@
       "iname": "IT_JBEX_ICE",
       "questlist": [
         "QE_EV_AW_ICE_06",
-        "QE_EV_ALIA_04"
+        "QE_EV_ALIA_04",
+        "QE_BR_IC_WA_01"
       ]
     },
     {
@@ -27222,7 +27228,9 @@
         "QE_BR_ICE_11",
         "QE_BR_ICE_12",
         "QE_BR_ICE_13",
-        "QE_BR_ICE_14"
+        "QE_BR_ICE_14",
+        "QE_BR_ICE_15",
+        "QE_BR_IC_WA_01"
       ]
     },
     {
@@ -27300,7 +27308,9 @@
         "QE_BR_WATER_11",
         "QE_BR_WATER_12",
         "QE_BR_WATER_13",
-        "QE_BR_WATER_14"
+        "QE_BR_WATER_14",
+        "QE_BR_WATER_15",
+        "QE_BR_IC_WA_01"
       ]
     },
     {
@@ -27425,6 +27435,7 @@
         "QE_BR_ICE_12",
         "QE_BR_ICE_13",
         "QE_BR_ICE_14",
+        "QE_BR_ICE_15",
         "QE_BR_WATER_04",
         "QE_BR_WATER_05",
         "QE_BR_WATER_06",
@@ -27435,7 +27446,8 @@
         "QE_BR_WATER_11",
         "QE_BR_WATER_12",
         "QE_BR_WATER_13",
-        "QE_BR_WATER_14"
+        "QE_BR_WATER_14",
+        "QE_BR_WATER_15"
       ]
     },
     {
@@ -27541,6 +27553,7 @@
         "QE_BR_ICE_12",
         "QE_BR_ICE_13",
         "QE_BR_ICE_14",
+        "QE_BR_ICE_15",
         "QE_BR_WATER_01",
         "QE_BR_WATER_02",
         "QE_BR_WATER_03",
@@ -27554,7 +27567,8 @@
         "QE_BR_WATER_11",
         "QE_BR_WATER_12",
         "QE_BR_WATER_13",
-        "QE_BR_WATER_14"
+        "QE_BR_WATER_14",
+        "QE_BR_WATER_15"
       ]
     },
     {
@@ -28507,6 +28521,12 @@
       "iname": "IT_SP_LW_MURG_LMIG",
       "questlist": [
         "QE_BR_SO_DA_01"
+      ]
+    },
+    {
+      "iname": "IT_SP_LW_RFAL_LYCS",
+      "questlist": [
+        "QE_BR_IC_WA_01"
       ]
     }
   ]

@@ -49301,6 +49301,68 @@
       ]
     },
     {
+      "iname": "AF_LW_ROD_035",
+      "asset": "LAPSwpn_rod_035",
+      "type": 0,
+      "cat": [
+        5
+      ],
+      "rare": 4,
+      "cap": 1,
+      "sell": 0,
+      "hnum": 10,
+      "equip": "AEC_ROD",
+      "status": [
+        {
+          "hp": 9,
+          "atk": 1,
+          "mag": 25,
+          "mnd": 0,
+          "hit": 0,
+          "crt": 0
+        },
+        {
+          "hp": 178,
+          "atk": 18,
+          "mag": 215,
+          "hit": 20,
+          "crt": 20
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "atk": 18,
+          "mag": 48,
+          "hit": 15,
+          "crt": 15
+        }
+      ],
+      "randa": [
+        {
+          "hp": 5,
+          "atk": 1,
+          "mag": 6,
+          "hit": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ROD_035",
+      "skl2": [
+        "SK_LW_ROD_035_2"
+      ],
+      "skl3": [
+        "SK_LW_ROD_035_3"
+      ],
+      "skl4": [
+        "SK_LW_ROD_035_4"
+      ],
+      "skl5": [
+        "SK_LW_ROD_035_5"
+      ],
+      "not_disassembly_flag": 1
+    },
+    {
       "iname": "AF_LW_MAC_000",
       "asset": "LAPSwpn_mac_000",
       "type": 0,
@@ -60542,6 +60604,75 @@
         "SK_LW_BOK_010_5",
         "SK_LW_ROD_006_2_5"
       ]
+    },
+    {
+      "iname": "AF_LW_BOK_011",
+      "asset": "LAPSwpn_bok_011",
+      "type": 0,
+      "cat": [
+        24
+      ],
+      "rare": 4,
+      "cap": 1,
+      "sell": 0,
+      "hnum": 10,
+      "equip": "AEC_BOOK",
+      "status": [
+        {
+          "hp": 8,
+          "atk": 2,
+          "def": 0,
+          "mag": 22,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        },
+        {
+          "hp": 165,
+          "atk": 38,
+          "def": 0,
+          "mag": 192,
+          "hit": 20,
+          "avd": 0,
+          "crt": 33
+        }
+      ],
+      "randr": [
+        {
+          "hp": 28,
+          "atk": 20,
+          "mag": 48,
+          "hit": 15,
+          "crt": 15
+        }
+      ],
+      "randa": [
+        {
+          "hp": 5,
+          "atk": 2,
+          "def": 0,
+          "mag": 5,
+          "mnd": 0,
+          "hit": 1,
+          "avd": 0,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_BOK_011",
+      "skl2": [
+        "SK_LW_BOK_011_2"
+      ],
+      "skl3": [
+        "SK_LW_BOK_011_3"
+      ],
+      "skl4": [
+        "SK_LW_BOK_011_4"
+      ],
+      "skl5": [
+        "SK_LW_BOK_011_5"
+      ],
+      "not_disassembly_flag": 1
     },
     {
       "iname": "AF_LW_SHI_000",
