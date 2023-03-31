@@ -526,6 +526,12 @@
       "back_unit": "UN_LW_ST_030101"
     },
     {
+      "iname": "SE_ST_030203",
+      "chap": "CH_ST_0302",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_030101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -982,6 +988,35 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_AF2023_1",
+      "hurl": "ev_af2023_01"
+    },
+    {
+      "iname": "SE_EV_AF2023_2",
+      "hurl": "ev_af2023_02",
+      "o_cond_q": [
+        "QE_EV_AF2023_1"
+      ]
+    },
+    {
+      "iname": "SE_EV_AF2023_3",
+      "hurl": "ev_af2023_03",
+      "o_cond_q": [
+        "QE_EV_AF2023_2"
+      ]
+    },
+    {
+      "iname": "SE_EV_AF2023_4",
+      "hurl": "ev_af2023_04",
+      "o_cond_q": [
+        "QE_EV_AF2023_3"
+      ]
+    },
+    {
+      "iname": "SE_EV_RUFF_01",
+      "hurl": "ev_ruff_01"
+    },
+    {
       "iname": "SE_EV_WHIT_02_1",
       "hurl": "ev_whit_02"
     },
@@ -1008,6 +1043,14 @@
     {
       "iname": "SE_EV_WHIT_02_7",
       "hurl": "ev_whit_02"
+    },
+    {
+      "iname": "SE_EV_AEX_020502",
+      "hurl": "ev_ast_ex2_0205"
+    },
+    {
+      "iname": "SE_MU_AEX_020502",
+      "hurl": "ev_ast_ex2_0205"
     },
     {
       "iname": "SE_EV_DIAA",
@@ -1124,14 +1167,6 @@
       "o_cond_q": [
         "QE_EV_AST_010110"
       ]
-    },
-    {
-      "iname": "SE_MU_ART_CRF_29",
-      "hurl": "ev_arti_crft_29"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_29",
-      "hurl": "ev_arti_crft_29"
     },
     {
       "iname": "SE_EV_VC_KRKN_01",
@@ -1289,21 +1324,6 @@
       "o_cond_q": [
         "QE_EV_AST_010110"
       ]
-    },
-    {
-      "iname": "SE_EV_20_01",
-      "hurl": "ev_20_01"
-    },
-    {
-      "iname": "SE_EV_20_EX_01",
-      "hurl": "ev_20_ex_01",
-      "o_cond_q": [
-        "QE_EV_20_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_EV_20_EX",
-      "hurl": "ev_20_ex_01"
     },
     {
       "iname": "SE_PTQ_FF7R_02",
@@ -2240,6 +2260,21 @@
       "won_dst_sheet_name": "bgm_ff4_Victory"
     },
     {
+      "iname": "SE_EV_20_01",
+      "hurl": "ev_20_01"
+    },
+    {
+      "iname": "SE_EV_20_EX_01",
+      "hurl": "ev_20_ex_01",
+      "o_cond_q": [
+        "QE_EV_20_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_20_EX",
+      "hurl": "ev_20_ex_01"
+    },
+    {
       "iname": "SE_EV_19_01",
       "hurl": "ev_19_01"
     },
@@ -2542,6 +2577,14 @@
     {
       "iname": "SE_MU_EV_01_EX",
       "hurl": "ev_01_ex_01"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_29",
+      "hurl": "ev_arti_crft_29"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_29",
+      "hurl": "ev_arti_crft_29"
     },
     {
       "iname": "SE_MU_ART_CRF_28",
