@@ -988,6 +988,117 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_VC_KRKN_01",
+      "hurl": "ev_vc_krkn_01",
+      "open_cond": [
+        "COND_VC_LW_KRKN"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_DMCM_01",
+      "hurl": "ev_vc_dmcm_01",
+      "open_cond": [
+        "COND_VC_LW_DMCM"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_IGEN_01",
+      "hurl": "ev_vc_igen_01",
+      "open_cond": [
+        "COND_VC_LW_IGEN"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_WHDG_01",
+      "hurl": "ev_vc_whdg_01",
+      "open_cond": [
+        "COND_VC_LW_WHDG"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_LICH_01",
+      "hurl": "ev_vc_lich_01",
+      "open_cond": [
+        "COND_VC_LW_LICH"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_IBKI_01",
+      "hurl": "ev_vc_ibuki_01",
+      "open_cond": [
+        "COND_VC_LW_IBUKI"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_ADLD_01",
+      "hurl": "ev_vc_adld_01",
+      "open_cond": [
+        "COND_VC_LW_ADLD2"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_ZZAN_01",
+      "hurl": "ev_vc_zzan_01",
+      "open_cond": [
+        "COND_VC_LW_ZZAN2"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_DQT_01",
+      "hurl": "ev_vc_dqt_01",
+      "open_cond": [
+        "COND_VC_LW_DQT"
+      ]
+    },
+    {
+      "iname": "SE_MU_RAID_RV_01",
+      "hurl": "ev_raid_rv_01"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_02",
+      "hurl": "ev_raid_rv_02"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_03",
+      "hurl": "ev_raid_rv_03"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_04",
+      "hurl": "ev_raid_rv_04"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_05",
+      "hurl": "ev_raid_revi_ff14_01"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_06",
+      "hurl": "ev_raid_revi_ff14_02"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_07",
+      "hurl": "ev_raid_rv_07"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_08",
+      "hurl": "ev_raid_rv_08"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_09",
+      "hurl": "ev_raid_rv_09"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_10",
+      "hurl": "ev_raid_rv_10"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_11",
+      "hurl": "ev_raid_rv_11"
+    },
+    {
+      "iname": "SE_MU_RAID_RV_12",
+      "hurl": "ev_raid_rv_12"
+    },
+    {
       "iname": "SE_EV_AF2023_1",
       "hurl": "ev_af2023_01"
     },
@@ -1166,69 +1277,6 @@
       "hurl": "ev_ast_0205",
       "o_cond_q": [
         "QE_EV_AST_010110"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_KRKN_01",
-      "hurl": "ev_vc_krkn_01",
-      "open_cond": [
-        "COND_VC_LW_KRKN"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_DMCM_01",
-      "hurl": "ev_vc_dmcm_01",
-      "open_cond": [
-        "COND_VC_LW_DMCM"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_IGEN_01",
-      "hurl": "ev_vc_igen_01",
-      "open_cond": [
-        "COND_VC_LW_IGEN"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_WHDG_01",
-      "hurl": "ev_vc_whdg_01",
-      "open_cond": [
-        "COND_VC_LW_WHDG"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_LICH_01",
-      "hurl": "ev_vc_lich_01",
-      "open_cond": [
-        "COND_VC_LW_LICH"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_IBKI_01",
-      "hurl": "ev_vc_ibuki_01",
-      "open_cond": [
-        "COND_VC_LW_IBUKI"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_ADLD_01",
-      "hurl": "ev_vc_adld_01",
-      "open_cond": [
-        "COND_VC_LW_ADLD2"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_ZZAN_01",
-      "hurl": "ev_vc_zzan_01",
-      "open_cond": [
-        "COND_VC_LW_ZZAN2"
-      ]
-    },
-    {
-      "iname": "SE_EV_VC_DQT_01",
-      "hurl": "ev_vc_dqt_01",
-      "open_cond": [
-        "COND_VC_LW_DQT"
       ]
     },
     {
@@ -2992,54 +3040,6 @@
     {
       "iname": "SE_MU_SB_09",
       "hurl": "ev_sb_09"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_01",
-      "hurl": "ev_raid_rv_01"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_02",
-      "hurl": "ev_raid_rv_02"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_03",
-      "hurl": "ev_raid_rv_03"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_04",
-      "hurl": "ev_raid_rv_04"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_05",
-      "hurl": "ev_raid_revi_ff14_01"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_06",
-      "hurl": "ev_raid_revi_ff14_02"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_07",
-      "hurl": "ev_raid_rv_07"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_08",
-      "hurl": "ev_raid_rv_08"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_09",
-      "hurl": "ev_raid_rv_09"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_10",
-      "hurl": "ev_raid_rv_10"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_11",
-      "hurl": "ev_raid_rv_11"
-    },
-    {
-      "iname": "SE_MU_RAID_RV_12",
-      "hurl": "ev_raid_rv_12"
     },
     {
       "iname": "SE_EV_WAVE_001",

@@ -185,6 +185,10 @@
       "value": "クリティカル時AP回復"
     },
     {
+      "key": "BUFF_MA_LW_IREZ_S_2B",
+      "value": "クリティカル時1ターン素早さアップ"
+    },
+    {
       "key": "BUFF_LW_EC_MONT_01_C_01C_EN",
       "value": "HP50%以下で回復"
     },
@@ -195,6 +199,14 @@
     {
       "key": "BUFF_LW_EC_HUN_A_02_B_EN",
       "value": "クリティカル時AP回復"
+    },
+    {
+      "key": "BUFF_LW_EC_SWN_C_06C_2",
+      "value": "HP20%以下で回復"
+    },
+    {
+      "key": "BUFF_LW_EC_SWN_C_06C_3",
+      "value": "HP20%以下で回復"
     },
     {
       "key": "BUFF_LW_SWO_003_1_T_00",
@@ -939,6 +951,10 @@
     {
       "key": "BUFF_GRAID_002",
       "value": "ダメージ上限+10000"
+    },
+    {
+      "key": "BUFF_GRAID_003",
+      "value": "初期AP+60、リアクション阻止率+100、ダメージ上限アップ（全攻撃タイプ：+10000、打撃攻撃：+10000、魔法攻撃：+15000）"
     },
     {
       "key": "BUFF_VALE_01",
@@ -7063,6 +7079,170 @@
     {
       "key": "BUFF_GLEM_01_41",
       "value": "土属性アビリティ攻撃UP+10%"
+    },
+    {
+      "key": "BUFF_GRDM_01",
+      "value": "クリティカル回避率+3"
+    },
+    {
+      "key": "BUFF_GRDM_02",
+      "value": "打撃耐性+3%"
+    },
+    {
+      "key": "BUFF_GRDM_03",
+      "value": "HPUP+2%"
+    },
+    {
+      "key": "BUFF_GRDM_04",
+      "value": "防御UP+1%"
+    },
+    {
+      "key": "BUFF_GRDM_05",
+      "value": "範囲耐性+2%"
+    },
+    {
+      "key": "BUFF_GRDM_06",
+      "value": "召喚魔法Lv2"
+    },
+    {
+      "key": "BUFF_GRDM_07",
+      "value": "召喚魔法Lv4"
+    },
+    {
+      "key": "BUFF_GRDM_08",
+      "value": "クリティカル回避率+4"
+    },
+    {
+      "key": "BUFF_GRDM_09",
+      "value": "精霊キラー+3%"
+    },
+    {
+      "key": "BUFF_GRDM_10",
+      "value": "精霊キラー+3%"
+    },
+    {
+      "key": "BUFF_GRDM_11",
+      "value": "打撃耐性+4%"
+    },
+    {
+      "key": "BUFF_GRDM_12",
+      "value": "HPUP+3%"
+    },
+    {
+      "key": "BUFF_GRDM_13",
+      "value": "光属性キラー+3%"
+    },
+    {
+      "key": "BUFF_GRDM_14",
+      "value": "光属性キラー+3%"
+    },
+    {
+      "key": "BUFF_GRDM_15",
+      "value": "防御UP+2%"
+    },
+    {
+      "key": "BUFF_GRDM_16",
+      "value": "範囲耐性+3%"
+    },
+    {
+      "key": "BUFF_GRDM_17",
+      "value": "光耐性+3%"
+    },
+    {
+      "key": "BUFF_GRDM_18",
+      "value": "光耐性+3%"
+    },
+    {
+      "key": "BUFF_GRDM_19",
+      "value": "召喚魔法Lv7"
+    },
+    {
+      "key": "BUFF_GRDM_20",
+      "value": "精霊キラー+5%"
+    },
+    {
+      "key": "BUFF_GRDM_21",
+      "value": "精霊キラー+4%"
+    },
+    {
+      "key": "BUFF_GRDM_22",
+      "value": "打撃耐性+5%"
+    },
+    {
+      "key": "BUFF_GRDM_23",
+      "value": "打撃耐性+6%"
+    },
+    {
+      "key": "BUFF_GRDM_24",
+      "value": "光属性キラー+5%"
+    },
+    {
+      "key": "BUFF_GRDM_25",
+      "value": "光属性キラー+4%"
+    },
+    {
+      "key": "BUFF_GRDM_26",
+      "value": "防御UP+4%"
+    },
+    {
+      "key": "BUFF_GRDM_27",
+      "value": "防御UP+3%"
+    },
+    {
+      "key": "BUFF_GRDM_28",
+      "value": "光耐性+5%"
+    },
+    {
+      "key": "BUFF_GRDM_29",
+      "value": "光耐性+4%"
+    },
+    {
+      "key": "BUFF_GRDM_30",
+      "value": "召喚魔法Lv10"
+    },
+    {
+      "key": "BUFF_GRDM_31",
+      "value": "召喚魔法Lv15"
+    },
+    {
+      "key": "BUFF_GRDM_32",
+      "value": "打撃耐性+7%"
+    },
+    {
+      "key": "BUFF_GRDM_33",
+      "value": "防御UP+5%"
+    },
+    {
+      "key": "BUFF_GRDM_34",
+      "value": "召喚魔法Lv20"
+    },
+    {
+      "key": "BUFF_GRDM_35",
+      "value": "クリティカル回避率+4"
+    },
+    {
+      "key": "BUFF_GRDM_36",
+      "value": "クリティカル回避率+5"
+    },
+    {
+      "key": "BUFF_GRDM_37",
+      "value": "クリティカル回避率+6"
+    },
+    {
+      "key": "BUFF_GRDM_38",
+      "value": "闇属性アビリティ攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_GRDM_39",
+      "value": "闇属性アビリティ攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_GRDM_40",
+      "value": "闇属性アビリティ攻撃UP+6%"
+    },
+    {
+      "key": "BUFF_GRDM_41",
+      "value": "闇属性アビリティ攻撃UP+10%"
     },
     {
       "key": "BUFF_IGNT_01",

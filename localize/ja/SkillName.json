@@ -13197,6 +13197,30 @@
       "value": "ギガンティックロック"
     },
     {
+      "key": "SK_GRDM_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_GRDM_M_01",
+      "value": "膨大な魔力が集中している"
+    },
+    {
+      "key": "SK_GRDM_M_02",
+      "value": "イビルカッター"
+    },
+    {
+      "key": "SK_GRDM_M_03",
+      "value": "デーモンスフィア"
+    },
+    {
+      "key": "SK_GRDM_M_04",
+      "value": "グラビガ"
+    },
+    {
+      "key": "SK_GRDM_M_05",
+      "value": "アビサルドゥーム"
+    },
+    {
       "key": "SK_KMNT_ATK",
       "value": "通常攻撃"
     },
@@ -14203,6 +14227,10 @@
     {
       "key": "SK_SMN_GLEM_01",
       "value": "ギガンティックロック"
+    },
+    {
+      "key": "SK_SMN_GRDM",
+      "value": "アビサルドゥーム"
     },
     {
       "key": "SK_SMN_IGNT",
@@ -18057,11 +18085,23 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_SDLE_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_LW_IREZ",
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_IREZ_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_LW_RNEL",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_RNEL_2",
       "value": "マスターアビリティ"
     },
     {
@@ -19163,6 +19203,74 @@
     {
       "key": "SK_LW_EC_KNT_C_01D_3",
       "value": "リレイズ後AP回復"
+    },
+    {
+      "key": "SK_UES_LW_HLNA_01",
+      "value": "ヘレナ（黒衣の魔女）夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_WIZ_C_02C",
+      "value": "魔女の秘奥義"
+    },
+    {
+      "key": "SK_UES_LW_FALM",
+      "value": "ファルム夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_NIN_A_03_B_WATER",
+      "value": "護法結印"
+    },
+    {
+      "key": "SK_UES_LW_ELSR",
+      "value": "エルシレール夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_MSW_A_02_B",
+      "value": "グラビティブレード"
+    },
+    {
+      "key": "SK_UES_LW_MCRD",
+      "value": "マクラッド夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_LLN_A_02_B",
+      "value": "ニュートラルランス"
+    },
+    {
+      "key": "SK_UES_LW_SZRT",
+      "value": "シュゼルト夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_SWN_C_06C",
+      "value": "ハザードリバイブ"
+    },
+    {
+      "key": "SK_UES_LW_SZRT_B",
+      "value": "HP20％以下でHP回復"
+    },
+    {
+      "key": "SK_UES_LW_LSTE",
+      "value": "リゼット夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_BEA_A_04_B",
+      "value": "破脚連拳"
+    },
+    {
+      "key": "SK_UES_LW_HLNA",
+      "value": "ヘレナ・リオニス夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_GRM_C_01C",
+      "value": "バエアロラ【耐護】"
+    },
+    {
+      "key": "SK_UES_LW_MGRT",
+      "value": "マルグリット夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_TIM_A_03_B",
+      "value": "狂星の呪術"
     },
     {
       "key": "SK_LW_SLASH_1",
@@ -22001,6 +22109,10 @@
       "value": "米朗のスマートフォン"
     },
     {
+      "key": "SK_LW_ACC_111",
+      "value": "ルシオからの贈り物"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "フラタニティ 覚醒2"
     },
@@ -22231,6 +22343,14 @@
     {
       "key": "SK_LW_PLUS6_4T_HP_15",
       "value": "4ターンHP+15%"
+    },
+    {
+      "key": "SK_LW_PLUS6_RES_SINGLE_15",
+      "value": "単体攻撃耐性+15"
+    },
+    {
+      "key": "SK_LW_PLUS6_RES_MAGIC_15",
+      "value": "魔法攻撃耐性+15"
     },
     {
       "key": "SK_ACC_LW_MONT_1_1",
@@ -23793,6 +23913,10 @@
       "value": "状態異常【麻痺】確率1-100アップ"
     },
     {
+      "key": "SK_BTL_PARALYZE_1-100_D",
+      "value": "状態異常【麻痺】確率1-100ダウン"
+    },
+    {
       "key": "SK_BTL_DARKN_1-100_U",
       "value": "状態異常【暗闇】確率1-100アップ"
     },
@@ -23803,6 +23927,10 @@
     {
       "key": "SK_BTL_CONFU_1-100_U",
       "value": "状態異常【混乱】確率1-100アップ"
+    },
+    {
+      "key": "SK_BTL_CONFU_1-100_D",
+      "value": "状態異常【混乱】確率1-100ダウン"
     },
     {
       "key": "SK_BTL_CHARM_1-100_U",
@@ -23859,6 +23987,10 @@
     {
       "key": "SK_BTL_STOP_1-100_U",
       "value": "状態異常【ストップ】確率1-100アップ"
+    },
+    {
+      "key": "SK_BTL_STOP_1-100_D",
+      "value": "状態異常【ストップ】確率1-100ダウン"
     },
     {
       "key": "SK_BTL_DONAC_1-100_U",

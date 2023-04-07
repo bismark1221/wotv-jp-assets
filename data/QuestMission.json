@@ -37653,6 +37653,18 @@
       ]
     },
     {
+      "iname": "QM_CH_MM_169",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_DAC_4",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_CH_MM_A01",
       "type": 102,
       "value1": 0,
@@ -42080,6 +42092,42 @@
         {
           "type": 0,
           "item": "IT_JB_EM_DARK_3",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_351",
+      "type": 15,
+      "value1": "UN_LW_P_SDLE",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_WIND_4",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_352",
+      "type": 15,
+      "value1": "UN_LW_P_IREZ",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_ICE_4",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_353",
+      "type": 15,
+      "value1": "UN_LW_P_RNEL",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_DARK_4",
           "num": 10
         }
       ]
@@ -46595,6 +46643,74 @@
         {
           "type": 0,
           "item": "IT_SB_AW_SOIL",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_GRDM_01",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_GRDM_R2",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_GRDM_02",
+      "type": 105,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_GRDM_R2",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_GRDM_03",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_DARK",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_GRDM_04",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_GRDM_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_GRDM_05",
+      "type": 105,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_GRDM_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_GRDM_06",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_DARK",
           "num": 10
         }
       ]
