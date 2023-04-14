@@ -988,6 +988,29 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_GLZK",
+      "hurl": "ev_glzk_01"
+    },
+    {
+      "iname": "SE_EV_GLZK_EX",
+      "hurl": "ev_glzk_ex_01",
+      "o_cond_q": [
+        "QE_EV_GLZK_05"
+      ]
+    },
+    {
+      "iname": "SE_MU_EV_GLZK_EX",
+      "hurl": "ev_glzk_ex_01"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_30",
+      "hurl": "ev_arti_crft_30"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_30",
+      "hurl": "ev_arti_crft_30"
+    },
+    {
       "iname": "SE_EV_VC_KRKN_01",
       "hurl": "ev_vc_krkn_01",
       "open_cond": [

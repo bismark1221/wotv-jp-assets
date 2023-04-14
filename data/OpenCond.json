@@ -859,6 +859,12 @@
       "value_s1": "UN_LW_P_RUFF"
     },
     {
+      "iname": "COND_HA_LW_HYOO",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_LW_P_HYOO"
+    },
+    {
       "iname": "COND_EV_DQT_02",
       "type": 1,
       "value_i1": 1,
@@ -2165,6 +2171,18 @@
       "type": 1,
       "value_i1": 40,
       "value_s1": "UN_LW_P_RUFF"
+    },
+    {
+      "iname": "COND_CH_HYOO",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_HYOO"
+    },
+    {
+      "iname": "COND_CH_GLZK",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_GLZK"
     },
     {
       "iname": "COND_CH_LW_RART2",
@@ -3821,6 +3839,12 @@
       "type": 4,
       "value_i1": 1,
       "value_s1": "VC_LW_GRDM"
+    },
+    {
+      "iname": "COND_VC_LW_HYOO",
+      "type": 4,
+      "value_i1": 1,
+      "value_s1": "VC_LW_HYOO"
     }
   ]
 }

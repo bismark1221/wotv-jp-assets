@@ -813,7 +813,7 @@
     {
       "iname": "adventure_default_daily_rapid_item_num",
       "type": 0,
-      "value": 5
+      "value": 30
     },
     {
       "iname": "adventure_default_daily_rapid_coin_num",
@@ -1374,6 +1374,26 @@
       "iname": "guildbattle_initialize_deck_unit",
       "type": 3,
       "value": "UN_LW_P_MONT"
+    },
+    {
+      "iname": "is_allowed_guildbattle_sub",
+      "type": 0,
+      "value": 1
+    },
+    {
+      "iname": "is_allowed_limited_gb_sub",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "is_allowed_top_gb_sub",
+      "type": 0,
+      "value": 0
+    },
+    {
+      "iname": "guildbattle_sub_fill_max",
+      "type": 0,
+      "value": 3
     },
     {
       "iname": "guild_medail_iname",
@@ -2168,7 +2188,7 @@
     {
       "iname": "monthly_guild_battle_proxy_count",
       "type": 0,
-      "value": 10
+      "value": 15
     },
     {
       "iname": "guild_battle_proxy_open",
@@ -2269,6 +2289,16 @@
       "iname": "gacha_count_max",
       "type": 0,
       "value": 100
+    },
+    {
+      "iname": "bulk_exercise_open",
+      "type": 0,
+      "value": 1
+    },
+    {
+      "iname": "is_allowed_rapid_coin",
+      "type": 0,
+      "value": 0
     }
   ]
 }
