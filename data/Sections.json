@@ -532,6 +532,12 @@
       "back_unit": "UN_LW_ST_030101"
     },
     {
+      "iname": "SE_ST_030301",
+      "chap": "CH_ST_0303",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_030101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -986,6 +992,24 @@
       "iname": "SE_EV_ARNA_01",
       "limit": 1,
       "hurl": "ev_arna_01"
+    },
+    {
+      "iname": "SE_EV_FF5_01_01",
+      "hurl": "ev_FF5_01",
+      "won_dst_sheet_name": "bgm_ff5_Fanfare"
+    },
+    {
+      "iname": "SE_EV_FF5_01_EX",
+      "hurl": "ev_FF5_ex_01",
+      "o_cond_q": [
+        "QE_EV_FF5_10"
+      ],
+      "won_dst_sheet_name": "bgm_ff5_Fanfare"
+    },
+    {
+      "iname": "SE_MU_FF5_01_EX",
+      "hurl": "ev_FF5_ex_01",
+      "won_dst_sheet_name": "bgm_ff5_Fanfare"
     },
     {
       "iname": "SE_EV_GLZK",
@@ -3253,6 +3277,15 @@
       "o_cond_q": [
         "QE_BR_SOIL_15",
         "QE_BR_DARK_15"
+      ],
+      "is_switch_to_or_o_cond_q": 1
+    },
+    {
+      "iname": "SE_BR_TH_FI",
+      "hurl": "br_th_fi_01",
+      "o_cond_q": [
+        "QE_BR_THUNDER_15",
+        "QE_BR_FIRE_15"
       ],
       "is_switch_to_or_o_cond_q": 1
     },
