@@ -3263,6 +3263,15 @@
       "hurl": "wq_01_01"
     },
     {
+      "iname": "SE_BR_TH_FI",
+      "hurl": "br_th_fi_01",
+      "o_cond_q": [
+        "QE_BR_THUNDER_15",
+        "QE_BR_FIRE_15"
+      ],
+      "is_switch_to_or_o_cond_q": 1
+    },
+    {
       "iname": "SE_BR_IC_WA",
       "hurl": "br_ic_wa_01",
       "o_cond_q": [
@@ -3281,13 +3290,12 @@
       "is_switch_to_or_o_cond_q": 1
     },
     {
-      "iname": "SE_BR_TH_FI",
-      "hurl": "br_th_fi_01",
-      "o_cond_q": [
-        "QE_BR_THUNDER_15",
-        "QE_BR_FIRE_15"
-      ],
-      "is_switch_to_or_o_cond_q": 1
+      "iname": "SE_BR_THUNDER",
+      "hurl": "br_thunder_01"
+    },
+    {
+      "iname": "SE_BR_FIRE",
+      "hurl": "br_fire_01"
     },
     {
       "iname": "SE_BR_WATER",
@@ -3304,14 +3312,6 @@
     {
       "iname": "SE_BR_DARK",
       "hurl": "br_dark_01"
-    },
-    {
-      "iname": "SE_BR_FIRE",
-      "hurl": "br_fire_01"
-    },
-    {
-      "iname": "SE_BR_THUNDER",
-      "hurl": "br_thunder_01"
     },
     {
       "iname": "SE_BR_WIND",
