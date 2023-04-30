@@ -994,8 +994,27 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_PTQ_FF5_01",
+      "skip_ticket": "IT_PT_SKIP_FF5_1",
+      "hurl": "pt_ff5_01",
+      "won_dst_sheet_name": "bgm_ff5_Fanfare"
+    },
+    {
       "iname": "SE_EV_FF5_01_01",
       "hurl": "ev_FF5_01",
+      "won_dst_sheet_name": "bgm_ff5_Fanfare"
+    },
+    {
+      "iname": "SE_EV_FF5_02_EX",
+      "hurl": "ev_FF5_ex_02",
+      "o_cond_q": [
+        "QE_EV_FF5_10"
+      ],
+      "won_dst_sheet_name": "bgm_ff5_Fanfare"
+    },
+    {
+      "iname": "SE_MU_FF5_02_EX",
+      "hurl": "ev_FF5_ex_02",
       "won_dst_sheet_name": "bgm_ff5_Fanfare"
     },
     {
