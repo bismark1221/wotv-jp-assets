@@ -13557,6 +13557,34 @@
       "value": "アビサルドゥーム"
     },
     {
+      "key": "SK_MNTR_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_MNTR_M_01",
+      "value": "振り下ろす"
+    },
+    {
+      "key": "SK_MNTR_M_02",
+      "value": "力をためる"
+    },
+    {
+      "key": "SK_MNTR_M_03",
+      "value": "憤怒の獣吼"
+    },
+    {
+      "key": "SK_MNTR_M_04",
+      "value": "体当たり"
+    },
+    {
+      "key": "SK_MNTR_M_05",
+      "value": "火を吹く"
+    },
+    {
+      "key": "SK_MNTR_R_01",
+      "value": "反撃"
+    },
+    {
       "key": "SK_FF5_GLMS_ATK",
       "value": "通常攻撃"
     },
@@ -14125,6 +14153,10 @@
       "value": "二つの月の奇跡"
     },
     {
+      "key": "SK_LB_FF04_ROSA_B",
+      "value": "二つの月の奇跡"
+    },
+    {
       "key": "SK_LB_FF04_KAIN",
       "value": "ドラゴンベイン"
     },
@@ -14270,6 +14302,10 @@
     },
     {
       "key": "SK_LB_FF15_NCTS",
+      "value": "ファントムラッシュ"
+    },
+    {
+      "key": "SK_LB_FF15_NCTS_B",
       "value": "ファントムラッシュ"
     },
     {
@@ -14687,6 +14723,10 @@
     {
       "key": "SK_SMN_FF5_SYDR",
       "value": "サンダーストーム"
+    },
+    {
+      "key": "SK_SMN_MNTR",
+      "value": "憤怒の獣吼"
     },
     {
       "key": "SK_SMN_IGNT",
@@ -18009,11 +18049,23 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF4_CECL_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_FF4_ROSA",
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF4_ROSA_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_FF4_KAIN",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_FF4_KAIN_2",
       "value": "マスターアビリティ"
     },
     {
@@ -18373,7 +18425,15 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF15_NCTS_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_FF15_PRMP",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_FF15_PRMP_2",
       "value": "マスターアビリティ"
     },
     {
@@ -18386,6 +18446,10 @@
     },
     {
       "key": "SK_MA_FF15_ARNA",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_FF15_ARNA_2",
       "value": "マスターアビリティ"
     },
     {
@@ -18422,6 +18486,10 @@
     },
     {
       "key": "SK_MA_FF4_GLBZ",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_FF4_GLBZ_2",
       "value": "マスターアビリティ"
     },
     {
@@ -18601,11 +18669,23 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF13_LTNG_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_FF13_HOPE",
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF13_HOPE_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_FF13_SNOW",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_FF13_SNOW_2",
       "value": "マスターアビリティ"
     },
     {
@@ -19855,6 +19935,118 @@
     {
       "key": "SK_UES_FF5_FRIS",
       "value": "ファリス夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_UES_FF4_CECL",
+      "value": "セシル夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF4_EC_CECL_A_01_B",
+      "value": "光の報い"
+    },
+    {
+      "key": "SK_UES_FF4_KAIN",
+      "value": "カイン夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF4_EC_KAIN_A_01_B",
+      "value": "シーリングダイブ"
+    },
+    {
+      "key": "SK_UES_FF4_ROSA",
+      "value": "ローザ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF4_EC_ROSA_A_01_B",
+      "value": "アレイズ"
+    },
+    {
+      "key": "SK_UES_FF4_GLBZ",
+      "value": "ゴルベーザ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF4_EC_GLBZ_C_01C",
+      "value": "絶望の牙"
+    },
+    {
+      "key": "SK_UES_FF10_YUNA",
+      "value": "ユウナ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF10_YUNA_S_3B",
+      "value": "ケアルガ"
+    },
+    {
+      "key": "SK_UES_FF10_TIDU",
+      "value": "ティーダ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF10_EC_TIDU_C_01C",
+      "value": "クイックトリック改"
+    },
+    {
+      "key": "SK_UES_FF10_ARON",
+      "value": "アーロン夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF10_EC_ARON_A_01_B",
+      "value": "伏龍"
+    },
+    {
+      "key": "SK_UES_FF15_NCTS",
+      "value": "ノクティス夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF15_EC_NCTS_C_02C",
+      "value": "真王の力"
+    },
+    {
+      "key": "SK_FF15_NCTS_S_2_AD_B",
+      "value": "武器召喚"
+    },
+    {
+      "key": "SK_UES_FF15_PRMP",
+      "value": "プロンプト夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF15_EC_PRMP_C_01C",
+      "value": "ダクネスバレット"
+    },
+    {
+      "key": "SK_UES_FF15_ARNA",
+      "value": "アラネア夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF15_ARNA_M_1C",
+      "value": "ドラゴンリープ"
+    },
+    {
+      "key": "SK_FF15_ARNA_M_1D",
+      "value": "ドラゴンリープ"
+    },
+    {
+      "key": "SK_UES_FF13_LTNG",
+      "value": "ライトニング夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF13_EC_LTNG_C_01C",
+      "value": "エンドアスピルⅡ"
+    },
+    {
+      "key": "SK_UES_FF13_SNOW",
+      "value": "スノウ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF13_SNOW_EN_A_01_C",
+      "value": "ピンチリカバー"
+    },
+    {
+      "key": "SK_UES_FF13_HOPE",
+      "value": "ホープ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_FF13_EC_HOPE_C_02C",
+      "value": "フィジカルエンハンスⅡ"
     },
     {
       "key": "SK_LW_SLASH_1",
