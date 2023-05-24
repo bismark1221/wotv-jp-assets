@@ -443,7 +443,7 @@
     {
       "iname": "debuf_red_rate_max",
       "type": 0,
-      "value": 50
+      "value": 80
     },
     {
       "iname": "dmg_hatedown",
@@ -1396,6 +1396,16 @@
       "value": 3
     },
     {
+      "iname": "limited_gb_sub_fill_max",
+      "type": 0,
+      "value": 3
+    },
+    {
+      "iname": "top_gb_sub_fill_max",
+      "type": 0,
+      "value": 3
+    },
+    {
       "iname": "guild_medail_iname",
       "type": 2,
       "value": "IT_EC_GUILD"
@@ -2009,6 +2019,16 @@
       "iname": "player_scout_list_max",
       "type": 0,
       "value": 30
+    },
+    {
+      "iname": "is_enable_payment_manager_check_isinit",
+      "type": 0,
+      "value": 1
+    },
+    {
+      "iname": "is_skip_purchase_update_product_oninit",
+      "type": 0,
+      "value": 1
     },
     {
       "iname": "first_payment_iname",

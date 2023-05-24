@@ -1494,6 +1494,22 @@
       "image": "ev_20_ex_01"
     },
     {
+      "iname": "SE_EV_22_01",
+      "event_type": 1,
+      "image": "ev_22_01",
+      "start": "2023/05/13 18:30:00",
+      "end": "2023/06/22 14:59:59",
+      "banner_flag": 1
+    },
+    {
+      "iname": "SE_EV_22_EX_01",
+      "event_type": 1,
+      "image": "ev_22_ex_01",
+      "start": "2023/05/13 18:30:00",
+      "end": "2023/06/22 14:59:59",
+      "banner_flag": 1
+    },
+    {
       "iname": "SE_EV_FF14_01",
       "event_type": 1,
       "image": "ev_ff14_01_R2",
@@ -1768,7 +1784,8 @@
       "image": "ev_FF5_ex_02",
       "priority": 1,
       "start": "2023/05/01",
-      "end": "2023/05/31 23:59:59"
+      "end": "2023/05/31 23:59:59",
+      "banner_flag": 1
     },
     {
       "iname": "SE_EV_FF5_01_01",
@@ -1776,14 +1793,16 @@
       "image": "ev_FF5_01",
       "priority": 1,
       "start": "2023/04/21 15:00:00",
-      "end": "2023/05/31 23:59:59"
+      "end": "2023/05/31 23:59:59",
+      "banner_flag": 1
     },
     {
       "iname": "SE_EV_FF5_01_EX",
       "event_type": 1,
       "image": "ev_FF5_ex_01",
       "start": "2023/04/21 15:00:00",
-      "end": "2023/05/31 23:59:59"
+      "end": "2023/05/31 23:59:59",
+      "banner_flag": 1
     },
     {
       "iname": "SE_EV_FF1_01",

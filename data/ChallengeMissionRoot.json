@@ -86,8 +86,22 @@
       "banner": "ChallengeTab_c211215",
       "bgnr": 2,
       "begin_at": "2023/03/23 15:00:00",
-      "end_at": "2123/04/07 14:59:59",
+      "end_at": "2023/05/31 23:59:59",
       "period_day_num": 7
+    },
+    {
+      "iname": "CM_PRO_151",
+      "priority": 50,
+      "banner": "ChallengeTab_c211215",
+      "bgnr": 2,
+      "begin_at": "2023/05/24 14:30:00",
+      "end_at": "2123/05/31 23:59:59",
+      "period_day_num": 7,
+      "comeback_inames": [
+        "CB_014",
+        "CB_030",
+        "CB_090"
+      ]
     },
     {
       "iname": "CM_PRO_149",
@@ -115,6 +129,13 @@
       "begin_at": "2022/06/22 14:30:00",
       "end_at": "2022/10/24 14:59:59",
       "period_day_num": 30
+    },
+    {
+      "iname": "CM_PRO_150",
+      "priority": 95,
+      "banner": "ChallengeTab_Unit_58",
+      "begin_at": "2023/05/13 18:30:00",
+      "end_at": "2023/05/31 23:59:59"
     },
     {
       "iname": "CM_PRO_148",

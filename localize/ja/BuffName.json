@@ -113,6 +113,10 @@
       "value": "攻撃時全強化解除"
     },
     {
+      "key": "BUFF_LW_EC_JEDN_02_C_01C_EN",
+      "value": "攻撃時3ターン斬撃攻撃耐性貫通率ダウン"
+    },
+    {
       "key": "BUFF_CLEY_M_05_T_01",
       "value": "クリティカル時攻撃大幅アップ"
     },
@@ -327,6 +331,22 @@
     {
       "key": "BUFF_LW_ROD_035_5_1_B",
       "value": "HP90%以下でCTアップ(小)"
+    },
+    {
+      "key": "BUFF_LW_FIS_016_2_B",
+      "value": "HP50%以下で3ターン物理・魔法ダメージ上昇(2%)"
+    },
+    {
+      "key": "BUFF_LW_FIS_016_3_B",
+      "value": "HP50%以下で3ターン物理・魔法ダメージ上昇(4%)"
+    },
+    {
+      "key": "BUFF_LW_FIS_016_4_B",
+      "value": "HP50%以下で3ターン物理・魔法ダメージ上昇(7%)"
+    },
+    {
+      "key": "BUFF_LW_FIS_016_5_B",
+      "value": "HP50%以下で3ターン物理・魔法ダメージ上昇(10%)"
     },
     {
       "key": "BUFF_LW_PLUS6_CRT_ATKMGK_UP_EN",
@@ -601,6 +621,10 @@
       "value": "火属性ユニットの攻撃・治癒力アップ"
     },
     {
+      "key": "BUFF_ARENA_00046",
+      "value": "氷属性ユニットのHP・魔力アップ"
+    },
+    {
       "key": "BUFF_GVG_001",
       "value": "闇属性アビリティ攻撃アップ"
     },
@@ -833,6 +857,10 @@
       "value": "ユニットのCost制限240以下、CTアップ/ダウン無効、リアクション阻止率+100"
     },
     {
+      "key": "BUFF_CLASSMATCH_028_1",
+      "value": "ユニットのCost制限230以下、クイック無効、リアクション阻止率+100"
+    },
+    {
       "key": "BUFF_FREEMATCH_004",
       "value": "クイック無効、CTアップ/ダウン無効、治癒力50%ダウン"
     },
@@ -905,6 +933,10 @@
       "value": "CTアップ/ダウン無効、リアクション阻止率+100"
     },
     {
+      "key": "BUFF_FREEMATCH_025_1",
+      "value": "クイック無効、リアクション阻止率+100"
+    },
+    {
       "key": "BUFF_DRAFTMATCH_001",
       "value": "召喚ゲージ獲得量50%アップ、魅了・バーサク・スタン無効"
     },
@@ -959,6 +991,10 @@
     {
       "key": "BUFF_FRIENDMATCH_100",
       "value": "範囲攻撃耐性+20（フリーマッチルール）"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_101_1",
+      "value": "クイック無効、リアクション阻止率+100（フリーマッチルール）"
     },
     {
       "key": "BUFF_01130310",
@@ -1019,6 +1055,10 @@
     {
       "key": "BUFF_WHIT_01",
       "value": "ナーシアの強化"
+    },
+    {
+      "key": "BUFF_EV_UMWP_01",
+      "value": "味方：全攻撃タイプ耐性貫通率-50"
     },
     {
       "key": "BUFF_COL_SEA2_01_1",
@@ -7463,6 +7503,170 @@
     {
       "key": "BUFF_MNTR_41",
       "value": "光属性アビリティ攻撃UP+10%"
+    },
+    {
+      "key": "BUFF_SHIV_01_01",
+      "value": "命中率+3"
+    },
+    {
+      "key": "BUFF_SHIV_01_02",
+      "value": "初期AP+2"
+    },
+    {
+      "key": "BUFF_SHIV_01_03",
+      "value": "クリティカル回避率+3"
+    },
+    {
+      "key": "BUFF_SHIV_01_04",
+      "value": "風属性キラー+2%"
+    },
+    {
+      "key": "BUFF_SHIV_01_05",
+      "value": "範囲耐性+2%"
+    },
+    {
+      "key": "BUFF_SHIV_01_06",
+      "value": "召喚魔法Lv2"
+    },
+    {
+      "key": "BUFF_SHIV_01_07",
+      "value": "召喚魔法Lv4"
+    },
+    {
+      "key": "BUFF_SHIV_01_08",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_SHIV_01_09",
+      "value": "魔法耐性+3%"
+    },
+    {
+      "key": "BUFF_SHIV_01_10",
+      "value": "魔法耐性+3%"
+    },
+    {
+      "key": "BUFF_SHIV_01_11",
+      "value": "初期AP+2"
+    },
+    {
+      "key": "BUFF_SHIV_01_12",
+      "value": "クリティカル回避率+4"
+    },
+    {
+      "key": "BUFF_SHIV_01_13",
+      "value": "刺突攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_SHIV_01_14",
+      "value": "刺突攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_SHIV_01_15",
+      "value": "風属性キラー+3%"
+    },
+    {
+      "key": "BUFF_SHIV_01_16",
+      "value": "範囲耐性+3%"
+    },
+    {
+      "key": "BUFF_SHIV_01_17",
+      "value": "斬撃耐性+3%"
+    },
+    {
+      "key": "BUFF_SHIV_01_18",
+      "value": "斬撃耐性+3%"
+    },
+    {
+      "key": "BUFF_SHIV_01_19",
+      "value": "召喚魔法Lv7"
+    },
+    {
+      "key": "BUFF_SHIV_01_20",
+      "value": "魔法耐性+5%"
+    },
+    {
+      "key": "BUFF_SHIV_01_21",
+      "value": "魔法耐性+4%"
+    },
+    {
+      "key": "BUFF_SHIV_01_22",
+      "value": "初期AP+3"
+    },
+    {
+      "key": "BUFF_SHIV_01_23",
+      "value": "初期AP+3"
+    },
+    {
+      "key": "BUFF_SHIV_01_24",
+      "value": "刺突攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_SHIV_01_25",
+      "value": "刺突攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_SHIV_01_26",
+      "value": "風属性キラー+6%"
+    },
+    {
+      "key": "BUFF_SHIV_01_27",
+      "value": "風属性キラー+4%"
+    },
+    {
+      "key": "BUFF_SHIV_01_28",
+      "value": "斬撃耐性+5%"
+    },
+    {
+      "key": "BUFF_SHIV_01_29",
+      "value": "斬撃耐性+4%"
+    },
+    {
+      "key": "BUFF_SHIV_01_30",
+      "value": "召喚魔法Lv10"
+    },
+    {
+      "key": "BUFF_SHIV_01_31",
+      "value": "召喚魔法Lv15"
+    },
+    {
+      "key": "BUFF_SHIV_01_32",
+      "value": "魔法ダメージ+5%"
+    },
+    {
+      "key": "BUFF_SHIV_01_33",
+      "value": "風属性キラー+10%"
+    },
+    {
+      "key": "BUFF_SHIV_01_34",
+      "value": "召喚魔法Lv20"
+    },
+    {
+      "key": "BUFF_SHIV_01_35",
+      "value": "クリティカル発生率+4"
+    },
+    {
+      "key": "BUFF_SHIV_01_36",
+      "value": "クリティカル発生率+5"
+    },
+    {
+      "key": "BUFF_SHIV_01_37",
+      "value": "クリティカル発生率+6"
+    },
+    {
+      "key": "BUFF_SHIV_01_38",
+      "value": "氷属性アビリティ攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_SHIV_01_39",
+      "value": "氷属性アビリティ攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_SHIV_01_40",
+      "value": "氷属性アビリティ攻撃UP+6%"
+    },
+    {
+      "key": "BUFF_SHIV_01_41",
+      "value": "氷属性アビリティ攻撃UP+10%"
     },
     {
       "key": "BUFF_SYDR_01",
