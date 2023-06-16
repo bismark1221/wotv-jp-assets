@@ -352,6 +352,13 @@
       "end": "2023/06/22 14:59:59"
     },
     {
+      "iname": "SE_MU_EV_22_EX2",
+      "event_type": 1,
+      "image": "ev_22_ex_02",
+      "start": "2023/06/01",
+      "end": "2023/06/22 14:59:59"
+    },
+    {
       "iname": "SE_MU_EV_UMWP_01",
       "event_type": 1,
       "image": "ev_umwp_01",
@@ -451,17 +458,20 @@
     },
     {
       "iname": "SE_MU_EV_DIAA_EX",
-      "event_type": 1,
-      "image": "ev_diaa_ex_01",
-      "start": "2023/03/15 10:30:00",
-      "end": "2023/03/31 23:59:59"
+      "event_type": 6,
+      "image": "ev_diaa_ex_01"
     },
     {
       "iname": "SE_MU_EV_GLZK_EX",
+      "event_type": 6,
+      "image": "ev_glzk_ex_01"
+    },
+    {
+      "iname": "SE_MU_EV_CMRL_EX",
       "event_type": 1,
-      "image": "ev_glzk_ex_01",
-      "start": "2023/04/14 10:30:00",
-      "end": "2023/04/30 23:59:59"
+      "image": "ev_cmrl_ex_01",
+      "start": "2023/06/15 10:30:00",
+      "end": "2023/06/30 23:59:59"
     },
     {
       "iname": "SE_MU_FFT_01_EX",
@@ -624,10 +634,8 @@
     },
     {
       "iname": "SE_MU_ART_CRF_30",
-      "event_type": 1,
-      "image": "ev_arti_crft_30",
-      "start": "2023/04/14 10:30:00",
-      "end": "2023/04/30 23:59:59"
+      "event_type": 6,
+      "image": "ev_arti_crft_30"
     },
     {
       "iname": "SE_MU_RC_DEM_01",
@@ -769,16 +777,16 @@
     {
       "iname": "SE_MU_RAID_RV_09",
       "event_type": 1,
-      "image": "ev_raid_revi_07",
-      "start": "2022/08/09 15:00:00",
-      "end": "2022/08/17 9:59:59"
+      "image": "ev_raid_revi_15",
+      "start": "2023/06/08 15:00:00",
+      "end": "2023/06/15 9:59:59"
     },
     {
       "iname": "SE_MU_RAID_RV_10",
       "event_type": 1,
-      "image": "ev_raid_revi_08",
-      "start": "2022/08/09 15:00:00",
-      "end": "2022/08/17 9:59:59"
+      "image": "ev_raid_revi_16",
+      "start": "2023/06/08 15:00:00",
+      "end": "2023/06/15 9:59:59"
     },
     {
       "iname": "SE_MU_RAID_RV_11",

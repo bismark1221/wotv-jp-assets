@@ -739,6 +739,103 @@
           "drop_weight": 10
         }
       ]
+    },
+    {
+      "iname": "EMC_EV_2306_01",
+      "start": "2023/06/01",
+      "end": "2023/06/08 14:59:59",
+      "quest_type": 2,
+      "section_inames": [
+        "SE_EV_ALIA_01_01"
+      ],
+      "event_medal_iname": "IT_EC_EV22_1",
+      "reward_type": 0,
+      "event_medal_drop_weight": [
+        {
+          "drop_num": 7,
+          "drop_weight": 80
+        },
+        {
+          "drop_num": 9,
+          "drop_weight": 10
+        },
+        {
+          "drop_num": 10,
+          "drop_weight": 10
+        }
+      ]
+    },
+    {
+      "iname": "EMC_EV_2306_02",
+      "start": "2023/06/08 15:00:00",
+      "end": "2023/06/22 14:59:59",
+      "quest_type": 2,
+      "section_inames": [
+        "SE_EV_VC_KRKN_01",
+        "SE_EV_VC_DMCM_01",
+        "SE_EV_VC_IGEN_01",
+        "SE_EV_VC_WHDG_01",
+        "SE_EV_VC_LICH_01",
+        "SE_EV_VC_IBKI_01",
+        "SE_EV_VC_ADLD_01",
+        "SE_EV_VC_ZZAN_01"
+      ],
+      "event_medal_iname": "IT_EC_EV22_1",
+      "reward_type": 0,
+      "event_medal_drop_weight": [
+        {
+          "drop_num": 14,
+          "drop_weight": 80
+        },
+        {
+          "drop_num": 18,
+          "drop_weight": 10
+        },
+        {
+          "drop_num": 20,
+          "drop_weight": 10
+        }
+      ]
+    },
+    {
+      "iname": "EMC_EV_2306_03",
+      "start": "2023/06/15 10:30:00",
+      "end": "2023/06/22 14:59:59",
+      "quest_type": 2,
+      "section_inames": [
+        "SE_EV_CMRL",
+        "SE_EV_CMRL_EX"
+      ],
+      "event_medal_iname": "IT_EC_EV22_1",
+      "reward_type": 0,
+      "event_medal_drop_weight": [
+        {
+          "drop_num": 7,
+          "drop_weight": 80
+        },
+        {
+          "drop_num": 9,
+          "drop_weight": 10
+        },
+        {
+          "drop_num": 10,
+          "drop_weight": 10
+        }
+      ],
+      "extra_event_medal_drop_weight": [
+        {
+          "drop_num": 14,
+          "drop_weight": 80
+        },
+        {
+          "drop_num": 18,
+          "drop_weight": 10
+        },
+        {
+          "drop_num": 20,
+          "drop_weight": 10
+        }
+      ]
     }
   ]
 }

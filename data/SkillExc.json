@@ -1304,6 +1304,36 @@
           "iname": "BUFF_LW_EC_SDLE_A_01B"
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_ALIA_01_M_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 113,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_ALIA_01_M_2_S_2"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_ACC_LW_BRWL_1",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 95,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_ACC_LW_BRWL_1_2"
+        }
+      ]
     }
   ]
 }

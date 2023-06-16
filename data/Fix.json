@@ -881,6 +881,11 @@
       "value": "50,50,50,50,50,100,100,100,100,100,150,150,150,150,200"
     },
     {
+      "iname": "limited_arena_bpcoin_tbl",
+      "type": 1,
+      "value": "50,50,50,50,50,100,100,100,100,100,150,150,150,150,200"
+    },
+    {
       "iname": "arena_bp_rec_cnt_day",
       "type": 0,
       "value": 3
@@ -2319,6 +2324,11 @@
       "iname": "is_allowed_rapid_coin",
       "type": 0,
       "value": 0
+    },
+    {
+      "iname": "save_favorite_story_quest_num",
+      "type": 0,
+      "value": 20
     }
   ]
 }

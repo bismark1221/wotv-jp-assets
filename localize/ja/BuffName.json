@@ -117,6 +117,18 @@
       "value": "攻撃時3ターン斬撃攻撃耐性貫通率ダウン"
     },
     {
+      "key": "BUFF_LW_ALIA_01_M_2_T_2_EN",
+      "value": "攻撃前リレイズ解除"
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_S_3",
+      "value": "HP20%以下でヘイトダウン"
+    },
+    {
+      "key": "BUFF_LW_ALIA_01_M_2_B",
+      "value": "HP20%以下でヘイトダウン"
+    },
+    {
       "key": "BUFF_CLEY_M_05_T_01",
       "value": "クリティカル時攻撃大幅アップ"
     },
@@ -173,6 +185,14 @@
       "value": "攻撃時ガッツ解除"
     },
     {
+      "key": "BUFF_LW_EC_BFI_C_03B_TB",
+      "value": "攻撃前ガッツ・追加ダメージ発動解除"
+    },
+    {
+      "key": "BUFF_LW_EC_HSW_C_03B_S_EN",
+      "value": "攻撃時3ターン防御貫通率ダウン"
+    },
+    {
       "key": "BUFF_MA_LW_LRNZ_2_S_EN",
       "value": "攻撃時AP自動回復・ヘイスト解除"
     },
@@ -219,6 +239,10 @@
     {
       "key": "BUFF_LW_EC_SWN_C_06C_3",
       "value": "HP20%以下で回復"
+    },
+    {
+      "key": "BUFF_LW_EC_HUN_C_10C_B",
+      "value": "クリティカル時3ターン素早さダウン"
     },
     {
       "key": "BUFF_LW_SWO_003_1_T_00",
@@ -625,6 +649,10 @@
       "value": "氷属性ユニットのHP・魔力アップ"
     },
     {
+      "key": "BUFF_ARENA_00047",
+      "value": "闇属性ユニットの防御・精神アップ"
+    },
+    {
       "key": "BUFF_GVG_001",
       "value": "闇属性アビリティ攻撃アップ"
     },
@@ -755,6 +783,10 @@
     {
       "key": "BUFF_GVG_040_1",
       "value": "光・風・水属性ユニットのHPアップ"
+    },
+    {
+      "key": "BUFF_GVG_041",
+      "value": "雷属性ユニットの単体攻撃耐性アップ"
     },
     {
       "key": "BUFF_CLASSMATCH_001",
@@ -965,6 +997,10 @@
       "value": "範囲攻撃耐性+20"
     },
     {
+      "key": "BUFF_DRAFTMATCH_012",
+      "value": "クリティカル回避率+200、リアクション阻止率+100"
+    },
+    {
       "key": "BUFF_FRIENDMATCH_001",
       "value": "ヘイスト無効"
     },
@@ -997,6 +1033,10 @@
       "value": "クイック無効、リアクション阻止率+100（フリーマッチルール）"
     },
     {
+      "key": "BUFF_FRIENDMATCH_102",
+      "value": "クリティカル回避率+200、リアクション阻止率+100（フリーマッチルール）"
+    },
+    {
       "key": "BUFF_01130310",
       "value": "モント・リオニスの強化"
     },
@@ -1023,6 +1063,10 @@
     {
       "key": "BUFF_LGVG_MAP_006",
       "value": "土属性ユニットの攻撃アップ"
+    },
+    {
+      "key": "BUFF_LGVG_MAP_007_1",
+      "value": "火・闇属性ユニットの攻撃アップ"
     },
     {
       "key": "BUFF_LGGVG_MAP_001_1",
@@ -1059,6 +1103,10 @@
     {
       "key": "BUFF_EV_UMWP_01",
       "value": "味方：全攻撃タイプ耐性貫通率-50"
+    },
+    {
+      "key": "BUFF_TOWER_IC10_01",
+      "value": "味方：全攻撃タイプ耐性貫通率-30"
     },
     {
       "key": "BUFF_COL_SEA2_01_1",
