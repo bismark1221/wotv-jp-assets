@@ -2739,15 +2739,28 @@
     {
       "iname": "ARENA_20230626",
       "begin_at": "2023/6/26 0:00:00",
-      "end_at": "2023/7/1 23:59:59",
+      "end_at": "2023/7/2 23:59:59",
       "quest_id": "QE_ARENA_00044",
       "thumbnail": "MapIcon_0088",
-      "bonus_unit": "ARENA_BU_00170",
+      "bonus_unit": "ARENA_BU_00171",
       "join_reward": "ARENA_JREWARD_002",
       "daily_reward": "ARENA_DREWARD_004",
-      "weekly_reward": "ARENA_WREWARD_026_1",
+      "weekly_reward": "ARENA_WREWARD_019_1",
       "npc_grp_id": "ARENA_NPCGRP01",
-      "bonus_vision": "ARENA_BV_00130"
+      "bonus_vision": "ARENA_BV_00131"
+    },
+    {
+      "iname": "ARENA_20230703",
+      "begin_at": "2023/7/3 0:00:00",
+      "end_at": "2023/7/9 23:59:59",
+      "quest_id": "QE_ARENA_00044",
+      "thumbnail": "MapIcon_0088",
+      "bonus_unit": "ARENA_BU_00171",
+      "join_reward": "ARENA_JREWARD_002",
+      "daily_reward": "ARENA_DREWARD_004",
+      "weekly_reward": "ARENA_WREWARD_020_1",
+      "npc_grp_id": "ARENA_NPCGRP01",
+      "bonus_vision": "ARENA_BV_00131"
     }
   ]
 }

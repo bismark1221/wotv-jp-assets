@@ -3535,6 +3535,26 @@
           }
         }
       ]
+    },
+    {
+      "iname": "RC_RCP_ZZAN_01",
+      "items": [
+        {
+          "sp": 10,
+          "m1": {
+            "iname": "IT_UN_RELV_UR",
+            "num": 20
+          },
+          "m2": {
+            "iname": "IT_UN_AW_SOIL",
+            "num": 20
+          },
+          "m3": {
+            "iname": "IT_PI_COM_SOIL",
+            "num": 20
+          }
+        }
+      ]
     }
   ]
 }

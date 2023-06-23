@@ -1334,6 +1334,55 @@
           "iname": "BUFF_ACC_LW_BRWL_1_2"
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_ZZAN_M_3C",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 104,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_ZZAN_M_3C"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_EC_MSM_C_01C",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 81,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_EC_MSM_C_01C"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_EC_TIM_A_02_1",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 95,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_EC_TIM_A_02_2_1"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_AXE_012",
+      "addCostRate": 50
     }
   ]
 }
