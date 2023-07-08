@@ -413,6 +413,10 @@
       "value": "クリティカル時対象に3ターン治癒力ダウン"
     },
     {
+      "key": "BUFF_LW_ACC_113_5_B",
+      "value": "クリティカル時対象にAPダメージ"
+    },
+    {
       "key": "BUFF_LW_PLUS6_CRT_ATKMGK_UP_EN",
       "value": "クリティカル時3ターン攻撃・魔力アップ"
     },
@@ -1111,6 +1115,10 @@
     {
       "key": "BUFF_LGVG_MAP_007_1",
       "value": "火・闇属性ユニットの攻撃アップ"
+    },
+    {
+      "key": "BUFF_LGVG_MAP_008_1",
+      "value": "火・土属性ユニットの範囲攻撃耐性アップ、火属性以外のユニットの治癒力ダウン"
     },
     {
       "key": "BUFF_LGGVG_MAP_001_1",
@@ -11691,6 +11699,170 @@
     {
       "key": "BUFF_LICH_41",
       "value": "魔法攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_SHGN_03_01",
+      "value": "命中率+3"
+    },
+    {
+      "key": "BUFF_SHGN_03_02",
+      "value": "獲得AP+3%"
+    },
+    {
+      "key": "BUFF_SHGN_03_03",
+      "value": "クリティカル発生率+3"
+    },
+    {
+      "key": "BUFF_SHGN_03_04",
+      "value": "火属性キラー+2%"
+    },
+    {
+      "key": "BUFF_SHGN_03_05",
+      "value": "クリティカルダメージ+2%"
+    },
+    {
+      "key": "BUFF_SHGN_03_06",
+      "value": "召喚魔法Lv2"
+    },
+    {
+      "key": "BUFF_SHGN_03_07",
+      "value": "召喚魔法Lv4"
+    },
+    {
+      "key": "BUFF_SHGN_03_08",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_SHGN_03_09",
+      "value": "刺突耐性+3%"
+    },
+    {
+      "key": "BUFF_SHGN_03_10",
+      "value": "刺突耐性+3%"
+    },
+    {
+      "key": "BUFF_SHGN_03_11",
+      "value": "獲得AP+5%"
+    },
+    {
+      "key": "BUFF_SHGN_03_12",
+      "value": "クリティカル発生率+4"
+    },
+    {
+      "key": "BUFF_SHGN_03_13",
+      "value": "刺突攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_SHGN_03_14",
+      "value": "刺突攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_SHGN_03_15",
+      "value": "火属性キラー+3%"
+    },
+    {
+      "key": "BUFF_SHGN_03_16",
+      "value": "クリティカルダメージ+5%"
+    },
+    {
+      "key": "BUFF_SHGN_03_17",
+      "value": "雷耐性+3%"
+    },
+    {
+      "key": "BUFF_SHGN_03_18",
+      "value": "雷耐性+3%"
+    },
+    {
+      "key": "BUFF_SHGN_03_19",
+      "value": "召喚魔法Lv7"
+    },
+    {
+      "key": "BUFF_SHGN_03_20",
+      "value": "刺突耐性+5%"
+    },
+    {
+      "key": "BUFF_SHGN_03_21",
+      "value": "刺突耐性+4%"
+    },
+    {
+      "key": "BUFF_SHGN_03_22",
+      "value": "獲得AP+7%"
+    },
+    {
+      "key": "BUFF_SHGN_03_23",
+      "value": "獲得AP+10%"
+    },
+    {
+      "key": "BUFF_SHGN_03_24",
+      "value": "刺突攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_SHGN_03_25",
+      "value": "刺突攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_SHGN_03_26",
+      "value": "火属性キラー+6%"
+    },
+    {
+      "key": "BUFF_SHGN_03_27",
+      "value": "火属性キラー+4%"
+    },
+    {
+      "key": "BUFF_SHGN_03_28",
+      "value": "雷耐性+5%"
+    },
+    {
+      "key": "BUFF_SHGN_03_29",
+      "value": "雷耐性+4%"
+    },
+    {
+      "key": "BUFF_SHGN_03_30",
+      "value": "召喚魔法Lv10"
+    },
+    {
+      "key": "BUFF_SHGN_03_31",
+      "value": "召喚魔法Lv15"
+    },
+    {
+      "key": "BUFF_SHGN_03_32",
+      "value": "素早さUP+5"
+    },
+    {
+      "key": "BUFF_SHGN_03_33",
+      "value": "火属性キラー+10%"
+    },
+    {
+      "key": "BUFF_SHGN_03_34",
+      "value": "召喚魔法Lv20"
+    },
+    {
+      "key": "BUFF_SHGN_03_35",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_SHGN_03_36",
+      "value": "命中率+5"
+    },
+    {
+      "key": "BUFF_SHGN_03_37",
+      "value": "命中率+6"
+    },
+    {
+      "key": "BUFF_SHGN_03_38",
+      "value": "水属性アビリティ攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_SHGN_03_39",
+      "value": "水属性アビリティ攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_SHGN_03_40",
+      "value": "水属性アビリティ攻撃UP+6%"
+    },
+    {
+      "key": "BUFF_SHGN_03_41",
+      "value": "水属性アビリティ攻撃UP+10%"
     },
     {
       "key": "BUFF_MRE_FIRE_HP_1",

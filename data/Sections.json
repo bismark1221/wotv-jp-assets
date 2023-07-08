@@ -1012,6 +1012,13 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_VC_SHGN_01",
+      "hurl": "ev_vc_shgn_01",
+      "open_cond": [
+        "COND_VC_LW_SHGN"
+      ]
+    },
+    {
       "iname": "SE_EV_MLNA_01",
       "hurl": "ev_mlna_01"
     },
