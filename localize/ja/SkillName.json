@@ -10341,6 +10341,70 @@
       "value": "メリサの祈り"
     },
     {
+      "key": "SK_LW_BFM_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_LW_BFM_M_1",
+      "value": "避護の儀"
+    },
+    {
+      "key": "SK_LW_BFM_M_2",
+      "value": "衣剥ぐ天罰"
+    },
+    {
+      "key": "SK_LW_BFM_M_3",
+      "value": "つがい高め給え"
+    },
+    {
+      "key": "SK_LW_BFM_S_1_INIT",
+      "value": "祷り"
+    },
+    {
+      "key": "SK_LW_BFM_ICE_S_2_INIT",
+      "value": "氷難祓い給え"
+    },
+    {
+      "key": "SK_LW_BFM_S_3",
+      "value": "神力付与の儀"
+    },
+    {
+      "key": "SK_LW_BFM_S_4",
+      "value": "二塊招来"
+    },
+    {
+      "key": "SK_LW_BFM_R_1",
+      "value": "守りの御札"
+    },
+    {
+      "key": "SK_LW_BFM_P_1",
+      "value": "避護の衣"
+    },
+    {
+      "key": "SK_LW_BFM_P_2",
+      "value": "祈祷術士の心得"
+    },
+    {
+      "key": "SK_LW_BFM_S_1",
+      "value": "祷り"
+    },
+    {
+      "key": "SK_LW_BFM_ICE_S_2",
+      "value": "氷難祓い給え"
+    },
+    {
+      "key": "SK_LW_BFM_M_1_SUB",
+      "value": "避護の儀"
+    },
+    {
+      "key": "SK_LW_BFM_M_2_SUB",
+      "value": "衣剥ぐ天罰"
+    },
+    {
+      "key": "SK_LW_BFM_M_3_SUB",
+      "value": "つがい高め給え"
+    },
+    {
       "key": "SK_LW_TU_BLM_ICE",
       "value": "ブリザラ"
     },
@@ -14913,6 +14977,10 @@
       "value": "悪毒"
     },
     {
+      "key": "SK_LB_LW_CHRZ",
+      "value": "妖羊傀儡術"
+    },
+    {
       "key": "SK_SMN_IFRT",
       "value": "地獄の火炎"
     },
@@ -17625,6 +17693,26 @@
       "value": "軽妙なる魔技"
     },
     {
+      "key": "SK_LW_EC_BFM_A_01",
+      "value": "快蘇の祷り"
+    },
+    {
+      "key": "SK_LW_EC_BFM_C_01",
+      "value": "避護の儀強化"
+    },
+    {
+      "key": "SK_LW_EC_BFM_C_01B",
+      "value": "避護守りの儀"
+    },
+    {
+      "key": "SK_LW_EC_BFM_C_02",
+      "value": "守りの御札強化"
+    },
+    {
+      "key": "SK_LW_EC_BFM_C_02B",
+      "value": "守りの護符"
+    },
+    {
       "key": "SK_US_POTION",
       "value": "ポーション"
     },
@@ -19281,6 +19369,10 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_CHRZ",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_UES_FF7_CLUD",
       "value": "クラウド夢幻転生パッシブ"
     },
@@ -20709,6 +20801,14 @@
       "value": "メルニア夢幻転生パッシブ"
     },
     {
+      "key": "SK_UES_LW_CHRZ",
+      "value": "シャルゼ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_BFM_C_01C",
+      "value": "避護守りの儀"
+    },
+    {
       "key": "SK_LW_SLASH_1",
       "value": "斬撃攻撃力+2"
     },
@@ -21311,6 +21411,10 @@
     {
       "key": "SK_LW_MAGICPOW_4_UR",
       "value": "魔力+20"
+    },
+    {
+      "key": "SK_LW_MAGICPOW_5",
+      "value": "魔力+25"
     },
     {
       "key": "SK_LW_MAGICPOW_5_UR",
@@ -22725,6 +22829,10 @@
       "value": "プラチナランス"
     },
     {
+      "key": "SK_LW_SPE_022_6",
+      "value": "プラチナランス+6"
+    },
+    {
       "key": "SK_FF13_ACCE_002_1",
       "value": "ホープのスカーフ"
     },
@@ -22753,6 +22861,14 @@
       "value": "波動の剣"
     },
     {
+      "key": "SK_LW_SWO_035_6_1",
+      "value": "波動の剣+6"
+    },
+    {
+      "key": "SK_LW_SWO_035_6_2",
+      "value": "波動の剣+6"
+    },
+    {
       "key": "SK_LW_ACC_074_1",
       "value": "大鴉のマント"
     },
@@ -22771,6 +22887,10 @@
     {
       "key": "SK_LW_ACC_074_5",
       "value": "大鴉のマント"
+    },
+    {
+      "key": "SK_LW_ACC_074_6",
+      "value": "大鴉のマント+6"
     },
     {
       "key": "SK_LW_GUN_004_1",
@@ -23015,6 +23135,30 @@
     {
       "key": "SK_LW_ROD_032_5",
       "value": "鯨の髭専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_038_1",
+      "value": "魔大樹の杖専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_038_2",
+      "value": "魔大樹の杖専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_038_3",
+      "value": "魔大樹の杖専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_038_4",
+      "value": "魔大樹の杖専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_038_5",
+      "value": "魔大樹の杖専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ROD_038_5_B",
+      "value": "HP20%以下でCTアップ(小)({0}回)"
     },
     {
       "key": "SK_FF7_UNI_000_1",
@@ -24679,6 +24823,10 @@
     {
       "key": "SK_ACC_LW_MLNA_1",
       "value": "阻みの射撃術"
+    },
+    {
+      "key": "SK_CLT_LW_CHRZ_1",
+      "value": "魔大樹の甘露"
     },
     {
       "key": "SK_VC_LW_SCAL_PVA",

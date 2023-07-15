@@ -391,6 +391,16 @@
       "value": -100
     },
     {
+      "iname": "reduce_dmg_dist_value_max",
+      "type": 0,
+      "value": 80
+    },
+    {
+      "iname": "reduce_dmg_dist_value_min",
+      "type": 0,
+      "value": -80
+    },
+    {
       "iname": "buf_spgain_max",
       "type": 0,
       "value": 200
@@ -2329,6 +2339,11 @@
       "iname": "save_favorite_story_quest_num",
       "type": 0,
       "value": 20
+    },
+    {
+      "iname": "guild_raid_infinite_hp_boss_display_hp",
+      "type": 0,
+      "value": 10000000
     }
   ]
 }

@@ -2620,6 +2620,7 @@
         "QE_HA_LW_ALIA_01",
         "QE_HA_LW_BRWL",
         "QE_HA_LW_MLNA",
+        "QE_HA_LW_CHRZ",
         "QE_EV_AST_020507",
         "QE_EV_AST_020508",
         "QE_EV_AST_020509",
@@ -7439,6 +7440,7 @@
         "QE_HA_LW_FINA_01",
         "QE_HA_LW_MA_02",
         "QE_HA_LW_AMNR",
+        "QE_HA_LW_CHRZ",
         "QE_EV_AST_020508",
         "QE_EV_AST_020307",
         "QE_EV_AST_020210",
@@ -7858,6 +7860,7 @@
         "QE_HA_LW_HWLT_01",
         "QE_HA_LW_RUFF",
         "QE_HA_LW_JEDN_02",
+        "QE_HA_LW_CHRZ",
         "QE_EV_AST_020509",
         "QE_EV_AST_020308",
         "QE_EV_AST_020107",
@@ -12743,6 +12746,7 @@
         "QE_HA_LW_MORE",
         "QE_HA_LW_HWLT_01",
         "QE_HA_LW_JEDN_02",
+        "QE_HA_LW_CHRZ",
         "QE_EV_AST_010508",
         "QE_EV_AST_010302",
         "QE_EV_AST_010306",
@@ -14797,6 +14801,7 @@
         "QE_HA_LW_SDLE",
         "QE_HA_LW_SLEN",
         "QE_HA_LW_DARD",
+        "QE_HA_LW_CHRZ",
         "QE_EV_AST_020507",
         "QE_EV_AST_020307",
         "QE_EV_AST_020108"
@@ -22279,6 +22284,99 @@
       ]
     },
     {
+      "iname": "IT_JB_MM_BFM",
+      "questlist": [
+        "QE_ST_01070307",
+        "QE_ST_01100304",
+        "QE_ST_01130106",
+        "QE_ST_02010204",
+        "QE_ST_02040105",
+        "QE_ST_02070304",
+        "QE_ST_02110307",
+        "QE_ST_03010305"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_BFM_2",
+      "questlist": [
+        "QE_ST_01010305",
+        "QE_ST_01070307",
+        "QE_ST_01080304",
+        "QE_ST_01100304",
+        "QE_ST_01110303",
+        "QE_ST_01130106",
+        "QE_ST_01140304",
+        "QE_ST_02010204",
+        "QE_ST_020202_08",
+        "QE_ST_02040105",
+        "QE_ST_02050109",
+        "QE_ST_02070304",
+        "QE_ST_02080308",
+        "QE_ST_02100110",
+        "QE_ST_02110307",
+        "QE_ST_03010305",
+        "QE_ST_03020308"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_BFM_3",
+      "questlist": [
+        "QE_ST_01020308",
+        "QE_ST_01030307",
+        "QE_ST_01080304",
+        "QE_ST_01090207",
+        "QE_ST_01110303",
+        "QE_ST_01120307",
+        "QE_ST_01140304",
+        "QE_ST_01150106",
+        "QE_ST_020202_08",
+        "QE_ST_02030108",
+        "QE_ST_02050109",
+        "QE_ST_02060110",
+        "QE_ST_02080308",
+        "QE_ST_02090307",
+        "QE_ST_02100110",
+        "QE_ST_02120109",
+        "QE_ST_03010305",
+        "QE_ST_03020308",
+        "QE_ST_03030306"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_BFM_4",
+      "questlist": [
+        "QE_EV_AW_H09_4",
+        "QE_ST_01040307",
+        "QE_ST_01050302",
+        "QE_ST_01060206",
+        "QE_ST_01090207",
+        "QE_ST_01120307",
+        "QE_ST_01150106",
+        "QE_ST_02030108",
+        "QE_ST_02060110",
+        "QE_ST_02090307",
+        "QE_ST_02120109",
+        "QE_ST_03020308",
+        "QE_ST_03030306",
+        "QE_HA_LW_CHRZ"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_BFM_5",
+      "questlist": [
+        "QE_EV_AW_H13_4",
+        "QE_EV_AW_H15_4",
+        "QE_ST_01070307",
+        "QE_ST_01100304",
+        "QE_ST_01130106",
+        "QE_ST_02010204",
+        "QE_ST_02040105",
+        "QE_ST_02070304",
+        "QE_ST_02110307",
+        "QE_ST_03030306"
+      ]
+    },
+    {
       "iname": "IT_JB_EM_FIRE_1",
       "questlist": [
         "QE_EV_AW_FIRE_01",
@@ -22605,6 +22703,7 @@
         "QE_HA_LW_GRSR_01",
         "QE_HA_LW_STIA",
         "QE_HA_LW_HYOO",
+        "QE_HA_LW_CHRZ",
         "QE_EV_AST_020509",
         "QE_EV_AST_020207",
         "QE_EV_AST_020109",
@@ -26781,6 +26880,7 @@
         "QE_HA_LW_HWLT_01",
         "QE_HA_LW_HYOO",
         "QE_HA_LW_MLNA",
+        "QE_HA_LW_CHRZ",
         "QE_EV_AST_020507",
         "QE_EV_AST_020509",
         "QE_EV_AST_020407",
@@ -30548,6 +30648,12 @@
       "iname": "IT_PI_LW_MLNA",
       "questlist": [
         "QE_HA_LW_MLNA"
+      ]
+    },
+    {
+      "iname": "IT_PI_LW_CHRZ",
+      "questlist": [
+        "QE_HA_LW_CHRZ"
       ]
     },
     {

@@ -53,6 +53,30 @@
       "value": "ダウン解除"
     },
     {
+      "key": "BUFF_ReduceDmgDistFar",
+      "value": "遠いほど"
+    },
+    {
+      "key": "BUFF_ReduceDmgDistNear",
+      "value": "近いほど"
+    },
+    {
+      "key": "BUFF_ReduceDmgDistUp",
+      "value": "減少"
+    },
+    {
+      "key": "BUFF_ReduceDmgDistDown",
+      "value": "増加"
+    },
+    {
+      "key": "BUFF_ReleaseReduceDmgDistUp",
+      "value": "減少解除"
+    },
+    {
+      "key": "BUFF_ReleaseReduceDmgDistDown",
+      "value": "増加解除"
+    },
+    {
       "key": "BUFFHEAL_Hp",
       "value": "HP回復"
     },
@@ -463,6 +487,30 @@
     {
       "key": "BUFF_CondEnchantAssistSkillOnly",
       "value": "アシストエンチャント"
+    },
+    {
+      "key": "BUFF_CondAreaBuff",
+      "value": "エリアバフ"
+    },
+    {
+      "key": "BUFF_CondPhysicalDmgDown",
+      "value": "物理ダメージ軽減"
+    },
+    {
+      "key": "BUFF_CondMagicalDmgDown",
+      "value": "魔法ダメージ軽減"
+    },
+    {
+      "key": "BUFF_CondUnBreakablePhyBarrier",
+      "value": "物理バリア破壊不可"
+    },
+    {
+      "key": "BUFF_CondUnBreakableMagBarrier",
+      "value": "魔法バリア破壊不可"
+    },
+    {
+      "key": "BUFF_CondUnBreakableAllBarrier",
+      "value": "物魔バリア破壊不可"
     },
     {
       "key": "BUFF_OtherInitAp",
@@ -903,6 +951,14 @@
     {
       "key": "BUFF_OtherDebuffRedRate",
       "value": "弱体抵抗率"
+    },
+    {
+      "key": "BUFF_OtherReducePhyDmgDist",
+      "value": "物理被ダメージ"
+    },
+    {
+      "key": "BUFF_OtherReduceMagDmgDist",
+      "value": "魔法被ダメージ"
     },
     {
       "key": "BUFF_UnitTagFloating",
@@ -2298,23 +2354,23 @@
     },
     {
       "key": "BUFF_ExeShield2",
-      "value": "シールド(HP{0})"
+      "value": "バリア(HP{0})"
     },
     {
       "key": "BUFF_ExeShield3",
-      "value": "シールド({0}回)"
+      "value": "バリア({0}回)"
     },
     {
       "key": "BUFF_ExeShield4",
-      "value": "シールド({0}回orHP{1})"
+      "value": "バリア({0}回orHP{1})"
     },
     {
       "key": "BUFF_ExeShield5",
-      "value": "シールド({0}ターン)"
+      "value": "バリア({0}ターン)"
     },
     {
       "key": "BUFF_ExeShield6",
-      "value": "シールド({0}ターンorHP{1})"
+      "value": "バリア({0}ターンorHP{1})"
     },
     {
       "key": "BUFF_ExeShield7",
@@ -2347,6 +2403,10 @@
     {
       "key": "BUFF_DamageHitCnt",
       "value": "(被ダメ{0}回で解除)"
+    },
+    {
+      "key": "BUFF_DispAreaBuff",
+      "value": "エリア内{0}付与"
     }
   ]
 }

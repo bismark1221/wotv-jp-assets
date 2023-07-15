@@ -1418,6 +1418,21 @@
           "calc": 4
         }
       ]
+    },
+    {
+      "iname": "SKE_LW_BFM_M_3",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 81,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_BFM_M_3_2"
+        }
+      ]
     }
   ]
 }

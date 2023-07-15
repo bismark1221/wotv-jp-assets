@@ -249,6 +249,10 @@
       "value": "クリティカル時3ターン素早さダウン"
     },
     {
+      "key": "BUFF_LW_EC_BFM_C_01C_EN",
+      "value": "クリティカル時AP回復"
+    },
+    {
       "key": "BUFF_LW_SWO_003_1_T_00",
       "value": "通常攻撃（睡眠）"
     },
@@ -303,6 +307,10 @@
     {
       "key": "BUFF_LW_BOW_017_SHLS_5_B",
       "value": "クリティカル時1ターンAP消費率ダウン"
+    },
+    {
+      "key": "BUFF_LW_ROD_038_5_2_B",
+      "value": "HP20%以下でCTアップ(小)"
     },
     {
       "key": "BUFF_FMAM_SWO_000_5_2_B",
@@ -697,6 +705,14 @@
       "value": "闇属性ユニットの防御・精神アップ"
     },
     {
+      "key": "BUFF_ARENA_00048",
+      "value": "火属性ユニットの範囲攻撃耐性アップ"
+    },
+    {
+      "key": "BUFF_ARENA_00049",
+      "value": "風属性ユニットのHP・魔力アップ"
+    },
+    {
       "key": "BUFF_GVG_001",
       "value": "闇属性アビリティ攻撃アップ"
     },
@@ -941,6 +957,10 @@
       "value": "ユニットのCost制限230以下、クイック無効、リアクション阻止率+100"
     },
     {
+      "key": "BUFF_CLASSMATCH_029_1",
+      "value": "メインVCのCost制限190以下、サブVCのCost制限170以下、CTアップ/ダウン・クイック無効、リアクション阻止率+100"
+    },
+    {
       "key": "BUFF_FREEMATCH_004",
       "value": "クイック無効、CTアップ/ダウン無効、治癒力50%ダウン"
     },
@@ -1017,6 +1037,10 @@
       "value": "クイック無効、リアクション阻止率+100"
     },
     {
+      "key": "BUFF_FREEMATCH_026_1",
+      "value": "CTアップ/ダウン・クイック無効、リアクション阻止率+100"
+    },
+    {
       "key": "BUFF_DRAFTMATCH_001",
       "value": "召喚ゲージ獲得量50%アップ、魅了・バーサク・スタン無効"
     },
@@ -1073,6 +1097,22 @@
       "value": "リアクション阻止率+100"
     },
     {
+      "key": "BUFF_FRIENDMATCH_007",
+      "value": "リレイズ無効"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_008",
+      "value": "治癒力50%ダウン"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_009",
+      "value": "召喚ゲージ獲得量100%アップ"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_010",
+      "value": "クリティカル回避率+200"
+    },
+    {
       "key": "BUFF_FRIENDMATCH_100",
       "value": "範囲攻撃耐性+20（フリーマッチルール）"
     },
@@ -1083,6 +1123,10 @@
     {
       "key": "BUFF_FRIENDMATCH_102",
       "value": "クリティカル回避率+200、リアクション阻止率+100（フリーマッチルール）"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_103_1",
+      "value": "CTアップ/ダウン・クイック無効、リアクション阻止率+100（フリーマッチルール）"
     },
     {
       "key": "BUFF_01130310",
@@ -12277,6 +12321,14 @@
       "value": "全攻撃区分耐性耐性貫通+5"
     },
     {
+      "key": "BUFF_MRE_FIRE_CRIAVOI_5",
+      "value": "クリティカル回避+5%"
+    },
+    {
+      "key": "BUFF_MRE_FIRE_CRIAVOI_10",
+      "value": "クリティカル回避+10%"
+    },
+    {
       "key": "BUFF_MRE_ICE_HP_1",
       "value": "HP+1%"
     },
@@ -12687,6 +12739,14 @@
     {
       "key": "BUFF_MRE_ICE_MAGICPIERCE_5",
       "value": "全攻撃区分耐性耐性貫通+5"
+    },
+    {
+      "key": "BUFF_MRE_ICE_CRIAVOI_5",
+      "value": "クリティカル回避+5%"
+    },
+    {
+      "key": "BUFF_MRE_ICE_CRIAVOI_10",
+      "value": "クリティカル回避+10%"
     },
     {
       "key": "BUFF_MRE_WIND_HP_1",
@@ -13101,6 +13161,14 @@
       "value": "全攻撃区分耐性耐性貫通+5"
     },
     {
+      "key": "BUFF_MRE_WIND_CRIAVOI_5",
+      "value": "クリティカル回避+5%"
+    },
+    {
+      "key": "BUFF_MRE_WIND_CRIAVOI_10",
+      "value": "クリティカル回避+10%"
+    },
+    {
       "key": "BUFF_MRE_SOIL_HP_1",
       "value": "HP+1%"
     },
@@ -13511,6 +13579,14 @@
     {
       "key": "BUFF_MRE_SOIL_MAGICPIERCE_5",
       "value": "全攻撃区分耐性耐性貫通+5"
+    },
+    {
+      "key": "BUFF_MRE_SOIL_CRIAVOI_5",
+      "value": "クリティカル回避+5%"
+    },
+    {
+      "key": "BUFF_MRE_SOIL_CRIAVOI_10",
+      "value": "クリティカル回避+10%"
     },
     {
       "key": "BUFF_MRE_THUNDER_HP_1",
@@ -13925,6 +14001,14 @@
       "value": "全攻撃区分耐性耐性貫通+5"
     },
     {
+      "key": "BUFF_MRE_THUNDER_CRIAVOI_5",
+      "value": "クリティカル回避+5%"
+    },
+    {
+      "key": "BUFF_MRE_THUNDER_CRIAVOI_10",
+      "value": "クリティカル回避+10%"
+    },
+    {
       "key": "BUFF_MRE_WATER_HP_1",
       "value": "HP+1%"
     },
@@ -14335,6 +14419,14 @@
     {
       "key": "BUFF_MRE_WATER_MAGICPIERCE_5",
       "value": "全攻撃区分耐性耐性貫通+5"
+    },
+    {
+      "key": "BUFF_MRE_WATER_CRIAVOI_5",
+      "value": "クリティカル回避+5%"
+    },
+    {
+      "key": "BUFF_MRE_WATER_CRIAVOI_10",
+      "value": "クリティカル回避+10%"
     },
     {
       "key": "BUFF_MRE_SHINE_HP_1",
@@ -14749,6 +14841,14 @@
       "value": "全攻撃区分耐性耐性貫通+5"
     },
     {
+      "key": "BUFF_MRE_SHINE_CRIAVOI_5",
+      "value": "クリティカル回避+5%"
+    },
+    {
+      "key": "BUFF_MRE_SHINE_CRIAVOI_10",
+      "value": "クリティカル回避+10%"
+    },
+    {
       "key": "BUFF_MRE_DARK_HP_1",
       "value": "HP+1%"
     },
@@ -15159,6 +15259,14 @@
     {
       "key": "BUFF_MRE_DARK_MAGICPIERCE_5",
       "value": "全攻撃区分耐性耐性貫通+5"
+    },
+    {
+      "key": "BUFF_MRE_DARK_CRIAVOI_5",
+      "value": "クリティカル回避+5%"
+    },
+    {
+      "key": "BUFF_MRE_DARK_CRIAVOI_10",
+      "value": "クリティカル回避+10%"
     },
     {
       "key": "BUFF_UN_BD_BUFF_HP_01",

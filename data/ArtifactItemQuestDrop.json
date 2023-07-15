@@ -229,6 +229,8 @@
         "QE_EV_ART_CRF_67",
         "QE_EV_ART_CRF_68",
         "QE_EV_ART_CRF_69",
+        "QE_EV_ART_CRF_70",
+        "QE_EV_ART_CRF_71",
         "QE_EV_ART_CRF_13",
         "QE_EV_ART_CRF_14",
         "QE_EV_ART_CRF_15",
@@ -530,6 +532,8 @@
         "QE_EV_ART_CRF_67",
         "QE_EV_ART_CRF_68",
         "QE_EV_ART_CRF_69",
+        "QE_EV_ART_CRF_70",
+        "QE_EV_ART_CRF_71",
         "QE_EV_ART_CRF_13",
         "QE_EV_ART_CRF_14",
         "QE_EV_ART_CRF_15",
@@ -863,6 +867,8 @@
         "QE_EV_ART_CRF_42",
         "QE_EV_ART_CRF_57",
         "QE_EV_ART_CRF_58",
+        "QE_EV_ART_CRF_70",
+        "QE_EV_ART_CRF_71",
         "QE_EV_ART_CRF_09",
         "QE_EV_THLA_EX1",
         "QE_EV_ALIM_EX1",
@@ -1028,6 +1034,8 @@
         "QE_EV_ART_CRF_19",
         "QE_EV_ART_CRF_66",
         "QE_EV_ART_CRF_67",
+        "QE_EV_ART_CRF_70",
+        "QE_EV_ART_CRF_71",
         "QE_EV_AEX_112_1",
         "QE_EV_AEX_112_2"
       ]
@@ -2318,7 +2326,8 @@
         "QE_HA_LW_DARD",
         "QE_HA_LW_HYOO",
         "QE_HA_LW_JEDN_02",
-        "QE_HA_LW_ALIA_01"
+        "QE_HA_LW_ALIA_01",
+        "QE_HA_LW_CHRZ"
       ]
     },
     {
@@ -2918,7 +2927,8 @@
         "QE_HA_LW_BIGA",
         "QE_HA_LW_RUFF",
         "QE_HA_LW_HYOO",
-        "QE_HA_LW_BRWL"
+        "QE_HA_LW_BRWL",
+        "QE_HA_LW_CHRZ"
       ]
     },
     {
@@ -3956,6 +3966,8 @@
         "QE_EV_ART_CRF_28",
         "QE_EV_ART_CRF_57",
         "QE_EV_ART_CRF_58",
+        "QE_EV_ART_CRF_70",
+        "QE_EV_ART_CRF_71",
         "QE_EV_ART_CRF_15",
         "QE_EV_ART_CRF_12",
         "QE_EV_ART_CRF_09",
@@ -4411,6 +4423,8 @@
         "QE_EV_ART_CRF_32",
         "QE_EV_ART_CRF_62",
         "QE_EV_ART_CRF_63",
+        "QE_EV_ART_CRF_70",
+        "QE_EV_ART_CRF_71",
         "QE_EV_MCRD_EX1",
         "QE_EV_MCRD_EX2",
         "QE_EV_DIAA_EX1",
@@ -6148,6 +6162,7 @@
         "QE_HA_LW_RSNC",
         "QE_HA_LW_FINA_01",
         "QE_HA_LW_AMNR",
+        "QE_HA_LW_CHRZ",
         "QE_EV_AST_020506",
         "QE_EV_AST_020403",
         "QE_EV_AST_020202",
@@ -7611,6 +7626,13 @@
       "questlist": [
         "QE_EV_ART_CRF_68",
         "QE_EV_ART_CRF_69"
+      ]
+    },
+    {
+      "iname": "IT_AF_LW_ROD_038",
+      "questlist": [
+        "QE_EV_ART_CRF_70",
+        "QE_EV_ART_CRF_71"
       ]
     },
     {
