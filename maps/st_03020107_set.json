@@ -1628,7 +1628,8 @@
       "mapEv": {
         "type": 2,
         "typeval": "unittag=STON;string=2;local=skill>SK_GMK_ATK_STON|rmin>2|rmax>3|Vector2Int[]>{\"array\":[{\"x\":4,\"y\":4},{\"x\":6,\"y\":6},{\"x\":8,\"y\":4},{\"x\":3,\"y\":6},{\"x\":10,\"y\":6},{\"x\":1,\"y\":5},{\"x\":11,\"y\":4}]}",
-        "isUnitNoAct": true
+        "isUnitNoAct": true,
+        "isAvoidAuto": false
       },
       "invokeMax": -1,
       "deadTags": [],
@@ -1782,6 +1783,36 @@
           "drop_data": {
             "type": 0,
             "iname": "IT_JB_MM_JUME_4",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 28
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_JEDN_01_2",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 28
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_JEDN_01_3",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 28
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_JEDN_01_4",
             "num": 2,
             "subNum1": 0,
             "secret": 0
@@ -1976,7 +2007,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1908
+          "weight": 1824
         }
       ]
     }
