@@ -39662,6 +39662,18 @@
       ]
     },
     {
+      "iname": "QM_CH_MM_180",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_GRSR_03_3",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_CH_MM_A01",
       "type": 102,
       "value1": 0,
@@ -44485,6 +44497,18 @@
         {
           "type": 0,
           "item": "IT_JB_EM_WIND_3",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_384",
+      "type": 15,
+      "value1": "UN_LW_P_GRSR_03",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_WATER_3",
           "num": 10
         }
       ]
@@ -55059,6 +55083,123 @@
     },
     {
       "iname": "QM_EV_ART_CRF_73_M6",
+      "type": 201,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JBEX_MM",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_74_M1",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_HEART_03",
+          "num": 30
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_74_M2",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_MYTHRIL",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_74_M3",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_AW_SWORD",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_74_M4",
+      "type": 81,
+      "value1": 2,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_75_M1",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_HEART_03",
+          "num": 30
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_75_M2",
+      "type": 81,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_WATER_01",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_75_M3",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_MAT_MYTHRIL",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_75_M4",
+      "type": 60,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AF_AW_SWORD",
+          "num": 50
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_75_M5",
+      "type": 10,
+      "value2": [
+        6
+      ],
+      "rewards": [
+        {
+          "type": 1,
+          "item": "AF_LW_SWO_045_3",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_ART_CRF_75_M6",
       "type": 201,
       "rewards": [
         {
@@ -104293,6 +104434,78 @@
     },
     {
       "iname": "QM_EV_MLNA_01_6",
+      "type": 80,
+      "value1": 15,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_AW_VBALL_UR",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_GRSR_03_01_1",
+      "type": 15,
+      "value1": "UN_LW_P_GRSR_03",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_PI_COM_WATER",
+          "num": 100
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_GRSR_03_01_2",
+      "type": 15,
+      "value1": "UN_LW_P_GRSR_03",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_UN_AW_WATER",
+          "num": 100
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_GRSR_03_01_3",
+      "type": 80,
+      "value1": 4,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_GRSR_03_3",
+          "num": 2
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_GRSR_03_01_4",
+      "type": 80,
+      "value1": 8,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_GRSR_03_4",
+          "num": 4
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_GRSR_03_01_5",
+      "type": 80,
+      "value1": 12,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_GRSR_03_5",
+          "num": 17
+        }
+      ]
+    },
+    {
+      "iname": "QM_EV_GRSR_03_01_6",
       "type": 80,
       "value1": 15,
       "rewards": [
