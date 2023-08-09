@@ -3211,6 +3211,18 @@
       "value_s1": "UN_LW_P_HLNA_02"
     },
     {
+      "iname": "COND_CH_ALIA_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_ALIA"
+    },
+    {
+      "iname": "COND_CH_URAL_2",
+      "type": 1,
+      "value_i1": 80,
+      "value_s1": "UN_LW_P_URAL"
+    },
+    {
       "iname": "COND_EV_LW_LCIO",
       "type": 1,
       "value_i1": 120,
@@ -4091,6 +4103,12 @@
       "type": 4,
       "value_i1": 1,
       "value_s1": "VC_LW_VLUC"
+    },
+    {
+      "iname": "COND_VC_LW_SIRE1",
+      "type": 4,
+      "value_i1": 1,
+      "value_s1": "VC_LW_SIRE_01"
     }
   ]
 }

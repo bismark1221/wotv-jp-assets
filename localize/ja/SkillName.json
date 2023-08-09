@@ -12705,6 +12705,26 @@
       "value": "ルナティックボイス"
     },
     {
+      "key": "SK_SIRE_01_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_SIRE_01_M_01",
+      "value": "ウォータ"
+    },
+    {
+      "key": "SK_SIRE_01_M_02",
+      "value": "ウォタガ"
+    },
+    {
+      "key": "SK_SIRE_01_M_03",
+      "value": "アルティメットボイス"
+    },
+    {
+      "key": "SK_SIRE_01_M_04",
+      "value": "カオティックボイス"
+    },
+    {
       "key": "SK_SHIV_ATK",
       "value": "通常攻撃"
     },
@@ -14473,10 +14493,6 @@
       "value": "威風凛然"
     },
     {
-      "key": "SK_LB_LW_ROBB_B",
-      "value": "威風凛然改"
-    },
-    {
       "key": "SK_LB_LW_ENBT",
       "value": "堅忍不抜"
     },
@@ -14495,10 +14511,6 @@
     {
       "key": "SK_LB_LW_MRND",
       "value": "紅嵐"
-    },
-    {
-      "key": "SK_LB_LW_MRND_B",
-      "value": "紅嵐改"
     },
     {
       "key": "SK_LB_LW_AILN",
@@ -14535,10 +14547,6 @@
     {
       "key": "SK_LB_LW_GLMS",
       "value": "弌閃"
-    },
-    {
-      "key": "SK_LB_LW_GLMS_B",
-      "value": "弌閃改"
     },
     {
       "key": "SK_LB_LW_KTON",
@@ -15173,6 +15181,18 @@
       "value": "マーメイドダンス"
     },
     {
+      "key": "SK_LB_LW_ROBB_B",
+      "value": "威風凛然"
+    },
+    {
+      "key": "SK_LB_LW_GLMS_B",
+      "value": "弌閃"
+    },
+    {
+      "key": "SK_LB_LW_MRND_B",
+      "value": "紅嵐"
+    },
+    {
       "key": "SK_LB_LW_MONT_B_CH",
       "value": "デスティニークロス強化"
     },
@@ -15207,6 +15227,18 @@
     {
       "key": "SK_LB_LW_HLNA_02_B_CH",
       "value": "マーメイドダンス強化"
+    },
+    {
+      "key": "SK_LB_LW_ROBB_B_CH",
+      "value": "威風凛然強化"
+    },
+    {
+      "key": "SK_LB_LW_GLMS_B_CH",
+      "value": "弌閃強化"
+    },
+    {
+      "key": "SK_LB_LW_MRND_B_CH",
+      "value": "紅嵐強化"
     },
     {
       "key": "SK_SMN_IFRT",
@@ -15371,6 +15403,10 @@
     {
       "key": "SK_SMN_SHIV_01",
       "value": "ブラックダイアモンド"
+    },
+    {
+      "key": "SK_SMN_SIRE_01",
+      "value": "カオティックボイス"
     },
     {
       "key": "SK_SMN_IGNT",
@@ -19441,7 +19477,15 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_ALIA_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_LW_URAL",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_URAL_2",
       "value": "マスターアビリティ"
     },
     {
@@ -26091,6 +26135,10 @@
     {
       "key": "SK_BTL_INV_EXT_ECHAIN",
       "value": "エレメントチェイン継続無効"
+    },
+    {
+      "key": "SK_BTL_INV_EXT_ECHAIN2",
+      "value": "チェイン継続(エレメント・アタック)"
     },
     {
       "key": "SK_BTL_HP_100-99900_U_PA",

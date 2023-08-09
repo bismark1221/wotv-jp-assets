@@ -1177,6 +1177,10 @@
       "value": "火・土属性ユニットの範囲攻撃耐性アップ、火属性以外のユニットの治癒力ダウン"
     },
     {
+      "key": "BUFF_LGVG_MAP_009_1",
+      "value": "水・氷属性ユニットの攻撃アップ、単体攻撃耐性アップ"
+    },
+    {
       "key": "BUFF_LGGVG_MAP_001_1",
       "value": "土・氷属性ユニットのHP・魔力アップ"
     },
@@ -1195,6 +1199,14 @@
     {
       "key": "BUFF_GRAID_003",
       "value": "初期AP+60、リアクション阻止率+100、ダメージ上限アップ（全攻撃タイプ：+10000、打撃攻撃：+10000、魔法攻撃：+15000）"
+    },
+    {
+      "key": "BUFF_GRAID_004",
+      "value": "初期AP+60、リアクション阻止率+100"
+    },
+    {
+      "key": "BUFF_GRAID_005",
+      "value": "ダメージ上限アップ（全攻撃タイプ：+10000、打撃攻撃：+10000、魔法攻撃：+10000、刺突攻撃：+5000）"
     },
     {
       "key": "BUFF_PT_001",
@@ -7823,6 +7835,170 @@
     {
       "key": "BUFF_SHIV_01_41",
       "value": "氷属性アビリティ攻撃UP+10%"
+    },
+    {
+      "key": "BUFF_SIRE_01_01",
+      "value": "命中率+3"
+    },
+    {
+      "key": "BUFF_SIRE_01_02",
+      "value": "リアクション阻止率+6"
+    },
+    {
+      "key": "BUFF_SIRE_01_03",
+      "value": "クリティカル回避率+3"
+    },
+    {
+      "key": "BUFF_SIRE_01_04",
+      "value": "火属性キラー+2%"
+    },
+    {
+      "key": "BUFF_SIRE_01_05",
+      "value": "単体耐性+2%"
+    },
+    {
+      "key": "BUFF_SIRE_01_06",
+      "value": "召喚魔法Lv2"
+    },
+    {
+      "key": "BUFF_SIRE_01_07",
+      "value": "召喚魔法Lv4"
+    },
+    {
+      "key": "BUFF_SIRE_01_08",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_SIRE_01_09",
+      "value": "魔法耐性+3%"
+    },
+    {
+      "key": "BUFF_SIRE_01_10",
+      "value": "魔法耐性+3%"
+    },
+    {
+      "key": "BUFF_SIRE_01_11",
+      "value": "リアクション阻止率+8"
+    },
+    {
+      "key": "BUFF_SIRE_01_12",
+      "value": "クリティカル回避率+4"
+    },
+    {
+      "key": "BUFF_SIRE_01_13",
+      "value": "魔法攻撃UP+3%"
+    },
+    {
+      "key": "BUFF_SIRE_01_14",
+      "value": "魔法攻撃UP+3%"
+    },
+    {
+      "key": "BUFF_SIRE_01_15",
+      "value": "火属性キラー+3%"
+    },
+    {
+      "key": "BUFF_SIRE_01_16",
+      "value": "単体耐性+3%"
+    },
+    {
+      "key": "BUFF_SIRE_01_17",
+      "value": "雷耐性+3%"
+    },
+    {
+      "key": "BUFF_SIRE_01_18",
+      "value": "雷耐性+3%"
+    },
+    {
+      "key": "BUFF_SIRE_01_19",
+      "value": "召喚魔法Lv7"
+    },
+    {
+      "key": "BUFF_SIRE_01_20",
+      "value": "魔法耐性+5%"
+    },
+    {
+      "key": "BUFF_SIRE_01_21",
+      "value": "魔法耐性+4%"
+    },
+    {
+      "key": "BUFF_SIRE_01_22",
+      "value": "リアクション阻止率+9"
+    },
+    {
+      "key": "BUFF_SIRE_01_23",
+      "value": "リアクション阻止率+12"
+    },
+    {
+      "key": "BUFF_SIRE_01_24",
+      "value": "魔法攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_SIRE_01_25",
+      "value": "魔法攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_SIRE_01_26",
+      "value": "火属性キラー+6%"
+    },
+    {
+      "key": "BUFF_SIRE_01_27",
+      "value": "火属性キラー+4%"
+    },
+    {
+      "key": "BUFF_SIRE_01_28",
+      "value": "雷耐性+5%"
+    },
+    {
+      "key": "BUFF_SIRE_01_29",
+      "value": "雷耐性+4%"
+    },
+    {
+      "key": "BUFF_SIRE_01_30",
+      "value": "召喚魔法Lv10"
+    },
+    {
+      "key": "BUFF_SIRE_01_31",
+      "value": "召喚魔法Lv15"
+    },
+    {
+      "key": "BUFF_SIRE_01_32",
+      "value": "弱体抵抗率+20"
+    },
+    {
+      "key": "BUFF_SIRE_01_33",
+      "value": "火属性キラー+10%"
+    },
+    {
+      "key": "BUFF_SIRE_01_34",
+      "value": "召喚魔法Lv20"
+    },
+    {
+      "key": "BUFF_SIRE_01_35",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_SIRE_01_36",
+      "value": "命中率+5"
+    },
+    {
+      "key": "BUFF_SIRE_01_37",
+      "value": "命中率+6"
+    },
+    {
+      "key": "BUFF_SIRE_01_38",
+      "value": "水属性アビリティ攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_SIRE_01_39",
+      "value": "水属性アビリティ攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_SIRE_01_40",
+      "value": "水属性アビリティ攻撃UP+6%"
+    },
+    {
+      "key": "BUFF_SIRE_01_41",
+      "value": "水属性アビリティ攻撃UP+10%"
     },
     {
       "key": "BUFF_SYDR_01",

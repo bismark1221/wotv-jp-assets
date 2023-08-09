@@ -39674,6 +39674,18 @@
       ]
     },
     {
+      "iname": "QM_CH_MM_181",
+      "type": 100,
+      "value1": 0,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_MM_BFI_4",
+          "num": 1
+        }
+      ]
+    },
+    {
       "iname": "QM_CH_MM_A01",
       "type": 102,
       "value1": 0,
@@ -44514,6 +44526,30 @@
       ]
     },
     {
+      "iname": "QM_CH_EM_385",
+      "type": 15,
+      "value1": "UN_LW_P_ALIA",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_ICE_4",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_CH_EM_386",
+      "type": 15,
+      "value1": "UN_LW_P_URAL",
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_JB_EM_SOIL_4",
+          "num": 10
+        }
+      ]
+    },
+    {
       "iname": "QM_EV_AW_121",
       "type": 100,
       "value1": 0,
@@ -49228,6 +49264,74 @@
         {
           "type": 0,
           "item": "IT_SB_AW_ICE",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_SIRE_01_01",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_SIRE_01_R2",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_SIRE_01_02",
+      "type": 105,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_SIRE_01_R2",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_SIRE_01_03",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_WATER",
+          "num": 10
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_SIRE_01_04",
+      "type": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_SIRE_01_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_SIRE_01_05",
+      "type": 105,
+      "value1": 3,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_SIRE_01_R3",
+          "num": 5
+        }
+      ]
+    },
+    {
+      "iname": "QM_SB_SIRE_01_06",
+      "type": 70,
+      "rewards": [
+        {
+          "type": 0,
+          "item": "IT_SB_AW_WATER",
           "num": 10
         }
       ]

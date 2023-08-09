@@ -1433,6 +1433,21 @@
           "iname": "BUFF_LW_BFM_M_3_2"
         }
       ]
+    },
+    {
+      "iname": "SKE_LB_LW_MRND_B",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 89,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LB_LW_MRND_B_2"
+        }
+      ]
     }
   ]
 }
