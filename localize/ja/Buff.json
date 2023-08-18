@@ -77,6 +77,14 @@
       "value": "増加解除"
     },
     {
+      "key": "BUFF_StrengthSumRateDown",
+      "value": "割合ダウン"
+    },
+    {
+      "key": "BUFF_ResistSumRateDown",
+      "value": "耐性割合ダウン"
+    },
+    {
       "key": "BUFFHEAL_Hp",
       "value": "HP回復"
     },
@@ -513,12 +521,20 @@
       "value": "物魔バリア破壊不可"
     },
     {
+      "key": "BUFF_CondReducePhyDmgArea",
+      "value": "攻撃範囲が広いほど物理被ダメージ軽減"
+    },
+    {
+      "key": "BUFF_CondReduceMagDmgArea",
+      "value": "攻撃範囲が広いほど魔法被ダメージ軽減"
+    },
+    {
       "key": "BUFF_OtherInitAp",
       "value": "初期AP"
     },
     {
       "key": "BUFF_OtherEffectRange",
-      "value": "効果射程"
+      "value": "射程"
     },
     {
       "key": "BUFF_OtherEffectScope",
@@ -1313,15 +1329,15 @@
       "value": "魔法攻撃時???キラー"
     },
     {
-      "key": "BUFF_KillerSpeciesReserve01",
+      "key": "BUFF_KillerSpeciesRaidBoss",
       "value": "レイドボスキラー"
     },
     {
-      "key": "BUFF_KillerSpeciesPReserve01",
+      "key": "BUFF_KillerSpeciesPRaidBoss",
       "value": "物理攻撃時レイドボスキラー"
     },
     {
-      "key": "BUFF_KillerSpeciesMReserve01",
+      "key": "BUFF_KillerSpeciesMRaidBoss",
       "value": "魔法攻撃時レイドボスキラー"
     },
     {
@@ -1397,7 +1413,7 @@
       "value": "???固定ダメージ"
     },
     {
-      "key": "BUFF_KillerSpeciesDamageReserve01",
+      "key": "BUFF_KillerSpeciesDamageRaidBoss",
       "value": "レイドボス固定ダメージ"
     },
     {
@@ -2333,7 +2349,7 @@
       "value": "???耐性"
     },
     {
-      "key": "BUFF_ResistSpeciesReserve01",
+      "key": "BUFF_ResistSpeciesRaidBoss",
       "value": "レイドボス耐性"
     },
     {

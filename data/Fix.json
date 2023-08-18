@@ -401,6 +401,36 @@
       "value": -80
     },
     {
+      "iname": "reduce_dmg_area_value_max",
+      "type": 0,
+      "value": 80
+    },
+    {
+      "iname": "reduce_dmg_area_value_min",
+      "type": 0,
+      "value": -80
+    },
+    {
+      "iname": "reduce_dmg_area_coefficient_a",
+      "type": 0,
+      "value": 5
+    },
+    {
+      "iname": "reduce_dmg_area_coefficient_b",
+      "type": 0,
+      "value": 4
+    },
+    {
+      "iname": "reduce_dmg_area_coefficient_c",
+      "type": 0,
+      "value": 10
+    },
+    {
+      "iname": "sum_rate_down_max",
+      "type": 0,
+      "value": 100
+    },
+    {
       "iname": "buf_spgain_max",
       "type": 0,
       "value": 200
@@ -2344,6 +2374,16 @@
       "iname": "guild_raid_infinite_hp_boss_display_hp",
       "type": 0,
       "value": 10000000
+    },
+    {
+      "iname": "battle_mapbuff_change_color_turn",
+      "type": 0,
+      "value": 2
+    },
+    {
+      "iname": "is_enable_royal_adddesc_for_limitedarena",
+      "type": 0,
+      "value": 1
     }
   ]
 }
