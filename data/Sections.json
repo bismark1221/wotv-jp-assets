@@ -1024,6 +1024,28 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_FF8_01_01",
+      "hurl": "ev_FF8_01",
+      "won_dst_sheet_name": "bgm_ff8_The_Winner"
+    },
+    {
+      "iname": "SE_EV_FF8_01_EX",
+      "hurl": "ev_FF8_ex_01",
+      "o_cond_q": [
+        "QE_EV_FF8_10"
+      ],
+      "won_dst_sheet_name": "bgm_ff8_The_Winner"
+    },
+    {
+      "iname": "SE_MU_FF8_01_EX",
+      "hurl": "ev_FF8_ex_01",
+      "won_dst_sheet_name": "bgm_ff8_The_Winner"
+    },
+    {
+      "iname": "SE_EV_BSTC_02",
+      "hurl": "ev_bstc_02"
+    },
+    {
       "iname": "SE_MU_ART_CRF_35",
       "hurl": "ev_arti_crft_35"
     },
