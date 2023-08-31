@@ -1487,6 +1487,51 @@
     {
       "iname": "SKE_FF8_MNTR_M_06",
       "HandlingType": 3
+    },
+    {
+      "iname": "SKE_LW_SOLL_M_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 83,
+          "calc": 4
+        },
+        {
+          "tar": 1,
+          "type": 95,
+          "calc": 4
+        },
+        {
+          "tar": 1,
+          "type": 101,
+          "calc": 4
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_SOLL_M_1",
+      "serialSkill": [
+        "SK_LW_SOLL_M_4"
+      ]
+    },
+    {
+      "iname": "SKE_LB_LW_SOLL",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 84,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LB_LW_SOLL_3"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_FF8_IRVN_M_3_AD",
+      "HandlingType": 3
     }
   ]
 }

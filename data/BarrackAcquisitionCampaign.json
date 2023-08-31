@@ -261,6 +261,59 @@
         }
       ],
       "time_rate": 50
+    },
+    {
+      "iname": "BAC_12",
+      "begin": "2023/09/01",
+      "end": "2023/09/15 9:59:59",
+      "targets": [
+        {
+          "unit_iname": "UN_LW_P_SLEN"
+        },
+        {
+          "unit_iname": "UN_LW_P_FINA_01"
+        },
+        {
+          "unit_iname": "UN_LW_P_IBRA"
+        },
+        {
+          "unit_iname": "UN_LW_P_REGN"
+        },
+        {
+          "unit_iname": "UN_LW_P_HYOO"
+        },
+        {
+          "unit_iname": "UN_LW_P_SOLL"
+        },
+        {
+          "unit_iname": "UN_LW_P_AILN"
+        },
+        {
+          "unit_iname": "UN_LW_P_MDNA"
+        },
+        {
+          "unit_iname": "UN_LW_P_AYKA"
+        },
+        {
+          "unit_iname": "UN_LW_P_RAIN"
+        },
+        {
+          "unit_iname": "UN_LW_P_LSWL"
+        },
+        {
+          "unit_iname": "UN_LW_P_SAKR"
+        },
+        {
+          "unit_iname": "UN_LW_P_DEAN"
+        },
+        {
+          "unit_iname": "UN_LW_P_CRLT"
+        },
+        {
+          "unit_iname": "UN_LW_P_FINA"
+        }
+      ],
+      "time_rate": 50
     }
   ]
 }

@@ -186,7 +186,7 @@
     },
     {
       "key": "BUFF_LB_LW_MONT_B_2_EN",
-      "value": "HP20%以下で回復"
+      "value": "HP50%以下で回復"
     },
     {
       "key": "BUFF_LW_EC_BNI_C_04B_2B",
@@ -453,6 +453,26 @@
       "value": "クリティカル時1ターン防御アップ"
     },
     {
+      "key": "BUFF_LW_GUN_017_2_1_B",
+      "value": "クリティカル時対象に3ターン攻撃ダウン"
+    },
+    {
+      "key": "BUFF_LW_GUN_017_2_2_B",
+      "value": "クリティカル時対象に3ターン攻撃ダウン"
+    },
+    {
+      "key": "BUFF_LW_GUN_017_2_3_B",
+      "value": "クリティカル時対象に3ターン攻撃ダウン"
+    },
+    {
+      "key": "BUFF_LW_GUN_017_2_4_B",
+      "value": "クリティカル時対象に3ターン攻撃ダウン"
+    },
+    {
+      "key": "BUFF_LW_GUN_017_2_5_B",
+      "value": "クリティカル時対象に3ターン攻撃ダウン"
+    },
+    {
       "key": "BUFF_LW_PLUS6_CRT_ATKMGK_UP_EN",
       "value": "クリティカル時3ターン攻撃・魔力アップ"
     },
@@ -495,6 +515,10 @@
     {
       "key": "BUFF_ARM_FF5_BATZ_1_2B",
       "value": "攻撃時ヘイスト解除"
+    },
+    {
+      "key": "BUFF_CLT_LW_SOLL_1_T_EN",
+      "value": "攻撃時物理攻撃時人キラーダウン付与"
     },
     {
       "key": "BUFF_GUN_LW_LATH_2_1_EN",
@@ -887,6 +911,10 @@
     {
       "key": "BUFF_GVG_043",
       "value": "水属性ユニットのHP・攻撃アップ"
+    },
+    {
+      "key": "BUFF_GVG_044",
+      "value": "火属性ユニットの魔力・範囲攻撃耐性アップ"
     },
     {
       "key": "BUFF_CLASSMATCH_001",
