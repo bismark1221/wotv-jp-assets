@@ -35969,6 +35969,136 @@
           "num": 1
         }
       ]
+    },
+    {
+      "iname": "LB_LIMIT_0202",
+      "type": 6,
+      "banner": "LoginBonus_PeriodBanner_0202",
+      "priority": 2,
+      "begin_at": "2023/09/15 10:30:00",
+      "end_at": "2023/09/22 14:59:59",
+      "at_first_already_login_ok": 1,
+      "bonuses": [
+        {
+          "point": 1,
+          "type": 3,
+          "num": 200
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 20
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_GU_FOOD_09",
+          "num": 3
+        },
+        {
+          "point": 2,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_US_EXP_04",
+          "num": 50
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_GU_FOOD_10",
+          "num": 3
+        },
+        {
+          "point": 3,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 3
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_US_G_PU_GNBC",
+          "num": 1
+        },
+        {
+          "point": 4,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 30
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_US_G_PU_GNBC",
+          "num": 1
+        },
+        {
+          "point": 5,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_KEY_LINK",
+          "num": 5
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_US_G_PU_GNBC",
+          "num": 1
+        },
+        {
+          "point": 6,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_US_G_PU_GNBC",
+          "num": 1
+        },
+        {
+          "point": 7,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_UN_RELV_UR",
+          "num": 20
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_US_G_PU_GNBC",
+          "num": 1
+        }
+      ]
     }
   ]
 }

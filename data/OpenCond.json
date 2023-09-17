@@ -907,6 +907,12 @@
       "value_s1": "UN_LW_P_SOLL"
     },
     {
+      "iname": "COND_HA_LW_GNBC",
+      "type": 1,
+      "value_i1": 1,
+      "value_s1": "UN_LW_P_GNBC"
+    },
+    {
       "iname": "COND_EV_DQT_02",
       "type": 1,
       "value_i1": 1,
@@ -2321,6 +2327,12 @@
       "type": 1,
       "value_i1": 40,
       "value_s1": "UN_LW_P_SOLL"
+    },
+    {
+      "iname": "COND_CH_GNBC",
+      "type": 1,
+      "value_i1": 40,
+      "value_s1": "UN_LW_P_GNBC"
     },
     {
       "iname": "COND_CH_LW_RART2",

@@ -1,18 +1,6 @@
 {
   "infos": [
     {
-      "key": "BUFF_WTH_HEAVYRAIN1",
-      "value": "天候効果( 豪雨： HP20%アップ 素早さ10%アップ  )"
-    },
-    {
-      "key": "BUFF_WTH_HEAVYRAIN2",
-      "value": "天候効果( 豪雨： 命中率20%ダウン )"
-    },
-    {
-      "key": "BUFF_WTH_HEAVYRAIN3",
-      "value": "天候効果( 豪雨： 器用さ20%ダウン 素早さ10%ダウン  )"
-    },
-    {
       "key": "BUFF_ARENA_00003",
       "value": "射程+1"
     },
@@ -175,6 +163,14 @@
     {
       "key": "BUFF_ARENA_00050",
       "value": "氷属性ユニットのHP・攻撃アップ"
+    },
+    {
+      "key": "BUFF_ARENA_00051",
+      "value": "水属性ユニットのHP・攻撃アップ"
+    },
+    {
+      "key": "BUFF_ARENA_00052",
+      "value": "メインジョブが槍を装備可能なユニットの精神アップ"
     },
     {
       "key": "BUFF_GVG_001",
@@ -433,6 +429,10 @@
       "value": "メインVCのCost制限190以下、サブVCのCost制限170以下、CTアップ/ダウン・クイック無効、リアクション阻止率+100"
     },
     {
+      "key": "BUFF_CLASSMATCH_030_1",
+      "value": "ユニットのCost制限260以下、メインVCのCost制限200以下、リアクション阻止率+100、バトル開始から2ターン範囲攻撃耐性+30"
+    },
+    {
       "key": "BUFF_FREEMATCH_004",
       "value": "クイック無効、CTアップ/ダウン無効、治癒力50%ダウン"
     },
@@ -511,6 +511,10 @@
     {
       "key": "BUFF_FREEMATCH_026_1",
       "value": "CTアップ/ダウン・クイック無効、リアクション阻止率+100"
+    },
+    {
+      "key": "BUFF_FREEMATCH_027_1",
+      "value": "リアクション阻止率+100、バトル開始から2ターン範囲攻撃耐性+30"
     },
     {
       "key": "BUFF_DRAFTMATCH_001",
@@ -605,6 +609,10 @@
       "value": "範囲攻撃耐性+30（フリーマッチルール）"
     },
     {
+      "key": "BUFF_FRIENDMATCH_105_1",
+      "value": "リアクション阻止率+100、バトル開始から2ターン範囲攻撃耐性+30（フリーマッチルール）"
+    },
+    {
       "key": "BUFF_01130310",
       "value": "モント・リオニスの強化"
     },
@@ -647,6 +655,10 @@
     {
       "key": "BUFF_LGGVG_MAP_001_1",
       "value": "土・氷属性ユニットのHP・魔力アップ"
+    },
+    {
+      "key": "BUFF_LGGVG_MAP_002_1",
+      "value": "火属性ユニットのHP・魔力アップ、水属性ユニットの攻撃・単体攻撃耐性アップ、メインジョブが剣（ナイトなど）を装備可能なユニットの攻撃・防御アップ"
     },
     {
       "key": "BUFF_MAPEFF_CHARMDEF",
@@ -739,6 +751,294 @@
     {
       "key": "BUFF_MAP_CMATCH_001",
       "value": "全ユニット、火属性ダメージ+20％、火属性耐性-20%"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_01",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_02",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_03",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_04",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_05",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MP_01",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MP_02",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MP_03",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MP_04",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MP_05",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AP_01",
+      "value": "バトル開始時の初期APを加算する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AP_02",
+      "value": "バトル開始時の初期APを加算する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AP_03",
+      "value": "バトル開始時の初期APを加算する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AP_04",
+      "value": "バトル開始時の初期APを加算する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AP_05",
+      "value": "バトル開始時の初期APを加算する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_01",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_02",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_03",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_04",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_05",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DF_01",
+      "value": "物理ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DF_02",
+      "value": "物理ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DF_03",
+      "value": "物理ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DF_04",
+      "value": "物理ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DF_05",
+      "value": "物理ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_01",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_02",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_03",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_04",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_05",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MD_01",
+      "value": "魔力ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MD_02",
+      "value": "魔力ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MD_03",
+      "value": "魔力ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MD_04",
+      "value": "魔力ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MD_05",
+      "value": "魔力ダメージを軽減する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_01",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_02",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_03",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_04",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_05",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_SD_01",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_SD_02",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_SD_03",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_SD_04",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_SD_05",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_01",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_02",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_03",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_04",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_05",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CR_01",
+      "value": "攻撃時のクリティカル発生率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CR_02",
+      "value": "攻撃時のクリティカル発生率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CR_03",
+      "value": "攻撃時のクリティカル発生率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CR_04",
+      "value": "攻撃時のクリティカル発生率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CR_05",
+      "value": "攻撃時のクリティカル発生率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_15_PER",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_20_PER",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_20_PER",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_20_PER",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_20_PER",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_SD_10_PER",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MP_20_PER",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AP_20_PER",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MV_1",
+      "value": "ユニットのMoveを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_ELME_ALL_10",
+      "value": "ユニットの属性攻撃耐性を強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_RA_1",
+      "value": "射程を強化する"
+    },
+    {
+      "key": "BUFF_UN_KL_FENE_20",
+      "value": "フェネス出身ユニットへ与えるダメージが上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AP_15",
+      "value": "バトル開始時の初期APを加算する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_BL_15",
+      "value": "ユニットの打撃攻撃を強化する"
+    },
+    {
+      "key": "BUFF_WTH_HEAVYRAIN1",
+      "value": "天候効果( 豪雨： HP20%アップ 素早さ10%アップ  )"
+    },
+    {
+      "key": "BUFF_WTH_HEAVYRAIN2",
+      "value": "天候効果( 豪雨： 命中率20%ダウン )"
+    },
+    {
+      "key": "BUFF_WTH_HEAVYRAIN3",
+      "value": "天候効果( 豪雨： 器用さ20%ダウン 素早さ10%ダウン  )"
     },
     {
       "key": "BUFF_IFRT_01",
@@ -11555,282 +11855,6 @@
     {
       "key": "BUFF_SHGN_03_41",
       "value": "装備したユニットのステータスアップ"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_HP_01",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_HP_02",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_HP_03",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_HP_04",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_HP_05",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MP_01",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MP_02",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MP_03",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MP_04",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MP_05",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AP_01",
-      "value": "バトル開始時の初期APを加算する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AP_02",
-      "value": "バトル開始時の初期APを加算する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AP_03",
-      "value": "バトル開始時の初期APを加算する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AP_04",
-      "value": "バトル開始時の初期APを加算する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AP_05",
-      "value": "バトル開始時の初期APを加算する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AT_01",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AT_02",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AT_03",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AT_04",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AT_05",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DF_01",
-      "value": "物理ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DF_02",
-      "value": "物理ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DF_03",
-      "value": "物理ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DF_04",
-      "value": "物理ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DF_05",
-      "value": "物理ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MA_01",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MA_02",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MA_03",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MA_04",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MA_05",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MD_01",
-      "value": "魔力ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MD_02",
-      "value": "魔力ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MD_03",
-      "value": "魔力ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MD_04",
-      "value": "魔力ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MD_05",
-      "value": "魔力ダメージを軽減する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DX_01",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DX_02",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DX_03",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DX_04",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DX_05",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_SD_01",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_SD_02",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_SD_03",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_SD_04",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_SD_05",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_LK_01",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_LK_02",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_LK_03",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_LK_04",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_LK_05",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_CR_01",
-      "value": "攻撃時のクリティカル発生率が上昇"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_CR_02",
-      "value": "攻撃時のクリティカル発生率が上昇"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_CR_03",
-      "value": "攻撃時のクリティカル発生率が上昇"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_CR_04",
-      "value": "攻撃時のクリティカル発生率が上昇"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_CR_05",
-      "value": "攻撃時のクリティカル発生率が上昇"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_HP_15_PER",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AT_20_PER",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MA_20_PER",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_DX_20_PER",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_LK_20_PER",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_SD_10_PER",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MP_20_PER",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AP_20_PER",
-      "value": "ユニットのステータスを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_MV_1",
-      "value": "ユニットのMoveを強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_ELME_ALL_10",
-      "value": "ユニットの属性攻撃耐性を強化する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_RA_1",
-      "value": "射程を強化する"
-    },
-    {
-      "key": "BUFF_UN_KL_FENE_20",
-      "value": "フェネス出身ユニットへ与えるダメージが上昇"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_AP_15",
-      "value": "バトル開始時の初期APを加算する"
-    },
-    {
-      "key": "BUFF_UN_BD_BUFF_BL_15",
-      "value": "ユニットの打撃攻撃を強化する"
     }
   ]
 }

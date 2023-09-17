@@ -529,6 +529,22 @@
       "value": "攻撃範囲が広いほど魔法被ダメージ軽減"
     },
     {
+      "key": "BUFF_CondCtUp",
+      "value": "CTアップ"
+    },
+    {
+      "key": "BUFF_CondCtDown",
+      "value": "CTダウン"
+    },
+    {
+      "key": "BUFF_CondAtkPhyDmgDown",
+      "value": "物理ダメージ低下"
+    },
+    {
+      "key": "BUFF_CondAtkMagDmgDown",
+      "value": "魔法ダメージ低下"
+    },
+    {
       "key": "BUFF_OtherInitAp",
       "value": "初期AP"
     },
@@ -1885,6 +1901,18 @@
       "value": "魔法攻撃時鋼の錬金術師FAキラー"
     },
     {
+      "key": "BUFF_KillerBirthReserve02",
+      "value": "灰王軍キラー"
+    },
+    {
+      "key": "BUFF_KillerBirthPReserve02",
+      "value": "物理攻撃時灰王軍キラー"
+    },
+    {
+      "key": "BUFF_KillerBirthMReserve02",
+      "value": "魔法攻撃時灰王軍キラー"
+    },
+    {
       "key": "BUFF_KillerBirthDamageUnknown",
       "value": "出身不明固定ダメージ"
     },
@@ -2039,6 +2067,10 @@
     {
       "key": "BUFF_KillerBirthDamageFMAlchemist",
       "value": "鋼の錬金術師FA固定ダメージ"
+    },
+    {
+      "key": "BUFF_KillerBirthDamageReserve02",
+      "value": "灰王軍固定ダメージ"
     },
     {
       "key": "BUFF_KillerUnitTagFloating",
@@ -2275,6 +2307,10 @@
     {
       "key": "BUFF_ResistBirthFMAlchemist",
       "value": "鋼の錬金術師FA耐性"
+    },
+    {
+      "key": "BUFF_ResistBirthReserve02",
+      "value": "灰王軍耐性"
     },
     {
       "key": "BUFF_ResistSpeciesHuman",

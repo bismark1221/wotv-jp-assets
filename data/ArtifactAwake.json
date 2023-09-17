@@ -12539,6 +12539,40 @@
       ]
     },
     {
+      "iname": "AF_LW_FIS_015_6",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_FIST,30",
+          "mat2": "IT_AF_MAT_SEED_01,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_FIST,50",
+          "mat2": "IT_AF_MAT_SEED_01,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_FIST,75",
+          "mat2": "IT_AF_MAT_SEED_01,40",
+          "mat3": "IT_AF_MAT_WATER_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_FIST,100",
+          "mat2": "IT_AF_MAT_SEED_01,50",
+          "mat3": "IT_AF_MAT_WATER_01,5"
+        }
+      ]
+    },
+    {
       "iname": "AF_LW_FIS_016",
       "awakes": [
         {
@@ -15544,6 +15578,210 @@
           "cost": 300000,
           "mat1": "IT_AF_AW_SPEAR,150",
           "mat2": "IT_NBLWPN_05_SSR,20"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_SPE_023",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_SPEAR,30",
+          "mat2": "IT_AF_MAT_SAND_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_SPEAR,50",
+          "mat2": "IT_AF_MAT_SAND_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_SPEAR,75",
+          "mat2": "IT_AF_MAT_SAND_03,40",
+          "mat3": "IT_AF_MAT_WATER_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_SPEAR,100",
+          "mat2": "IT_AF_MAT_SAND_03,50",
+          "mat3": "IT_AF_MAT_WATER_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_SPE_023_1",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_SPEAR,30",
+          "mat2": "IT_AF_MAT_SAND_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_SPEAR,50",
+          "mat2": "IT_AF_MAT_SAND_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_SPEAR,75",
+          "mat2": "IT_AF_MAT_SAND_03,40",
+          "mat3": "IT_AF_MAT_WATER_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_SPEAR,100",
+          "mat2": "IT_AF_MAT_SAND_03,50",
+          "mat3": "IT_AF_MAT_WATER_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_SPE_023_2",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_SPEAR,30",
+          "mat2": "IT_AF_MAT_SAND_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_SPEAR,50",
+          "mat2": "IT_AF_MAT_SAND_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_SPEAR,75",
+          "mat2": "IT_AF_MAT_SAND_03,40",
+          "mat3": "IT_AF_MAT_WATER_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_SPEAR,100",
+          "mat2": "IT_AF_MAT_SAND_03,50",
+          "mat3": "IT_AF_MAT_WATER_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_SPE_023_3",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_SPEAR,30",
+          "mat2": "IT_AF_MAT_SAND_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_SPEAR,50",
+          "mat2": "IT_AF_MAT_SAND_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_SPEAR,75",
+          "mat2": "IT_AF_MAT_SAND_03,40",
+          "mat3": "IT_AF_MAT_WATER_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_SPEAR,100",
+          "mat2": "IT_AF_MAT_SAND_03,50",
+          "mat3": "IT_AF_MAT_WATER_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_SPE_023_4",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_SPEAR,30",
+          "mat2": "IT_AF_MAT_SAND_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_SPEAR,50",
+          "mat2": "IT_AF_MAT_SAND_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_SPEAR,75",
+          "mat2": "IT_AF_MAT_SAND_03,40",
+          "mat3": "IT_AF_MAT_WATER_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_SPEAR,100",
+          "mat2": "IT_AF_MAT_SAND_03,50",
+          "mat3": "IT_AF_MAT_WATER_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_SPE_023_5",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_SPEAR,30",
+          "mat2": "IT_AF_MAT_SAND_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_SPEAR,50",
+          "mat2": "IT_AF_MAT_SAND_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_SPEAR,75",
+          "mat2": "IT_AF_MAT_SAND_03,40",
+          "mat3": "IT_AF_MAT_WATER_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_SPEAR,100",
+          "mat2": "IT_AF_MAT_SAND_03,50",
+          "mat3": "IT_AF_MAT_WATER_01,5"
         }
       ]
     },
@@ -20504,6 +20742,40 @@
     },
     {
       "iname": "AF_LW_BOW_017_5",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOW,30",
+          "mat2": "IT_AF_MAT_LIQUID_03,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOW,50",
+          "mat2": "IT_AF_MAT_LIQUID_03,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOW,75",
+          "mat2": "IT_AF_MAT_LIQUID_03,40",
+          "mat3": "IT_AF_MAT_WIND_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOW,100",
+          "mat2": "IT_AF_MAT_LIQUID_03,50",
+          "mat3": "IT_AF_MAT_WIND_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_BOW_017_6",
       "awakes": [
         {
           "lv": 10
@@ -32136,6 +32408,40 @@
     },
     {
       "iname": "AF_LW_BOK_007_5",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 60000,
+          "mat1": "IT_AF_AW_BOOK,30",
+          "mat2": "IT_AF_MAT_WING_01,20"
+        },
+        {
+          "lv": 30,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_BOOK,50",
+          "mat2": "IT_AF_MAT_WING_01,30"
+        },
+        {
+          "lv": 40,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_BOOK,75",
+          "mat2": "IT_AF_MAT_WING_01,40",
+          "mat3": "IT_AF_MAT_THUNDER_01,1"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_BOOK,100",
+          "mat2": "IT_AF_MAT_WING_01,50",
+          "mat3": "IT_AF_MAT_THUNDER_01,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_LW_BOK_007_6",
       "awakes": [
         {
           "lv": 10

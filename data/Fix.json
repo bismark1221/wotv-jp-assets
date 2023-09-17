@@ -426,6 +426,11 @@
       "value": 25
     },
     {
+      "iname": "max_rate_attacker_damage_down",
+      "type": 0,
+      "value": 80
+    },
+    {
       "iname": "sum_rate_down_max",
       "type": 0,
       "value": 100
@@ -2162,6 +2167,21 @@
     },
     {
       "iname": "multi_scoreattack_teamname_max_num",
+      "type": 0,
+      "value": 12
+    },
+    {
+      "iname": "multi_over_kill_standing_time",
+      "type": 0,
+      "value": 20
+    },
+    {
+      "iname": "multi_over_kill_warning_time",
+      "type": 0,
+      "value": 10
+    },
+    {
+      "iname": "multi_over_kill_teamname_max_num",
       "type": 0,
       "value": 12
     },
