@@ -6581,6 +6581,55 @@
       "visioncard_medal_num": 20
     },
     {
+      "iname": "VC_LW_ORTR",
+      "type": 0,
+      "icon": "LAPSOrtr",
+      "rare": 4,
+      "cost": 60,
+      "piece": "IT_VPI_LW_ORTR",
+      "piece_num": 25,
+      "db_num": 1,
+      "sell": 1000,
+      "sell_mdl": 100,
+      "en_cost": 2000,
+      "en_exp": 20000,
+      "card_buffs": [
+        {
+          "cnds_iname": "VLC_SWA_LAN_RDB",
+          "card_skill": "SK_VC_LW_ORTR_GS",
+          "add_card_skill_buff_awake": "SK_VC_LW_ORTR_GS_AW",
+          "add_card_skill_buff_lvmax": "SK_VC_LW_ORTR_GSMAX"
+        },
+        {
+          "cnds_iname": "VLC_SWA_LAN_RDB",
+          "card_skill": "SK_VC_LW_ORTR_GS_2",
+          "add_card_skill_buff_awake": "SK_VC_LW_ORTR_GS_AW_2",
+          "add_card_skill_buff_lvmax": "SK_VC_LW_ORTR_GSMAX_2"
+        }
+      ],
+      "self_buffs": [
+        {
+          "self_buff": "SK_VC_LW_ORTR_P",
+          "add_self_buff_awake": "SK_VC_LW_ORTR_PAW",
+          "add_self_buff_lvmax": "SK_VC_LW_ORTR_PMAX"
+        }
+      ],
+      "status": [
+        {
+          "hp": 41,
+          "atk": 39,
+          "mnd": 2
+        },
+        {
+          "hp": 322,
+          "atk": 152,
+          "mnd": 4
+        }
+      ],
+      "first_bonus_unit": "UN_LW_S_ORTR",
+      "visioncard_medal_num": 20
+    },
+    {
       "iname": "VC_LW_IGNT",
       "type": 0,
       "icon": "LAPSIgnt",
