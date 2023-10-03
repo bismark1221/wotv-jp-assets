@@ -314,6 +314,17 @@
         }
       ],
       "time_rate": 50
+    },
+    {
+      "iname": "BAC_13",
+      "begin": "2023/10/01",
+      "end": "2023/10/17 9:59:59",
+      "targets": [
+        {
+          "unit_iname": "UN_LW_P_ASTR_01"
+        }
+      ],
+      "time_rate": 50
     }
   ]
 }

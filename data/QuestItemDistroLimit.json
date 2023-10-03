@@ -55,7 +55,7 @@
       "iname": "IDL_Q006",
       "item_iname": "IT_JBEX_MM",
       "up_to": 1,
-      "target_quest_iname": "QE_EV_AW_H15_1,QE_EV_AW_H15_2,QE_EV_AW_H15_3,QE_EV_AW_H15_4,QE_EV_AW_H15_5,QE_EV_AW_H15_6,QE_EV_AW_H15_7,QE_EV_AW_H15_8,QE_EV_AW_H15_9",
+      "target_quest_iname": "QE_EV_AW_H15_1,QE_EV_AW_H15_2,QE_EV_AW_H15_3,QE_EV_AW_H15_4,QE_EV_AW_H15_5,QE_EV_AW_H15_6,QE_EV_AW_H15_7,QE_EV_AW_H15_8,QE_EV_AW_H15_9,QE_EV_AW_H15_10",
       "start_at": "2020/11/14 00:00:00",
       "end_at": "2121/12/31 23:59:59",
       "cycle_type": 2,
@@ -65,7 +65,7 @@
       "iname": "IDL_Q007",
       "item_iname": "IT_JB_MM_COMMON_5",
       "up_to": 3,
-      "target_quest_iname": "QE_EV_AW_H15_1,QE_EV_AW_H15_2,QE_EV_AW_H15_3,QE_EV_AW_H15_4,QE_EV_AW_H15_5,QE_EV_AW_H15_6,QE_EV_AW_H15_7,QE_EV_AW_H15_8,QE_EV_AW_H15_9",
+      "target_quest_iname": "QE_EV_AW_H15_1,QE_EV_AW_H15_2,QE_EV_AW_H15_3,QE_EV_AW_H15_4,QE_EV_AW_H15_5,QE_EV_AW_H15_6,QE_EV_AW_H15_7,QE_EV_AW_H15_8,QE_EV_AW_H15_9,QE_EV_AW_H15_10",
       "start_at": "2020/11/14 00:00:00",
       "end_at": "2121/12/31 23:59:59",
       "cycle_type": 2,
@@ -2062,6 +2062,22 @@
       "target_quest_iname": "QE_EV_SOLL_01",
       "start_at": "2023/9/1 0:00:00",
       "end_at": "2023/9/15 9:59:59"
+    },
+    {
+      "iname": "IDL_Q049",
+      "item_iname": "IT_UN_AW_THUNDER",
+      "up_to": 50,
+      "target_quest_iname": "QE_EV_ASTR_01_01",
+      "start_at": "2023/10/1 0:00:00",
+      "end_at": "2023/10/17 9:59:59"
+    },
+    {
+      "iname": "IDL_Q050",
+      "item_iname": "IT_PI_COM_THUNDER",
+      "up_to": 50,
+      "target_quest_iname": "QE_EV_ASTR_01_01",
+      "start_at": "2023/10/1 0:00:00",
+      "end_at": "2023/10/17 9:59:59"
     }
   ]
 }

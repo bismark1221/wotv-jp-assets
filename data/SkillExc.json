@@ -1537,6 +1537,28 @@
       "iname": "SKE_FF8_ACC_002_1",
       "reduce_dmg_dist_min": 3,
       "reduce_dmg_dist_max": 5
+    },
+    {
+      "iname": "SKE_LW_ASTR_01_S_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 113,
+          "calc": 4
+        },
+        {
+          "type": 81,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_ASTR_01_S_2_3"
+        },
+        {
+          "iname": "BUFF_LW_ASTR_01_S_2_4"
+        }
+      ]
     }
   ]
 }
