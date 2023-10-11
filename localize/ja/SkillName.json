@@ -2389,6 +2389,10 @@
       "value": "ルナティックボイス"
     },
     {
+      "key": "SK_SIRE_M_05",
+      "value": "ルナティックボイス・改"
+    },
+    {
       "key": "SK_SIRE_M_01_RA",
       "value": "ウォータ"
     },
@@ -3945,6 +3949,30 @@
       "value": "兄カウンター"
     },
     {
+      "key": "SK_TDDG_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_TDDG_M_01",
+      "value": "魔雷球"
+    },
+    {
+      "key": "SK_TDDG_M_02",
+      "value": "雷竜の咆哮"
+    },
+    {
+      "key": "SK_TDDG_M_03",
+      "value": "封反の雷"
+    },
+    {
+      "key": "SK_TDDG_M_04",
+      "value": "ライトニングキャノン"
+    },
+    {
+      "key": "SK_TDDG_R_01",
+      "value": "反痺爪"
+    },
+    {
       "key": "SK_GBLN_ATK",
       "value": "通常攻撃"
     },
@@ -4162,6 +4190,26 @@
     },
     {
       "key": "SK_ORTR_M_05",
+      "value": "アワアワにしちゃるけん！"
+    },
+    {
+      "key": "SK_ORTR_M_01_R",
+      "value": "オルトロスの体質が変化した"
+    },
+    {
+      "key": "SK_ORTR_M_02_R",
+      "value": "タコじるしのすみ"
+    },
+    {
+      "key": "SK_ORTR_M_03_R",
+      "value": "たこあし"
+    },
+    {
+      "key": "SK_ORTR_M_04_R",
+      "value": "たこプレス"
+    },
+    {
+      "key": "SK_ORTR_M_05_R",
       "value": "アワアワにしちゃるけん！"
     },
     {
@@ -4435,6 +4483,10 @@
     {
       "key": "SK_SMN_ORTR",
       "value": "アワアワにしちゃるけん！"
+    },
+    {
+      "key": "SK_SMN_TDDG",
+      "value": "ライトニングキャノン"
     },
     {
       "key": "SK_SMN_IGNT",
@@ -14573,6 +14625,10 @@
       "value": "精霊憑依"
     },
     {
+      "key": "SK_LW_IBRA_M_3_B",
+      "value": "精霊憑依"
+    },
+    {
       "key": "SK_LW_IBRA_S_1",
       "value": "かんざし投擲"
     },
@@ -14618,6 +14674,10 @@
     },
     {
       "key": "SK_LW_EC_IBRA_C_02B",
+      "value": "夜の帳"
+    },
+    {
+      "key": "SK_LW_EC_IBRA_C_02B_B",
       "value": "夜の帳"
     },
     {
@@ -18041,6 +18101,26 @@
       "value": "凍絶落氷"
     },
     {
+      "key": "SK_LB_LW_RYER_01_B",
+      "value": "あにまるパンプキン"
+    },
+    {
+      "key": "SK_LB_LW_RIRY_01_B",
+      "value": "這い出る恐怖"
+    },
+    {
+      "key": "SK_LB_LW_FDRC_01_B",
+      "value": "カービング・カーニバル"
+    },
+    {
+      "key": "SK_LB_LW_FDRC_01_B_EN",
+      "value": "HP50%以下でHP回復"
+    },
+    {
+      "key": "SK_LB_LW_LUCA_01_B",
+      "value": "ミスティックドレイン"
+    },
+    {
       "key": "SK_LB_LW_MONT_B_CH",
       "value": "デスティニークロス強化"
     },
@@ -18123,6 +18203,22 @@
     {
       "key": "SK_LB_LW_BELS_B_CH",
       "value": "凍絶落氷強化"
+    },
+    {
+      "key": "SK_LB_LW_RYER_01_B_CH",
+      "value": "あにまるパンプキン強化"
+    },
+    {
+      "key": "SK_LB_LW_RIRY_01_B_CH",
+      "value": "這い出る恐怖強化"
+    },
+    {
+      "key": "SK_LB_LW_FDRC_01_B_CH",
+      "value": "カービング・カーニバル強化"
+    },
+    {
+      "key": "SK_LB_LW_LUCA_01_B_CH",
+      "value": "ミスティックドレイン強化"
     },
     {
       "key": "SK_LW_EC_MONT_A_01",
@@ -22017,11 +22113,19 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_IBRA_2",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_MA_LW_PRNE",
       "value": "マスターアビリティ"
     },
     {
       "key": "SK_MA_LW_LUCA_01",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_LUCA_01_2",
       "value": "マスターアビリティ"
     },
     {
@@ -23699,6 +23803,42 @@
     {
       "key": "SK_UES_LW_ASTR_01",
       "value": "洸雷のアルストリア夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_UES_LW_RIRY_01",
+      "value": "ライリュウ（ハロウィン）夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_MKN_A_01B",
+      "value": "破魔障剣"
+    },
+    {
+      "key": "SK_UES_LW_RYER_01",
+      "value": "リレルリラ（ハロウィン）夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_CAL_M_3_RYER_01",
+      "value": "ハイト3ケアルラ"
+    },
+    {
+      "key": "SK_LW_CAL_M_3_RYER_01B",
+      "value": "ハイト2ケアルラ"
+    },
+    {
+      "key": "SK_UES_LW_FDRC_01",
+      "value": "フェデリカ（ハロウィン）夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_RAB_A_01B",
+      "value": "レジストステップ"
+    },
+    {
+      "key": "SK_UES_LW_LUCA_01",
+      "value": "ル・シア（ハロウィン）夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_LW_EC_MHA_C_01C",
+      "value": "ハイエンドアクセル"
     },
     {
       "key": "SK_LW_SLASH_1",
@@ -27219,6 +27359,26 @@
     {
       "key": "SK_LW_BSW_022_5",
       "value": "福音の大剣専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ACC_112_1",
+      "value": "斬鋼の籠手"
+    },
+    {
+      "key": "SK_LW_ACC_112_2",
+      "value": "斬鋼の籠手"
+    },
+    {
+      "key": "SK_LW_ACC_112_3",
+      "value": "斬鋼の籠手"
+    },
+    {
+      "key": "SK_LW_ACC_112_4",
+      "value": "斬鋼の籠手"
+    },
+    {
+      "key": "SK_LW_ACC_112_5",
+      "value": "斬鋼の籠手"
     },
     {
       "key": "SK_LW_PLUS6_1_1",

@@ -1036,6 +1036,13 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_VC_STRN_01",
+      "hurl": "ev_vc_strn_01",
+      "open_cond": [
+        "COND_VC_LW_STRN"
+      ]
+    },
+    {
       "iname": "SE_EV_AEX_030101",
       "hurl": "ev_ast_ex_0301"
     },

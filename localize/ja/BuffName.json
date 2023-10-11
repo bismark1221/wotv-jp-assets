@@ -661,6 +661,10 @@
       "value": "水・氷属性ユニットの攻撃アップ、単体攻撃耐性アップ"
     },
     {
+      "key": "BUFF_LGVG_MAP_010_1",
+      "value": "土属性ユニットの範囲攻撃耐性アップ、雷属性ユニットの精神アップ、メインジョブが斧・大剣を装備可能なユニットの攻撃アップ"
+    },
+    {
       "key": "BUFF_LGGVG_MAP_001_1",
       "value": "土・氷属性ユニットのHP・魔力アップ"
     },
@@ -4435,6 +4439,10 @@
     {
       "key": "BUFF_FF5_GLMS_M_01_2_EN",
       "value": "攻撃時3ターン治癒力ダウン"
+    },
+    {
+      "key": "BUFF_TDDG_M_02_1_B",
+      "value": "クリティカル時1ターンスタン効果付与"
     },
     {
       "key": "BUFF_BTL_CRI_AP_RECOVREY_B",
@@ -11333,6 +11341,170 @@
       "value": "攻撃UP+8%"
     },
     {
+      "key": "BUFF_TDDG_01",
+      "value": "命中率+3"
+    },
+    {
+      "key": "BUFF_TDDG_02",
+      "value": "リアクション阻止率+6"
+    },
+    {
+      "key": "BUFF_TDDG_03",
+      "value": "クリティカル発生率+3"
+    },
+    {
+      "key": "BUFF_TDDG_04",
+      "value": "水属性キラー+2%"
+    },
+    {
+      "key": "BUFF_TDDG_05",
+      "value": "攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_TDDG_06",
+      "value": "召喚魔法Lv2"
+    },
+    {
+      "key": "BUFF_TDDG_07",
+      "value": "召喚魔法Lv4"
+    },
+    {
+      "key": "BUFF_TDDG_08",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_TDDG_09",
+      "value": "魔法耐性+3%"
+    },
+    {
+      "key": "BUFF_TDDG_10",
+      "value": "魔法耐性+3%"
+    },
+    {
+      "key": "BUFF_TDDG_11",
+      "value": "リアクション阻止率+8"
+    },
+    {
+      "key": "BUFF_TDDG_12",
+      "value": "クリティカル発生率+4"
+    },
+    {
+      "key": "BUFF_TDDG_13",
+      "value": "斬撃攻撃UP+3%"
+    },
+    {
+      "key": "BUFF_TDDG_14",
+      "value": "斬撃攻撃UP+3%"
+    },
+    {
+      "key": "BUFF_TDDG_15",
+      "value": "水属性キラー+3%"
+    },
+    {
+      "key": "BUFF_TDDG_16",
+      "value": "攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_TDDG_17",
+      "value": "土耐性+3%"
+    },
+    {
+      "key": "BUFF_TDDG_18",
+      "value": "土耐性+3%"
+    },
+    {
+      "key": "BUFF_TDDG_19",
+      "value": "召喚魔法Lv7"
+    },
+    {
+      "key": "BUFF_TDDG_20",
+      "value": "魔法耐性+5%"
+    },
+    {
+      "key": "BUFF_TDDG_21",
+      "value": "魔法耐性+4%"
+    },
+    {
+      "key": "BUFF_TDDG_22",
+      "value": "リアクション阻止率+9"
+    },
+    {
+      "key": "BUFF_TDDG_23",
+      "value": "リアクション阻止率+12"
+    },
+    {
+      "key": "BUFF_TDDG_24",
+      "value": "斬撃攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_TDDG_25",
+      "value": "斬撃攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_TDDG_26",
+      "value": "水属性キラー+6%"
+    },
+    {
+      "key": "BUFF_TDDG_27",
+      "value": "水属性キラー+4%"
+    },
+    {
+      "key": "BUFF_TDDG_28",
+      "value": "土耐性+5%"
+    },
+    {
+      "key": "BUFF_TDDG_29",
+      "value": "土耐性+4%"
+    },
+    {
+      "key": "BUFF_TDDG_30",
+      "value": "召喚魔法Lv10"
+    },
+    {
+      "key": "BUFF_TDDG_31",
+      "value": "召喚魔法Lv15"
+    },
+    {
+      "key": "BUFF_TDDG_32",
+      "value": "魔法被ダメージ軽減+10%"
+    },
+    {
+      "key": "BUFF_TDDG_33",
+      "value": "水属性キラー+10%"
+    },
+    {
+      "key": "BUFF_TDDG_34",
+      "value": "召喚魔法Lv20"
+    },
+    {
+      "key": "BUFF_TDDG_35",
+      "value": "クリティカルダメージ+4%"
+    },
+    {
+      "key": "BUFF_TDDG_36",
+      "value": "クリティカルダメージ+5%"
+    },
+    {
+      "key": "BUFF_TDDG_37",
+      "value": "クリティカルダメージ+6%"
+    },
+    {
+      "key": "BUFF_TDDG_38",
+      "value": "雷属性アビリティ攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_TDDG_39",
+      "value": "雷属性アビリティ攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_TDDG_40",
+      "value": "雷属性アビリティ攻撃UP+6%"
+    },
+    {
+      "key": "BUFF_TDDG_41",
+      "value": "雷属性アビリティ攻撃UP+10%"
+    },
+    {
       "key": "BUFF_SYDR_01",
       "value": "命中率+3"
     },
@@ -15867,6 +16039,46 @@
     {
       "key": "BUFF_LW_GUN_017_2_5_B",
       "value": "クリティカル時対象に3ターン攻撃ダウン"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_1_1_EN",
+      "value": "攻撃前に斬撃攻撃耐性貫通率アップ(+2)"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_1_2_EN",
+      "value": "攻撃前に斬撃攻撃耐性貫通率アップ(+3)"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_1_3_EN",
+      "value": "攻撃前に斬撃攻撃耐性貫通率アップ(+5)"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_1_4_EN",
+      "value": "攻撃前に斬撃攻撃耐性貫通率アップ(+10)"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_1_5_EN",
+      "value": "攻撃前に斬撃攻撃耐性貫通率アップ(+20)"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_2_1_EN",
+      "value": "攻撃時対象に3ターン治癒力ダウン"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_2_2_EN",
+      "value": "攻撃時対象に3ターン治癒力ダウン"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_2_3_EN",
+      "value": "攻撃時対象に3ターン治癒力ダウン"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_2_4_EN",
+      "value": "攻撃時対象に3ターン治癒力ダウン"
+    },
+    {
+      "key": "BUFF_LW_ACC_112_2_5_EN",
+      "value": "攻撃時対象に3ターン治癒力ダウン"
     },
     {
       "key": "BUFF_LW_PLUS6_CRT_ATKMGK_UP_EN",
