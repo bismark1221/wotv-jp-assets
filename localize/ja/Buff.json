@@ -510,15 +510,15 @@
     },
     {
       "key": "BUFF_CondUnBreakablePhyBarrier",
-      "value": "物理バリア破壊不可"
+      "value": "物理バリア破壊封印"
     },
     {
       "key": "BUFF_CondUnBreakableMagBarrier",
-      "value": "魔法バリア破壊不可"
+      "value": "魔法バリア破壊封印"
     },
     {
       "key": "BUFF_CondUnBreakableAllBarrier",
-      "value": "物魔バリア破壊不可"
+      "value": "物魔バリア破壊封印"
     },
     {
       "key": "BUFF_CondReducePhyDmgArea",
@@ -543,6 +543,42 @@
     {
       "key": "BUFF_CondAtkMagDmgDown",
       "value": "魔法ダメージ低下"
+    },
+    {
+      "key": "BUFF_CondUnableAllDebuff",
+      "value": "デバフ封印"
+    },
+    {
+      "key": "BUFF_CondReleaseUnableAllStrnRes",
+      "value": "全強化解除封印"
+    },
+    {
+      "key": "BUFF_CondReleaseUnableGuts",
+      "value": "ガッツ解除封印"
+    },
+    {
+      "key": "BUFF_CondReleaseUnableReraise",
+      "value": "リレイズ解除封印"
+    },
+    {
+      "key": "BUFF_CondReleaseUnableProtect",
+      "value": "プロテス解除封印"
+    },
+    {
+      "key": "BUFF_CondReleaseUnableShell",
+      "value": "シェル解除封印"
+    },
+    {
+      "key": "BUFF_CondReleaseUnableHaste",
+      "value": "ヘイスト解除封印"
+    },
+    {
+      "key": "BUFF_CondReleaseUnablePhyDmgUp",
+      "value": "物理ダメージ上昇解除封印"
+    },
+    {
+      "key": "BUFF_CondReleaseUnableMagDmgUp",
+      "value": "魔法ダメージ上昇解除封印"
     },
     {
       "key": "BUFF_OtherInitAp",
@@ -991,6 +1027,10 @@
     {
       "key": "BUFF_OtherReduceMagDmgDist",
       "value": "魔法被ダメージ"
+    },
+    {
+      "key": "BUFF_OtherCriDmgResist",
+      "value": "クリティカルダメージ耐性"
     },
     {
       "key": "BUFF_UnitTagFloating",
