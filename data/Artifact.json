@@ -19303,6 +19303,63 @@
       ]
     },
     {
+      "iname": "AF_LW_BSW_019",
+      "asset": "LAPSwpn_bsw_019",
+      "type": 0,
+      "cat": [
+        3
+      ],
+      "rare": 4,
+      "cap": 1,
+      "sell": 0,
+      "hnum": 10,
+      "equip": "AEC_BSWORD",
+      "status": [
+        {
+          "hp": 2,
+          "atk": 48,
+          "mag": 23,
+          "crt": 1
+        },
+        {
+          "hp": 43,
+          "atk": 266,
+          "mag": 302,
+          "crt": 20
+        }
+      ],
+      "randr": [
+        {
+          "hp": 46,
+          "atk": 52,
+          "mag": 52,
+          "crt": 16
+        }
+      ],
+      "randa": [
+        {
+          "hp": 1,
+          "atk": 6,
+          "mag": 5,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_BSW_019",
+      "skl2": [
+        "SK_LW_BSW_019_2"
+      ],
+      "skl3": [
+        "SK_LW_BSW_019_3"
+      ],
+      "skl4": [
+        "SK_LW_BSW_019_4"
+      ],
+      "skl5": [
+        "SK_LW_BSW_019_5"
+      ],
+      "not_disassembly_flag": 1
+    },
+    {
       "iname": "AF_LW_KAT_000",
       "asset": "LAPSwpn_kat_000",
       "type": 0,
@@ -49490,6 +49547,63 @@
         "SK_LW_GUN_017_5",
         "SK_LW_SHOOT_5_SSR"
       ]
+    },
+    {
+      "iname": "AF_LW_GUN_015",
+      "asset": "LAPSwpn_gun_015",
+      "type": 0,
+      "cat": [
+        14
+      ],
+      "rare": 4,
+      "cap": 1,
+      "sell": 0,
+      "hnum": 10,
+      "equip": "AEC_GUN",
+      "status": [
+        {
+          "hp": 1,
+          "atk": 43,
+          "mag": 43,
+          "crt": 3
+        },
+        {
+          "hp": 26,
+          "atk": 243,
+          "mag": 243,
+          "crt": 16
+        }
+      ],
+      "randr": [
+        {
+          "hp": 46,
+          "atk": 52,
+          "mag": 52,
+          "crt": 16
+        }
+      ],
+      "randa": [
+        {
+          "hp": 1,
+          "atk": 4,
+          "mag": 4,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_GUN_015",
+      "skl2": [
+        "SK_LW_GUN_015_2"
+      ],
+      "skl3": [
+        "SK_LW_GUN_015_3"
+      ],
+      "skl4": [
+        "SK_LW_GUN_015_4"
+      ],
+      "skl5": [
+        "SK_LW_GUN_015_5"
+      ],
+      "not_disassembly_flag": 1
     },
     {
       "iname": "AF_LW_ROD_000",

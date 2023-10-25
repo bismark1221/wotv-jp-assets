@@ -22221,6 +22221,18 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_NBLWPN_08_SSR",
+      "type": 24,
+      "rare": 3,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_AF_MAT_FIRE_01",
       "type": 24,
       "rare": 1,
@@ -28645,6 +28657,17 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_EC_SUMMON04_10V_C",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_09",
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_EC_SUMMON_HALL_01",
       "type": 16,
       "rare": 0,
@@ -29122,6 +29145,17 @@
     },
     {
       "iname": "IT_EC_SUMMON_FES2_09",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_FES2_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_SUMMON_FES2_10",
       "type": 16,
       "rare": 0,
       "ac": 9999,
@@ -36656,6 +36690,17 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_US_SE_VPI_93",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_US_SE_PI_01",
       "type": 10,
       "rare": 4,
@@ -42607,6 +42652,17 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_US_SE_LBC_COM18",
+      "type": 10,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 500,
+      "icon": "IT_US_SE_ITEM_TICKET",
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_US_G_U_SSR_UR_02",
       "type": 10,
       "rare": 3,
@@ -44466,6 +44522,19 @@
     },
     {
       "iname": "IT_VPI_LW_HALL4",
+      "type": 36,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_VISIONCARD_COM"
+    },
+    {
+      "iname": "IT_VPI_LW_ORDR2",
       "type": 36,
       "rare": 4,
       "steal": 0,

@@ -453,7 +453,15 @@
       "value": "つきあげる"
     },
     {
+      "key": "SK_BHMT_M_01_RP1",
+      "value": "つきあげる"
+    },
+    {
       "key": "SK_BHMT_M_02",
+      "value": "あばれまわる"
+    },
+    {
+      "key": "SK_BHMT_M_02_RP1",
       "value": "あばれまわる"
     },
     {
@@ -463,6 +471,10 @@
     {
       "key": "SK_BHMT_M_03_SIREN",
       "value": "しゃくりあげ"
+    },
+    {
+      "key": "SK_BHMT_M_03_RP1",
+      "value": "カチあげ"
     },
     {
       "key": "SK_BHMT_ATK_01",
@@ -526,6 +538,10 @@
     },
     {
       "key": "SK_ARMN_M_01_BTL",
+      "value": "にらみ"
+    },
+    {
+      "key": "SK_ARMN_M_01_RP1",
       "value": "にらみ"
     },
     {
@@ -593,11 +609,19 @@
       "value": "大旋風"
     },
     {
+      "key": "SK_ZUUU_M_01_RP1",
+      "value": "大旋風"
+    },
+    {
       "key": "SK_ZUUU_M_02",
       "value": "つっつき"
     },
     {
       "key": "SK_ZUUU_M_03",
+      "value": "ブレスウィング"
+    },
+    {
+      "key": "SK_ZUUU_M_03_RP1",
       "value": "ブレスウィング"
     },
     {
@@ -5865,12 +5889,20 @@
       "value": "全攻撃タイプ耐性弱体耐性1-100アップ"
     },
     {
+      "key": "SK_BTL_RESWK_1_100_U",
+      "value": "弱体抵抗率1-100アップ"
+    },
+    {
       "key": "SK_BTL_RES_FE_1_100_U",
       "value": "フェネス耐性1-100アップ"
     },
     {
       "key": "SK_BTL_RES_ELECHAIN_1_100_U",
       "value": "エレメントチェイン耐性1-100アップ"
+    },
+    {
+      "key": "SK_BTL_RES_TYPCHAIN_1_100_D",
+      "value": "▼タイプチェイン耐性1-100ダウン"
     },
     {
       "key": "SK_BTL_REACTSTP_1_100_U",
@@ -5927,6 +5959,14 @@
     {
       "key": "SK_BTL_HEAL_CT_01_EN",
       "value": "HP70%以下でCTアップ(大)(1回)"
+    },
+    {
+      "key": "SK_BTL_EMEC",
+      "value": "自身が掛けた強化・弱体の効果ターン+1"
+    },
+    {
+      "key": "SK_BTL_LEVT",
+      "value": "常時レビテト状態"
     },
     {
       "key": "SK_BTL_JOB_THI_1_15_U",
@@ -17361,16 +17401,8 @@
       "value": "堅忍不抜"
     },
     {
-      "key": "SK_LB_LW_ENBT_B",
-      "value": "堅忍不抜改"
-    },
-    {
       "key": "SK_LB_LW_FDRC",
       "value": "蝶舞蜂刺"
-    },
-    {
-      "key": "SK_LB_LW_FDRC_B",
-      "value": "蝶舞蜂刺改"
     },
     {
       "key": "SK_LB_LW_MRND",
@@ -18157,6 +18189,18 @@
       "value": "ミスティックドレイン"
     },
     {
+      "key": "SK_LB_LW_ENBT_B",
+      "value": "堅忍不抜"
+    },
+    {
+      "key": "SK_LB_LW_FDRC_B",
+      "value": "蝶舞蜂刺"
+    },
+    {
+      "key": "SK_LB_LW_IRDL_B",
+      "value": "イルディラの定理"
+    },
+    {
       "key": "SK_LB_LW_MONT_B_CH",
       "value": "デスティニークロス強化"
     },
@@ -18255,6 +18299,18 @@
     {
       "key": "SK_LB_LW_LUCA_01_B_CH",
       "value": "ミスティックドレイン強化"
+    },
+    {
+      "key": "SK_LB_LW_ENBT_B_CH",
+      "value": "堅忍不抜強化"
+    },
+    {
+      "key": "SK_LB_LW_FDRC_B_CH",
+      "value": "蝶舞蜂刺強化"
+    },
+    {
+      "key": "SK_LB_LW_IRDL_B_CH",
+      "value": "イルディラの定理強化"
     },
     {
       "key": "SK_LW_EC_MONT_A_01",
@@ -27467,6 +27523,70 @@
     {
       "key": "SK_LW_AXE_016_5",
       "value": "ブラッディラブリュス専用パッシブ"
+    },
+    {
+      "key": "SK_LW_BSW_019_2",
+      "value": "セイブザクイーン専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_BSW_019_3",
+      "value": "セイブザクイーン専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_BSW_019_4",
+      "value": "セイブザクイーン専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_BSW_019_5",
+      "value": "セイブザクイーン専用パッシブ(★5"
+    },
+    {
+      "key": "SK_LW_GUN_015_2",
+      "value": "デスペナルティ専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_GUN_015_2_1_AD",
+      "value": "敵を戦闘不能にすると3ターン物理ダメージ上昇(4%)({0}回)"
+    },
+    {
+      "key": "SK_LW_GUN_015_2_1_AD2",
+      "value": "敵を戦闘不能にすると3ターン魔法ダメージ上昇(4%)({0}回)"
+    },
+    {
+      "key": "SK_LW_GUN_015_3",
+      "value": "デスペナルティ専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_GUN_015_3_1_AD",
+      "value": "敵を戦闘不能にすると3ターン物理ダメージ上昇(8%)({0}回)"
+    },
+    {
+      "key": "SK_LW_GUN_015_3_1_AD2",
+      "value": "敵を戦闘不能にすると3ターン魔法ダメージ上昇(8%)({0}回)"
+    },
+    {
+      "key": "SK_LW_GUN_015_4",
+      "value": "デスペナルティ専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_GUN_015_4_1_AD",
+      "value": "敵を戦闘不能にすると3ターン物理ダメージ上昇(12%)({0}回)"
+    },
+    {
+      "key": "SK_LW_GUN_015_4_1_AD2",
+      "value": "敵を戦闘不能にすると3ターン魔法ダメージ上昇(12%)({0}回)"
+    },
+    {
+      "key": "SK_LW_GUN_015_5",
+      "value": "デスペナルティ専用パッシブ(★5"
+    },
+    {
+      "key": "SK_LW_GUN_015_5_1_AD",
+      "value": "敵を戦闘不能にすると3ターン物理ダメージ上昇(20%)({0}回)"
+    },
+    {
+      "key": "SK_LW_GUN_015_5_1_AD2",
+      "value": "敵を戦闘不能にすると3ターン魔法ダメージ上昇(20%)({0}回)"
     },
     {
       "key": "SK_LW_PLUS6_1_1",

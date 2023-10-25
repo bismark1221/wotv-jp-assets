@@ -1174,6 +1174,21 @@
       "desc_unit_skip": "UN_LW_P_LCIO",
       "desc_emo_skip": 0,
       "tips": 0
+    },
+    {
+      "iname": "ClearedSeveralWave",
+      "act": "WAVEQUEST",
+      "trg": 20,
+      "value1": 8,
+      "exemption": 2,
+      "exemption_guidance": "NewWaveAvailable",
+      "tuto": 65,
+      "desc_unit": "UN_LW_TU_ERKA",
+      "desc_emo": 1,
+      "skip": 0,
+      "desc_unit_skip": "UN_LW_TU_ERKA",
+      "desc_emo_skip": 0,
+      "tips": 0
     }
   ]
 }
