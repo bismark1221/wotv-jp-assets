@@ -484,6 +484,8 @@
         "QE_EV_FF5_02",
         "QE_EV_FF8_01",
         "QE_EV_FF8_02",
+        "QE_EV_FF9_01",
+        "QE_EV_FF9_02",
         "QE_EV_22_01",
         "QE_EV_22_02",
         "QE_EV_20_01",
@@ -1260,6 +1262,10 @@
         "QE_EV_FF8_04",
         "QE_EV_FF8_05",
         "QE_EV_FF8_06",
+        "QE_EV_FF9_03",
+        "QE_EV_FF9_04",
+        "QE_EV_FF9_05",
+        "QE_EV_FF9_06",
         "QE_EV_22_03",
         "QE_EV_22_04",
         "QE_EV_22_05",
@@ -2158,6 +2164,10 @@
         "QE_EV_FF8_08",
         "QE_EV_FF8_09",
         "QE_EV_FF8_10",
+        "QE_EV_FF9_07",
+        "QE_EV_FF9_08",
+        "QE_EV_FF9_09",
+        "QE_EV_FF9_10",
         "QE_EV_22_07",
         "QE_EV_22_08",
         "QE_EV_22_09",
@@ -5775,6 +5785,7 @@
         "QE_EV_RESL_01",
         "QE_EV_FF6_02",
         "QE_EV_P5R_01",
+        "QE_EV_FF9_01",
         "QE_EV_15_01",
         "QE_EV_03_02"
       ]
@@ -5882,6 +5893,8 @@
         "QE_EV_FF6_06",
         "QE_EV_P5R_03",
         "QE_EV_P5R_05",
+        "QE_EV_FF9_03",
+        "QE_EV_FF9_05",
         "QE_EV_15_03",
         "QE_EV_15_05",
         "QE_EV_03_04",
@@ -6002,6 +6015,8 @@
         "QE_EV_FF6_10",
         "QE_EV_P5R_07",
         "QE_EV_P5R_09",
+        "QE_EV_FF9_07",
+        "QE_EV_FF9_09",
         "QE_EV_15_07",
         "QE_EV_15_09",
         "QE_EV_03_08",
@@ -8076,6 +8091,7 @@
         "QE_EV_SDLE_01",
         "QE_EV_MACR_02_01",
         "QE_EV_RUFF_01",
+        "QE_EV_FF9_02",
         "QE_EV_18_01",
         "QE_EV_16_02",
         "QE_EV_CWEL_01",
@@ -8179,6 +8195,8 @@
         "QE_EV_SDLE_01",
         "QE_EV_MACR_02_01",
         "QE_EV_RUFF_01",
+        "QE_EV_FF9_04",
+        "QE_EV_FF9_06",
         "QE_EV_18_03",
         "QE_EV_18_05",
         "QE_EV_16_04",
@@ -8290,6 +8308,8 @@
         "QE_EV_SDLE_02",
         "QE_EV_MACR_02_02",
         "QE_EV_RUFF_02",
+        "QE_EV_FF9_08",
+        "QE_EV_FF9_10",
         "QE_EV_18_07",
         "QE_EV_18_09",
         "QE_EV_16_08",
@@ -24156,6 +24176,46 @@
       ]
     },
     {
+      "iname": "IT_JB_MM_FF9_ZDAN",
+      "questlist": [
+        "QE_EV_FF9_01"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF9_ZDAN_2",
+      "questlist": [
+        "QE_EV_FF9_03",
+        "QE_EV_FF9_05"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF9_ZDAN_3",
+      "questlist": [
+        "QE_EV_FF9_07",
+        "QE_EV_FF9_09"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF9_DAGR",
+      "questlist": [
+        "QE_EV_FF9_02"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF9_DAGR_2",
+      "questlist": [
+        "QE_EV_FF9_04",
+        "QE_EV_FF9_06"
+      ]
+    },
+    {
+      "iname": "IT_JB_MM_FF9_DAGR_3",
+      "questlist": [
+        "QE_EV_FF9_08",
+        "QE_EV_FF9_10"
+      ]
+    },
+    {
       "iname": "IT_JB_EM_FIRE_1",
       "questlist": [
         "QE_EV_AW_FIRE_01",
@@ -25031,6 +25091,7 @@
         "QE_EV_FF7_02",
         "QE_EV_FMAM_01",
         "QE_EV_FF5_02",
+        "QE_EV_FF9_01",
         "QE_EV_13_02",
         "QE_EV_06_01",
         "QE_EV_05_01",
@@ -25138,6 +25199,8 @@
         "QE_EV_FMAM_05",
         "QE_EV_FF5_04",
         "QE_EV_FF5_06",
+        "QE_EV_FF9_03",
+        "QE_EV_FF9_05",
         "QE_EV_13_04",
         "QE_EV_13_06",
         "QE_EV_06_03",
@@ -25255,6 +25318,8 @@
         "QE_EV_FMAM_09",
         "QE_EV_FF5_08",
         "QE_EV_FF5_10",
+        "QE_EV_FF9_07",
+        "QE_EV_FF9_09",
         "QE_EV_13_08",
         "QE_EV_13_10",
         "QE_EV_06_07",
@@ -25456,6 +25521,7 @@
         "QE_EV_FFT02_01",
         "QE_EV_FF15_01",
         "QE_EV_FF8_02",
+        "QE_EV_FF9_02",
         "QE_EV_18_01",
         "QE_EV_18_02",
         "QE_EV_14_01",
@@ -25565,6 +25631,8 @@
         "QE_EV_FF15_05",
         "QE_EV_FF8_04",
         "QE_EV_FF8_06",
+        "QE_EV_FF9_04",
+        "QE_EV_FF9_06",
         "QE_EV_18_03",
         "QE_EV_18_04",
         "QE_EV_18_05",
@@ -25688,6 +25756,8 @@
         "QE_EV_FF15_09",
         "QE_EV_FF8_08",
         "QE_EV_FF8_10",
+        "QE_EV_FF9_08",
+        "QE_EV_FF9_10",
         "QE_EV_18_07",
         "QE_EV_18_08",
         "QE_EV_18_09",
@@ -27756,6 +27826,7 @@
         "QE_EV_FMAM_02",
         "QE_EV_FF5_01",
         "QE_EV_FF5_02",
+        "QE_EV_FF9_02",
         "QE_EV_20_01",
         "QE_EV_20_02",
         "QE_EV_19_02",
@@ -28156,6 +28227,8 @@
         "QE_EV_FF5_04",
         "QE_EV_FF5_05",
         "QE_EV_FF5_06",
+        "QE_EV_FF9_04",
+        "QE_EV_FF9_06",
         "QE_EV_20_03",
         "QE_EV_20_04",
         "QE_EV_20_05",
@@ -28610,6 +28683,8 @@
         "QE_EV_FF5_08",
         "QE_EV_FF5_09",
         "QE_EV_FF5_10",
+        "QE_EV_FF9_08",
+        "QE_EV_FF9_10",
         "QE_EV_20_07",
         "QE_EV_20_08",
         "QE_EV_20_09",
@@ -29362,6 +29437,7 @@
         "QE_EV_FF5_02",
         "QE_EV_FF8_01",
         "QE_EV_FF8_02",
+        "QE_EV_FF9_01",
         "QE_EV_22_01",
         "QE_EV_22_02",
         "QE_EV_19_01",
@@ -29749,6 +29825,8 @@
         "QE_EV_FF8_04",
         "QE_EV_FF8_05",
         "QE_EV_FF8_06",
+        "QE_EV_FF9_03",
+        "QE_EV_FF9_05",
         "QE_EV_22_03",
         "QE_EV_22_04",
         "QE_EV_22_05",
@@ -30207,6 +30285,8 @@
         "QE_EV_FF8_08",
         "QE_EV_FF8_09",
         "QE_EV_FF8_10",
+        "QE_EV_FF9_07",
+        "QE_EV_FF9_09",
         "QE_EV_22_07",
         "QE_EV_22_08",
         "QE_EV_22_09",

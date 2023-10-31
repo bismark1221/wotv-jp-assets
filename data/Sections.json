@@ -1042,6 +1042,21 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_FF9_01_01",
+      "hurl": "ev_FF9_01"
+    },
+    {
+      "iname": "SE_EV_FF9_01_EX",
+      "hurl": "ev_FF9_ex_01",
+      "o_cond_q": [
+        "QE_EV_FF9_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_FF9_01_EX",
+      "hurl": "ev_FF9_ex_01"
+    },
+    {
       "iname": "SE_EV_4ANV_1",
       "limit": 1,
       "hurl": "ev_4Anv_01"
@@ -1182,14 +1197,6 @@
       ]
     },
     {
-      "iname": "SE_EV_ART_CRF_38",
-      "hurl": "ev_arti_crft_38"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_38",
-      "hurl": "ev_arti_crft_38"
-    },
-    {
       "iname": "SE_PTQ_FF8_01",
       "skip_ticket": "IT_PT_SKIP_FF8_1",
       "hurl": "pt_ff8_01",
@@ -1216,26 +1223,6 @@
     {
       "iname": "SE_EV_SOLL_01",
       "hurl": "ev_soll_01"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_36",
-      "hurl": "ev_arti_crft_36"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_36",
-      "hurl": "ev_arti_crft_36"
-    },
-    {
-      "iname": "SE_MU_ART_CRF_37",
-      "hurl": "ev_arti_crft_37"
-    },
-    {
-      "iname": "SE_EV_ART_CRF_37",
-      "hurl": "ev_arti_crft_37"
-    },
-    {
-      "iname": "SE_EV_BSTC_02",
-      "hurl": "ev_bstc_02"
     },
     {
       "iname": "SE_EV_GRSR_03_01",
@@ -2978,6 +2965,30 @@
       "hurl": "ev_01_ex_01"
     },
     {
+      "iname": "SE_MU_ART_CRF_38",
+      "hurl": "ev_arti_crft_38"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_38",
+      "hurl": "ev_arti_crft_38"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_37",
+      "hurl": "ev_arti_crft_37"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_37",
+      "hurl": "ev_arti_crft_37"
+    },
+    {
+      "iname": "SE_MU_ART_CRF_36",
+      "hurl": "ev_arti_crft_36"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_36",
+      "hurl": "ev_arti_crft_36"
+    },
+    {
       "iname": "SE_MU_ART_CRF_35",
       "hurl": "ev_arti_crft_35"
     },
@@ -3291,6 +3302,10 @@
     },
     {
       "iname": "SE_EV_BSTC_01",
+      "hurl": "ev_bstc_01"
+    },
+    {
+      "iname": "SE_EV_BSTC_02",
       "hurl": "ev_bstc_01"
     },
     {
@@ -3693,6 +3708,7 @@
     },
     {
       "iname": "SE_BR_SH_WI",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_sh_wi_01",
       "o_cond_q": [
         "QE_BR_SHINE_15",
@@ -3702,6 +3718,7 @@
     },
     {
       "iname": "SE_BR_TH_FI",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_th_fi_01",
       "o_cond_q": [
         "QE_BR_THUNDER_15",
@@ -3711,6 +3728,7 @@
     },
     {
       "iname": "SE_BR_IC_WA",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_ic_wa_01",
       "o_cond_q": [
         "QE_BR_ICE_15",
@@ -3720,6 +3738,7 @@
     },
     {
       "iname": "SE_BR_SO_DA",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_so_da_01",
       "o_cond_q": [
         "QE_BR_SOIL_15",
@@ -3729,34 +3748,42 @@
     },
     {
       "iname": "SE_BR_SHINE",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_shine_01"
     },
     {
       "iname": "SE_BR_WIND",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_wind_01"
     },
     {
       "iname": "SE_BR_THUNDER",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_thunder_01"
     },
     {
       "iname": "SE_BR_FIRE",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_fire_01"
     },
     {
       "iname": "SE_BR_WATER",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_water_01"
     },
     {
       "iname": "SE_BR_ICE",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_ice_01"
     },
     {
       "iname": "SE_BR_SOIL",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_soil_01"
     },
     {
       "iname": "SE_BR_DARK",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "br_dark_01"
     },
     {
@@ -4085,54 +4112,63 @@
     },
     {
       "iname": "SE_KEY_JP_001",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_jp",
       "key_item": "IT_KEY_JP",
       "key_num": 1
     },
     {
       "iname": "SE_KEY_SBEXP_01",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_sbexp",
       "key_item": "IT_KEY_SB_EXP",
       "key_num": 1
     },
     {
       "iname": "SE_KEY_SBEXP_02",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_sbexp",
       "key_item": "IT_KEY_SB_EXP",
       "key_num": 1
     },
     {
       "iname": "SE_KEY_SBEXP_03",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_sbexp",
       "key_item": "IT_KEY_SB_EXP",
       "key_num": 1
     },
     {
       "iname": "SE_KEY_SBEXP_04",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_sbexp",
       "key_item": "IT_KEY_SB_EXP",
       "key_num": 1
     },
     {
       "iname": "SE_KEY_SBEXP_05",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_sbexp",
       "key_item": "IT_KEY_SB_EXP",
       "key_num": 1
     },
     {
       "iname": "SE_KEY_SBEXP_06",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_sbexp",
       "key_item": "IT_KEY_SB_EXP",
       "key_num": 1
     },
     {
       "iname": "SE_KEY_SBEXP_07",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_sbexp",
       "key_item": "IT_KEY_SB_EXP",
       "key_num": 1
     },
     {
       "iname": "SE_KEY_SBEXP_08",
+      "skip_ticket": "IT_TICKET_STORY",
       "hurl": "ev_key_sbexp",
       "key_item": "IT_KEY_SB_EXP",
       "key_num": 1

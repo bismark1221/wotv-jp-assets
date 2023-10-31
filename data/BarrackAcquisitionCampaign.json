@@ -366,6 +366,20 @@
         }
       ],
       "time_rate": 50
+    },
+    {
+      "iname": "BAC_15",
+      "begin": "2023/11/01",
+      "end": "2023/11/13 17:59:59",
+      "targets": [
+        {
+          "unit_iname": "UN_FF9_P_ZDAN"
+        },
+        {
+          "unit_iname": "UN_FF9_P_DAGR"
+        }
+      ],
+      "time_rate": 50
     }
   ]
 }

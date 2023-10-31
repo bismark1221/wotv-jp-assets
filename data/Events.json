@@ -1839,16 +1839,12 @@
     {
       "iname": "SE_EV_BSTC_01",
       "event_type": 6,
-      "image": "ev_bstc_01",
-      "banner_flag": 1
+      "image": "ev_bstc_01"
     },
     {
       "iname": "SE_EV_BSTC_02",
-      "event_type": 1,
-      "image": "ev_bstc_02",
-      "start": "2023/08/24 15:00:00",
-      "end": "2023/09/08 14:59:59",
-      "banner_flag": 1
+      "event_type": 6,
+      "image": "ev_bstc_01"
     },
     {
       "iname": "SE_EV_BSTC_03",
@@ -2213,6 +2209,23 @@
       "banner_flag": 1
     },
     {
+      "iname": "SE_EV_FF9_01_01",
+      "event_type": 1,
+      "image": "ev_FF9_01",
+      "priority": 1,
+      "start": "2023/11/01",
+      "end": "2023/12/15 9:59:59",
+      "banner_flag": 1
+    },
+    {
+      "iname": "SE_EV_FF9_01_EX",
+      "event_type": 1,
+      "image": "ev_FF9_ex_01",
+      "start": "2023/11/01",
+      "end": "2023/12/15 9:59:59",
+      "banner_flag": 1
+    },
+    {
       "iname": "SE_EV_RC_DEM_01",
       "event_type": 6,
       "image": "ev_rc_dem_01"
@@ -2453,27 +2466,18 @@
     },
     {
       "iname": "SE_EV_ART_CRF_36",
-      "event_type": 1,
-      "image": "ev_arti_crft_36",
-      "start": "2023/09/01",
-      "end": "2023/09/30 23:59:59",
-      "banner_flag": 1
+      "event_type": 6,
+      "image": "ev_arti_crft_36"
     },
     {
       "iname": "SE_EV_ART_CRF_37",
-      "event_type": 1,
-      "image": "ev_arti_crft_37",
-      "start": "2023/09/01",
-      "end": "2023/09/15 9:59:59",
-      "banner_flag": 1
+      "event_type": 6,
+      "image": "ev_arti_crft_37"
     },
     {
       "iname": "SE_EV_ART_CRF_38",
-      "event_type": 1,
-      "image": "ev_arti_crft_38",
-      "start": "2023/09/15 10:30:00",
-      "end": "2023/09/30 23:59:59",
-      "banner_flag": 1
+      "event_type": 6,
+      "image": "ev_arti_crft_38"
     },
     {
       "iname": "SE_EV_ART_CRF_39",
