@@ -380,6 +380,17 @@
         }
       ],
       "time_rate": 50
+    },
+    {
+      "iname": "BAC_16",
+      "begin": "2023/11/07 15:00:00",
+      "end": "2023/11/22 14:59:59",
+      "targets": [
+        {
+          "unit_iname": "UN_FF9_P_VIVI"
+        }
+      ],
+      "time_rate": 50
     }
   ]
 }

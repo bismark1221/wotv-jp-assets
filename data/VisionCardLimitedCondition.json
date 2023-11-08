@@ -260,7 +260,8 @@
         "JB_LW_AMNR",
         "JB_FF5_LENA",
         "JB_LW_BFM_FIRE",
-        "JB_LW_SOLL"
+        "JB_LW_SOLL",
+        "JB_FF9_VIVI"
       ]
     },
     {
@@ -284,7 +285,8 @@
         "JB_LW_AMNR",
         "JB_FF5_LENA",
         "JB_LW_BFM_FIRE",
-        "JB_LW_SOLL"
+        "JB_LW_SOLL",
+        "JB_FF9_VIVI"
       ]
     },
     {
@@ -495,7 +497,8 @@
         "JB_LW_SAKR",
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
-        "JB_FF5_LENA"
+        "JB_FF5_LENA",
+        "JB_FF9_VIVI"
       ]
     },
     {
@@ -636,6 +639,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_LW_GRM_FIRE",
         "JB_LW_MST_FIRE",
         "JB_FF10_YUNA",
@@ -699,6 +703,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_DQTC_SLIM"
       ]
     },
@@ -910,6 +915,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_LW_LIB_FIRE",
         "JB_LW_BELS",
         "JB_LW_IBRA",
@@ -1057,6 +1063,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_DQTC_SLIM"
       ]
     },
@@ -1258,6 +1265,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_LW_GRM_FIRE",
         "JB_LW_MST_FIRE",
         "JB_FF10_YUNA",
@@ -1370,6 +1378,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_LW_CLR_FIRE",
         "JB_LW_CAL_FIRE",
         "JB_LW_MMC_FIRE",
@@ -1414,6 +1423,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_DQTC_SLIM"
       ]
     },
@@ -1527,6 +1537,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_DQTC_SLIM"
       ]
     },
@@ -1979,6 +1990,7 @@
         "JB_FF7_AERT",
         "JB_LW_FINA_01",
         "JB_FF5_LENA",
+        "JB_FF9_VIVI",
         "JB_LW_LIB_FIRE",
         "JB_LW_BELS",
         "JB_LW_IBRA",
@@ -2151,6 +2163,75 @@
         "JB_DQTC_SLIM"
       ],
       "scope": 1
+    },
+    {
+      "iname": "VLC_KAT_RDA_MAC_BOK",
+      "mainjobs": [
+        "JB_LW_SAM_FIRE",
+        "JB_LW_LSWL",
+        "JB_NIER_N2TB",
+        "JB_LW_MSM_FIRE",
+        "JB_LW_ASTR",
+        "JB_FF7_SPRT",
+        "JB_LW_SSA_FIRE",
+        "JB_LW_WHM_FIRE",
+        "JB_LW_BLM_FIRE",
+        "JB_LW_TIM_FIRE",
+        "JB_FF14_YSTL",
+        "JB_LW_SAKR",
+        "JB_FF7_AERT",
+        "JB_LW_FINA_01",
+        "JB_FF5_LENA",
+        "JB_FF9_VIVI",
+        "JB_LW_CLR_FIRE",
+        "JB_LW_CAL_FIRE",
+        "JB_LW_MMC_FIRE",
+        "JB_LW_GRSR_01",
+        "JB_LW_SDLE",
+        "JB_LW_MACR_02",
+        "JB_LW_RUFF",
+        "JB_FF9_DAGR",
+        "JB_LW_LIB_FIRE",
+        "JB_LW_BELS",
+        "JB_LW_IBRA",
+        "JB_LW_MHA_FIRE",
+        "JB_DQTC_SLIM"
+      ]
+    },
+    {
+      "iname": "VLC_KAT_RDA_MAC_BOKD",
+      "mainjobs": [
+        "JB_LW_SAM_FIRE",
+        "JB_LW_LSWL",
+        "JB_NIER_N2TB",
+        "JB_LW_MSM_FIRE",
+        "JB_LW_ASTR",
+        "JB_FF7_SPRT",
+        "JB_LW_SSA_FIRE",
+        "JB_LW_WHM_FIRE",
+        "JB_LW_BLM_FIRE",
+        "JB_LW_TIM_FIRE",
+        "JB_FF14_YSTL",
+        "JB_LW_SAKR",
+        "JB_FF7_AERT",
+        "JB_LW_FINA_01",
+        "JB_FF5_LENA",
+        "JB_FF9_VIVI",
+        "JB_LW_CLR_FIRE",
+        "JB_LW_CAL_FIRE",
+        "JB_LW_MMC_FIRE",
+        "JB_LW_GRSR_01",
+        "JB_LW_SDLE",
+        "JB_LW_MACR_02",
+        "JB_LW_RUFF",
+        "JB_FF9_DAGR",
+        "JB_LW_LIB_FIRE",
+        "JB_LW_BELS",
+        "JB_LW_IBRA",
+        "JB_LW_MHA_FIRE",
+        "JB_DQTC_SLIM"
+      ],
+      "scope": 2
     }
   ]
 }
