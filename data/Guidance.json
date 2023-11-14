@@ -203,9 +203,7 @@
       "tips_imgs": [
         "gid_aft_01",
         "gid_aft_02",
-        "gid_aft_03",
-        "gid_aft_04",
-        "gid_aft_05"
+        "gid_aft_03"
       ]
     },
     {
@@ -996,7 +994,8 @@
     {
       "iname": "TrustMateria",
       "act": "HOME",
-      "trg": 14,
+      "trg": 2,
+      "value1": 999,
       "trg_sub": 1,
       "guidance_sub": "ArtifactCraft",
       "tuto": 55,
@@ -1004,7 +1003,7 @@
       "desc_emo": 0,
       "skip": 1,
       "desc_unit_skip": "UN_LW_TU_RAMD",
-      "tips": 1,
+      "tips": 0,
       "tips_imgs": [
         "gid_materia_01",
         "gid_materia_02",

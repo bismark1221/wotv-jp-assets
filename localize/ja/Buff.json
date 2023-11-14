@@ -581,6 +581,14 @@
       "value": "魔法ダメージ上昇解除封印"
     },
     {
+      "key": "BUFF_CondEnchantAutoNoAttack",
+      "value": "非ダメージ行動時スキル"
+    },
+    {
+      "key": "BUFF_CondEnchantAutoKnokcOut",
+      "value": "戦闘不能時スキル"
+    },
+    {
       "key": "BUFF_OtherInitAp",
       "value": "初期AP"
     },
@@ -1941,15 +1949,15 @@
       "value": "魔法攻撃時鋼の錬金術師FAキラー"
     },
     {
-      "key": "BUFF_KillerBirthReserve02",
+      "key": "BUFF_KillerBirthKaiou",
       "value": "灰王軍キラー"
     },
     {
-      "key": "BUFF_KillerBirthPReserve02",
+      "key": "BUFF_KillerBirthPKaiou",
       "value": "物理攻撃時灰王軍キラー"
     },
     {
-      "key": "BUFF_KillerBirthMReserve02",
+      "key": "BUFF_KillerBirthMKaiou",
       "value": "魔法攻撃時灰王軍キラー"
     },
     {
@@ -2109,7 +2117,7 @@
       "value": "鋼の錬金術師FA固定ダメージ"
     },
     {
-      "key": "BUFF_KillerBirthDamageReserve02",
+      "key": "BUFF_KillerBirthDamageKaiou",
       "value": "灰王軍固定ダメージ"
     },
     {
@@ -2349,7 +2357,7 @@
       "value": "鋼の錬金術師FA耐性"
     },
     {
-      "key": "BUFF_ResistBirthReserve02",
+      "key": "BUFF_ResistBirthKaiou",
       "value": "灰王軍耐性"
     },
     {

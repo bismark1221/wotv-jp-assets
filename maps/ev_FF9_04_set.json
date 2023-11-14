@@ -427,7 +427,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "QE_EV_FF9",
+      "drop": "QE_EV_FF9_4th",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1698,6 +1698,113 @@
             "secret": 0
           },
           "weight": 5623
+        }
+      ]
+    },
+    {
+      "type": 0,
+      "iname": "QE_EV_FF9_4th",
+      "num": 1,
+      "drop_list": [
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_ALL_2",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 938
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_ALL_2",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 125
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MACE_02",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 1250
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_FF9_DAGR_2",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 63
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_EM_SOIL_2",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 1250
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_IM_ANGEL_2",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 63
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_LW_MAC_001",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 188
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_AF_MAT_SAP_01",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 500
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_US_G_SSR_4thANV",
+            "num": 1,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 52
+        },
+        {
+          "drop_data": {
+            "type": -1,
+            "iname": "",
+            "num": 0,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 5571
         }
       ]
     }
