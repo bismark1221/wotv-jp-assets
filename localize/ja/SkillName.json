@@ -217,6 +217,10 @@
       "value": "ダメージ上限アップ"
     },
     {
+      "key": "SK_UN_BD_EC_VRHW",
+      "value": "ステータスアップ"
+    },
+    {
       "key": "SK_US_POTION",
       "value": "ポーション"
     },
@@ -2737,12 +2741,20 @@
       "value": "エアロガ"
     },
     {
+      "key": "SK_TSLP_M_02_RP1",
+      "value": "エアロガ"
+    },
+    {
       "key": "SK_TSLP_M_03",
       "value": "エアウォール"
     },
     {
       "key": "SK_TSLP_M_04",
       "value": "四天の風"
+    },
+    {
+      "key": "SK_TSLP_M_05",
+      "value": "四天の風・改"
     },
     {
       "key": "SK_WRMC_ATK",
@@ -4401,6 +4413,38 @@
       "value": "アワアワにしちゃるけん！"
     },
     {
+      "key": "SK_SNRY_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_SNRY_M_01",
+      "value": "タイダルウェイブ"
+    },
+    {
+      "key": "SK_SNRY_M_02",
+      "value": "激高"
+    },
+    {
+      "key": "SK_SNRY_M_02_B",
+      "value": "リレイズ後CTアップ"
+    },
+    {
+      "key": "SK_SNRY_M_03",
+      "value": "しんりゅうの爪"
+    },
+    {
+      "key": "SK_SNRY_M_04",
+      "value": "ドラコニックレイ"
+    },
+    {
+      "key": "SK_SNRY_M_05",
+      "value": "ギガフレア"
+    },
+    {
+      "key": "SK_SNRY_M_06",
+      "value": "アルマゲスト"
+    },
+    {
       "key": "SK_GMK_ATK_NEEDLE",
       "value": "トラップ"
     },
@@ -4707,6 +4751,10 @@
     {
       "key": "SK_SMN_TDDG",
       "value": "ライトニングキャノン"
+    },
+    {
+      "key": "SK_SMN_SNRY",
+      "value": "アルマゲスト"
     },
     {
       "key": "SK_SMN_IGNT",
@@ -5639,6 +5687,10 @@
     {
       "key": "SK_BTL_INV_CTDOWN",
       "value": "CT変動無効"
+    },
+    {
+      "key": "SK_BTL_INV_CTDOWN_1",
+      "value": "CTダウン無効"
     },
     {
       "key": "SK_BTL_INV_RAISE",
@@ -17901,6 +17953,74 @@
       "value": "双子を守る覚悟"
     },
     {
+      "key": "SK_LW_VRHW_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_LW_VRHW_M_1",
+      "value": "天来の風"
+    },
+    {
+      "key": "SK_LW_VRHW_M_2",
+      "value": "スパインダイブ零式"
+    },
+    {
+      "key": "SK_LW_VRHW_M_3",
+      "value": "ガードスタンス"
+    },
+    {
+      "key": "SK_LW_VRHW_S_1",
+      "value": "活槍"
+    },
+    {
+      "key": "SK_LW_VRHW_S_1_AD",
+      "value": "敵を戦闘不能にするとAP回復"
+    },
+    {
+      "key": "SK_LW_VRHW_S_2",
+      "value": "ヘイストスタンス"
+    },
+    {
+      "key": "SK_LW_VRHW_S_3",
+      "value": "ソードダンス"
+    },
+    {
+      "key": "SK_LW_VRHW_S_4",
+      "value": "絶気槍"
+    },
+    {
+      "key": "SK_LW_VRHW_R_1",
+      "value": "復讐の槍爪"
+    },
+    {
+      "key": "SK_LW_VRHW_P_1",
+      "value": "空の奥義"
+    },
+    {
+      "key": "SK_LW_VRHW_P_2",
+      "value": "風の跳躍"
+    },
+    {
+      "key": "SK_LW_VRHW_EN_A_01",
+      "value": "虚空飛槍牙"
+    },
+    {
+      "key": "SK_LW_EC_VRHW_C_01",
+      "value": "ガードスタンス強化"
+    },
+    {
+      "key": "SK_LW_EC_VRHW_C_01B",
+      "value": "フォートレススタンス"
+    },
+    {
+      "key": "SK_LW_EC_VRHW_C_02",
+      "value": "空の奥義強化"
+    },
+    {
+      "key": "SK_LW_EC_VRHW_C_02B",
+      "value": "天の秘奥義"
+    },
+    {
       "key": "SK_LB_LW_MONT",
       "value": "デスティニークロス"
     },
@@ -18761,6 +18881,18 @@
       "value": "回転式魔弾砲"
     },
     {
+      "key": "SK_LB_LW_LATH_B",
+      "value": "スピードブレイクショット"
+    },
+    {
+      "key": "SK_LB_LW_GRSR_B",
+      "value": "ヴァルキリードライブ"
+    },
+    {
+      "key": "SK_LB_LW_OBRN_B",
+      "value": "八竜閃煌"
+    },
+    {
       "key": "SK_LB_LW_MONT_B_CH",
       "value": "デスティニークロス強化"
     },
@@ -18883,6 +19015,18 @@
     {
       "key": "SK_LB_LW_JEDN_B_CH",
       "value": "回転式魔弾砲強化"
+    },
+    {
+      "key": "SK_LB_LW_LATH_B_CH",
+      "value": "スピードブレイクショット強化"
+    },
+    {
+      "key": "SK_LB_LW_GRSR_B_CH",
+      "value": "ヴァルキリードライブ強化"
+    },
+    {
+      "key": "SK_LB_LW_OBRN_B_CH",
+      "value": "八竜閃煌強化"
     },
     {
       "key": "SK_LW_EC_MONT_A_01",
@@ -22990,6 +23134,10 @@
     },
     {
       "key": "SK_MA_LW_HLNA_03",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_VRHW",
       "value": "マスターアビリティ"
     },
     {
@@ -27213,6 +27361,22 @@
       "value": "ブラッドソード専用パッシブ(★5"
     },
     {
+      "key": "SK_LW_SWO_041_1_2",
+      "value": "ブラッドソード+1専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_SWO_041_1_3",
+      "value": "ブラッドソード+1専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_SWO_041_1_4",
+      "value": "ブラッドソード+1専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_SWO_041_1_5",
+      "value": "ブラッドソード+1専用パッシブ(★5"
+    },
+    {
       "key": "SK_LW_ACC_077_2",
       "value": "源氏の小手専用パッシブ(★2"
     },
@@ -27227,6 +27391,22 @@
     {
       "key": "SK_LW_ACC_077_5",
       "value": "源氏の小手専用パッシブ(★5"
+    },
+    {
+      "key": "SK_LW_ACC_077_1_2",
+      "value": "源氏の小手+1専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_ACC_077_1_3",
+      "value": "源氏の小手+1専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_ACC_077_1_4",
+      "value": "源氏の小手+1専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_ACC_077_1_5",
+      "value": "源氏の小手+1専用パッシブ(★5"
     },
     {
       "key": "SK_LW_ACC_104_1",
@@ -28281,6 +28461,86 @@
       "value": "ソーンオブローズ専用パッシブ"
     },
     {
+      "key": "SK_FF9_ACC_003_1",
+      "value": "クアッドミストのカード汎用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_2",
+      "value": "クアッドミストのカード汎用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_3",
+      "value": "クアッドミストのカード汎用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_4",
+      "value": "クアッドミストのカード汎用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_5",
+      "value": "クアッドミストのカード汎用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_1_1",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_1_2",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_1_3",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_1_4",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_1_5",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_2_1",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_2_2",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_2_3",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_2_4",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_2_5",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_3_1",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_3_2",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_3_3",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_3_4",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
+      "key": "SK_FF9_ACC_003_3_5",
+      "value": "クアッドミストのカード専用パッシブ"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "フラタニティ 覚醒2"
     },
@@ -29195,6 +29455,10 @@
     {
       "key": "SK_ACC_LW_HLNA_03_1",
       "value": "魔力集中のルーン"
+    },
+    {
+      "key": "SK_ACC_LW_VRHW_1",
+      "value": "八盟傑の誇り・風"
     },
     {
       "key": "SK_VC_LW_SCAL_PVA",

@@ -741,6 +741,10 @@
       "value": "敵：レイズ無効"
     },
     {
+      "key": "BUFF_PT_002",
+      "value": "敵：レイズ無効、リレイズ無効、治癒力ダウン"
+    },
+    {
       "key": "BUFF_OK_001_1",
       "value": "魅了無効、敵：レイズ無効、ダメージ上限なし"
     },
@@ -11853,6 +11857,170 @@
       "value": "斬撃攻撃UP+5%"
     },
     {
+      "key": "BUFF_SNRY_01",
+      "value": "命中率+3"
+    },
+    {
+      "key": "BUFF_SNRY_02",
+      "value": "リアクション阻止率+6"
+    },
+    {
+      "key": "BUFF_SNRY_03",
+      "value": "クリティカル発生率+3"
+    },
+    {
+      "key": "BUFF_SNRY_04",
+      "value": "闇属性キラー+2%"
+    },
+    {
+      "key": "BUFF_SNRY_05",
+      "value": "魔力UP+2%"
+    },
+    {
+      "key": "BUFF_SNRY_06",
+      "value": "召喚魔法Lv2"
+    },
+    {
+      "key": "BUFF_SNRY_07",
+      "value": "召喚魔法Lv4"
+    },
+    {
+      "key": "BUFF_SNRY_08",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_SNRY_09",
+      "value": "打撃耐性+3%"
+    },
+    {
+      "key": "BUFF_SNRY_10",
+      "value": "打撃耐性+3%"
+    },
+    {
+      "key": "BUFF_SNRY_11",
+      "value": "リアクション阻止率+8"
+    },
+    {
+      "key": "BUFF_SNRY_12",
+      "value": "クリティカル発生率+4"
+    },
+    {
+      "key": "BUFF_SNRY_13",
+      "value": "魔法攻撃UP+3%"
+    },
+    {
+      "key": "BUFF_SNRY_14",
+      "value": "魔法攻撃UP+3%"
+    },
+    {
+      "key": "BUFF_SNRY_15",
+      "value": "闇属性キラー+3%"
+    },
+    {
+      "key": "BUFF_SNRY_16",
+      "value": "魔力UP+5%"
+    },
+    {
+      "key": "BUFF_SNRY_17",
+      "value": "闇耐性+3%"
+    },
+    {
+      "key": "BUFF_SNRY_18",
+      "value": "闇耐性+3%"
+    },
+    {
+      "key": "BUFF_SNRY_19",
+      "value": "召喚魔法Lv7"
+    },
+    {
+      "key": "BUFF_SNRY_20",
+      "value": "打撃耐性+5%"
+    },
+    {
+      "key": "BUFF_SNRY_21",
+      "value": "打撃耐性+4%"
+    },
+    {
+      "key": "BUFF_SNRY_22",
+      "value": "リアクション阻止率+9"
+    },
+    {
+      "key": "BUFF_SNRY_23",
+      "value": "リアクション阻止率+12"
+    },
+    {
+      "key": "BUFF_SNRY_24",
+      "value": "魔法攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_SNRY_25",
+      "value": "魔法攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_SNRY_26",
+      "value": "闇属性キラー+6%"
+    },
+    {
+      "key": "BUFF_SNRY_27",
+      "value": "闇属性キラー+4%"
+    },
+    {
+      "key": "BUFF_SNRY_28",
+      "value": "闇耐性+5%"
+    },
+    {
+      "key": "BUFF_SNRY_29",
+      "value": "闇耐性+4%"
+    },
+    {
+      "key": "BUFF_SNRY_30",
+      "value": "召喚魔法Lv10"
+    },
+    {
+      "key": "BUFF_SNRY_31",
+      "value": "召喚魔法Lv15"
+    },
+    {
+      "key": "BUFF_SNRY_32",
+      "value": "TPを消費してダメージ増+20%"
+    },
+    {
+      "key": "BUFF_SNRY_33",
+      "value": "闇属性キラー+10%"
+    },
+    {
+      "key": "BUFF_SNRY_34",
+      "value": "召喚魔法Lv20"
+    },
+    {
+      "key": "BUFF_SNRY_35",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_SNRY_36",
+      "value": "命中率+5"
+    },
+    {
+      "key": "BUFF_SNRY_37",
+      "value": "打撃耐性+5%"
+    },
+    {
+      "key": "BUFF_SNRY_38",
+      "value": "光属性アビリティ攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_SNRY_39",
+      "value": "光属性アビリティ攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_SNRY_40",
+      "value": "光属性アビリティ攻撃UP+6%"
+    },
+    {
+      "key": "BUFF_SNRY_41",
+      "value": "光属性アビリティ攻撃UP+10%"
+    },
+    {
       "key": "BUFF_IGNT_01",
       "value": "命中率+3"
     },
@@ -16131,6 +16299,22 @@
     {
       "key": "BUFF_LW_SWO_041_5_EN",
       "value": "与えたHPダメージの一部を吸収(15%)"
+    },
+    {
+      "key": "BUFF_LW_SWO_041_1_2_EN",
+      "value": "与えたHPダメージの一部を吸収(7%)"
+    },
+    {
+      "key": "BUFF_LW_SWO_041_1_3_EN",
+      "value": "与えたHPダメージの一部を吸収(10%)"
+    },
+    {
+      "key": "BUFF_LW_SWO_041_1_4_EN",
+      "value": "与えたHPダメージの一部を吸収(15%)"
+    },
+    {
+      "key": "BUFF_LW_SWO_041_1_5_EN",
+      "value": "与えたHPダメージの一部を吸収(20%)"
     },
     {
       "key": "BUFF_LW_NKN_011_2_EN",

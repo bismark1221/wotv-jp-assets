@@ -1048,6 +1048,15 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_BSTC_05",
+      "hurl": "ev_bstc_05"
+    },
+    {
+      "iname": "SE_PTQ_FF9_01",
+      "skip_ticket": "IT_PT_SKIP_FF9_1",
+      "hurl": "pt_ff9_01"
+    },
+    {
       "iname": "SE_EV_23_01",
       "hurl": "ev_23_01"
     },
@@ -3711,6 +3720,10 @@
       "hurl": "ev_nmap_05"
     },
     {
+      "iname": "SE_WQ_01_01",
+      "hurl": "wq_01_01"
+    },
+    {
       "iname": "SE_WQ_01_08",
       "hurl": "wq_01_08"
     },
@@ -3737,10 +3750,6 @@
     {
       "iname": "SE_WQ_01_02",
       "hurl": "wq_01_02"
-    },
-    {
-      "iname": "SE_WQ_01_01",
-      "hurl": "wq_01_01"
     },
     {
       "iname": "SE_BR_SH_WI",

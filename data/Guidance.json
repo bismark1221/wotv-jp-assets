@@ -1188,6 +1188,23 @@
       "desc_unit_skip": "UN_LW_TU_ERKA",
       "desc_emo_skip": 0,
       "tips": 0
+    },
+    {
+      "iname": "NewWaveAvailable",
+      "act": "HOME",
+      "trg": 1,
+      "guidance": "ClearedSeveralWave",
+      "trg_sub": 21,
+      "value1_sub": 4,
+      "exemption": 3,
+      "exemption_value": 4,
+      "tuto": 66,
+      "desc_unit": "UN_LW_TU_MOGD",
+      "desc_emo": 0,
+      "skip": 0,
+      "desc_unit_skip": "UN_LW_TU_RAMD",
+      "desc_emo_skip": 0,
+      "tips": 0
     }
   ]
 }

@@ -27234,7 +27234,7 @@
       },
       "priority": 235,
       "start_at": "2023/11/07 15:00:00",
-      "end_at": "2023/12/15 9:59:59"
+      "end_at": "2023/11/22 13:59:59"
     },
     {
       "id": 1948,
@@ -27262,7 +27262,7 @@
       },
       "priority": 237,
       "start_at": "2023/11/07 15:00:00",
-      "end_at": "2023/12/15 9:59:59"
+      "end_at": "2023/11/22 13:59:59"
     },
     {
       "id": 1950,
@@ -27361,6 +27361,76 @@
       "priority": 389,
       "start_at": "2023/11/13 18:30:00",
       "end_at": "2023/12/22 14:59:59"
+    },
+    {
+      "id": 1957,
+      "iname": "GachaBanner_2144",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2144",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 230,
+      "start_at": "2023/11/22 15:00:00",
+      "end_at": "2023/12/08 14:59:59"
+    },
+    {
+      "id": 1958,
+      "iname": "GachaBanner_2142",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2142",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 231,
+      "start_at": "2023/11/22 15:00:00",
+      "end_at": "2023/12/08 14:59:59"
+    },
+    {
+      "id": 1959,
+      "iname": "GachaBanner_2146",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2146",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 232,
+      "start_at": "2023/11/22 15:00:00",
+      "end_at": "2023/11/30 23:59:59"
+    },
+    {
+      "id": 1960,
+      "iname": "LAPS_SHOP_LIMITED_0621",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0621",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 388,
+      "start_at": "2023/11/22 15:00:00",
+      "end_at": "2023/11/30 23:59:59"
+    },
+    {
+      "id": 1961,
+      "iname": "ev_bstc_02",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_bstc_02",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 387,
+      "start_at": "2023/11/22 15:00:00",
+      "end_at": "2023/12/08 14:59:59"
     }
   ]
 }

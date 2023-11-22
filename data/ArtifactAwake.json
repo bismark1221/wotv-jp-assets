@@ -5172,6 +5172,35 @@
       ]
     },
     {
+      "iname": "AF_LW_SWO_041_1",
+      "awakes": [
+        {
+          "lv": 50
+        },
+        {
+          "lv": 50,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_SWORD,50"
+        },
+        {
+          "lv": 50,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_SWORD,75"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_SWORD,100"
+        },
+        {
+          "lv": 50,
+          "cost": 300000,
+          "mat1": "IT_AF_AW_SWORD,150",
+          "mat2": "IT_NBLWPN_01_UR,5"
+        }
+      ]
+    },
+    {
       "iname": "AF_LW_SWO_040",
       "awakes": [
         {
@@ -51076,6 +51105,35 @@
       ]
     },
     {
+      "iname": "AF_LW_ACC_077_1",
+      "awakes": [
+        {
+          "lv": 50
+        },
+        {
+          "lv": 50,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_ACCE,50"
+        },
+        {
+          "lv": 50,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_ACCE,75"
+        },
+        {
+          "lv": 50,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_ACCE,100"
+        },
+        {
+          "lv": 50,
+          "cost": 300000,
+          "mat1": "IT_AF_AW_ACCE,150",
+          "mat2": "IT_NBLWPN_01_UR,5"
+        }
+      ]
+    },
+    {
       "iname": "AF_LW_ACC_104",
       "awakes": [
         {
@@ -52091,6 +52149,210 @@
           "cost": 300000,
           "mat1": "IT_AF_AW_ACCE,150",
           "mat2": "IT_AF_MAT_YARN_02,75",
+          "mat3": "IT_AF_MAT_LESS_02,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_FF9_ACC_003",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_ACCE,50",
+          "mat2": "IT_AF_MAT_SAP_04,25"
+        },
+        {
+          "lv": 30,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_ACCE,75",
+          "mat2": "IT_AF_MAT_SAP_04,35"
+        },
+        {
+          "lv": 40,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_ACCE,100",
+          "mat2": "IT_AF_MAT_SAP_04,50",
+          "mat3": "IT_AF_MAT_LESS_02,1"
+        },
+        {
+          "lv": 50,
+          "cost": 300000,
+          "mat1": "IT_AF_AW_ACCE,150",
+          "mat2": "IT_AF_MAT_SAP_04,75",
+          "mat3": "IT_AF_MAT_LESS_02,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_FF9_ACC_003_1",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_ACCE,50",
+          "mat2": "IT_AF_MAT_SAP_04,25"
+        },
+        {
+          "lv": 30,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_ACCE,75",
+          "mat2": "IT_AF_MAT_SAP_04,35"
+        },
+        {
+          "lv": 40,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_ACCE,100",
+          "mat2": "IT_AF_MAT_SAP_04,50",
+          "mat3": "IT_AF_MAT_LESS_02,1"
+        },
+        {
+          "lv": 50,
+          "cost": 300000,
+          "mat1": "IT_AF_AW_ACCE,150",
+          "mat2": "IT_AF_MAT_SAP_04,75",
+          "mat3": "IT_AF_MAT_LESS_02,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_FF9_ACC_003_2",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_ACCE,50",
+          "mat2": "IT_AF_MAT_SAP_04,25"
+        },
+        {
+          "lv": 30,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_ACCE,75",
+          "mat2": "IT_AF_MAT_SAP_04,35"
+        },
+        {
+          "lv": 40,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_ACCE,100",
+          "mat2": "IT_AF_MAT_SAP_04,50",
+          "mat3": "IT_AF_MAT_LESS_02,1"
+        },
+        {
+          "lv": 50,
+          "cost": 300000,
+          "mat1": "IT_AF_AW_ACCE,150",
+          "mat2": "IT_AF_MAT_SAP_04,75",
+          "mat3": "IT_AF_MAT_LESS_02,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_FF9_ACC_003_3",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_ACCE,50",
+          "mat2": "IT_AF_MAT_SAP_04,25"
+        },
+        {
+          "lv": 30,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_ACCE,75",
+          "mat2": "IT_AF_MAT_SAP_04,35"
+        },
+        {
+          "lv": 40,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_ACCE,100",
+          "mat2": "IT_AF_MAT_SAP_04,50",
+          "mat3": "IT_AF_MAT_LESS_02,1"
+        },
+        {
+          "lv": 50,
+          "cost": 300000,
+          "mat1": "IT_AF_AW_ACCE,150",
+          "mat2": "IT_AF_MAT_SAP_04,75",
+          "mat3": "IT_AF_MAT_LESS_02,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_FF9_ACC_003_4",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_ACCE,50",
+          "mat2": "IT_AF_MAT_SAP_04,25"
+        },
+        {
+          "lv": 30,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_ACCE,75",
+          "mat2": "IT_AF_MAT_SAP_04,35"
+        },
+        {
+          "lv": 40,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_ACCE,100",
+          "mat2": "IT_AF_MAT_SAP_04,50",
+          "mat3": "IT_AF_MAT_LESS_02,1"
+        },
+        {
+          "lv": 50,
+          "cost": 300000,
+          "mat1": "IT_AF_AW_ACCE,150",
+          "mat2": "IT_AF_MAT_SAP_04,75",
+          "mat3": "IT_AF_MAT_LESS_02,5"
+        }
+      ]
+    },
+    {
+      "iname": "AF_FF9_ACC_003_5",
+      "awakes": [
+        {
+          "lv": 10
+        },
+        {
+          "lv": 20,
+          "cost": 100000,
+          "mat1": "IT_AF_AW_ACCE,50",
+          "mat2": "IT_AF_MAT_SAP_04,25"
+        },
+        {
+          "lv": 30,
+          "cost": 150000,
+          "mat1": "IT_AF_AW_ACCE,75",
+          "mat2": "IT_AF_MAT_SAP_04,35"
+        },
+        {
+          "lv": 40,
+          "cost": 200000,
+          "mat1": "IT_AF_AW_ACCE,100",
+          "mat2": "IT_AF_MAT_SAP_04,50",
+          "mat3": "IT_AF_MAT_LESS_02,1"
+        },
+        {
+          "lv": 50,
+          "cost": 300000,
+          "mat1": "IT_AF_AW_ACCE,150",
+          "mat2": "IT_AF_MAT_SAP_04,75",
           "mat3": "IT_AF_MAT_LESS_02,5"
         }
       ]

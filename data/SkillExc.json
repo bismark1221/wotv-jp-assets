@@ -155,6 +155,25 @@
       "HandlingType": 3
     },
     {
+      "iname": "SKE_SNRY_M_04",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 87,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_SNRY_M_04_2"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_SNRY_32",
+      "addCostRate": 50
+    },
+    {
       "iname": "SKE_LW_GRSR_01_M_2",
       "strcnd": [
         {
@@ -1629,6 +1648,36 @@
       "targetBuff": [
         {
           "iname": "BUFF_LW_EC_HLNA_03_C_01B_S_1"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LW_VRHW_S_2",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 95,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_VRHW_S_2_3"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_LB_LW_OBRN_B",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 95,
+          "calc": 4
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LB_LW_OBRN_B_2"
         }
       ]
     }

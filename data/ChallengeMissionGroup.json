@@ -13086,6 +13086,740 @@
           }
         }
       ]
+    },
+    {
+      "iname": "CM_PRO_173_1",
+      "baner": "ChallengePage_Unit_v01",
+      "parent": "CM_PRO_173",
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_ALL",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_ALL",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_ALL",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_ALL",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_ALL",
+            "num": 1
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_ALL",
+            "num": 2
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_ALL",
+            "num": 2
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_RELV_UR",
+            "num": 400
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_1",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_2",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "condition": 1,
+      "condition_sval": "CM_PRO_174_1",
+      "condition_ival": 8,
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_3",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "condition": 1,
+      "condition_sval": "CM_PRO_174_2",
+      "condition_ival": 8,
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_4",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "condition": 1,
+      "condition_sval": "CM_PRO_174_3",
+      "condition_ival": 8,
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_5",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "condition": 1,
+      "condition_sval": "CM_PRO_174_4",
+      "condition_ival": 8,
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_6",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "condition": 1,
+      "condition_sval": "CM_PRO_174_5",
+      "condition_ival": 8,
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_7",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "condition": 1,
+      "condition_sval": "CM_PRO_174_6",
+      "condition_ival": 8,
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_8",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "condition": 1,
+      "condition_sval": "CM_PRO_174_7",
+      "condition_ival": 8,
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
+    },
+    {
+      "iname": "CM_PRO_174_9",
+      "baner": "ChallengePage_Unit_v01_1",
+      "parent": "CM_PRO_174",
+      "condition": 1,
+      "condition_sval": "CM_PRO_174_8",
+      "condition_ival": 8,
+      "rewards": [
+        {
+          "bingo_num": 1,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 2,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 3,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 4,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_UN_AW_WIND",
+            "num": 15
+          }
+        },
+        {
+          "bingo_num": 5,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 6,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 7,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_PI_COM_WIND",
+            "num": 20
+          }
+        },
+        {
+          "bingo_num": 8,
+          "reward1": {
+            "type": 0,
+            "iname": "IT_AW_VBALL_UR",
+            "num": 1
+          }
+        }
+      ]
     }
   ]
 }
