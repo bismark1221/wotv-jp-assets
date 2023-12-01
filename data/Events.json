@@ -1197,8 +1197,7 @@
     {
       "iname": "SE_EV_AEX_030101",
       "event_type": 1,
-      "image": "ev_ast_ex_0301",
-      "banner_flag": 1
+      "image": "ev_ast_ex_0301"
     },
     {
       "iname": "SE_EV_AST_030101",
@@ -1208,8 +1207,7 @@
     {
       "iname": "SE_EV_AST_030201",
       "event_type": 1,
-      "image": "ev_ast_0302",
-      "banner_flag": 1
+      "image": "ev_ast_0302"
     },
     {
       "iname": "SE_EV_AEX_020502",
@@ -1568,14 +1566,20 @@
       "event_type": 1,
       "image": "ev_23_01",
       "start": "2023/11/13 18:30:00",
-      "end": "2023/12/22 14:59:59",
-      "banner_flag": 1
+      "end": "2023/12/22 14:59:59"
     },
     {
       "iname": "SE_EV_23_EX_01",
       "event_type": 1,
       "image": "ev_23_ex_01",
       "start": "2023/11/13 18:30:00",
+      "end": "2023/12/22 14:59:59"
+    },
+    {
+      "iname": "SE_EV_23_EX_02",
+      "event_type": 1,
+      "image": "ev_23_ex_02",
+      "start": "2023/12/01",
       "end": "2023/12/22 14:59:59",
       "banner_flag": 1
     },
@@ -1871,11 +1875,8 @@
     },
     {
       "iname": "SE_EV_BSTC_03",
-      "event_type": 1,
-      "image": "ev_bstc_02",
-      "start": "2023/09/22 15:00:00",
-      "end": "2023/10/10 14:59:59",
-      "banner_flag": 1
+      "event_type": 6,
+      "image": "ev_bstc_01"
     },
     {
       "iname": "SE_EV_BSTC_04",
@@ -2245,16 +2246,14 @@
       "image": "ev_FF9_01",
       "priority": 1,
       "start": "2023/11/01",
-      "end": "2023/12/15 9:59:59",
-      "banner_flag": 1
+      "end": "2023/12/15 9:59:59"
     },
     {
       "iname": "SE_EV_FF9_01_EX",
       "event_type": 1,
       "image": "ev_FF9_ex_01",
       "start": "2023/11/01",
-      "end": "2023/12/15 9:59:59",
-      "banner_flag": 1
+      "end": "2023/12/15 9:59:59"
     },
     {
       "iname": "SE_EV_FF9_02_EX",
@@ -2262,7 +2261,15 @@
       "image": "ev_FF9_ex_02",
       "priority": 1,
       "start": "2023/11/07 15:00:00",
-      "end": "2023/12/15 9:59:59",
+      "end": "2023/12/15 9:59:59"
+    },
+    {
+      "iname": "SE_EV_FF9_HUNT",
+      "event_type": 1,
+      "image": "ev_FF9_02",
+      "priority": 1,
+      "start": "2023/12/01",
+      "end": "2023/12/08 14:59:59",
       "banner_flag": 1
     },
     {
@@ -2521,11 +2528,8 @@
     },
     {
       "iname": "SE_EV_ART_CRF_39",
-      "event_type": 1,
-      "image": "ev_arti_crft_39",
-      "start": "2023/10/17 10:30:00",
-      "end": "2023/10/31 23:59:59",
-      "banner_flag": 1
+      "event_type": 6,
+      "image": "ev_arti_crft_39"
     },
     {
       "iname": "SE_EV_RNDM_01",
@@ -3123,6 +3127,14 @@
       "image": "ev_astr_01_01",
       "start": "2023/10/01",
       "end": "2023/10/17 9:59:59",
+      "banner_flag": 1
+    },
+    {
+      "iname": "SE_EV_ELDE_01_01",
+      "event_type": 1,
+      "image": "ev_elde_01_01",
+      "start": "2023/12/01",
+      "end": "2023/12/15 9:59:59",
       "banner_flag": 1
     },
     {
