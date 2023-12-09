@@ -592,6 +592,12 @@
       "back_unit": "UN_LW_ST_030101"
     },
     {
+      "iname": "SE_ST_030602",
+      "chap": "CH_ST_0306",
+      "skip_ticket": "IT_TICKET_STORY",
+      "back_unit": "UN_LW_ST_030101"
+    },
+    {
       "iname": "SE_WD_010101",
       "chap": "CH_WD_0101",
       "skip_ticket": "IT_TICKET_STORY"
@@ -1048,6 +1054,14 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_AEX_030201",
+      "hurl": "ev_ast_ex_0302"
+    },
+    {
+      "iname": "SE_MU_AEX_030201",
+      "hurl": "ev_ast_ex_0302"
+    },
+    {
       "iname": "SE_EV_FF9_HUNT",
       "hurl": "ev_FF9_02"
     },
@@ -1216,13 +1230,6 @@
       ]
     },
     {
-      "iname": "SE_EV_VC_STRN_01",
-      "hurl": "ev_vc_strn_01",
-      "open_cond": [
-        "COND_VC_LW_STRN"
-      ]
-    },
-    {
       "iname": "SE_EV_AEX_030101",
       "hurl": "ev_ast_ex_0301"
     },
@@ -1282,13 +1289,6 @@
       "hurl": "ev_grsr_03_01"
     },
     {
-      "iname": "SE_EV_VC_SHGN_01",
-      "hurl": "ev_vc_shgn_01",
-      "open_cond": [
-        "COND_VC_LW_SHGN"
-      ]
-    },
-    {
       "iname": "SE_EV_MLNA_01",
       "hurl": "ev_mlna_01"
     },
@@ -1346,6 +1346,20 @@
       "hurl": "ev_vc_zzan_01",
       "open_cond": [
         "COND_VC_LW_ZZAN2"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_SHGN_01",
+      "hurl": "ev_vc_shgn_01",
+      "open_cond": [
+        "COND_VC_LW_SHGN"
+      ]
+    },
+    {
+      "iname": "SE_EV_VC_STRN_01",
+      "hurl": "ev_vc_strn_01",
+      "open_cond": [
+        "COND_VC_LW_STRN"
       ]
     },
     {

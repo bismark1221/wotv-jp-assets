@@ -106491,6 +106491,65 @@
       ]
     },
     {
+      "iname": "AF_LW_ACC_113_6",
+      "asset": "LAPSwpn_acc_113",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 4,
+      "sell": 50000,
+      "hnum": 10,
+      "equip": "AEC_ACCE_LONG",
+      "status": [
+        {
+          "hp": 15,
+          "def": 1,
+          "crt": 1
+        },
+        {
+          "hp": 328,
+          "def": 18,
+          "crt": 25
+        }
+      ],
+      "randr": [
+        {
+          "hp": 42,
+          "def": 18,
+          "crt": 30
+        }
+      ],
+      "randa": [
+        {
+          "hp": 8,
+          "def": 1,
+          "crt": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_113",
+      "skl1": [
+        "SK_LW_PLUS6_CRTDMG_20",
+        "SK_LW_ACC_113_5"
+      ],
+      "skl2": [
+        "SK_LW_PLUS6_CRTDMG_20",
+        "SK_LW_ACC_113_5"
+      ],
+      "skl3": [
+        "SK_LW_PLUS6_CRTDMG_20",
+        "SK_LW_ACC_113_5"
+      ],
+      "skl4": [
+        "SK_LW_PLUS6_CRTDMG_20",
+        "SK_LW_ACC_113_5"
+      ],
+      "skl5": [
+        "SK_LW_PLUS6_CRTDMG_20",
+        "SK_LW_ACC_113_5"
+      ]
+    },
+    {
       "iname": "AF_LW_ACC_112",
       "asset": "LAPSwpn_acc_112",
       "type": 2,
@@ -107747,6 +107806,430 @@
         "SK_FF9_ACC_003_2_5",
         "SK_FF9_ACC_003_3_5",
         "SK_FF9_ACC_003_5"
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_127",
+      "asset": "LAPSwpn_acc_127",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 15,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        },
+        {
+          "hp": 297,
+          "mp": 30,
+          "ap": 30,
+          "def": 13,
+          "mnd": 13,
+          "crta": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 30,
+          "mp": 36,
+          "ap": 36,
+          "def": 12,
+          "mnd": 12,
+          "crta": 32
+        }
+      ],
+      "randa": [
+        {
+          "hp": 8,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_127",
+      "passives_condition": [
+        "APC_LW_ACC_127"
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_127_1",
+      "asset": "LAPSwpn_acc_127",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 15,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        },
+        {
+          "hp": 297,
+          "mp": 30,
+          "ap": 30,
+          "def": 13,
+          "mnd": 13,
+          "crta": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 32,
+          "mp": 38,
+          "ap": 38,
+          "def": 13,
+          "mnd": 13,
+          "crta": 34
+        }
+      ],
+      "randa": [
+        {
+          "hp": 8,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_127",
+      "passives_condition": [
+        "APC_LW_ACC_127"
+      ],
+      "skl1": [
+        "SK_LW_ACC_124_1",
+        "SK_LW_APRED_1"
+      ],
+      "skl2": [
+        "SK_LW_ACC_124_1",
+        "SK_LW_APRED_1"
+      ],
+      "skl3": [
+        "SK_LW_ACC_124_1",
+        "SK_LW_APRED_1"
+      ],
+      "skl4": [
+        "SK_LW_ACC_124_1",
+        "SK_LW_APRED_1"
+      ],
+      "skl5": [
+        "SK_LW_ACC_124_1",
+        "SK_LW_APRED_1"
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_127_2",
+      "asset": "LAPSwpn_acc_127",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 15,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        },
+        {
+          "hp": 297,
+          "mp": 30,
+          "ap": 30,
+          "def": 13,
+          "mnd": 13,
+          "crta": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 34,
+          "mp": 40,
+          "ap": 40,
+          "def": 14,
+          "mnd": 14,
+          "crta": 36
+        }
+      ],
+      "randa": [
+        {
+          "hp": 8,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_127",
+      "passives_condition": [
+        "APC_LW_ACC_127"
+      ],
+      "skl1": [
+        "SK_LW_ACC_124_2",
+        "SK_LW_APRED_2"
+      ],
+      "skl2": [
+        "SK_LW_ACC_124_2",
+        "SK_LW_APRED_2"
+      ],
+      "skl3": [
+        "SK_LW_ACC_124_2",
+        "SK_LW_APRED_2"
+      ],
+      "skl4": [
+        "SK_LW_ACC_124_2",
+        "SK_LW_APRED_2"
+      ],
+      "skl5": [
+        "SK_LW_ACC_124_2",
+        "SK_LW_APRED_2"
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_127_3",
+      "asset": "LAPSwpn_acc_127",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 15,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        },
+        {
+          "hp": 297,
+          "mp": 30,
+          "ap": 30,
+          "def": 13,
+          "mnd": 13,
+          "crta": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 36,
+          "mp": 42,
+          "ap": 42,
+          "def": 15,
+          "mnd": 15,
+          "crta": 38
+        }
+      ],
+      "randa": [
+        {
+          "hp": 8,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_127",
+      "passives_condition": [
+        "APC_LW_ACC_127"
+      ],
+      "skl1": [
+        "SK_LW_ACC_124_3",
+        "SK_LW_APRED_3"
+      ],
+      "skl2": [
+        "SK_LW_ACC_124_3",
+        "SK_LW_APRED_3"
+      ],
+      "skl3": [
+        "SK_LW_ACC_124_3",
+        "SK_LW_APRED_3"
+      ],
+      "skl4": [
+        "SK_LW_ACC_124_3",
+        "SK_LW_APRED_3"
+      ],
+      "skl5": [
+        "SK_LW_ACC_124_3",
+        "SK_LW_APRED_3"
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_127_4",
+      "asset": "LAPSwpn_acc_127",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 15,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        },
+        {
+          "hp": 297,
+          "mp": 30,
+          "ap": 30,
+          "def": 13,
+          "mnd": 13,
+          "crta": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 38,
+          "mp": 44,
+          "ap": 44,
+          "def": 16,
+          "mnd": 16,
+          "crta": 40
+        }
+      ],
+      "randa": [
+        {
+          "hp": 8,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_127",
+      "passives_condition": [
+        "APC_LW_ACC_127"
+      ],
+      "skl1": [
+        "SK_LW_ACC_124_4",
+        "SK_LW_APRED_4_SSR"
+      ],
+      "skl2": [
+        "SK_LW_ACC_124_4",
+        "SK_LW_APRED_4_SSR"
+      ],
+      "skl3": [
+        "SK_LW_ACC_124_4",
+        "SK_LW_APRED_4_SSR"
+      ],
+      "skl4": [
+        "SK_LW_ACC_124_4",
+        "SK_LW_APRED_4_SSR"
+      ],
+      "skl5": [
+        "SK_LW_ACC_124_4",
+        "SK_LW_APRED_4_SSR"
+      ]
+    },
+    {
+      "iname": "AF_LW_ACC_127_5",
+      "asset": "LAPSwpn_acc_127",
+      "type": 2,
+      "cat": [
+        22
+      ],
+      "rare": 3,
+      "sell": 25000,
+      "hnum": 10,
+      "equip": "AEC_ACCE",
+      "status": [
+        {
+          "hp": 15,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        },
+        {
+          "hp": 297,
+          "mp": 30,
+          "ap": 30,
+          "def": 13,
+          "mnd": 13,
+          "crta": 15
+        }
+      ],
+      "randr": [
+        {
+          "hp": 40,
+          "mp": 46,
+          "ap": 46,
+          "def": 17,
+          "mnd": 17,
+          "crta": 42
+        }
+      ],
+      "randa": [
+        {
+          "hp": 8,
+          "mp": 2,
+          "ap": 2,
+          "def": 1,
+          "mnd": 1,
+          "crta": 1
+        }
+      ],
+      "rtype": "AF_LOT_LW_ACC_127",
+      "passives_condition": [
+        "APC_LW_ACC_127"
+      ],
+      "skl1": [
+        "SK_LW_ACC_124_5",
+        "SK_LW_APRED_5_SSR"
+      ],
+      "skl2": [
+        "SK_LW_ACC_124_5",
+        "SK_LW_APRED_5_SSR"
+      ],
+      "skl3": [
+        "SK_LW_ACC_124_5",
+        "SK_LW_APRED_5_SSR"
+      ],
+      "skl4": [
+        "SK_LW_ACC_124_5",
+        "SK_LW_APRED_5_SSR"
+      ],
+      "skl5": [
+        "SK_LW_ACC_124_5",
+        "SK_LW_APRED_5_SSR"
       ]
     },
     {
