@@ -6477,6 +6477,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ラヴィエス（Xmas）」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_LV_01_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ラヴィエス（Xmas）」UnitLv.80以上<br>「キャラクタークエスト　ラヴィエス（Xmas）」をクリア"
+    },
+    {
       "key": "QE_CH_FM_EDWD",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「エドワード・エルリック」UnitLv.40以上"
     },
@@ -6635,6 +6639,10 @@
     {
       "key": "QE_CH_LW_ELDE_01",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「獅子王エルデ」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_RUFF_01",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ラフ（Xmas）」UnitLv.40以上"
     },
     {
       "key": "QE_EV_1100DL_FIR",
@@ -7299,6 +7307,46 @@
     {
       "key": "QE_EV_ARNA_01",
       "value": "クエスト情報<br>解放条件：ユニット「アラネア」を獲得"
+    },
+    {
+      "key": "QE_EV_AST_030301",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_EV_AST_030302",
+      "value": "クエスト情報<br>推奨：UnitLv.55 JobLv.10"
+    },
+    {
+      "key": "QE_EV_AST_030303",
+      "value": "クエスト情報<br>推奨：UnitLv.55 JobLv.10"
+    },
+    {
+      "key": "QE_EV_AST_030304",
+      "value": "クエスト情報<br>推奨：UnitLv.60 JobLv.11"
+    },
+    {
+      "key": "QE_EV_AST_030305",
+      "value": "クエスト情報<br>推奨：UnitLv.65 JobLv.11"
+    },
+    {
+      "key": "QE_EV_AST_030306",
+      "value": "クエスト情報<br>推奨：UnitLv.65 JobLv.11"
+    },
+    {
+      "key": "QE_EV_AST_030307",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12"
+    },
+    {
+      "key": "QE_EV_AST_030308",
+      "value": "クエスト情報<br>推奨：UnitLv.75 JobLv.12"
+    },
+    {
+      "key": "QE_EV_AST_030309",
+      "value": "クエスト情報<br>推奨：UnitLv.75 JobLv.12"
+    },
+    {
+      "key": "QE_EV_AST_030310",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.13"
     },
     {
       "key": "QE_EV_AST_030201",
@@ -11525,6 +11573,14 @@
       "value": "クエスト情報<br>なし"
     },
     {
+      "key": "QE_EV_ART_CRF_86",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_ART_CRF_87",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_EV_ART_CRF_13",
       "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント：狩人は高台に登れるユニットで対処しよう"
     },
@@ -12267,6 +12323,18 @@
     {
       "key": "QE_RAID_EV_33_06",
       "value": "クエスト情報<br>ボスの属性/火<br>弱点/刺突、斬撃攻撃"
+    },
+    {
+      "key": "QE_RAID_EV_34_01",
+      "value": "クエスト情報<br>ボスの属性/水<br>弱点/魔法、打撃、射撃、刺突攻撃"
+    },
+    {
+      "key": "QE_RAID_EV_34_02",
+      "value": "クエスト情報<br>ボスの属性/水<br>弱点/魔法、打撃、射撃、刺突攻撃"
+    },
+    {
+      "key": "QE_RAID_EV_34_03",
+      "value": "クエスト情報<br>ボスの属性/水<br>弱点/魔法、打撃、射撃、刺突攻撃"
     },
     {
       "key": "QE_EV_ETRE_01",
@@ -15237,6 +15305,14 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。<br>有効な攻略方法：このボスにはスロウが効果的です。<br>マップ効果：初期AP+60、リアクション阻止率+100、全攻撃タイプ：+10000、打撃攻撃：+10000、魔法攻撃：+10000、刺突攻撃：+5000"
     },
     {
+      "key": "QE_MU_ART_CRF_86",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_87",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
+    },
+    {
       "key": "QE_MU_AEX_312_1",
       "value": "クエスト情報<br>なし"
     },
@@ -17281,6 +17357,14 @@
       "value": "なし"
     },
     {
+      "key": "QE_PVP_FRI_0139",
+      "value": "なし"
+    },
+    {
+      "key": "QE_PVP_FRI_0138",
+      "value": "なし"
+    },
+    {
       "key": "QE_PVP_FRI_0137",
       "value": "なし"
     },
@@ -17778,6 +17862,10 @@
     },
     {
       "key": "QE_PVP_DRFT_0012",
+      "value": "なし"
+    },
+    {
+      "key": "QE_PVP_DRFT_0013",
       "value": "なし"
     },
     {

@@ -511,6 +511,11 @@
       "value": 80
     },
     {
+      "iname": "buf_red_rate_max",
+      "type": 0,
+      "value": 80
+    },
+    {
       "iname": "dmg_hatedown",
       "type": 0,
       "value": 2
@@ -1203,12 +1208,12 @@
     {
       "iname": "raid_follow_bonus_item_iname",
       "type": 2,
-      "value": "IT_EC_RAID_30"
+      "value": "IT_EC_RAID_XMAS_01"
     },
     {
       "iname": "raid_coin_item_iname",
       "type": 2,
-      "value": "IT_EC_RAID_30"
+      "value": "IT_EC_RAID_XMAS_01"
     },
     {
       "iname": "raid_agent_max",

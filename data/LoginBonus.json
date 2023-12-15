@@ -38564,6 +38564,166 @@
           "num": 100
         }
       ]
+    },
+    {
+      "iname": "LB_LIMIT_0217",
+      "type": 6,
+      "banner": "LoginBonus_PeriodBanner_0217",
+      "priority": 2,
+      "begin_at": "2023/12/15 10:30:00",
+      "end_at": "2023/12/22 14:59:59",
+      "at_first_already_login_ok": 1,
+      "bonuses": [
+        {
+          "point": 1,
+          "type": 3,
+          "num": 200
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_SB_SP_FIRE_04",
+          "num": 5
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_SB_SP_ICE_04",
+          "num": 5
+        },
+        {
+          "point": 2,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_SB_SP_WATER_04",
+          "num": 5
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_SB_SP_WIND_04",
+          "num": 5
+        },
+        {
+          "point": 3,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_LB_EXP_03",
+          "num": 30
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_SB_SP_THUNDER_04",
+          "num": 5
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_US_G_PU_RUFF01",
+          "num": 1
+        },
+        {
+          "point": 4,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_WA_EXP_03",
+          "num": 30
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_SB_SP_SOIL_04",
+          "num": 5
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_US_G_PU_RUFF01",
+          "num": 1
+        },
+        {
+          "point": 5,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_SB_SP_SHINE_04",
+          "num": 5
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_US_G_PU_RUFF01",
+          "num": 1
+        },
+        {
+          "point": 6,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_PI_COM_ALL",
+          "num": 1
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_SB_SP_DARK_04",
+          "num": 5
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_US_G_PU_RUFF01",
+          "num": 1
+        },
+        {
+          "point": 7,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_UN_RELV_UR",
+          "num": 20
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_SB_SP_NOA_04",
+          "num": 5
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_US_G_PU_RUFF01",
+          "num": 1
+        }
+      ]
     }
   ]
 }

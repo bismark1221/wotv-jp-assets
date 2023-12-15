@@ -699,6 +699,29 @@
       ],
       "bonus_unit": "BONUS_20",
       "bonus_visioncard": "BONUS_16"
+    },
+    {
+      "iname": "RAID_ID_34",
+      "start": "2023/12/15 10:30:00",
+      "end": "2023/12/25 23:59:59",
+      "rwd_end": "2023/12/26",
+      "agg_end": "2023/12/26 1:59:59",
+      "rnk_end": "2023/12/31 23:59:59",
+      "rnk_rwd": "R_RAID_34",
+      "home_tex": "LAPS_RD_XMAS_01",
+      "gauge_on": 1,
+      "prob": [
+        {
+          "boss_id": "RAID_BOSS_34",
+          "num": 97
+        },
+        {
+          "boss_id": "RAID_BOSS_34_1",
+          "num": 3
+        }
+      ],
+      "bonus_unit": "BONUS_21",
+      "bonus_visioncard": "BONUS_17"
     }
   ]
 }

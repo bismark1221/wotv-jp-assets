@@ -1054,6 +1054,21 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_MU_ART_CRF_40",
+      "hurl": "ev_arti_crft_40"
+    },
+    {
+      "iname": "SE_EV_ART_CRF_40",
+      "hurl": "ev_arti_crft_40"
+    },
+    {
+      "iname": "SE_EV_AST_030301",
+      "hurl": "ev_ast_0303",
+      "o_cond_q": [
+        "QE_EV_AST_010110"
+      ]
+    },
+    {
       "iname": "SE_EV_AEX_030201",
       "hurl": "ev_ast_ex_0302"
     },
