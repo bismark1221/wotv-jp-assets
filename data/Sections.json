@@ -1054,6 +1054,36 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_NieR_01_01",
+      "hurl": "ev_nier_01"
+    },
+    {
+      "iname": "SE_EV_NieR_01_EX",
+      "hurl": "ev_nier_ex_01",
+      "o_cond_q": [
+        "QE_EV_NieR_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_NieR_01_EX",
+      "hurl": "ev_nier_ex_01"
+    },
+    {
+      "iname": "SE_EV_NieR_03_EX",
+      "hurl": "ev_nier_ex_03",
+      "o_cond_q": [
+        "QE_EV_NieR_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_NieR_03_EX",
+      "hurl": "ev_nier_ex_03"
+    },
+    {
+      "iname": "SE_EV_BSTC_06",
+      "hurl": "ev_bstc_06"
+    },
+    {
       "iname": "SE_MU_ART_CRF_40",
       "hurl": "ev_arti_crft_40"
     },
@@ -2673,21 +2703,6 @@
       "iname": "SE_EV_FFT_CM_01",
       "limit": 1,
       "hurl": "ev_fft_cm_01"
-    },
-    {
-      "iname": "SE_EV_NieR_01_01",
-      "hurl": "ev_nier_01"
-    },
-    {
-      "iname": "SE_EV_NieR_01_EX",
-      "hurl": "ev_nier_ex_01",
-      "o_cond_q": [
-        "QE_EV_NieR_10"
-      ]
-    },
-    {
-      "iname": "SE_MU_NieR_01_EX",
-      "hurl": "ev_nier_ex_01"
     },
     {
       "iname": "SE_PTQ_FF10_01",

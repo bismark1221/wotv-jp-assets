@@ -27218,7 +27218,7 @@
         "type": 0,
         "unlock_id": "None"
       },
-      "priority": 100,
+      "priority": 374,
       "start_at": "2023/11/13 17:00:00",
       "end_at": "2023/12/25 23:59:59"
     },
@@ -27837,6 +27837,174 @@
       "priority": 386,
       "start_at": "2023/12/15 10:30:00",
       "end_at": "2023/12/22 14:59:59"
+    },
+    {
+      "id": 1991,
+      "iname": "GachaBanner_2263",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2263",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 100,
+      "start_at": "2023/12/24",
+      "end_at": "2023/12/25 23:59:59"
+    },
+    {
+      "id": 1992,
+      "iname": "GachaBanner_NIER_R_0018",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_NIER_R_0018",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 101,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 1993,
+      "iname": "GachaBanner_2264",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2264",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 102,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/01 23:59:59"
+    },
+    {
+      "id": 1994,
+      "iname": "GachaBanner_NIER_R_0004",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_NIER_R_0004",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 208,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 1995,
+      "iname": "GachaBanner_NIER_R_0001",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_NIER_R_0001",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 209,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 1996,
+      "iname": "GachaBanner_NIER_R_0007",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_NIER_R_0007",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 210,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 1997,
+      "iname": "GachaBanner_NIER_R_0002",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_NIER_R_0002",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 211,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 1998,
+      "iname": "GachaBanner_NIER_R_0012",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_NIER_R_0012",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 212,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 1999,
+      "iname": "GachaBanner_NIER_R_0013",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_NIER_R_0013",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 213,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 2000,
+      "iname": "ev_nier_R_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_nier_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 371,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 2001,
+      "iname": "LAPS_SHOP_LIMITED_nier_R_03",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_nier_R_03",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 372,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2024/01/31 23:59:59"
+    },
+    {
+      "id": 2002,
+      "iname": "LAPS_SHOP_LIMITED_0633",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0633",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 373,
+      "start_at": "2023/12/22 15:00:00",
+      "end_at": "2023/12/31 23:59:59"
     }
   ]
 }
