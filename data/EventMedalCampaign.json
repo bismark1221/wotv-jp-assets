@@ -1744,7 +1744,8 @@
       "quest_type": 2,
       "section_inames": [
         "SE_EV_AEX_030201",
-        "SE_EV_AST_030301"
+        "SE_EV_AST_030301",
+        "SE_EV_AEX_030301"
       ],
       "event_medal_iname": "IT_EC_NIER_R_1",
       "reward_type": 0,
@@ -1895,6 +1896,31 @@
         },
         {
           "drop_num": 20,
+          "drop_weight": 10
+        }
+      ]
+    },
+    {
+      "iname": "EMC_EV_2313_01",
+      "start": "2024/01/01",
+      "end": "2024/01/17 9:59:59",
+      "quest_type": 2,
+      "section_inames": [
+        "SE_EV_LCIO_02_01"
+      ],
+      "event_medal_iname": "IT_EC_NIER_R_1",
+      "reward_type": 0,
+      "event_medal_drop_weight": [
+        {
+          "drop_num": 7,
+          "drop_weight": 80
+        },
+        {
+          "drop_num": 9,
+          "drop_weight": 10
+        },
+        {
+          "drop_num": 10,
           "drop_weight": 10
         }
       ]
