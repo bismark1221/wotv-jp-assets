@@ -1072,6 +1072,18 @@
       "hurl": "ev_newyear2024"
     },
     {
+      "iname": "SE_EV_VC_NIER_01",
+      "hurl": "ev_vc_nier_01",
+      "open_cond": [
+        "COND_LW_VC_NIER"
+      ]
+    },
+    {
+      "iname": "SE_EV_LCIO_02_01",
+      "skip_ticket": "IT_TICKET_STORY",
+      "hurl": "ev_lcio_02_01"
+    },
+    {
       "iname": "SE_EV_NieR_01_01",
       "hurl": "ev_nier_01"
     },
@@ -1107,11 +1119,6 @@
     {
       "iname": "SE_MU_NieR_04_EX",
       "hurl": "ev_nier_ex_04"
-    },
-    {
-      "iname": "SE_EV_LCIO_02_01",
-      "skip_ticket": "IT_TICKET_STORY",
-      "hurl": "ev_lcio_02_01"
     },
     {
       "iname": "SE_EV_AEX_030301",
