@@ -5510,6 +5510,31 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_SWO_044_6",
+      "recipe": "IT_AF_LW_SWO_044",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_SWO_044",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_SWO_044_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_SSR",
+          "num": 7
+        }
+      ],
+      "from_iname": "AF_LW_SWO_044",
+      "plus": 6
+    },
+    {
       "iname": "AF_LW_SWO_040",
       "recipe": "IT_AF_LW_SWO_040",
       "gil": 15000,
@@ -9151,6 +9176,31 @@
       ],
       "from_iname": "AF_LW_BSW_020",
       "plus": 5
+    },
+    {
+      "iname": "AF_LW_BSW_020_6",
+      "recipe": "IT_AF_LW_BSW_020",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BSW_020",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BSW_020_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_SSR",
+          "num": 7
+        }
+      ],
+      "from_iname": "AF_LW_BSW_020",
+      "plus": 6
     },
     {
       "iname": "AF_LW_BSW_021",
@@ -17012,6 +17062,31 @@
       "plus": 5
     },
     {
+      "iname": "AF_LW_SPE_027_6",
+      "recipe": "IT_AF_LW_SPE_027",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_SPE_027",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_SPE_027_5",
+          "num": 1,
+          "lv": 50
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_6_SSR",
+          "num": 7
+        }
+      ],
+      "from_iname": "AF_LW_SPE_027",
+      "plus": 6
+    },
+    {
       "iname": "AF_LW_SPE_028",
       "recipe": "IT_AF_LW_SPE_028",
       "gil": 15000,
@@ -23070,6 +23145,239 @@
       ],
       "from_iname": "AF_LW_BOW_017",
       "plus": 6
+    },
+    {
+      "iname": "AF_LW_BOW_020",
+      "recipe": "IT_AF_LW_BOW_020",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_020",
+          "num": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_020"
+    },
+    {
+      "iname": "AF_LW_BOW_020_1",
+      "recipe": "IT_AF_LW_BOW_020",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_020",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020",
+          "num": 1,
+          "lv": 1
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_020",
+      "plus": 1
+    },
+    {
+      "iname": "AF_LW_BOW_020_2",
+      "recipe": "IT_AF_LW_BOW_020",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_020",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020_1",
+          "num": 1,
+          "lv": 10
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_020",
+      "plus": 2
+    },
+    {
+      "iname": "AF_LW_BOW_020_3",
+      "recipe": "IT_AF_LW_BOW_020",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_020",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020_2",
+          "num": 1,
+          "lv": 20
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_020",
+      "plus": 3
+    },
+    {
+      "iname": "AF_LW_BOW_020_4",
+      "recipe": "IT_AF_LW_BOW_020",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_020",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020_3",
+          "num": 1,
+          "lv": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_020",
+      "plus": 4
+    },
+    {
+      "iname": "AF_LW_BOW_020_5",
+      "recipe": "IT_AF_LW_BOW_020",
+      "gil": 15000,
+      "craft": [
+        {
+          "type": 0,
+          "id": "IT_AF_LW_BOW_020",
+          "num": 1
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 1,
+          "id": "AF_LW_BOW_020_4",
+          "num": 1,
+          "lv": 40
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_LIQUID_03",
+          "num": 30
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_OGRE",
+          "num": 5
+        },
+        {
+          "type": 0,
+          "id": "IT_AF_MAT_WATER_01",
+          "num": 5
+        }
+      ],
+      "from_iname": "AF_LW_BOW_020",
+      "plus": 5
     },
     {
       "iname": "AF_LW_GUN_001",

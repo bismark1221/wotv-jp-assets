@@ -190,8 +190,8 @@
     },
     {
       "name": "id:5",
-      "x": 8,
-      "y": 9,
+      "x": 1,
+      "y": 4,
       "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
@@ -810,7 +810,7 @@
       "iname": "UN_GM_TREASURE",
       "side": 1,
       "dead": 0,
-      "lv": 1,
+      "lv": 0,
       "rare": 0,
       "awake": 1,
       "rank": 0,
@@ -1333,7 +1333,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 180
+          "weight": 1000
         },
         {
           "drop_data": {
@@ -1343,7 +1343,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1605
+          "weight": 1000
         },
         {
           "drop_data": {
@@ -1363,7 +1363,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1700
+          "weight": 1000
         },
         {
           "drop_data": {
@@ -1373,7 +1373,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 230
+          "weight": 1000
         },
         {
           "drop_data": {
@@ -1383,7 +1383,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1605
+          "weight": 1000
         },
         {
           "drop_data": {
@@ -1393,7 +1393,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 180
+          "weight": 1000
         },
         {
           "drop_data": {
@@ -1563,7 +1563,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 3000
+          "weight": 1000
         },
         {
           "drop_data": {
@@ -1573,12 +1573,12 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 3000
+          "weight": 1000
         },
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_JG_ADD_NBSP_004",
+            "iname": "IT_SB_SP_FIRE_04",
             "num": 1,
             "subNum1": 0,
             "secret": 0

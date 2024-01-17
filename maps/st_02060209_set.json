@@ -1610,6 +1610,36 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_SDLX_02_3",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 26
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_SDLX_02_4",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 26
+        },
+        {
+          "drop_data": {
+            "type": -1,
+            "iname": "",
+            "num": 0,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 0
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_AF_MAT_LIQUID_03",
             "num": 1,
             "subNum1": 0,
@@ -1689,16 +1719,6 @@
         },
         {
           "drop_data": {
-            "type": -1,
-            "iname": "",
-            "num": 0,
-            "subNum1": 0,
-            "secret": 0
-          },
-          "weight": 0
-        },
-        {
-          "drop_data": {
             "type": 0,
             "iname": "IT_JB_EM_SHINE_3",
             "num": 2,
@@ -1745,7 +1765,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 4023
+          "weight": 3971
         }
       ]
     }
