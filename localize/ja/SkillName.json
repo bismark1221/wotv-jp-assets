@@ -221,6 +221,10 @@
       "value": "ステータスアップ"
     },
     {
+      "key": "SK_UN_BD_EC_VRWB",
+      "value": "ステータスアップ"
+    },
+    {
       "key": "SK_US_POTION",
       "value": "ポーション"
     },
@@ -598,6 +602,10 @@
     },
     {
       "key": "SK_WOLF_M_02",
+      "value": "キック"
+    },
+    {
+      "key": "SK_WOLF_M_02_RP1",
       "value": "キック"
     },
     {
@@ -6211,6 +6219,14 @@
     {
       "key": "SK_BTL_LEVT",
       "value": "常時レビテト状態"
+    },
+    {
+      "key": "SK_BTL_RESPHY_1_100_U",
+      "value": "物理被ダメージ軽減1-100アップ"
+    },
+    {
+      "key": "SK_BTL_RESMAG_1_100_U",
+      "value": "魔法被ダメージ軽減1-100アップ"
     },
     {
       "key": "SK_BTL_JOB_THI_1_15_U",
@@ -18049,6 +18065,10 @@
       "value": "虚空飛槍牙"
     },
     {
+      "key": "SK_LW_VRHW_EN_A_01B",
+      "value": "虚空飛槍牙"
+    },
+    {
       "key": "SK_LW_EC_VRHW_C_01",
       "value": "ガードスタンス強化"
     },
@@ -18535,6 +18555,150 @@
     {
       "key": "SK_LW_EC_SDLX_02_C_02C",
       "value": "封弱方陣襲"
+    },
+    {
+      "key": "SK_LW_KTON_02_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_LW_KTON_02_M_1",
+      "value": "双昇撃"
+    },
+    {
+      "key": "SK_LW_KTON_02_M_1_AD",
+      "value": "敵を戦闘不能にするとCTアップ"
+    },
+    {
+      "key": "SK_LW_KTON_02_M_2",
+      "value": "破耐早打"
+    },
+    {
+      "key": "SK_LW_KTON_02_M_3",
+      "value": "水月の加護"
+    },
+    {
+      "key": "SK_LW_KTON_02_S_1",
+      "value": "速拳"
+    },
+    {
+      "key": "SK_LW_KTON_02_S_2",
+      "value": "吸追の構え"
+    },
+    {
+      "key": "SK_LW_KTON_02_S_2_AD",
+      "value": "追花"
+    },
+    {
+      "key": "SK_LW_KTON_02_S_3",
+      "value": "流月三段"
+    },
+    {
+      "key": "SK_LW_KTON_02_S_4",
+      "value": "サイガ流早駆け"
+    },
+    {
+      "key": "SK_LW_KTON_02_R_1",
+      "value": "捨身吸生"
+    },
+    {
+      "key": "SK_LW_KTON_02_P_1",
+      "value": "影貫抜"
+    },
+    {
+      "key": "SK_LW_KTON_02_P_2",
+      "value": "シノビの信条"
+    },
+    {
+      "key": "SK_LW_KTON_02_EN_A_01",
+      "value": "破盾活蹴"
+    },
+    {
+      "key": "SK_LW_EC_KTON_02_C_01",
+      "value": "双昇撃強化"
+    },
+    {
+      "key": "SK_LW_EC_KTON_02_C_01B",
+      "value": "解双昇撃"
+    },
+    {
+      "key": "SK_LW_EC_KTON_02_C_02",
+      "value": "影貫抜強化"
+    },
+    {
+      "key": "SK_LW_EC_KTON_02_C_02B",
+      "value": "月影貫抜"
+    },
+    {
+      "key": "SK_LW_EC_KTON_02_C_02C",
+      "value": "月影貫抜"
+    },
+    {
+      "key": "SK_LW_VRWB_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_LW_VRWB_M_1",
+      "value": "急流"
+    },
+    {
+      "key": "SK_LW_VRWB_M_2",
+      "value": "カラミティスプラッシュ"
+    },
+    {
+      "key": "SK_LW_VRWB_M_3",
+      "value": "エレメンタルパワー"
+    },
+    {
+      "key": "SK_LW_VRWB_S_1",
+      "value": "乱流"
+    },
+    {
+      "key": "SK_LW_VRWB_S_2",
+      "value": "リバイバルストリーム"
+    },
+    {
+      "key": "SK_LW_VRWB_S_3",
+      "value": "マインドブラスト"
+    },
+    {
+      "key": "SK_LW_VRWB_S_4",
+      "value": "エスナガ"
+    },
+    {
+      "key": "SK_LW_VRWB_R_1",
+      "value": "報怨の激流"
+    },
+    {
+      "key": "SK_LW_VRWB_P_1",
+      "value": "静水"
+    },
+    {
+      "key": "SK_LW_VRWB_P_2",
+      "value": "禁忌の力"
+    },
+    {
+      "key": "SK_LW_VRWB_EN_A_01",
+      "value": "霧"
+    },
+    {
+      "key": "SK_LW_VRWB_EN_A_01_AD",
+      "value": "湧刻"
+    },
+    {
+      "key": "SK_LW_EC_VRWB_C_01",
+      "value": "エレメンタルパワー強化"
+    },
+    {
+      "key": "SK_LW_EC_VRWB_C_01B",
+      "value": "エレメンタルフォート"
+    },
+    {
+      "key": "SK_LW_EC_VRWB_C_02",
+      "value": "禁忌の力強化"
+    },
+    {
+      "key": "SK_LW_EC_VRWB_C_02B",
+      "value": "神器の力"
     },
     {
       "key": "SK_LB_LW_MONT",
@@ -19273,6 +19437,10 @@
       "value": "血晶救影"
     },
     {
+      "key": "SK_LB_LW_KTON_02",
+      "value": "砕晶絶影"
+    },
+    {
       "key": "SK_LB_LW_MONT_B",
       "value": "デスティニークロス"
     },
@@ -19513,6 +19681,18 @@
       "value": "サイガ流影縛り"
     },
     {
+      "key": "SK_LB_LW_NIVL_B",
+      "value": "スパイダーレイン"
+    },
+    {
+      "key": "SK_LB_LW_RARD_B",
+      "value": "浮嶽剛迅拳"
+    },
+    {
+      "key": "SK_LB_LW_IREZ_B",
+      "value": "茨の檻"
+    },
+    {
       "key": "SK_LB_LW_MONT_B_CH",
       "value": "デスティニークロス強化"
     },
@@ -19727,6 +19907,18 @@
     {
       "key": "SK_LB_LW_KTON_B_CH",
       "value": "サイガ流影縛り強化"
+    },
+    {
+      "key": "SK_LB_LW_NIVL_B_CH",
+      "value": "スパイダーレイン強化"
+    },
+    {
+      "key": "SK_LB_LW_RARD_B_CH",
+      "value": "浮嶽剛迅拳強化"
+    },
+    {
+      "key": "SK_LB_LW_IREZ_B_CH",
+      "value": "茨の檻強化"
     },
     {
       "key": "SK_LW_EC_MONT_A_01",
@@ -23909,6 +24101,14 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_KTON_02",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_VRWB",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_UES_FF7_CLUD",
       "value": "クラウド夢幻転生パッシブ"
     },
@@ -25533,6 +25733,14 @@
       "value": "転晶弓シャドウリンクス夢幻転生パッシブ"
     },
     {
+      "key": "SK_UES_LW_VRHW",
+      "value": "天風のヴェリアス夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_UES_LW_KTON_02",
+      "value": "月拳キトン夢幻転生パッシブ"
+    },
+    {
       "key": "SK_LW_SLASH_1",
       "value": "斬撃攻撃力+2"
     },
@@ -26359,6 +26567,26 @@
     {
       "key": "SK_LW_PIERCESHO_5",
       "value": "射撃攻撃耐性貫通率+20"
+    },
+    {
+      "key": "SK_LW_PIERCEBLO_1",
+      "value": "打撃攻撃耐性貫通率+2"
+    },
+    {
+      "key": "SK_LW_PIERCEBLO_2",
+      "value": "打撃攻撃耐性貫通率+3"
+    },
+    {
+      "key": "SK_LW_PIERCEBLO_3",
+      "value": "打撃攻撃耐性貫通率+5"
+    },
+    {
+      "key": "SK_LW_PIERCEBLO_4",
+      "value": "打撃攻撃耐性貫通率+10"
+    },
+    {
+      "key": "SK_LW_PIERCEBLO_5",
+      "value": "打撃攻撃耐性貫通率+20"
     },
     {
       "key": "SK_LW_DF_SINGL_1",
@@ -28345,6 +28573,22 @@
       "value": "村雨専用パッシブ(★5"
     },
     {
+      "key": "SK_LW_NKN_011_1_2",
+      "value": "村雨+1専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_NKN_011_1_3",
+      "value": "村雨+1専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_NKN_011_1_4",
+      "value": "村雨+1専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_NKN_011_1_5",
+      "value": "村雨+1専用パッシブ(★5"
+    },
+    {
       "key": "SK_LW_BOW_018_2",
       "value": "与一の弓専用パッシブ(★2"
     },
@@ -28359,6 +28603,22 @@
     {
       "key": "SK_LW_BOW_018_5",
       "value": "与一の弓専用パッシブ(★5"
+    },
+    {
+      "key": "SK_LW_BOW_018_1_2",
+      "value": "与一の弓+1専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_BOW_018_1_3",
+      "value": "与一の弓+1専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_BOW_018_1_4",
+      "value": "与一の弓+1専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_BOW_018_1_5",
+      "value": "与一の弓+1専用パッシブ(★5"
     },
     {
       "key": "SK_LW_SPE_027_1_1",
@@ -29637,6 +29897,26 @@
       "value": "夕星の弓専用パッシブ"
     },
     {
+      "key": "SK_LW_FIS_018_1",
+      "value": "紅猫の鉤爪パッシブ"
+    },
+    {
+      "key": "SK_LW_FIS_018_2",
+      "value": "紅猫の鉤爪パッシブ"
+    },
+    {
+      "key": "SK_LW_FIS_018_3",
+      "value": "紅猫の鉤爪パッシブ"
+    },
+    {
+      "key": "SK_LW_FIS_018_4",
+      "value": "紅猫の鉤爪パッシブ"
+    },
+    {
+      "key": "SK_LW_FIS_018_5",
+      "value": "紅猫の鉤爪パッシブ"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "フラタニティ 覚醒2"
     },
@@ -30583,6 +30863,14 @@
     {
       "key": "SK_CLT_LW_SDLX_02_1",
       "value": "黄昏の斬護"
+    },
+    {
+      "key": "SK_ACC_LW_KTON_02_1",
+      "value": "灰色の封隠"
+    },
+    {
+      "key": "SK_ACC_LW_VRWB_1",
+      "value": "八盟傑の誇り・水"
     },
     {
       "key": "SK_VC_LW_SCAL_PVA",
