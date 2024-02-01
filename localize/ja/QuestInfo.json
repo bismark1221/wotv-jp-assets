@@ -5105,6 +5105,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ユニット「月拳キトン」を獲得"
     },
     {
+      "key": "QE_HA_LW_DRIO_01",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ユニット「転晶刃ダリオ」を獲得"
+    },
+    {
       "key": "QE_CH_LW_MONT",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「モント・リオニス」UnitLv.40以上"
     },
@@ -6773,6 +6777,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「水華のヴェリアス」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_DRIO_01",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「転晶刃ダリオ」UnitLv.40以上"
+    },
+    {
       "key": "QE_EV_1100DL_FIR",
       "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
     },
@@ -8330,6 +8338,10 @@
     },
     {
       "key": "QE_EV_LCIO_02_01",
+      "value": "クエスト情報<br>・味方が全滅してもクリアとなり報酬を獲得できます<br>・このクエストでは敵からのクリスタルドロップがありません"
+    },
+    {
+      "key": "QE_EV_DRIO_01_01",
       "value": "クエスト情報<br>・味方が全滅してもクリアとなり報酬を獲得できます<br>・このクエストでは敵からのクリスタルドロップがありません"
     },
     {
@@ -13353,6 +13365,14 @@
       "value": "クエスト情報<br>なし"
     },
     {
+      "key": "QE_EV_AEX_314_5",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_AEX_314_6",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_EV_AEX_314_3",
       "value": "クエスト情報<br>なし"
     },
@@ -15593,6 +15613,14 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。<br>有効な攻略方法：このボスにはスロウが効果的です。<br>マップ効果：初期AP+60、リアクション阻止率+100、全攻撃タイプ：+10000、打撃攻撃：+10000、魔法攻撃：+10000、刺突攻撃：+5000"
     },
     {
+      "key": "QE_MU_AEX_314_5",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_AEX_314_6",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_MU_AEX_314_3",
       "value": "クエスト情報<br>なし"
     },
@@ -15649,14 +15677,6 @@
       "value": "クエスト情報<br>なし"
     },
     {
-      "key": "QE_MU_ART_CRF_86",
-      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
-    },
-    {
-      "key": "QE_MU_ART_CRF_87",
-      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
-    },
-    {
       "key": "QE_MU_AEX_312_1",
       "value": "クエスト情報<br>なし"
     },
@@ -15709,14 +15729,6 @@
       "value": "クエスト情報<br>ヒント：2つのトーチに攻撃すると・・・？"
     },
     {
-      "key": "QE_MU_ART_CRF_84",
-      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
-    },
-    {
-      "key": "QE_MU_ART_CRF_85",
-      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
-    },
-    {
       "key": "QE_MU_AEX_311_1",
       "value": "クエスト情報<br>なし"
     },
@@ -15735,6 +15747,22 @@
     {
       "key": "QE_MU_FF8_EX02",
       "value": "クエスト情報<br>ヒント：レビテトを使うと・・・？"
+    },
+    {
+      "key": "QE_MU_ART_CRF_86",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_87",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
+    },
+    {
+      "key": "QE_MU_ART_CRF_84",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_85",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
     },
     {
       "key": "QE_MU_ART_CRF_82",
@@ -17682,6 +17710,10 @@
     },
     {
       "key": "QE_PVP_FRE_0018",
+      "value": "なし"
+    },
+    {
+      "key": "QE_PVP_FRI_0143",
       "value": "なし"
     },
     {

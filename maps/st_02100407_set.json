@@ -1496,8 +1496,9 @@
       },
       "mapEv": {
         "type": 2,
-        "typeval": "unittag=bomb;string=2;local=skill>SK_GMK_ATK_BOMB|Vector2Int[]>{\"array\":[{\"x\":1,\"y\":10},{\"x\":3,\"y\":6},{\"x\":5,\"y\":3},{\"x\":8,\"y\":7}]}|rmin>2|rmax>3",
-        "isUnitNoAct": true
+        "typeval": "unittag=bomb;string=3;local=skill>SK_GMK_ATK_BOMB|Vector2Int[]>{\"array\":[{\"x\":1,\"y\":10},{\"x\":3,\"y\":6},{\"x\":5,\"y\":3},{\"x\":8,\"y\":7}]}|rmin>2|rmax>3",
+        "isUnitNoAct": true,
+        "isAvoidAuto": false
       },
       "invokeMax": -1,
       "deadTags": [],
@@ -1520,7 +1521,8 @@
       "mapEv": {
         "type": 2,
         "typeval": "unittag=TRA0;local=",
-        "isUnitNoAct": true
+        "isUnitNoAct": true,
+        "isAvoidAuto": false
       },
       "invokeMax": 1,
       "deadTags": [],
@@ -1543,7 +1545,8 @@
       "mapEv": {
         "type": 2,
         "typeval": "unittag=TRA1;local=",
-        "isUnitNoAct": true
+        "isUnitNoAct": true,
+        "isAvoidAuto": false
       },
       "invokeMax": 1,
       "deadTags": [],
@@ -1566,7 +1569,8 @@
       "mapEv": {
         "type": 2,
         "typeval": "unittag=TRA2;local=",
-        "isUnitNoAct": true
+        "isUnitNoAct": true,
+        "isAvoidAuto": false
       },
       "invokeMax": 1,
       "deadTags": [],
@@ -1589,7 +1593,8 @@
       "mapEv": {
         "type": 2,
         "typeval": "unittag=TRA3;local=",
-        "isUnitNoAct": true
+        "isUnitNoAct": true,
+        "isAvoidAuto": false
       },
       "invokeMax": 1,
       "deadTags": [],

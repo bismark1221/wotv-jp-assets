@@ -28873,6 +28873,76 @@
       "priority": 100,
       "start_at": "2024/01/24 15:00:00",
       "end_at": "2024/02/07 14:59:59"
+    },
+    {
+      "id": 2065,
+      "iname": "GachaBanner_2406",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2406",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 189,
+      "start_at": "2024/02/01",
+      "end_at": "2024/02/07 14:59:59"
+    },
+    {
+      "id": 2066,
+      "iname": "GachaBanner_2405",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2405",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 190,
+      "start_at": "2024/02/01",
+      "end_at": "2024/02/14 9:59:59"
+    },
+    {
+      "id": 2067,
+      "iname": "GachaBanner_2403",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2403",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 191,
+      "start_at": "2024/02/01",
+      "end_at": "2024/02/14 9:59:59"
+    },
+    {
+      "id": 2068,
+      "iname": "ev_drio_01_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_drio_01_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 367,
+      "start_at": "2024/02/01",
+      "end_at": "2024/02/14 9:59:59"
+    },
+    {
+      "id": 2069,
+      "iname": "LAPS_SHOP_LIMITED_0650",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0650",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 368,
+      "start_at": "2024/02/01",
+      "end_at": "2024/02/07 14:59:59"
     }
   ]
 }

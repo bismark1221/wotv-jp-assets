@@ -2095,6 +2095,26 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_DRIO_01_3",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 28
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_DRIO_01_4",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 28
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_AF_MAT_LIQUID_03",
             "num": 1,
             "subNum1": 0,
@@ -2220,7 +2240,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 3530
+          "weight": 3474
         }
       ]
     }
