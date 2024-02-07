@@ -24528,7 +24528,8 @@
       "trust": "AF_ARM_LW_STRN_02_1",
       "atkskl": "SK_LW_STRN_01_ATK",
       "mstskl": [
-        "SK_MA_LW_STRN_02"
+        "SK_MA_LW_STRN_02",
+        "SK_MA_LW_STRN_02_2"
       ],
       "jobsets": [
         "JB_LW_STRN_01",
@@ -24918,7 +24919,8 @@
       "trust": "AF_CLT_LW_REGN_1",
       "atkskl": "SK_LW_REGN_ATK",
       "mstskl": [
-        "SK_MA_LW_REGN"
+        "SK_MA_LW_REGN",
+        "SK_MA_LW_REGN_2"
       ],
       "jobsets": [
         "JB_LW_REGN",
@@ -25176,7 +25178,8 @@
       "trust": "AF_ACC_LW_MRND_01_1",
       "atkskl": "SK_LW_SSA_ATK",
       "mstskl": [
-        "SK_MA_LW_MRND_01"
+        "SK_MA_LW_MRND_01",
+        "SK_MA_LW_MRND_01_2"
       ],
       "jobsets": [
         "JB_LW_SSA_SHINE",
@@ -51283,6 +51286,60 @@
           "abl": -10,
           "ash": 10,
           "ama": 15,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        }
+      ],
+      "unit_medal_num": 0
+    },
+    {
+      "iname": "UN_LW_E_TH_00_MDA",
+      "base_unit_iname": "UN_LW_E_TH_00",
+      "type": 7,
+      "atkskl": "SK_LW_MDA_ATK",
+      "jobsets": [
+        "JB_LW_MDA_FIRE"
+      ],
+      "ai": "AI_PLAYER_LW_MDA",
+      "steal": "ST_JB_STAFF",
+      "status": [
+        {
+          "hp": 345,
+          "mp": 65,
+          "ap": 75,
+          "atk": 32,
+          "def": 0,
+          "mag": 93,
+          "mnd": 0,
+          "dex": 63,
+          "spd": 30,
+          "luk": 74,
+          "asl": 10,
+          "api": 5,
+          "abl": -5,
+          "ash": -10,
+          "ama": 20,
+          "mov": 3,
+          "jmp": 1,
+          "dmax": 9999
+        },
+        {
+          "hp": 1275,
+          "mp": 102,
+          "ap": 92,
+          "atk": 54,
+          "def": 0,
+          "mag": 156,
+          "mnd": 0,
+          "dex": 93,
+          "spd": 34,
+          "luk": 104,
+          "asl": 10,
+          "api": 5,
+          "abl": -5,
+          "ash": -10,
+          "ama": 20,
           "mov": 3,
           "jmp": 1,
           "dmax": 9999

@@ -14708,8 +14708,8 @@
         {
           "point": 5,
           "type": 0,
-          "iname": "IT_KEY_LINK",
-          "num": 10
+          "iname": "IT_JBEX_UR",
+          "num": 1
         },
         {
           "point": 5,
@@ -14929,8 +14929,8 @@
         {
           "point": 5,
           "type": 0,
-          "iname": "IT_KEY_LINK",
-          "num": 10
+          "iname": "IT_JBEX_UR",
+          "num": 2
         },
         {
           "point": 5,
@@ -15160,8 +15160,8 @@
         {
           "point": 5,
           "type": 0,
-          "iname": "IT_KEY_LINK",
-          "num": 30
+          "iname": "IT_JBEX_UR",
+          "num": 3
         },
         {
           "point": 5,
@@ -40207,6 +40207,136 @@
           "point": 7,
           "type": 0,
           "iname": "IT_US_G_PU_DRIO01",
+          "num": 1
+        }
+      ]
+    },
+    {
+      "iname": "LB_LIMIT_0227",
+      "type": 6,
+      "banner": "LoginBonus_PeriodBanner_0227",
+      "priority": 2,
+      "begin_at": "2024/02/07 14:30:00",
+      "end_at": "2024/02/14 9:59:59",
+      "at_first_already_login_ok": 1,
+      "bonuses": [
+        {
+          "point": 1,
+          "type": 3,
+          "num": 200
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_ACTP_03",
+          "num": 20
+        },
+        {
+          "point": 1,
+          "type": 0,
+          "iname": "IT_UN_LB",
+          "num": 3
+        },
+        {
+          "point": 2,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_VC_EXP_04",
+          "num": 30
+        },
+        {
+          "point": 2,
+          "type": 0,
+          "iname": "IT_SB_SKP_RESET",
+          "num": 10
+        },
+        {
+          "point": 3,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_WA_EXP_03",
+          "num": 20
+        },
+        {
+          "point": 3,
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        },
+        {
+          "point": 4,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_LB_EXP_03",
+          "num": 20
+        },
+        {
+          "point": 4,
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 50
+        },
+        {
+          "point": 5,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_CG_04",
+          "num": 20
+        },
+        {
+          "point": 5,
+          "type": 0,
+          "iname": "IT_TICKET_STORY",
+          "num": 30
+        },
+        {
+          "point": 6,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_AW_VBALL_UR",
+          "num": 3
+        },
+        {
+          "point": 6,
+          "type": 0,
+          "iname": "IT_AW_VC_UR",
+          "num": 80
+        },
+        {
+          "point": 7,
+          "type": 3,
+          "num": 300
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_PI_COM_ALL",
+          "num": 1
+        },
+        {
+          "point": 7,
+          "type": 0,
+          "iname": "IT_JBEX_MM",
           "num": 1
         }
       ]
