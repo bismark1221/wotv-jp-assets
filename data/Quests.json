@@ -94702,6 +94702,98 @@
       "over_kill_iname": "OKQ_0001_02"
     },
     {
+      "iname": "QE_OK_002_01",
+      "type": 2,
+      "sect": "SE_OKC_0002",
+      "ap": 6,
+      "not_search": 1,
+      "ap0": 1,
+      "lv": 80,
+      "party_rule": "PR_NO_YOHEI",
+      "pexp": 0,
+      "uexp": 9686,
+      "gold": 1500,
+      "jp": 12,
+      "jp_skip": 12,
+      "jpt": 0,
+      "c_rewards": [
+        {
+          "type": 3,
+          "num": 50
+        }
+      ],
+      "missions": [
+        "QM_OK_001_01_1",
+        "QM_OK_001_01_2",
+        "QM_OK_001_01_3",
+        "QM_OK_001_01_4"
+      ],
+      "map": {
+        "scn": "ext_tow/ext_tow_013_A_1",
+        "set": "ok/ok_002_01_set",
+        "bgm": "law_201_battle",
+        "buffs": [
+          "BUFF_OK_002_1",
+          "BUFF_OK_002_1_2",
+          "BUFF_OK_002_1_3",
+          "BUFF_OK_002_2"
+        ]
+      },
+      "rule": {
+        "proh": [
+          5
+        ],
+        "movecnt": 99
+      },
+      "over_kill_iname": "OKQ_0002_01"
+    },
+    {
+      "iname": "QE_OK_002_02",
+      "type": 2,
+      "sect": "SE_OKC_0002",
+      "ap": 6,
+      "not_search": 1,
+      "ap0": 1,
+      "lv": 80,
+      "party_rule": "PR_NO_YOHEI",
+      "pexp": 0,
+      "uexp": 9686,
+      "gold": 1500,
+      "jp": 12,
+      "jp_skip": 12,
+      "jpt": 0,
+      "c_rewards": [
+        {
+          "type": 3,
+          "num": 50
+        }
+      ],
+      "missions": [
+        "QM_OK_001_02_1",
+        "QM_OK_001_02_2",
+        "QM_OK_001_02_3",
+        "QM_OK_001_02_4"
+      ],
+      "map": {
+        "scn": "cmn_cav/cmn_cav_002_A_1",
+        "set": "ok/ok_002_02_set",
+        "bgm": "law_201_battle",
+        "buffs": [
+          "BUFF_OK_002_1",
+          "BUFF_OK_002_1_2",
+          "BUFF_OK_002_1_3",
+          "BUFF_OK_002_2"
+        ]
+      },
+      "rule": {
+        "proh": [
+          5
+        ],
+        "movecnt": 99
+      },
+      "over_kill_iname": "OKQ_0002_02"
+    },
+    {
       "iname": "QE_PT_001_01",
       "type": 2,
       "sect": "SE_PTQ_0001",
@@ -124285,6 +124377,53 @@
       "map": {
         "scn": "lio_pla/lio_pla_041_A_1",
         "set": "ev/ev_bstc_07_set",
+        "eff": [
+          1
+        ],
+        "bgm": "law_201_battle",
+        "buffs": [
+          "BUFF_GRAID_002"
+        ]
+      },
+      "rule": {
+        "proh": [
+          5
+        ]
+      },
+      "point_const": "QC_EX_3"
+    },
+    {
+      "iname": "QE_EV_BSTC_08",
+      "type": 2,
+      "sect": "SE_EV_BSTC_08",
+      "ap": 12,
+      "extra": 1,
+      "ap0": 1,
+      "lv": 120,
+      "party_rule": "PR_NO_YOHEI",
+      "pexp": 0,
+      "uexp": 59336,
+      "gold": 1800,
+      "jp": 12,
+      "jp_skip": 12,
+      "jpt": 0,
+      "c_rewards": [
+        {
+          "type": 3,
+          "num": 50
+        }
+      ],
+      "missions": [
+        "QM_EV_BSTC_08_01",
+        "QM_EV_BSTC_08_02",
+        "QM_EV_BSTC_08_03",
+        "QM_EV_BSTC_08_04",
+        "QM_EV_BSTC_08_05",
+        "QM_EV_BSTC_08_06"
+      ],
+      "map": {
+        "scn": "lio_pla/lio_pla_053_A_1",
+        "set": "ev/ev_bstc_08_set",
         "eff": [
           1
         ],
