@@ -29307,6 +29307,62 @@
       "priority": 180,
       "start_at": "2024/02/29",
       "end_at": "2024/02/29 23:59:59"
+    },
+    {
+      "id": 2096,
+      "iname": "GachaBanner_2505",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2505",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 180,
+      "start_at": "2024/03/01",
+      "end_at": "2024/03/15 13:59:59"
+    },
+    {
+      "id": 2097,
+      "iname": "GachaBanner_2503",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2503",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 181,
+      "start_at": "2024/03/01",
+      "end_at": "2024/03/15 13:59:59"
+    },
+    {
+      "id": 2098,
+      "iname": "ev_ordr_01_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_ordr_01_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 398,
+      "start_at": "2024/03/01",
+      "end_at": "2024/03/15 13:59:59"
+    },
+    {
+      "id": 2099,
+      "iname": "LAPS_SHOP_LIMITED_0661",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0661",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 399,
+      "start_at": "2024/03/01",
+      "end_at": "2024/03/08 14:59:59"
     }
   ]
 }

@@ -355,7 +355,7 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_BFI_S_2_INIT",
+          "iname": "SK_LW_BFI_S_4",
           "rank": 5,
           "rate": 100
         }
@@ -448,7 +448,7 @@
           "rate": 100
         },
         {
-          "iname": "SK_LW_BFI_S_2_INIT",
+          "iname": "SK_LW_BFI_S_4",
           "rank": 5,
           "rate": 100
         }
@@ -658,7 +658,7 @@
       "y": 8,
       "dir": 3,
       "ct_calc": 0,
-      "ct_val": 0,
+      "ct_val": 400,
       "brave": 20,
       "faith": 20,
       "fvoff": 0,
@@ -895,7 +895,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":4,\"value\":346},{\"type\":1,\"value\":3684},{\"type\":3,\"value\":171},{\"type\":8,\"value\":208},{\"type\":10,\"value\":189},{\"type\":9,\"value\":69},{\"type\":6,\"value\":54},{\"type\":2,\"value\":169},{\"type\":11,\"value\":4},{\"type\":156,\"value\":10},{\"type\":154,\"value\":-10},{\"type\":12,\"value\":4},{\"type\":5,\"value\":10},{\"type\":254,\"value\":-10},{\"type\":253,\"value\":10},{\"type\":250,\"value\":-5},{\"type\":252,\"value\":15},{\"type\":251,\"value\":15}]}",
+      "status": "{\"list\":[{\"type\":4,\"value\":346},{\"type\":1,\"value\":3684},{\"type\":3,\"value\":171},{\"type\":8,\"value\":208},{\"type\":10,\"value\":189},{\"type\":9,\"value\":69},{\"type\":6,\"value\":54},{\"type\":2,\"value\":169},{\"type\":11,\"value\":4},{\"type\":12,\"value\":4},{\"type\":5,\"value\":10},{\"type\":254,\"value\":-10},{\"type\":253,\"value\":10},{\"type\":250,\"value\":-5},{\"type\":252,\"value\":15},{\"type\":251,\"value\":15},{\"type\":154,\"value\":10},{\"type\":152,\"value\":-10}]}",
       "groupId": "",
       "infUnit": false,
       "wave_id": 0
@@ -1687,32 +1687,32 @@
       "skills": [
         {
           "iname": "SK_LW_MNK_M_3",
-          "rank": 20,
+          "rank": 15,
           "rate": 100
         },
         {
           "iname": "SK_LW_MNK_M_1_INIT",
-          "rank": 20,
+          "rank": 15,
           "rate": 100
         },
         {
           "iname": "SK_LW_MNK_S_2_INIT",
-          "rank": 20,
+          "rank": 15,
           "rate": 100
         },
         {
           "iname": "SK_LW_MNK_M_4",
-          "rank": 20,
+          "rank": 15,
           "rate": 100
         },
         {
           "iname": "SK_LW_MNK_S_3",
-          "rank": 20,
+          "rank": 15,
           "rate": 100
         },
         {
           "iname": "SK_LW_MNK_R_1",
-          "rank": 20,
+          "rank": 15,
           "rate": 100
         },
         {
@@ -2015,11 +2015,6 @@
         },
         {
           "iname": "SK_LW_THI_S_1_INIT",
-          "rank": 20,
-          "rate": 100
-        },
-        {
-          "iname": "SK_LW_THI_S_2",
           "rank": 20,
           "rate": 100
         },

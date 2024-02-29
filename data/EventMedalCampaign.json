@@ -2028,7 +2028,8 @@
         "SE_EV_AEX_030401",
         "SE_EV_AEX_030402",
         "SE_EV_AEX_030403",
-        "SE_EV_AST_030501"
+        "SE_EV_AST_030501",
+        "SE_EV_AEX_030501"
       ],
       "event_medal_iname": "IT_EC_FF13_R_1",
       "reward_type": 0,
@@ -2141,6 +2142,31 @@
       "start": "2024/02/14 10:30:00",
       "end": "2024/03/31 23:59:59",
       "quest_type": 26,
+      "event_medal_iname": "IT_EC_FF13_R_1",
+      "reward_type": 0,
+      "event_medal_drop_weight": [
+        {
+          "drop_num": 7,
+          "drop_weight": 80
+        },
+        {
+          "drop_num": 9,
+          "drop_weight": 10
+        },
+        {
+          "drop_num": 10,
+          "drop_weight": 10
+        }
+      ]
+    },
+    {
+      "iname": "EMC_EV_2402_2",
+      "start": "2024/03/01",
+      "end": "2024/3/15  13:59:59",
+      "quest_type": 2,
+      "section_inames": [
+        "SE_EV_ORDR_01_01"
+      ],
       "event_medal_iname": "IT_EC_FF13_R_1",
       "reward_type": 0,
       "event_medal_drop_weight": [

@@ -542,6 +542,17 @@
         }
       ],
       "time_rate": 50
+    },
+    {
+      "iname": "BAC_28",
+      "begin": "2024/03/01",
+      "end": "2024/03/15 13:59:59",
+      "targets": [
+        {
+          "unit_iname": "UN_LW_P_ORDR_01"
+        }
+      ],
+      "time_rate": 50
     }
   ]
 }

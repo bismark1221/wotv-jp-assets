@@ -518,6 +518,17 @@
       ]
     },
     {
+      "drop_id": 4012,
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_ORDR_01",
+          "num": 1,
+          "rate": 100
+        }
+      ]
+    },
+    {
       "drop_id": 4011,
       "rewards": [
         {
@@ -3952,6 +3963,47 @@
           "iname": "IT_AF_MAT_LIQUID_01",
           "num": 1,
           "rate": 9050
+        },
+        {
+          "type": 0,
+          "iname": "IT_AF_MAT_LIQUID_02",
+          "num": 1,
+          "rate": 7850
+        }
+      ]
+    },
+    {
+      "drop_id": 4112,
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_SB_EXP_ICE_01",
+          "num": 1,
+          "rate": 28650
+        },
+        {
+          "type": 0,
+          "iname": "IT_JB_MM_ALL",
+          "num": 1,
+          "rate": 1500
+        },
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_ICE_R2",
+          "num": 1,
+          "rate": 6000
+        },
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_ICE_R3",
+          "num": 1,
+          "rate": 3000
+        },
+        {
+          "type": 0,
+          "iname": "IT_AF_MAT_LIQUID_01",
+          "num": 1,
+          "rate": 8950
         },
         {
           "type": 0,

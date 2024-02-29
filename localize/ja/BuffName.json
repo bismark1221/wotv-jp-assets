@@ -385,6 +385,10 @@
       "value": "風属性ユニットのHPアップ、メインジョブが刀を装備可能なユニットの攻撃・魔力アップ"
     },
     {
+      "key": "BUFF_GVG_050_1",
+      "value": "氷属性ユニットの魔力アップ、メインジョブが杖（黒魔道士など）を装備可能なユニットのHP・全属性アビリティ攻撃アップ"
+    },
+    {
       "key": "BUFF_CLASSMATCH_001",
       "value": "Cost制限540以下"
     },
@@ -16249,6 +16253,14 @@
       "value": "攻撃時バリア破壊封印"
     },
     {
+      "key": "BUFF_LW_EC_ORDR_01_C_01B_B_EN",
+      "value": "攻撃時リレイズ解除"
+    },
+    {
+      "key": "BUFF_LW_EC_ORDR_01_C_02B_B",
+      "value": "HP50%以下で回復"
+    },
+    {
       "key": "BUFF_LB_LW_FDRC_B_SB",
       "value": "クリティカル時AP回復"
     },
@@ -16731,6 +16743,10 @@
     {
       "key": "BUFF_ACC_FF13_FANG_1_EN",
       "value": "攻撃時CTアップ無効付与"
+    },
+    {
+      "key": "BUFF_ACC_LW_ORDR_01_2_EN",
+      "value": "攻撃時3ターン防御貫通率ダウン"
     },
     {
       "key": "BUFF_GUN_LW_LATH_2_1_EN",
