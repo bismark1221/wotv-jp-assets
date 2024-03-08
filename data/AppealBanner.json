@@ -29363,6 +29363,48 @@
       "priority": 399,
       "start_at": "2024/03/01",
       "end_at": "2024/03/08 14:59:59"
+    },
+    {
+      "id": 2100,
+      "iname": "GachaBanner_2524",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2524",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 178,
+      "start_at": "2024/03/08 15:00:00",
+      "end_at": "2024/03/25 9:59:59"
+    },
+    {
+      "id": 2101,
+      "iname": "GachaBanner_2522",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2522",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 179,
+      "start_at": "2024/03/08 15:00:00",
+      "end_at": "2024/03/25 9:59:59"
+    },
+    {
+      "id": 2102,
+      "iname": "LAPS_SHOP_LIMITED_0664",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0664",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 397,
+      "start_at": "2024/03/08 15:00:00",
+      "end_at": "2024/03/15 13:59:59"
     }
   ]
 }
