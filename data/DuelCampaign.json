@@ -691,6 +691,18 @@
       ]
     },
     {
+      "iname": "CMP_ARENA_240325",
+      "duel_type": 0,
+      "campaigns": [
+        {
+          "type": 0,
+          "value": 300,
+          "start_at": "2024/3/25 0:00:00",
+          "end_at": "2024/3/31 23:59:59"
+        }
+      ]
+    },
+    {
       "iname": "CMP_FREE_191127",
       "duel_type": 2,
       "campaigns": [
@@ -1107,6 +1119,18 @@
           "value": 1500,
           "start_at": "2024/2/21 5:00:00",
           "end_at": "2024/2/29 4:59:59"
+        }
+      ]
+    },
+    {
+      "iname": "CMP_FREE_240316",
+      "duel_type": 2,
+      "campaigns": [
+        {
+          "type": 0,
+          "value": 500,
+          "start_at": "2024/3/16 5:00:00",
+          "end_at": "2024/3/26 4:59:59"
         }
       ]
     }

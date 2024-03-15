@@ -1142,13 +1142,23 @@
         },
         {
           "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_VOLK_2",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 100
+        },
+        {
+          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 300
+          "weight": 200
         }
       ]
     },

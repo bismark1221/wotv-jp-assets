@@ -1078,6 +1078,21 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_AEX_030601",
+      "hurl": "ev_ast_ex_0306"
+    },
+    {
+      "iname": "SE_MU_AEX_030601",
+      "hurl": "ev_ast_ex_0306"
+    },
+    {
+      "iname": "SE_EV_AST_030601",
+      "hurl": "ev_ast_0306",
+      "o_cond_q": [
+        "QE_EV_AST_010110"
+      ]
+    },
+    {
       "iname": "SE_PTQ_FF13_R_01",
       "skip_ticket": "IT_PT_SKIP_FF13_R_1",
       "hurl": "pt_ff13_R_01",

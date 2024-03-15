@@ -180,6 +180,17 @@
       ]
     },
     {
+      "drop_id": 2010,
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_VOLK",
+          "num": 1,
+          "rate": 100
+        }
+      ]
+    },
+    {
       "drop_id": 2009,
       "rewards": [
         {
@@ -2399,6 +2410,47 @@
           "iname": "IT_ACTP_03",
           "num": 1,
           "rate": 350
+        }
+      ]
+    },
+    {
+      "drop_id": 2112,
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_SB_EXP_FIRE_01",
+          "num": 1,
+          "rate": 28650
+        },
+        {
+          "type": 0,
+          "iname": "IT_JB_MM_ALL",
+          "num": 1,
+          "rate": 1500
+        },
+        {
+          "type": 0,
+          "iname": "IT_AF_EXP_01",
+          "num": 1,
+          "rate": 12600
+        },
+        {
+          "type": 0,
+          "iname": "IT_AF_EXP_02",
+          "num": 1,
+          "rate": 7815
+        },
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_FIRE_R2",
+          "num": 1,
+          "rate": 6000
+        },
+        {
+          "type": 0,
+          "iname": "IT_UN_AW_FIRE_R3",
+          "num": 1,
+          "rate": 3000
         }
       ]
     },
