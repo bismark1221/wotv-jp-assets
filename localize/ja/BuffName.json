@@ -853,6 +853,10 @@
       "value": "ダメージ上限アップ（全攻撃タイプ：+10000、打撃攻撃：+10000、魔法攻撃：+10000、刺突攻撃：+5000）"
     },
     {
+      "key": "BUFF_GRAID_006",
+      "value": "ダメージ上限アップ（全攻撃タイプ：+10000、刺突攻撃：+10000、魔法攻撃：+10000、射撃攻撃+8000）"
+    },
+    {
       "key": "BUFF_PT_001",
       "value": "敵：レイズ無効"
     },
@@ -4779,6 +4783,10 @@
     {
       "key": "BUFF_BTL_HEAL_CT_01_EN",
       "value": "HP70%以下でCTアップ(大)(1回)"
+    },
+    {
+      "key": "BUFF_BTL_CANCELL_HAS_EN",
+      "value": "攻撃時ヘイスト解除"
     },
     {
       "key": "BUFF_IFRT_01",
@@ -16305,6 +16313,10 @@
       "value": "HP50%以下で回復"
     },
     {
+      "key": "BUFF_LW_VRRE_M_2C_EN",
+      "value": "攻撃前3ターンタイプチェイン耐性ダウン"
+    },
+    {
       "key": "BUFF_LB_LW_FDRC_B_SB",
       "value": "クリティカル時AP回復"
     },
@@ -16334,6 +16346,10 @@
     },
     {
       "key": "BUFF_LB_LW_IREZ_BB",
+      "value": "クリティカル時AP回復"
+    },
+    {
+      "key": "BUFF_LB_LW_FALM_B_S_2B",
       "value": "クリティカル時AP回復"
     },
     {
@@ -16575,6 +16591,22 @@
     {
       "key": "BUFF_LW_ROD_035_5_1_B",
       "value": "HP90%以下でCTアップ(小)"
+    },
+    {
+      "key": "BUFF_LW_ROD_035_1_2_1_B",
+      "value": "HP90%以下でCTアップ(極小)"
+    },
+    {
+      "key": "BUFF_LW_ROD_035_1_3_1_B",
+      "value": "HP90%以下でCTアップ(極小)"
+    },
+    {
+      "key": "BUFF_LW_ROD_035_1_4_1_B",
+      "value": "HP90%以下でCTアップ(小)"
+    },
+    {
+      "key": "BUFF_LW_ROD_035_1_5_1_B",
+      "value": "HP90%以下でCTアップ(中)"
     },
     {
       "key": "BUFF_LW_FIS_016_2_B",
