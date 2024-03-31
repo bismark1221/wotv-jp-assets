@@ -4657,6 +4657,46 @@
       "value": "クエスト情報<br>推奨：UnitLv.94 JobLv.14"
     },
     {
+      "key": "QE_ST_03080101",
+      "value": "クエスト情報<br>推奨：UnitLv.82 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080102",
+      "value": "クエスト情報<br>推奨：UnitLv.83 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080103",
+      "value": "クエスト情報<br>推奨：UnitLv.83 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080104",
+      "value": "クエスト情報<br>推奨：UnitLv.84 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080105",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080106",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080107",
+      "value": "クエスト情報<br>推奨：UnitLv.86 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080108",
+      "value": "クエスト情報<br>推奨：UnitLv.87 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080109",
+      "value": "クエスト情報<br>推奨：UnitLv.87 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03080110",
+      "value": "クエスト情報<br>推奨：UnitLv.92 JobLv.14"
+    },
+    {
       "key": "QE_HA_LW_MONT",
       "value": "クエスト情報<br>推奨：UnitLv.17 JobLv.3"
     },
@@ -5207,6 +5247,14 @@
     {
       "key": "QE_HA_LW_VOLK",
       "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ユニット「赫槍ヴォルケ」を獲得"
+    },
+    {
+      "key": "QE_HA_LW_JUME_01",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ユニット「春の女神ジューム」を獲得"
+    },
+    {
+      "key": "QE_HA_LW_MONT_04",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ユニット「灰王モント」を獲得"
     },
     {
       "key": "QE_CH_LW_MONT",
@@ -6913,6 +6961,14 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「王土のヴェリアス」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_JUME_01",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「春の女神ジューム」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_MONT_04",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「灰王モント」UnitLv.40以上"
+    },
+    {
       "key": "QE_EV_1100DL_FIR",
       "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
     },
@@ -8586,6 +8642,14 @@
     },
     {
       "key": "QE_EV_ORDR_01_01",
+      "value": "クエスト情報<br>・味方が全滅してもクリアとなり報酬を獲得できます<br>・このクエストでは敵からのクリスタルドロップがありません"
+    },
+    {
+      "key": "QE_EV_MONT_04_01",
+      "value": "クエスト情報<br>・味方が全滅してもクリアとなり報酬を獲得できます<br>・このクエストでは敵からのクリスタルドロップがありません"
+    },
+    {
+      "key": "QE_EV_JUME_01_01",
       "value": "クエスト情報<br>・味方が全滅してもクリアとなり報酬を獲得できます<br>・このクエストでは敵からのクリスタルドロップがありません"
     },
     {
@@ -12117,6 +12181,14 @@
       "value": "クエスト情報<br>なし"
     },
     {
+      "key": "QE_EV_ART_CRF_88",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_ART_CRF_89",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_EV_ART_CRF_13",
       "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9<br>ヒント：狩人は高台に登れるユニットで対処しよう"
     },
@@ -13678,6 +13750,14 @@
     },
     {
       "key": "QE_RAID_RV_06_08",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_AEX_316_3",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_AEX_316_4",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -16025,6 +16105,22 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。<br>有効な攻略方法：このボスにはCTダウンと素早さダウンが効果的です。<br>マップ効果：初期AP+60、リアクション阻止率+100、全攻撃タイプ：+10000、刺突攻撃：+10000、魔法攻撃：+10000、射撃攻撃：+8000"
     },
     {
+      "key": "QE_MU_ART_CRF_88",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_89",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
+    },
+    {
+      "key": "QE_MU_AEX_316_3",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_AEX_316_4",
+      "value": "クエスト情報<br>なし"
+    },
+    {
       "key": "QE_MU_AEX_316_1",
       "value": "クエスト情報<br>なし"
     },
@@ -18158,6 +18254,10 @@
     },
     {
       "key": "QE_PVP_FRE_0018",
+      "value": "なし"
+    },
+    {
+      "key": "QE_PVP_FRI_0149",
       "value": "なし"
     },
     {

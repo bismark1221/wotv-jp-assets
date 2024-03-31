@@ -8178,7 +8178,7 @@
           "num": 4001
         }
       ],
-      "chk_ver": "CM_PRO_406_v02"
+      "chk_ver": "CM_PRO_406_v03"
     },
     {
       "iname": "CM_PRO_407",
@@ -8198,7 +8198,7 @@
           "num": 401
         }
       ],
-      "chk_ver": "CM_PRO_407_v02"
+      "chk_ver": "CM_PRO_407_v03"
     },
     {
       "iname": "CM_PRO_408",
@@ -8218,7 +8218,7 @@
           "num": 41
         }
       ],
-      "chk_ver": "CM_PRO_408_v02"
+      "chk_ver": "CM_PRO_408_v03"
     },
     {
       "iname": "CM_PRO_409",
@@ -8238,7 +8238,7 @@
           "num": 4001
         }
       ],
-      "chk_ver": "CM_PRO_409_v02"
+      "chk_ver": "CM_PRO_409_v03"
     },
     {
       "iname": "CM_PRO_410",
@@ -8261,7 +8261,7 @@
           "num": 401
         }
       ],
-      "chk_ver": "CM_PRO_410_v02"
+      "chk_ver": "CM_PRO_410_v03"
     },
     {
       "iname": "CM_PRO_411",
@@ -8281,7 +8281,7 @@
           "num": 41
         }
       ],
-      "chk_ver": "CM_PRO_411_v02"
+      "chk_ver": "CM_PRO_411_v03"
     },
     {
       "iname": "CM_PRO_412",
@@ -8301,7 +8301,7 @@
           "num": 41
         }
       ],
-      "chk_ver": "CM_PRO_412_v02"
+      "chk_ver": "CM_PRO_412_v03"
     },
     {
       "iname": "CM_PRO_413",
@@ -8321,7 +8321,7 @@
           "num": 41
         }
       ],
-      "chk_ver": "CM_PRO_413_v02"
+      "chk_ver": "CM_PRO_413_v03"
     },
     {
       "iname": "CM_PRO_414",
@@ -8341,7 +8341,7 @@
           "num": 1
         }
       ],
-      "chk_ver": "CM_PRO_414_v02"
+      "chk_ver": "CM_PRO_414_v03"
     },
     {
       "iname": "CM_PRO_415",
@@ -38622,6 +38622,366 @@
         }
       ],
       "chk_ver": "CM_PRO_1926"
+    },
+    {
+      "iname": "CM_PRO_1927",
+      "index": 1,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JUME_01"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1927"
+    },
+    {
+      "iname": "CM_PRO_1928",
+      "index": 2,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 84,
+        "sval": [
+          "UN_LW_P_JUME_01"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1928"
+    },
+    {
+      "iname": "CM_PRO_1929",
+      "index": 3,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JUME_01"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JUME_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_1929"
+    },
+    {
+      "iname": "CM_PRO_1930",
+      "index": 4,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_JUME_01,JB_LW_JUME_01"
+        ],
+        "ival": 6
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JUME_01",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_1930"
+    },
+    {
+      "iname": "CM_PRO_1931",
+      "index": 5,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JUME_01"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JUME_01",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_1931"
+    },
+    {
+      "iname": "CM_PRO_1932",
+      "index": 6,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_JUME_01,JB_LW_JUME_01"
+        ],
+        "ival": 9
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JUME_01",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_1932"
+    },
+    {
+      "iname": "CM_PRO_1933",
+      "index": 7,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JUME_01"
+        ],
+        "ival": 60
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JUME_01",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_1933"
+    },
+    {
+      "iname": "CM_PRO_1934",
+      "index": 8,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JUME_01"
+        ],
+        "ival": 70
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JUME_01",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_1934"
+    },
+    {
+      "iname": "CM_PRO_1935",
+      "index": 9,
+      "grpID": "CM_PRO_189_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_JUME_01"
+        ],
+        "ival": 75
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_JUME_01",
+          "num": 30
+        }
+      ],
+      "chk_ver": "CM_PRO_1935"
+    },
+    {
+      "iname": "CM_PRO_1936",
+      "index": 1,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_MONT_04"
+        ],
+        "ival": 30
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_KEY_JP",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1936"
+    },
+    {
+      "iname": "CM_PRO_1937",
+      "index": 2,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 84,
+        "sval": [
+          "UN_LW_P_MONT_04"
+        ],
+        "ival": 1
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_JP_UP_04",
+          "num": 5
+        }
+      ],
+      "chk_ver": "CM_PRO_1937"
+    },
+    {
+      "iname": "CM_PRO_1938",
+      "index": 3,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_MONT_04"
+        ],
+        "ival": 40
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_MONT_04",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_1938"
+    },
+    {
+      "iname": "CM_PRO_1939",
+      "index": 4,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_MONT_04,JB_LW_MONT_04"
+        ],
+        "ival": 6
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_MONT_04",
+          "num": 10
+        }
+      ],
+      "chk_ver": "CM_PRO_1939"
+    },
+    {
+      "iname": "CM_PRO_1940",
+      "index": 5,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_MONT_04"
+        ],
+        "ival": 50
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_MONT_04",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_1940"
+    },
+    {
+      "iname": "CM_PRO_1941",
+      "index": 6,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 20,
+        "sval": [
+          "UN_LW_P_MONT_04,JB_LW_MONT_04"
+        ],
+        "ival": 9
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_MONT_04",
+          "num": 15
+        }
+      ],
+      "chk_ver": "CM_PRO_1941"
+    },
+    {
+      "iname": "CM_PRO_1942",
+      "index": 7,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_MONT_04"
+        ],
+        "ival": 60
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_MONT_04",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_1942"
+    },
+    {
+      "iname": "CM_PRO_1943",
+      "index": 8,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_MONT_04"
+        ],
+        "ival": 70
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_MONT_04",
+          "num": 20
+        }
+      ],
+      "chk_ver": "CM_PRO_1943"
+    },
+    {
+      "iname": "CM_PRO_1944",
+      "index": 9,
+      "grpID": "CM_PRO_190_1",
+      "condition": {
+        "type": 16,
+        "sval": [
+          "UN_LW_P_MONT_04"
+        ],
+        "ival": 75
+      },
+      "rewards": [
+        {
+          "type": 0,
+          "iname": "IT_PI_LW_MONT_04",
+          "num": 30
+        }
+      ],
+      "chk_ver": "CM_PRO_1944"
     }
   ]
 }

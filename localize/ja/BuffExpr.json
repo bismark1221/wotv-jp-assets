@@ -397,6 +397,10 @@
       "value": "氷属性ユニットの魔力アップ、メインジョブが杖（黒魔道士など）を装備可能なユニットのHP・全属性アビリティ攻撃アップ"
     },
     {
+      "key": "BUFF_GVG_051_1",
+      "value": "土・水属性ユニットの弱体抵抗率アップ、剣(ナイトなど)・大剣ユニットのHP・攻撃アップ"
+    },
+    {
       "key": "BUFF_CLASSMATCH_001",
       "value": "Cost制限540以下"
     },
@@ -1093,6 +1097,26 @@
       "value": "ユニットのステータスを強化する"
     },
     {
+      "key": "BUFF_UN_BD_BUFF_HP_01_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_02_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_03_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_04_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HP_05_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
       "key": "BUFF_UN_BD_BUFF_MP_01",
       "value": "ユニットのステータスを強化する"
     },
@@ -1153,6 +1177,26 @@
       "value": "ユニットのステータスを強化する"
     },
     {
+      "key": "BUFF_UN_BD_BUFF_AT_01_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_02_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_03_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_04_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AT_05_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
       "key": "BUFF_UN_BD_BUFF_DF_01",
       "value": "物理ダメージを軽減する"
     },
@@ -1190,6 +1234,26 @@
     },
     {
       "key": "BUFF_UN_BD_BUFF_MA_05",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_01_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_02_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_03_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_04_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_MA_05_B",
       "value": "ユニットのステータスを強化する"
     },
     {
@@ -1233,6 +1297,26 @@
       "value": "ユニットのステータスを強化する"
     },
     {
+      "key": "BUFF_UN_BD_BUFF_DX_01_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_02_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_03_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_04_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_DX_05_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
       "key": "BUFF_UN_BD_BUFF_SD_01",
       "value": "ユニットのステータスを強化する"
     },
@@ -1273,6 +1357,26 @@
       "value": "ユニットのステータスを強化する"
     },
     {
+      "key": "BUFF_UN_BD_BUFF_LK_01_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_02_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_03_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_04_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_LK_05_B",
+      "value": "ユニットのステータスを強化する"
+    },
+    {
       "key": "BUFF_UN_BD_BUFF_CR_01",
       "value": "攻撃時のクリティカル発生率が上昇"
     },
@@ -1291,6 +1395,66 @@
     {
       "key": "BUFF_UN_BD_BUFF_CR_05",
       "value": "攻撃時のクリティカル発生率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CA_01",
+      "value": "クリティカル回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CA_02",
+      "value": "クリティカル回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CA_03",
+      "value": "クリティカル回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CA_04",
+      "value": "クリティカル回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_CA_05",
+      "value": "クリティカル回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HT_01",
+      "value": "攻撃時の命中率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HT_02",
+      "value": "攻撃時の命中率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HT_03",
+      "value": "攻撃時の命中率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HT_04",
+      "value": "攻撃時の命中率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_HT_05",
+      "value": "攻撃時の命中率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AV_01",
+      "value": "回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AV_02",
+      "value": "回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AV_03",
+      "value": "回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AV_04",
+      "value": "回避率が上昇"
+    },
+    {
+      "key": "BUFF_UN_BD_BUFF_AV_05",
+      "value": "回避率が上昇"
     },
     {
       "key": "BUFF_UN_BD_BUFF_HP_15_PER",
