@@ -1084,6 +1084,20 @@
       "hurl": "ev_arna_01"
     },
     {
+      "iname": "SE_EV_VC_BRVE_01",
+      "hurl": "ev_vc_brave_01",
+      "open_cond": [
+        "COND_VC_LW_BRAVE"
+      ]
+    },
+    {
+      "iname": "SE_EV_AST_030701",
+      "hurl": "ev_ast_0307",
+      "o_cond_q": [
+        "QE_EV_AST_010110"
+      ]
+    },
+    {
       "iname": "SE_EV_GL4ANV_1",
       "limit": 1,
       "hurl": "ev_GL4Anv_01"

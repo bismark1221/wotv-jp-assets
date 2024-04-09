@@ -6793,12 +6793,24 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ディアルド」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_DARD_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ディアルド」UnitLv.80以上<br>「キャラクタークエスト　ディアルド」をクリア"
+    },
+    {
       "key": "QE_CH_LW_HWLT_01",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「天剣騎ハウレット」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_HW_01_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「天剣騎ハウレット」UnitLv.80以上<br>「キャラクタークエスト　天剣騎ハウレット」をクリア"
+    },
+    {
       "key": "QE_CH_LW_DIAA",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ディアー」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_DIAA_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「ディアー」UnitLv.80以上<br>「キャラクタークエスト　ディアー」をクリア"
     },
     {
       "key": "QE_CH_LW_RUFF",
@@ -7659,6 +7671,46 @@
     {
       "key": "QE_EV_ARNA_01",
       "value": "クエスト情報<br>解放条件：ユニット「アラネア」を獲得"
+    },
+    {
+      "key": "QE_EV_AST_030701",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.13"
+    },
+    {
+      "key": "QE_EV_AST_030702",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_EV_AST_030703",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_EV_AST_030704",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_EV_AST_030705",
+      "value": "クエスト情報<br>推奨：UnitLv.90 JobLv.14"
+    },
+    {
+      "key": "QE_EV_AST_030706",
+      "value": "クエスト情報<br>推奨：UnitLv.90 JobLv.14"
+    },
+    {
+      "key": "QE_EV_AST_030707",
+      "value": "クエスト情報<br>推奨：UnitLv.90 JobLv.14"
+    },
+    {
+      "key": "QE_EV_AST_030708",
+      "value": "クエスト情報<br>推奨：UnitLv.95 JobLv.14"
+    },
+    {
+      "key": "QE_EV_AST_030709",
+      "value": "クエスト情報<br>推奨：UnitLv.95 JobLv.14"
+    },
+    {
+      "key": "QE_EV_AST_030710",
+      "value": "クエスト情報<br>推奨：UnitLv.99 JobLv.15"
     },
     {
       "key": "QE_EV_AST_030601",
@@ -12969,6 +13021,30 @@
       "value": "クエスト情報<br>ボスの属性/風<br>弱点/斬撃攻撃"
     },
     {
+      "key": "QE_RAID_EV_36_01",
+      "value": "クエスト情報<br>ボスの属性/火<br>弱点/斬撃攻撃"
+    },
+    {
+      "key": "QE_RAID_EV_36_02",
+      "value": "クエスト情報<br>ボスの属性/火<br>弱点/斬撃攻撃"
+    },
+    {
+      "key": "QE_RAID_EV_36_03",
+      "value": "クエスト情報<br>ボスの属性/火<br>弱点/斬撃攻撃"
+    },
+    {
+      "key": "QE_RAID_EV_36_04",
+      "value": "クエスト情報<br>ボスの属性/雷<br>弱点/斬撃攻撃"
+    },
+    {
+      "key": "QE_RAID_EV_36_05",
+      "value": "クエスト情報<br>ボスの属性/雷<br>弱点/斬撃攻撃"
+    },
+    {
+      "key": "QE_RAID_EV_36_06",
+      "value": "クエスト情報<br>ボスの属性/雷<br>弱点/斬撃攻撃"
+    },
+    {
       "key": "QE_EV_ETRE_01",
       "value": "クエスト情報<br>なし"
     },
@@ -13279,6 +13355,18 @@
     {
       "key": "QE_EV_VC_NIER_3",
       "value": "クエスト情報<br>・このクエストでは敵からのクリスタルドロップがありません。HPが0になった敵はターンを待たずに消えます。<br>・おすすめパーティ：土属性<br>・有効：打撃攻撃、必中、治癒力ダウン<br>"
+    },
+    {
+      "key": "QE_EV_VC_BRAVE_1",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_VC_BRAVE_2",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_VC_BRAVE_3",
+      "value": "クエスト情報<br>・このクエストでは敵からのクリスタルドロップがありません。HPが0になった敵はターンを待たずに消えます。<br>・おすすめパーティー：水属性<br>・有効：斬撃攻撃、ドンムブ、混乱<br>"
     },
     {
       "key": "QE_EV_CWEL_01",
@@ -15426,6 +15514,14 @@
     },
     {
       "key": "QE_SB_SNRY_02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_SB_TITN_01_01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_SB_TITN_01_02",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -19411,6 +19507,10 @@
     {
       "key": "QE_VC_LW_VOLK",
       "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「残された恵み」を獲得"
+    },
+    {
+      "key": "QE_VC_LW_TITN01",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「崩潰巨人　ダークタイタン」を獲得"
     },
     {
       "key": "QE_HD_SKIP",
