@@ -85,6 +85,10 @@
       "value": "耐性割合ダウン"
     },
     {
+      "key": "BUFF_Failure",
+      "value": "失敗"
+    },
+    {
       "key": "BUFFHEAL_Hp",
       "value": "HP回復"
     },
@@ -589,6 +593,10 @@
       "value": "戦闘不能時スキル"
     },
     {
+      "key": "BUFF_CondDisableHeal",
+      "value": "呪い"
+    },
+    {
       "key": "BUFF_OtherInitAp",
       "value": "初期AP"
     },
@@ -1043,6 +1051,14 @@
     {
       "key": "BUFF_OtherBuffRedRate",
       "value": "強化反映率"
+    },
+    {
+      "key": "BUFF_OtherOneAttackResistIgnore",
+      "value": "単体攻撃耐性貫通率"
+    },
+    {
+      "key": "BUFF_OtherRangeAttackResistIgnore",
+      "value": "範囲攻撃耐性貫通率"
     },
     {
       "key": "BUFF_UnitTagFloating",
@@ -1965,6 +1981,18 @@
       "value": "魔法攻撃時灰王軍キラー"
     },
     {
+      "key": "BUFF_KillerBirthFF7AC",
+      "value": "FFⅦ ADVENT CHILDRENキラー"
+    },
+    {
+      "key": "BUFF_KillerBirthPFF7AC",
+      "value": "物理攻撃時FFⅦ ADVENT CHILDRENキラー"
+    },
+    {
+      "key": "BUFF_KillerBirthMFF7AC",
+      "value": "魔法攻撃時FFⅦ ADVENT CHILDRENキラー"
+    },
+    {
       "key": "BUFF_KillerBirthDamageUnknown",
       "value": "出身不明固定ダメージ"
     },
@@ -2123,6 +2151,10 @@
     {
       "key": "BUFF_KillerBirthDamageKaiou",
       "value": "灰王軍固定ダメージ"
+    },
+    {
+      "key": "BUFF_KillerBirthDamageFF7AC",
+      "value": "FFⅦ ADVENT CHILDREN固定ダメージ"
     },
     {
       "key": "BUFF_KillerUnitTagFloating",
@@ -2363,6 +2395,10 @@
     {
       "key": "BUFF_ResistBirthKaiou",
       "value": "灰王軍耐性"
+    },
+    {
+      "key": "BUFF_ResistBirthFF7AC",
+      "value": "FFⅦ ADVENT CHILDREN耐性"
     },
     {
       "key": "BUFF_ResistSpeciesHuman",

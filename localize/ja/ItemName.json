@@ -3773,6 +3773,46 @@
       "value": "春陽の花剣の記憶・緋"
     },
     {
+      "key": "IT_JB_MM_FF7AC_CLUD",
+      "value": "決意のソルジャーの記憶・翠"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_CLUD2",
+      "value": "決意のソルジャーの記憶・碧"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_CLUD3",
+      "value": "決意のソルジャーの記憶・紫"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_CLUD4",
+      "value": "決意のソルジャーの記憶・橘"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_CLUD5",
+      "value": "決意のソルジャーの記憶・緋"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_TIFA",
+      "value": "ザンガン流格闘家の記憶・翠"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_TIFA2",
+      "value": "ザンガン流格闘家の記憶・碧"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_TIFA3",
+      "value": "ザンガン流格闘家の記憶・紫"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_TIFA4",
+      "value": "ザンガン流格闘家の記憶・橘"
+    },
+    {
+      "key": "IT_JB_MM_FF7AC_TIFA5",
+      "value": "ザンガン流格闘家の記憶・緋"
+    },
+    {
       "key": "IT_JB_EM_FIRE_1",
       "value": "火の輝石・翠"
     },
@@ -5389,6 +5429,14 @@
       "value": "春の女神ジュームの欠片"
     },
     {
+      "key": "IT_PI_FF7AC_CLUD",
+      "value": "クラウド（FFⅦAC）の欠片"
+    },
+    {
+      "key": "IT_PI_FF7AC_TIFA",
+      "value": "ティファ（FFⅦAC）の欠片"
+    },
+    {
       "key": "IT_SP_LW_MONT",
       "value": "モント・リオニスの思珠"
     },
@@ -6179,6 +6227,10 @@
     {
       "key": "IT_SP_LW_JUME_01",
       "value": "春の女神ジュームの思珠"
+    },
+    {
+      "key": "IT_SP_FF7AC_UR",
+      "value": "【FFⅦAC】ユニットの思珠（UR）"
     },
     {
       "key": "IT_SP_LW_ALL_UR",
@@ -8601,6 +8653,10 @@
       "value": "アーミープレートのクラフトレシピ"
     },
     {
+      "key": "IT_AF_FF7AC_BSW_000",
+      "value": "合体剣のクラフトレシピ"
+    },
+    {
       "key": "IT_AF_SUP_HP",
       "value": "命の刻印"
     },
@@ -10561,6 +10617,18 @@
       "value": "【FFⅨ】裁きの試練メダル"
     },
     {
+      "key": "IT_EC_FF7AC_1",
+      "value": "FFⅦACコラボイベントメダル"
+    },
+    {
+      "key": "IT_EC_FF7AC_2_A",
+      "value": "FFⅦACコラボユニット召喚メダルA"
+    },
+    {
+      "key": "IT_EC_FF7AC_3_A",
+      "value": "FFⅦACコラボビジョン召喚メダルA"
+    },
+    {
       "key": "IT_EC_JUME_01",
       "value": "ジューム登場記念ログインメダル"
     },
@@ -10913,6 +10981,10 @@
       "value": "【GL版3周年】大還元祭スペシャル召喚券"
     },
     {
+      "key": "IT_US_G_GL4thANV_SP",
+      "value": "【GL版4周年】大還元祭スペシャル召喚券"
+    },
+    {
       "key": "IT_US_G_TANABATA_01",
       "value": "スペシャル七夕召喚券"
     },
@@ -10999,6 +11071,10 @@
     {
       "key": "IT_US_G_10_U_UR_04",
       "value": "【4周年記念】URユニット4体確定10連召喚券"
+    },
+    {
+      "key": "IT_US_G_10_U_UR_05",
+      "value": "Cost100URユニット1体確定10連召喚券B"
     },
     {
       "key": "IT_US_G_V_SR_UR_01",
@@ -12425,6 +12501,22 @@
       "value": "【灰王モント】幻影アポカリプスフェス10連召喚券"
     },
     {
+      "key": "IT_US_G_PU_CLUDAC_10",
+      "value": "【クラウド（FFⅦAC）】ピックアップ10連召喚券"
+    },
+    {
+      "key": "IT_US_G_PU_TIFAAC_10",
+      "value": "【ティファ（FFⅦAC）】ピックアップ10連召喚券"
+    },
+    {
+      "key": "IT_US_G_10_BG_CLUDAC",
+      "value": "【初心者限定】クラウド（FFⅦAC）ピックアップ10連召喚券"
+    },
+    {
+      "key": "IT_US_G_10_CB_CLUDAC",
+      "value": "【カムバック】クラウド（FFⅦAC）ピックアップ10連召喚券"
+    },
+    {
       "key": "IT_US_G_WE_01",
       "value": "ウィークエンド召喚券"
     },
@@ -13063,6 +13155,14 @@
     {
       "key": "IT_US_SE_VPI_109",
       "value": "【GL版4周年記念第2弾】URVカード欠片×25選択召喚券"
+    },
+    {
+      "key": "IT_US_SE_VPI_110",
+      "value": "【GL版4周年記念第3弾】URVカード欠片×100選択召喚券"
+    },
+    {
+      "key": "IT_US_SE_VPI_111",
+      "value": "【GL版4周年記念第3弾】URVカード欠片×25選択召喚券"
     },
     {
       "key": "IT_US_SE_PI_01",
@@ -14069,6 +14169,10 @@
       "value": "【GL版4周年記念第2弾】URユニット欠片×200選択召喚券"
     },
     {
+      "key": "IT_US_SE_PI_252",
+      "value": "【カムバック限定】URユニット欠片×200選択召喚券B"
+    },
+    {
       "key": "IT_US_SE_UR_U_02",
       "value": "おすすめURユニット選択召喚券"
     },
@@ -14119,6 +14223,10 @@
     {
       "key": "IT_US_SE_UR_U_08",
       "value": "【カムバック限定】URユニット選択召喚券"
+    },
+    {
+      "key": "IT_US_SE_UR_U_09",
+      "value": "【カムバック限定】URユニット選択召喚券B"
     },
     {
       "key": "IT_US_SE_R_UR_V_02",
@@ -15341,6 +15449,10 @@
       "value": "【24年2月】放送局選択召喚券D"
     },
     {
+      "key": "IT_US_SE_LBC_COM27",
+      "value": "【24年4月】公式放送選択召喚券"
+    },
+    {
       "key": "IT_US_G_U_SSR_UR_02",
       "value": "SSR以上確定ユニット召喚券B"
     },
@@ -16007,6 +16119,10 @@
     {
       "key": "IT_VPI_LW_TITN_01",
       "value": "崩潰巨人　ダークタイタンの欠片"
+    },
+    {
+      "key": "IT_VPI_FF7AC_MV1",
+      "value": "ADVENT CHILDRENの欠片"
     },
     {
       "key": "IT_VPI_LW_IGNT",

@@ -217,6 +217,10 @@
       "value": "メインジョブが槍を装備可能なユニットの素早さアップ"
     },
     {
+      "key": "BUFF_ARENA_00065_1",
+      "value": "氷・水・光属性ユニットの弱体抵抗率アップ、メインジョブが大剣・拳・刀を装備可能なユニットの攻撃アップ"
+    },
+    {
       "key": "BUFF_GVG_001",
       "value": "闇属性アビリティ攻撃アップ"
     },
@@ -665,6 +669,10 @@
       "value": "攻撃範囲が広いほど物理被ダメージ軽減+15、クイック無効"
     },
     {
+      "key": "BUFF_DRAFTMATCH_016_1",
+      "value": "精神+20、毒・スロウ無効"
+    },
+    {
       "key": "BUFF_FRIENDMATCH_001",
       "value": "ヘイスト無効"
     },
@@ -751,6 +759,10 @@
     {
       "key": "BUFF_FRIENDMATCH_111_1",
       "value": "クイック・睡眠無効、リアクション阻止率+100（フリーマッチルール）"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_112_1",
+      "value": "精神+20、毒・スロウ無効（フリーマッチルール）"
     },
     {
       "key": "BUFF_01130310",
@@ -16677,6 +16689,18 @@
       "value": "攻撃時ガッツ解除封印"
     },
     {
+      "key": "BUFF_FF7AC_CLUD_S_2_2_EN",
+      "value": "攻撃時シェル解除封印"
+    },
+    {
+      "key": "BUFF_FF7AC_EC_CLUD_C_02B_2B",
+      "value": "攻撃前プロテス解除"
+    },
+    {
+      "key": "BUFF_FF7AC_TIFA_S_2_2_EN",
+      "value": "攻撃時3ターン打撃攻撃耐性ダウン"
+    },
+    {
       "key": "BUFF_LB_LW_FDRC_B_SB",
       "value": "クリティカル時AP回復"
     },
@@ -17135,6 +17159,10 @@
     {
       "key": "BUFF_LW_SPE_031_5_EN",
       "value": "クリティカル時1ターン精神アップ"
+    },
+    {
+      "key": "BUFF_FF7AC_FIS_000_5_EN",
+      "value": "クリティカル時対象にAPダメージ"
     },
     {
       "key": "BUFF_LW_PLUS6_CRT_ATKMGK_UP_EN",
