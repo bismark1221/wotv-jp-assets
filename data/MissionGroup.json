@@ -291,7 +291,23 @@
       "type": 1,
       "category": 1,
       "gaugeID": "MPG_DAILY_036",
-      "begin_at": "2023/11/01 5:00:00"
+      "begin_at": "2023/11/01 5:00:00",
+      "end_at": "2024/04/24 4:59:59"
+    },
+    {
+      "iname": "MG_DAILY_037R",
+      "type": 1,
+      "category": 1,
+      "gaugeID": "MPG_DAILY_037",
+      "begin_at": "2024/04/24 5:00:00",
+      "end_at": "2024/05/10 4:59:59"
+    },
+    {
+      "iname": "MG_DAILY_038R",
+      "type": 1,
+      "category": 1,
+      "gaugeID": "MPG_DAILY_038",
+      "begin_at": "2024/05/10 5:00:00"
     },
     {
       "iname": "MG_DAILY_002_1",
@@ -2520,6 +2536,13 @@
       "end_at": "2024/03/31 23:59:59"
     },
     {
+      "iname": "MG_DAILY_051_1",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2024/04/23 15:00:00",
+      "end_at": "2024/05/09 14:59:59"
+    },
+    {
       "iname": "MG_STORY_001",
       "type": 2,
       "category": 3
@@ -2591,6 +2614,34 @@
       "type": 2,
       "category": 2,
       "begin_at": "2024/04/16 10:30:00",
+      "end_at": "2024/05/24 14:59:59"
+    },
+    {
+      "iname": "MG_FF7AC_1_05",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2024/04/23 15:00:00",
+      "end_at": "2024/05/24 14:59:59"
+    },
+    {
+      "iname": "MG_MU_FF7AC_1_04",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2024/04/23 15:00:00",
+      "end_at": "2024/05/24 14:59:59"
+    },
+    {
+      "iname": "MG_FF7AC_1_06",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2024/04/23 15:00:00",
+      "end_at": "2024/05/24 14:59:59"
+    },
+    {
+      "iname": "MG_MU_FF7AC_1_05",
+      "type": 2,
+      "category": 2,
+      "begin_at": "2024/04/23 15:00:00",
       "end_at": "2024/05/24 14:59:59"
     },
     {
