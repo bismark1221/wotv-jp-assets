@@ -2845,11 +2845,23 @@
       "value": "アイアンバーサーカー"
     },
     {
+      "key": "SK_IGNT_M_01_RP1",
+      "value": "アイアンバーサーカー"
+    },
+    {
       "key": "SK_IGNT_M_02",
       "value": "パワーウェイブ"
     },
     {
+      "key": "SK_IGNT_M_02_RP1",
+      "value": "パワーウェイブ"
+    },
+    {
       "key": "SK_IGNT_M_03",
+      "value": "なぎ払い"
+    },
+    {
+      "key": "SK_IGNT_M_03_RP1",
       "value": "なぎ払い"
     },
     {
@@ -3939,6 +3951,34 @@
     {
       "key": "SK_UMWP_P_01_EN",
       "value": "HP30%以下でHP回復"
+    },
+    {
+      "key": "SK_E_MONT_04_1",
+      "value": "忠速剣"
+    },
+    {
+      "key": "SK_E_MONT_04_2",
+      "value": "孝活飛刃"
+    },
+    {
+      "key": "SK_E_MONT_04_3",
+      "value": "灰の暗剣"
+    },
+    {
+      "key": "SK_E_MONT_04_4",
+      "value": "解凰旋剣"
+    },
+    {
+      "key": "SK_E_MONT_04_5",
+      "value": "双刈二連閃"
+    },
+    {
+      "key": "SK_E_MONT_04_6",
+      "value": "双焔の幻"
+    },
+    {
+      "key": "SK_E_MONT_04_LB",
+      "value": "ビジョン召喚・灰塵"
     },
     {
       "key": "SK_BAHM_01_ATK",
@@ -5973,6 +6013,10 @@
       "value": "状態異常【睡眠】確率1-100アップ"
     },
     {
+      "key": "SK_BTL_SLEEP_1-100_D",
+      "value": "状態異常【睡眠】確率1-100ダウン"
+    },
+    {
       "key": "SK_BTL_CONFU_1-100_U",
       "value": "状態異常【混乱】確率1-100アップ"
     },
@@ -6241,6 +6285,10 @@
       "value": "エレメントチェイン耐性1-100アップ"
     },
     {
+      "key": "SK_BTL_RES_TYPCHAIN_1_100_U",
+      "value": "タイプチェイン耐性1-100アップ"
+    },
+    {
       "key": "SK_BTL_RES_TYPCHAIN_1_100_D",
       "value": "▼タイプチェイン耐性1-100ダウン"
     },
@@ -6255,6 +6303,10 @@
     {
       "key": "SK_BTL_TPVOI_1_999_U",
       "value": "TP攻撃回避率1-999アップ"
+    },
+    {
+      "key": "SK_BTL_RESWIDEDMG_1-100",
+      "value": "攻撃範囲が広いほど被ダメージを軽減1-100"
     },
     {
       "key": "SK_BTL_INVINCIBLE",
@@ -19550,7 +19602,7 @@
     },
     {
       "key": "SK_FF7AC_KDAJ_M_1",
-      "value": "連双天堕"
+      "value": "連双天墜"
     },
     {
       "key": "SK_FF7AC_KDAJ_M_2",
@@ -19615,6 +19667,78 @@
     {
       "key": "SK_FF7AC_EC_KDAJ_C_02B",
       "value": "星への復讐"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_M_1",
+      "value": "震空"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_M_2",
+      "value": "動地"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_M_3",
+      "value": "ライフストリームとともに"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_S_1",
+      "value": "一穿"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_S_2",
+      "value": "黒翼の構え"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_S_3",
+      "value": "狂天"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_S_4",
+      "value": "永遠の悪夢"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_R_1",
+      "value": "刹那"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_R_2",
+      "value": "瞬閃"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_P_1",
+      "value": "歴戦の英雄"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_P_2",
+      "value": "漆黒の片翼"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_EN_A_01",
+      "value": "炎薙"
+    },
+    {
+      "key": "SK_FF7AC_SPRT_EN_A_01_B",
+      "value": "炎薙"
+    },
+    {
+      "key": "SK_FF7AC_EC_SPRT_C_01",
+      "value": "震空強化"
+    },
+    {
+      "key": "SK_FF7AC_EC_SPRT_C_01B",
+      "value": "震空・改"
+    },
+    {
+      "key": "SK_FF7AC_EC_SPRT_C_02",
+      "value": "歴戦の英雄強化"
+    },
+    {
+      "key": "SK_FF7AC_EC_SPRT_C_02B",
+      "value": "英雄のカリスマ"
     },
     {
       "key": "SK_LB_LW_MONT",
@@ -20409,6 +20533,10 @@
       "value": "華麗なる水罰"
     },
     {
+      "key": "SK_LB_FF7AC_SPRT",
+      "value": "絶刀一擲"
+    },
+    {
       "key": "SK_LB_LW_MONT_B",
       "value": "デスティニークロス"
     },
@@ -20757,6 +20885,10 @@
       "value": "超速八連刃"
     },
     {
+      "key": "SK_LB_LW_LCIO_B",
+      "value": "ルミナスエンド"
+    },
+    {
       "key": "SK_LB_LW_MONT_B_CH",
       "value": "デスティニークロス強化"
     },
@@ -21079,6 +21211,10 @@
     {
       "key": "SK_LB_LW_REGN_B_CH",
       "value": "超速八連刃強化"
+    },
+    {
+      "key": "SK_LB_LW_LCIO_B_CH",
+      "value": "ルミナスエンド強化"
     },
     {
       "key": "SK_LW_EC_MONT_A_01",
@@ -25337,6 +25473,10 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_FF7AC_SPRT",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_UES_FF7_CLUD",
       "value": "クラウド夢幻転生パッシブ"
     },
@@ -27009,6 +27149,10 @@
       "value": "カダージュ夢幻転生パッシブ"
     },
     {
+      "key": "SK_UES_FF7AC_SPRT",
+      "value": "セフィロス（FFⅦAC）夢幻転生パッシブ"
+    },
+    {
       "key": "SK_LW_SLASH_1",
       "value": "斬撃攻撃力+2"
     },
@@ -28065,6 +28209,46 @@
       "value": "クリティカルダメージ耐性+10"
     },
     {
+      "key": "SK_LW_DF_ELEMENT_1",
+      "value": "エレチェ耐性+8"
+    },
+    {
+      "key": "SK_LW_DF_ELEMENT_2",
+      "value": "エレチェ耐性+10"
+    },
+    {
+      "key": "SK_LW_DF_ELEMENT_3",
+      "value": "エレチェ耐性+15"
+    },
+    {
+      "key": "SK_LW_DF_ELEMENT_4",
+      "value": "エレチェ耐性+20"
+    },
+    {
+      "key": "SK_LW_DF_ELEMENT_5",
+      "value": "エレチェ耐性+25"
+    },
+    {
+      "key": "SK_LW_DF_TYPE_1",
+      "value": "タイプ耐性+8"
+    },
+    {
+      "key": "SK_LW_DF_TYPE_2",
+      "value": "タイプ耐性+10"
+    },
+    {
+      "key": "SK_LW_DF_TYPE_3",
+      "value": "タイプ耐性+15"
+    },
+    {
+      "key": "SK_LW_DF_TYPE_4",
+      "value": "タイプ耐性+20"
+    },
+    {
+      "key": "SK_LW_DF_TYPE_5",
+      "value": "タイプ耐性+25"
+    },
+    {
       "key": "SK_LW_SWO_003_1",
       "value": "眠りの剣"
     },
@@ -28618,6 +28802,26 @@
     },
     {
       "key": "SK_SWO_LW_LCIO_5",
+      "value": "ルシオ剣"
+    },
+    {
+      "key": "SK_SWO_LW_LCIO_1_1",
+      "value": "ルシオ剣"
+    },
+    {
+      "key": "SK_SWO_LW_LCIO_1_2",
+      "value": "ルシオ剣"
+    },
+    {
+      "key": "SK_SWO_LW_LCIO_1_3",
+      "value": "ルシオ剣"
+    },
+    {
+      "key": "SK_SWO_LW_LCIO_1_4",
+      "value": "ルシオ剣"
+    },
+    {
+      "key": "SK_SWO_LW_LCIO_1_5",
       "value": "ルシオ剣"
     },
     {
@@ -31585,6 +31789,46 @@
       "value": "水華専用パッシブ"
     },
     {
+      "key": "SK_FF7AC_KAT_000_1",
+      "value": "正宗（FFⅦAC） 専用パッシブ"
+    },
+    {
+      "key": "SK_FF7AC_KAT_000_2",
+      "value": "正宗（FFⅦAC） 専用パッシブ"
+    },
+    {
+      "key": "SK_FF7AC_KAT_000_3",
+      "value": "正宗（FFⅦAC） 専用パッシブ"
+    },
+    {
+      "key": "SK_FF7AC_KAT_000_4",
+      "value": "正宗（FFⅦAC） 専用パッシブ"
+    },
+    {
+      "key": "SK_FF7AC_KAT_000_5",
+      "value": "正宗（FFⅦAC） 専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ACC_138_1",
+      "value": "金剛晶塵"
+    },
+    {
+      "key": "SK_LW_ACC_138_2",
+      "value": "金剛晶塵"
+    },
+    {
+      "key": "SK_LW_ACC_138_3",
+      "value": "金剛晶塵"
+    },
+    {
+      "key": "SK_LW_ACC_138_4",
+      "value": "金剛晶塵"
+    },
+    {
+      "key": "SK_LW_ACC_138_5",
+      "value": "金剛晶塵"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "フラタニティ 覚醒2"
     },
@@ -32583,6 +32827,10 @@
     {
       "key": "SK_CLT_FF7AC_KDAJ_1",
       "value": "魂の破壊"
+    },
+    {
+      "key": "SK_ACC_FF7AC_SPRT_1",
+      "value": "神速の妙技"
     },
     {
       "key": "SK_VC_LW_SCAL_PVA",

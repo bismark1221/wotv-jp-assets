@@ -30202,7 +30202,7 @@
       },
       "priority": 163,
       "start_at": "2024/04/16 10:30:00",
-      "end_at": "2024/05/23 14:59:59"
+      "end_at": "2024/04/30 22:59:59"
     },
     {
       "id": 2160,
@@ -30244,7 +30244,7 @@
       },
       "priority": 166,
       "start_at": "2024/04/16 10:30:00",
-      "end_at": "2024/05/23 14:59:59"
+      "end_at": "2024/04/30 22:59:59"
     },
     {
       "id": 2163,
@@ -30399,6 +30399,90 @@
       "priority": 386,
       "start_at": "2024/04/23 15:00:00",
       "end_at": "2024/04/30 23:59:59"
+    },
+    {
+      "id": 2174,
+      "iname": "GachaBanner_FF7AC_0021",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF7AC_0021",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 157,
+      "start_at": "2024/05/01",
+      "end_at": "2024/05/23 14:59:59"
+    },
+    {
+      "id": 2175,
+      "iname": "GachaBanner_FF7AC_0019",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_FF7AC_0019",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 158,
+      "start_at": "2024/05/01",
+      "end_at": "2024/05/23 14:59:59"
+    },
+    {
+      "id": 2176,
+      "iname": "LAPS_SHOP_LIMITED_0684",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0684",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 386,
+      "start_at": "2024/05/01",
+      "end_at": "2024/05/09 14:59:59"
+    },
+    {
+      "id": 2177,
+      "iname": "GachaBanner_2703",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2703",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 100,
+      "start_at": "2024/05/01",
+      "end_at": "2024/05/07 4:59:59"
+    },
+    {
+      "id": 2178,
+      "iname": "ev_tres_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_tres_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 384,
+      "start_at": "2024/05/01 5:00:00",
+      "end_at": "2024/05/07 4:59:59"
+    },
+    {
+      "id": 2179,
+      "iname": "ev_mont_02",
+      "appeal_category": 0,
+      "transition_destination": 5,
+      "sval": "ev_mont_02",
+      "setting": {
+        "type": 1,
+        "unlock_id": "MultiQuest"
+      },
+      "priority": 385,
+      "start_at": "2024/05/01",
+      "end_at": "2024/05/09 14:59:59"
     }
   ]
 }

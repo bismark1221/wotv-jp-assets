@@ -1090,8 +1090,23 @@
       "hurl": "ev_arna_01"
     },
     {
-      "iname": "SE_EV_FF7AC_01",
-      "hurl": "ev_FF7AC_01"
+      "iname": "SE_EV_TRES_01",
+      "limit": 1,
+      "hurl": "ev_tres_01"
+    },
+    {
+      "iname": "SE_MU_EV_MONT_01"
+    },
+    {
+      "iname": "SE_EV_FF7AC_EX03",
+      "hurl": "ev_FF7AC_ex_03",
+      "o_cond_q": [
+        "QE_EV_FF7AC_10"
+      ]
+    },
+    {
+      "iname": "SE_MU_FF7AC_EX03",
+      "hurl": "ev_FF7AC_ex_03"
     },
     {
       "iname": "SE_EV_FF7AC_EX02",
@@ -1105,6 +1120,18 @@
       "hurl": "ev_FF7AC_ex_02"
     },
     {
+      "iname": "SE_EV_AEX_030701",
+      "hurl": "ev_ast_ex_0307"
+    },
+    {
+      "iname": "SE_MU_AEX_030701",
+      "hurl": "ev_ast_ex_0307"
+    },
+    {
+      "iname": "SE_EV_AEX_LCIO",
+      "hurl": "ev_ast_ex_lcio"
+    },
+    {
       "iname": "SE_EV_FF7AC_EX01",
       "hurl": "ev_FF7AC_ex_01",
       "o_cond_q": [
@@ -1114,6 +1141,10 @@
     {
       "iname": "SE_MU_FF7AC_EX01",
       "hurl": "ev_FF7AC_ex_01"
+    },
+    {
+      "iname": "SE_EV_FF7AC_01",
+      "hurl": "ev_FF7AC_01"
     },
     {
       "iname": "SE_EV_BSTC_10",
@@ -1266,10 +1297,6 @@
       "iname": "SE_EV_FF13_01_01",
       "hurl": "ev_FF13_01",
       "won_dst_sheet_name": "bgm_FF13_Glorys_Fanfare"
-    },
-    {
-      "iname": "SE_EV_BSTC_08",
-      "hurl": "ev_bstc_08"
     },
     {
       "iname": "SE_EV_AST_030501",
@@ -2564,10 +2591,6 @@
       "won_dst_sheet_name": "bgm_P5R_Battle_Result"
     },
     {
-      "iname": "SE_EV_AEX_LCIO",
-      "hurl": "ev_ast_ex_lcio"
-    },
-    {
       "iname": "SE_EV_AEX_010501",
       "hurl": "ev_ast_ex_0105"
     },
@@ -3706,6 +3729,10 @@
     {
       "iname": "SE_EV_BSTC_07",
       "hurl": "ev_bstc_07"
+    },
+    {
+      "iname": "SE_EV_BSTC_08",
+      "hurl": "ev_bstc_08"
     },
     {
       "iname": "SE_EV_CMRL",
