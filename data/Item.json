@@ -24468,6 +24468,45 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_PT_SKIP_FF7AC_1",
+      "type": 0,
+      "rare": 0,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_PT_BSSKIP_FF7AC_1",
+      "type": 0,
+      "rare": 0,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_PT_BOSS_FF7AC_1",
+      "type": 0,
+      "rare": 0,
+      "steal": 0,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_AF_EXP_01",
       "type": 12,
       "rare": 0,
@@ -28913,6 +28952,19 @@
       "sell": 500,
       "icon": "AF_SWO_LW_LCIO",
       "is_valuables": 1
+    },
+    {
+      "iname": "IT_AF_FF7AC_ACC_002",
+      "type": 13,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "AF_FF7AC_ACC_002",
+      "collaboType": 1
     },
     {
       "iname": "IT_AF_SUP_HP",
@@ -34619,6 +34671,29 @@
       "buy": 9999,
       "sell": 10,
       "icon": "IT_EC_FF7AC_3",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_FF7AC_3_C",
+      "type": 16,
+      "rare": 4,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_FF7AC_3",
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_FF7AC_5",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
       "collaboType": 1,
       "is_valuables": 1
     },
@@ -50220,6 +50295,19 @@
     },
     {
       "iname": "IT_VPI_FF7AC_MV2",
+      "type": 36,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "collaboType": 1,
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_VPI_FF7AC_MV3",
       "type": 36,
       "rare": 4,
       "steal": 0,
