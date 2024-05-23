@@ -1,9 +1,11 @@
 {
   "info": {
-    "angle_override": false,
-    "angle": 0,
+    "angle_override": true,
+    "angle": 315,
     "crystal_fade_enable": false,
-    "crystal_fade_max": 0
+    "crystal_fade_max": 0,
+    "start_wave": 0,
+    "max_wave": 0
   },
   "party": [
     {
@@ -35,8 +37,21 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
@@ -67,8 +82,21 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
@@ -99,12 +127,25 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
-      "x": 4,
+      "x": 0,
       "y": 1,
       "dir": 1,
       "ct_calc": 0,
@@ -131,333 +172,26 @@
         "expr": "",
         "list": []
       },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 6,
-      "y": 1,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
       },
       "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 8,
-      "y": 1,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 3,
-      "y": 0,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 5,
-      "y": 0,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 7,
-      "y": 0,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 4,
-      "y": 0,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 6,
-      "y": 0,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 8,
-      "y": 0,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 1,
-      "y": 1,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 5,
-      "y": 2,
-      "dir": 1,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
       "x": 9,
-      "y": 3,
+      "y": 1,
       "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
@@ -483,13 +217,71 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 1,
+      "y": 0,
+      "dir": 1,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
       "x": 2,
-      "y": 2,
+      "y": 0,
       "dir": 1,
       "ct_calc": 0,
       "ct_val": 0,
@@ -515,352 +307,159 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 6,
+      "y": 0,
+      "dir": 1,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 8,
+      "y": 0,
+      "dir": 1,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 10,
+      "y": 0,
+      "dir": 1,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     }
   ],
-  "enemy": [
-    {
-      "name": "",
-      "x": 0,
-      "y": 6,
-      "dir": 0,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "enemy_id": 1,
-      "iname": "UN_GM_CRYSTAL",
-      "side": 1,
-      "dead": 0,
-      "lv": 0,
-      "rare": 0,
-      "awake": 1,
-      "rank": 0,
-      "elem": 0,
-      "search": 0,
-      "ctrl": 0,
-      "nottar": 0,
-      "fixdir": 0,
-      "drop": "",
-      "crystal": "",
-      "steal": "",
-      "stealValue": 100,
-      "nrmSkl": {
-        "iname": "",
-        "rank": 0,
-        "rate": 0
-      },
-      "skills": [
-        {
-          "iname": "SK_CRYSTAL_NORMAL",
-          "rank": 1,
-          "rate": 100
-        }
-      ],
-      "fskl": "",
-      "weight": 0,
-      "tag": 0,
-      "raid_type": 0,
-      "dispOrder": 0,
-      "pts": 0,
-      "referenceGObjName": ""
-    },
-    {
-      "name": "",
-      "x": 4,
-      "y": 6,
-      "dir": 0,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "enemy_id": 2,
-      "iname": "UN_GM_CRYSTAL",
-      "side": 1,
-      "dead": 0,
-      "lv": 0,
-      "rare": 0,
-      "awake": 1,
-      "rank": 0,
-      "elem": 0,
-      "search": 0,
-      "ctrl": 0,
-      "nottar": 0,
-      "fixdir": 0,
-      "drop": "",
-      "crystal": "",
-      "steal": "",
-      "stealValue": 100,
-      "nrmSkl": {
-        "iname": "",
-        "rank": 0,
-        "rate": 0
-      },
-      "skills": [
-        {
-          "iname": "SK_CRYSTAL_NORMAL",
-          "rank": 1,
-          "rate": 100
-        }
-      ],
-      "fskl": "",
-      "weight": 0,
-      "tag": 0,
-      "raid_type": 0,
-      "dispOrder": 0,
-      "pts": 0,
-      "referenceGObjName": ""
-    },
-    {
-      "name": "",
-      "x": 7,
-      "y": 6,
-      "dir": 0,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "enemy_id": 3,
-      "iname": "UN_GM_CRYSTAL",
-      "side": 1,
-      "dead": 0,
-      "lv": 0,
-      "rare": 0,
-      "awake": 1,
-      "rank": 0,
-      "elem": 0,
-      "search": 0,
-      "ctrl": 0,
-      "nottar": 0,
-      "fixdir": 0,
-      "drop": "",
-      "crystal": "",
-      "steal": "",
-      "stealValue": 100,
-      "nrmSkl": {
-        "iname": "",
-        "rank": 0,
-        "rate": 0
-      },
-      "skills": [
-        {
-          "iname": "SK_CRYSTAL_NORMAL",
-          "rank": 1,
-          "rate": 100
-        }
-      ],
-      "fskl": "",
-      "weight": 0,
-      "tag": 0,
-      "raid_type": 0,
-      "dispOrder": 0,
-      "pts": 0,
-      "referenceGObjName": ""
-    },
-    {
-      "name": "",
-      "x": 5,
-      "y": 4,
-      "dir": 0,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "enemy_id": 4,
-      "iname": "UN_GM_CRYSTAL_04",
-      "side": 1,
-      "dead": 0,
-      "lv": 0,
-      "rare": 0,
-      "awake": 1,
-      "rank": 0,
-      "elem": 0,
-      "search": 0,
-      "ctrl": 0,
-      "nottar": 0,
-      "fixdir": 0,
-      "drop": "",
-      "crystal": "",
-      "steal": "",
-      "stealValue": 100,
-      "nrmSkl": {
-        "iname": "",
-        "rank": 0,
-        "rate": 0
-      },
-      "skills": [
-        {
-          "iname": "SK_CRYSTAL_04",
-          "rank": 1,
-          "rate": 100
-        }
-      ],
-      "fskl": "",
-      "weight": 0,
-      "tag": 0,
-      "raid_type": 0,
-      "dispOrder": 0,
-      "pts": 0,
-      "referenceGObjName": ""
-    },
-    {
-      "name": "",
-      "x": 5,
-      "y": 8,
-      "dir": 0,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": "",
-      "enemy_id": 5,
-      "iname": "UN_GM_CRYSTAL_04",
-      "side": 1,
-      "dead": 0,
-      "lv": 0,
-      "rare": 0,
-      "awake": 1,
-      "rank": 0,
-      "elem": 0,
-      "search": 0,
-      "ctrl": 0,
-      "nottar": 0,
-      "fixdir": 0,
-      "drop": "",
-      "crystal": "",
-      "steal": "",
-      "stealValue": 100,
-      "nrmSkl": {
-        "iname": "",
-        "rank": 0,
-        "rate": 0
-      },
-      "skills": [
-        {
-          "iname": "SK_CRYSTAL_04",
-          "rank": 1,
-          "rate": 100
-        }
-      ],
-      "fskl": "",
-      "weight": 0,
-      "tag": 0,
-      "raid_type": 0,
-      "dispOrder": 0,
-      "pts": 0,
-      "referenceGObjName": ""
-    }
-  ],
+  "enemy": [],
   "arena": [
     {
       "name": "",
@@ -891,8 +490,21 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
@@ -923,8 +535,21 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
@@ -955,12 +580,25 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
-      "x": 4,
+      "x": 0,
       "y": 11,
       "dir": 3,
       "ct_calc": 0,
@@ -987,333 +625,26 @@
         "expr": "",
         "list": []
       },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 6,
-      "y": 11,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
+      "escape_cond": {
         "timing": 0,
         "expr": "",
         "list": []
       },
       "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 8,
-      "y": 11,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 3,
-      "y": 12,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 5,
-      "y": 12,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 7,
-      "y": 12,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 4,
-      "y": 12,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 6,
-      "y": 12,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 8,
-      "y": 12,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 1,
-      "y": 11,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
-    },
-    {
-      "name": "",
-      "x": 5,
-      "y": 10,
-      "dir": 3,
-      "ct_calc": 0,
-      "ct_val": 0,
-      "brave": 0,
-      "faith": 0,
-      "fvoff": 0,
-      "disphpg": 0,
-      "disableact": 0,
-      "disablemove": 0,
-      "dmganm": 0,
-      "block": 0,
-      "ai": {
-        "iname": "",
-        "wait_e": 0,
-        "search": 3,
-        "sensing": 0
-      },
-      "chgTexSetting": {
-        "hp_tbl": []
-      },
-      "entry_cond": {
-        "timing": 0,
-        "expr": "",
-        "list": []
-      },
-      "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
       "x": 9,
-      "y": 9,
+      "y": 11,
       "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
@@ -1339,13 +670,71 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 1,
+      "y": 12,
+      "dir": 3,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     },
     {
       "name": "",
       "x": 2,
-      "y": 10,
+      "y": 12,
       "dir": 3,
       "ct_calc": 0,
       "ct_val": 0,
@@ -1371,8 +760,156 @@
         "expr": "",
         "list": []
       },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
       "wait_m": 0,
-      "parent": ""
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 6,
+      "y": 12,
+      "dir": 3,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 8,
+      "y": 12,
+      "dir": 3,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
+    },
+    {
+      "name": "",
+      "x": 10,
+      "y": 12,
+      "dir": 3,
+      "ct_calc": 0,
+      "ct_val": 0,
+      "brave": 0,
+      "faith": 0,
+      "fvoff": 0,
+      "disphpg": 0,
+      "disableact": 0,
+      "disablemove": 0,
+      "dmganm": 0,
+      "block": 0,
+      "ai": {
+        "iname": "",
+        "wait_e": 0,
+        "search": 3,
+        "sensing": 0
+      },
+      "chgTexSetting": {
+        "hp_tbl": []
+      },
+      "entry_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "escape_cond": {
+        "timing": 0,
+        "expr": "",
+        "list": []
+      },
+      "wait_m": 0,
+      "parent": "",
+      "part": {
+        "body": "",
+        "id": "",
+        "gauge": {
+          "x": 0.0,
+          "y": 0.0
+        }
+      }
     }
   ],
   "wcond": {
@@ -1402,5 +939,6 @@
     ]
   },
   "gcond": [],
-  "drop_table_list": []
+  "drop_table_list": [],
+  "enemy_group": []
 }

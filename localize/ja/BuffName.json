@@ -537,6 +537,10 @@
       "value": "ユニットのCost制限230以下、クイック・睡眠無効、リアクション阻止率+100"
     },
     {
+      "key": "BUFF_CLASSMATCH_034_1",
+      "value": "ユニットのCost制限250以下、バトル開始から2ターン範囲攻撃耐性+30、クイック・沈黙・ストップ無効"
+    },
+    {
       "key": "BUFF_FREEMATCH_004",
       "value": "クイック無効、CTアップ/ダウン無効、治癒力50%ダウン"
     },
@@ -631,6 +635,10 @@
     {
       "key": "BUFF_FREEMATCH_030_1",
       "value": "クイック・睡眠無効、リアクション阻止率+100"
+    },
+    {
+      "key": "BUFF_FREEMATCH_031_1",
+      "value": "バトル開始から2ターン範囲攻撃耐性+30、クイック・沈黙・ストップ無効"
     },
     {
       "key": "BUFF_DRAFTMATCH_001",
@@ -771,6 +779,10 @@
     {
       "key": "BUFF_FRIENDMATCH_112_1",
       "value": "精神+20、毒・スロウ無効（フリーマッチルール）"
+    },
+    {
+      "key": "BUFF_FRIENDMATCH_113_1",
+      "value": "バトル開始から2ターン範囲攻撃耐性+30、クイック・沈黙・ストップ無効（フリーマッチルール）"
     },
     {
       "key": "BUFF_01130310",
@@ -4987,6 +4999,10 @@
     {
       "key": "BUFF_TDDG_M_02_1_B",
       "value": "クリティカル時1ターンスタン効果付与"
+    },
+    {
+      "key": "BUFF_CHRT_M_01_EN",
+      "value": "攻撃時バリア破壊封印"
     },
     {
       "key": "BUFF_BTL_CRI_AP_RECOVREY_B",
@@ -12545,6 +12561,170 @@
       "value": "土属性アビリティ攻撃UP+10%"
     },
     {
+      "key": "BUFF_CHRT_01",
+      "value": "命中率+3"
+    },
+    {
+      "key": "BUFF_CHRT_02",
+      "value": "クリティカル回避率+3"
+    },
+    {
+      "key": "BUFF_CHRT_03",
+      "value": "クリティカル発生率+3"
+    },
+    {
+      "key": "BUFF_CHRT_04",
+      "value": "風属性キラー+2%"
+    },
+    {
+      "key": "BUFF_CHRT_05",
+      "value": "魔力UP+2%"
+    },
+    {
+      "key": "BUFF_CHRT_06",
+      "value": "召喚魔法Lv2"
+    },
+    {
+      "key": "BUFF_CHRT_07",
+      "value": "召喚魔法Lv4"
+    },
+    {
+      "key": "BUFF_CHRT_08",
+      "value": "命中率+4"
+    },
+    {
+      "key": "BUFF_CHRT_09",
+      "value": "斬撃耐性+3%"
+    },
+    {
+      "key": "BUFF_CHRT_10",
+      "value": "斬撃耐性+3%"
+    },
+    {
+      "key": "BUFF_CHRT_11",
+      "value": "クリティカル回避率+3"
+    },
+    {
+      "key": "BUFF_CHRT_12",
+      "value": "クリティカル発生率+4"
+    },
+    {
+      "key": "BUFF_CHRT_13",
+      "value": "斬撃攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_CHRT_14",
+      "value": "斬撃攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_CHRT_15",
+      "value": "風属性キラー+3%"
+    },
+    {
+      "key": "BUFF_CHRT_16",
+      "value": "魔力UP+5%"
+    },
+    {
+      "key": "BUFF_CHRT_17",
+      "value": "火耐性+3%"
+    },
+    {
+      "key": "BUFF_CHRT_18",
+      "value": "火耐性+3%"
+    },
+    {
+      "key": "BUFF_CHRT_19",
+      "value": "召喚魔法Lv7"
+    },
+    {
+      "key": "BUFF_CHRT_20",
+      "value": "斬撃耐性+5%"
+    },
+    {
+      "key": "BUFF_CHRT_21",
+      "value": "斬撃耐性+4%"
+    },
+    {
+      "key": "BUFF_CHRT_22",
+      "value": "クリティカル回避率+4"
+    },
+    {
+      "key": "BUFF_CHRT_23",
+      "value": "クリティカル回避率+5"
+    },
+    {
+      "key": "BUFF_CHRT_24",
+      "value": "斬撃攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_CHRT_25",
+      "value": "斬撃攻撃UP+2%"
+    },
+    {
+      "key": "BUFF_CHRT_26",
+      "value": "風属性キラー+6%"
+    },
+    {
+      "key": "BUFF_CHRT_27",
+      "value": "風属性キラー+4%"
+    },
+    {
+      "key": "BUFF_CHRT_28",
+      "value": "火耐性+5%"
+    },
+    {
+      "key": "BUFF_CHRT_29",
+      "value": "火耐性+4%"
+    },
+    {
+      "key": "BUFF_CHRT_30",
+      "value": "召喚魔法Lv10"
+    },
+    {
+      "key": "BUFF_CHRT_31",
+      "value": "召喚魔法Lv15"
+    },
+    {
+      "key": "BUFF_CHRT_32",
+      "value": "範囲攻撃耐性貫通率+20"
+    },
+    {
+      "key": "BUFF_CHRT_33",
+      "value": "風属性キラー+10%"
+    },
+    {
+      "key": "BUFF_CHRT_34",
+      "value": "召喚魔法Lv20"
+    },
+    {
+      "key": "BUFF_CHRT_35",
+      "value": "クリティカルダメージ+4"
+    },
+    {
+      "key": "BUFF_CHRT_36",
+      "value": "クリティカルダメージ+5"
+    },
+    {
+      "key": "BUFF_CHRT_37",
+      "value": "クリティカルダメージ+6"
+    },
+    {
+      "key": "BUFF_CHRT_38",
+      "value": "氷属性アビリティ攻撃UP+4%"
+    },
+    {
+      "key": "BUFF_CHRT_39",
+      "value": "氷属性アビリティ攻撃UP+5%"
+    },
+    {
+      "key": "BUFF_CHRT_40",
+      "value": "氷属性アビリティ攻撃UP+6%"
+    },
+    {
+      "key": "BUFF_CHRT_41",
+      "value": "氷属性アビリティ攻撃UP+10%"
+    },
+    {
       "key": "BUFF_IGNT_01",
       "value": "命中率+3"
     },
@@ -17071,6 +17251,14 @@
     {
       "key": "BUFF_LW_FIS_016_5_B",
       "value": "HP50%以下で3ターン物理・魔法ダメージ上昇(10%)"
+    },
+    {
+      "key": "BUFF_LW_FIS_016_1_5_B",
+      "value": "HP70%以下で3ターン物理・魔法ダメージ上昇(15%)"
+    },
+    {
+      "key": "BUFF_LW_KAT_004_1_5_2_EN",
+      "value": "クリティカル時HP回復(+10%)"
     },
     {
       "key": "BUFF_LW_SPE_025_2EN",

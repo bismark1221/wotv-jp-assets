@@ -30595,6 +30595,76 @@
       "priority": 386,
       "start_at": "2024/05/16 14:10:00",
       "end_at": "2024/05/23 14:59:59"
+    },
+    {
+      "id": 2188,
+      "iname": "GachaBanner_2764",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2764",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 151,
+      "start_at": "2024/05/23 15:00:00",
+      "end_at": "2024/06/10 9:59:59"
+    },
+    {
+      "id": 2189,
+      "iname": "GachaBanner_2762",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2762",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 152,
+      "start_at": "2024/05/23 15:00:00",
+      "end_at": "2024/06/10 9:59:59"
+    },
+    {
+      "id": 2190,
+      "iname": "ev_raid_revi_19",
+      "appeal_category": 0,
+      "transition_destination": 5,
+      "sval": "ev_raid_revi_19",
+      "setting": {
+        "type": 1,
+        "unlock_id": "MultiQuest"
+      },
+      "priority": 382,
+      "start_at": "2024/05/23 15:00:00",
+      "end_at": "2024/05/31 23:59:59"
+    },
+    {
+      "id": 2191,
+      "iname": "ev_bstc_02",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_bstc_02",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 383,
+      "start_at": "2024/05/23 15:00:00",
+      "end_at": "2024/06/10 9:59:59"
+    },
+    {
+      "id": 2192,
+      "iname": "LAPS_SHOP_LIMITED_0691",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0691",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 384,
+      "start_at": "2024/05/23 15:00:00",
+      "end_at": "2024/05/31 23:59:59"
     }
   ]
 }

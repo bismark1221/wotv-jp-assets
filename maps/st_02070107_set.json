@@ -1591,6 +1591,16 @@
         },
         {
           "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_VRRF_5",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 17
+        },
+        {
+          "drop_data": {
             "type": -1,
             "iname": "",
             "num": 0,
@@ -1612,12 +1622,12 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_MAT_WING_01",
+            "iname": "IT_AF_LW_HLM_003",
             "num": 1,
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 650
+          "weight": 185
         },
         {
           "drop_data": {
@@ -1632,12 +1642,12 @@
         {
           "drop_data": {
             "type": 0,
-            "iname": "IT_AF_LW_HLM_003",
+            "iname": "IT_AF_MAT_WING_01",
             "num": 1,
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 185
+          "weight": 650
         },
         {
           "drop_data": {
@@ -1777,7 +1787,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1294
+          "weight": 1277
         }
       ]
     }

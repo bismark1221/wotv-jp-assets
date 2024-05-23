@@ -229,6 +229,10 @@
       "value": "ステータスアップ"
     },
     {
+      "key": "SK_UN_BD_EC_VRRF",
+      "value": "ステータスアップ"
+    },
+    {
       "key": "SK_US_POTION",
       "value": "ポーション"
     },
@@ -438,6 +442,10 @@
     },
     {
       "key": "SK_BOMB_M_02_1",
+      "value": "自爆"
+    },
+    {
+      "key": "SK_BOMB_M_02_RP1",
       "value": "自爆"
     },
     {
@@ -2657,12 +2665,20 @@
       "value": "シューティングヘイル"
     },
     {
+      "key": "SK_SHIV_M_03_RP1",
+      "value": "シューティングヘイル"
+    },
+    {
       "key": "SK_SHIV_M_03_B",
       "value": "シューティングヘイル"
     },
     {
       "key": "SK_SHIV_M_04",
       "value": "ダイアモンドダスト"
+    },
+    {
+      "key": "SK_SHIV_M_05",
+      "value": "ダイアモンドダスト・改"
     },
     {
       "key": "SK_RAMU_ATK",
@@ -4597,6 +4613,30 @@
       "value": "アルマゲスト"
     },
     {
+      "key": "SK_CHRT_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_CHRT_M_01",
+      "value": "軍馬のいななき"
+    },
+    {
+      "key": "SK_CHRT_M_02",
+      "value": "突進"
+    },
+    {
+      "key": "SK_CHRT_M_03",
+      "value": "戦馬の蹄撃"
+    },
+    {
+      "key": "SK_CHRT_M_04",
+      "value": "地ならし"
+    },
+    {
+      "key": "SK_CHRT_M_05",
+      "value": "アバランチキャノン"
+    },
+    {
       "key": "SK_GMK_ATK_NEEDLE",
       "value": "トラップ"
     },
@@ -4911,6 +4951,10 @@
     {
       "key": "SK_SMN_TITN_01",
       "value": "アースシェイカー"
+    },
+    {
+      "key": "SK_SMN_CHRT",
+      "value": "アバランチキャノン"
     },
     {
       "key": "SK_SMN_IGNT",
@@ -6243,6 +6287,14 @@
     {
       "key": "SK_BTL_PIERCE_DARK_1-100_U",
       "value": "闇属性耐性貫通1-100アップ"
+    },
+    {
+      "key": "SK_LW_PIERCE_RATK_1_100U",
+      "value": "範囲攻撃耐性貫通率1-100アップ"
+    },
+    {
+      "key": "SK_LW_PIERCE_SATK_1_100U",
+      "value": "単体攻撃耐性貫通率1-100アップ"
     },
     {
       "key": "SK_BTL_RESDB_DF_1_100_U",
@@ -19233,6 +19285,10 @@
       "value": "クラッグバッシュ"
     },
     {
+      "key": "SK_LW_VRRE_M_1_B",
+      "value": "クラッグバッシュ"
+    },
+    {
       "key": "SK_LW_VRRE_M_2",
       "value": "防御結界"
     },
@@ -19823,6 +19879,74 @@
     {
       "key": "SK_LW_EC_GLMS_01_C_02B",
       "value": "共に生きる夢"
+    },
+    {
+      "key": "SK_LW_VRRF_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_LW_VRRF_M_1",
+      "value": "ビッグスイング"
+    },
+    {
+      "key": "SK_LW_VRRF_M_2",
+      "value": "バリアスマッシャー"
+    },
+    {
+      "key": "SK_LW_VRRF_M_3",
+      "value": "練気錬刃"
+    },
+    {
+      "key": "SK_LW_VRRF_S_1",
+      "value": "フレイムアクス"
+    },
+    {
+      "key": "SK_LW_VRRF_S_2",
+      "value": "アンガーブレイズ"
+    },
+    {
+      "key": "SK_LW_VRRF_S_3",
+      "value": "癒しの斧"
+    },
+    {
+      "key": "SK_LW_VRRF_S_4",
+      "value": "不動"
+    },
+    {
+      "key": "SK_LW_VRRF_R_1",
+      "value": "劫火の守り"
+    },
+    {
+      "key": "SK_LW_VRRF_R_2",
+      "value": "レイジングドレイン"
+    },
+    {
+      "key": "SK_LW_VRRF_P_1",
+      "value": "炎の揺らぎ"
+    },
+    {
+      "key": "SK_LW_VRRF_P_2",
+      "value": "鉄火の真髄"
+    },
+    {
+      "key": "SK_LW_VRRF_EN_A_01",
+      "value": "レッドインフェルノ"
+    },
+    {
+      "key": "SK_LW_EC_VRRF_C_01",
+      "value": "ビッグスイング強化"
+    },
+    {
+      "key": "SK_LW_EC_VRRF_C_01B",
+      "value": "バイオレントスイング"
+    },
+    {
+      "key": "SK_LW_EC_VRRF_C_02",
+      "value": "炎の揺らぎ強化"
+    },
+    {
+      "key": "SK_LW_EC_VRRF_C_02B",
+      "value": "紅炎の揺らぎ"
     },
     {
       "key": "SK_LB_LW_MONT",
@@ -20989,6 +21113,26 @@
       "value": "呪詛の雷"
     },
     {
+      "key": "SK_LB_LW_LNAN_B",
+      "value": "雷霆"
+    },
+    {
+      "key": "SK_LB_LW_ASTR_B",
+      "value": "黒無解放"
+    },
+    {
+      "key": "SK_LB_LW_ASTR_AD_B",
+      "value": "追晶撃"
+    },
+    {
+      "key": "SK_LB_LW_PRNE_B",
+      "value": "慈母のお仕置き"
+    },
+    {
+      "key": "SK_LB_LW_LLGA_B",
+      "value": "惨射転変"
+    },
+    {
       "key": "SK_LB_LW_MONT_B_CH",
       "value": "デスティニークロス強化"
     },
@@ -21327,6 +21471,22 @@
     {
       "key": "SK_LB_LW_IBRA_B_CH",
       "value": "呪詛の雷強化"
+    },
+    {
+      "key": "SK_LB_LW_LNAN_CH",
+      "value": "雷霆強化"
+    },
+    {
+      "key": "SK_LB_LW_ASTR_CH",
+      "value": "黒無解放強化"
+    },
+    {
+      "key": "SK_LB_LW_PRNE_CH",
+      "value": "慈母のお仕置き強化"
+    },
+    {
+      "key": "SK_LB_LW_LLGA_CH",
+      "value": "惨射転変強化"
     },
     {
       "key": "SK_LW_EC_MONT_A_01",
@@ -25609,6 +25769,10 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_VRRF",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_UES_FF7_CLUD",
       "value": "クラウド夢幻転生パッシブ"
     },
@@ -27287,6 +27451,10 @@
     {
       "key": "SK_UES_LW_GLMS_01",
       "value": "天刃のギルガメッシュ夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_UES_LW_VRRE",
+      "value": "王土のヴェリアス夢幻転生パッシブ"
     },
     {
       "key": "SK_LW_SLASH_1",
@@ -30661,6 +30829,26 @@
       "value": "HP50%以下で3ターン物理・魔法ダメージ上昇(10%)({0}回)"
     },
     {
+      "key": "SK_LW_FIS_016_1_2",
+      "value": "ドラゴンクロー専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_FIS_016_1_3",
+      "value": "ドラゴンクロー専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_FIS_016_1_4",
+      "value": "ドラゴンクロー専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_FIS_016_1_5",
+      "value": "ドラゴンクロー専用パッシブ(★5"
+    },
+    {
+      "key": "SK_LW_FIS_016_1_5_B",
+      "value": "HP70%以下で3ターン物理・魔法ダメージ上昇(15%)({0}回)"
+    },
+    {
       "key": "SK_LW_KAT_004_2",
       "value": "あめのむらくも専用パッシブ(★2"
     },
@@ -30674,6 +30862,22 @@
     },
     {
       "key": "SK_LW_KAT_004_5",
+      "value": "あめのむらくも専用パッシブ(★5"
+    },
+    {
+      "key": "SK_LW_KAT_004_1_2",
+      "value": "あめのむらくも専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_KAT_004_1_3",
+      "value": "あめのむらくも専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_KAT_004_1_4",
+      "value": "あめのむらくも専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_KAT_004_1_5",
       "value": "あめのむらくも専用パッシブ(★5"
     },
     {
@@ -32057,6 +32261,10 @@
       "value": "氷刃・極専用パッシブ"
     },
     {
+      "key": "SK_LW_SPE_029_5",
+      "value": "天風専用パッシブ"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "フラタニティ 覚醒2"
     },
@@ -33063,6 +33271,10 @@
     {
       "key": "SK_ACC_LW_GLMS_01_1",
       "value": "賢者の加護"
+    },
+    {
+      "key": "SK_ACC_LW_VRRF_1",
+      "value": "八盟傑の誇り・火"
     },
     {
       "key": "SK_VC_LW_SCAL_PVA",
