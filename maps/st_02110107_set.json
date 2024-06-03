@@ -1441,6 +1441,36 @@
         {
           "drop_data": {
             "type": 0,
+            "iname": "IT_JB_MM_RTAL",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 33
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_RTAL_2",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 33
+        },
+        {
+          "drop_data": {
+            "type": 0,
+            "iname": "IT_JB_MM_RTAL_5",
+            "num": 2,
+            "subNum1": 0,
+            "secret": 0
+          },
+          "weight": 17
+        },
+        {
+          "drop_data": {
+            "type": 0,
             "iname": "IT_AF_MAT_HEART_03",
             "num": 1,
             "subNum1": 0,
@@ -1596,7 +1626,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1944
+          "weight": 1861
         }
       ]
     }

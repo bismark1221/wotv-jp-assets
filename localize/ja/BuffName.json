@@ -413,6 +413,10 @@
       "value": "火・水属性ユニットのHPアップ、メインジョブが大剣・拳・刀を装備可能なユニットの攻撃・魔力アップ"
     },
     {
+      "key": "BUFF_GVG_053_1",
+      "value": "雷属性ユニットの物理・魔法ダメージ上昇、メインジョブが杖（導師など）を装備可能なユニットが攻撃を受ける際、その攻撃の攻撃範囲が広いほど物理被ダメージ軽減"
+    },
+    {
       "key": "BUFF_CLASSMATCH_001",
       "value": "Cost制限540以下"
     },
@@ -16937,6 +16941,18 @@
       "value": "攻撃時ガッツ解除封印"
     },
     {
+      "key": "BUFF_LW_RTAL_M_3_2_EN",
+      "value": "攻撃前ガッツ解除"
+    },
+    {
+      "key": "BUFF_LW_EC_RTAL_C_01B_2",
+      "value": "HP50%以下で回復"
+    },
+    {
+      "key": "BUFF_LW_EC_RTAL_C_01B_EN",
+      "value": "HP50%以下で回復"
+    },
+    {
       "key": "BUFF_LB_LW_FDRC_B_SB",
       "value": "クリティカル時AP回復"
     },
@@ -16951,6 +16967,10 @@
     {
       "key": "BUFF_LB_LW_RUFF",
       "value": "行動後もエレメントチェイン継続"
+    },
+    {
+      "key": "BUFF_LB_LW_RTAL_3_EN",
+      "value": "攻撃時リレイズ解除封印"
     },
     {
       "key": "BUFF_LB_LW_MONT_B_2_EN",

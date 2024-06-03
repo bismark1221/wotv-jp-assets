@@ -5341,6 +5341,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ユニット「天刃のギルガメッシュ」を獲得"
     },
     {
+      "key": "QE_HA_LW_RTAL",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ユニット「ルティアル・オウィス」を獲得"
+    },
+    {
       "key": "QE_CH_LW_MONT",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「モント・リオニス」UnitLv.40以上"
     },
@@ -7101,6 +7105,10 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「劫火のヴェリアス」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_RTAL",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ルティアル・オウィス」UnitLv.40以上"
+    },
+    {
       "key": "QE_EV_1100DL_FIR",
       "value": "クエスト情報<br>推奨：UnitLv.1 JobLv.1"
     },
@@ -8826,6 +8834,10 @@
     },
     {
       "key": "QE_EV_JUME_01_01",
+      "value": "クエスト情報<br>・味方が全滅してもクリアとなり報酬を獲得できます<br>・このクエストでは敵からのクリスタルドロップがありません"
+    },
+    {
+      "key": "QE_EV_RTAL_01",
       "value": "クエスト情報<br>・味方が全滅してもクリアとなり報酬を獲得できます<br>・このクエストでは敵からのクリスタルドロップがありません"
     },
     {
@@ -12490,6 +12502,14 @@
     },
     {
       "key": "QE_EV_ART_CRF_91",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_ART_CRF_92",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_ART_CRF_93",
       "value": "クエスト情報<br>なし"
     },
     {
@@ -16493,6 +16513,14 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。<br>有効な攻略方法：このボスにはCTダウンと素早さダウンが効果的です。<br>マップ効果：初期AP+60、リアクション阻止率+100、全攻撃タイプ：+10000、刺突攻撃：+10000、魔法攻撃：+10000、射撃攻撃：+8000"
     },
     {
+      "key": "QE_MU_ART_CRF_92",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_93",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
+    },
+    {
       "key": "QE_MU_ART_CRF_90",
       "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
     },
@@ -16543,14 +16571,6 @@
     {
       "key": "QE_MU_EV_UMWP_01",
       "value": "クエスト情報<br>・このクエストでは敵からのクリスタルドロップがありません。<br>・有効な攻略方法：刺突攻撃、毒・凍傷・混乱耐性<br>・ボスから受けるダメージは大きいため、回復役のユニットを入れるなどして長期戦に耐えられるパーティ編成で攻略しよう。"
-    },
-    {
-      "key": "QE_MU_ART_CRF_88",
-      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
-    },
-    {
-      "key": "QE_MU_ART_CRF_89",
-      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
     },
     {
       "key": "QE_MU_AEX_316_3",
@@ -16723,6 +16743,14 @@
     {
       "key": "QE_MU_FF8_EX02",
       "value": "クエスト情報<br>ヒント：レビテトを使うと・・・？"
+    },
+    {
+      "key": "QE_MU_ART_CRF_88",
+      "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
+    },
+    {
+      "key": "QE_MU_ART_CRF_89",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12"
     },
     {
       "key": "QE_MU_ART_CRF_86",
@@ -18689,6 +18717,10 @@
       "value": "なし"
     },
     {
+      "key": "QE_PVP_FRI_0155",
+      "value": "なし"
+    },
+    {
       "key": "QE_PVP_FRI_0154",
       "value": "なし"
     },
@@ -19875,6 +19907,10 @@
     {
       "key": "QE_VC_LW_CHRT",
       "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「聖氷車馬　チャリオット」を獲得"
+    },
+    {
+      "key": "QE_VC_LW_RTAL",
+      "value": "クエスト情報<br>推奨：UnitLv.70 JobLv.12<br>解放条件：ビジョンカード「オウィスの妖姫」を獲得"
     },
     {
       "key": "QE_HD_SKIP",
