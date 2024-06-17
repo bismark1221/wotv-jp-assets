@@ -4777,6 +4777,46 @@
       "value": "クエスト情報<br>推奨：UnitLv.94 JobLv.14"
     },
     {
+      "key": "QE_ST_03090101",
+      "value": "クエスト情報<br>推奨：UnitLv.82 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090102",
+      "value": "クエスト情報<br>推奨：UnitLv.83 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090103",
+      "value": "クエスト情報<br>推奨：UnitLv.83 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090104",
+      "value": "クエスト情報<br>推奨：UnitLv.84 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090105",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090106",
+      "value": "クエスト情報<br>推奨：UnitLv.85 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090107",
+      "value": "クエスト情報<br>推奨：UnitLv.86 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090108",
+      "value": "クエスト情報<br>推奨：UnitLv.87 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090109",
+      "value": "クエスト情報<br>推奨：UnitLv.87 JobLv.13"
+    },
+    {
+      "key": "QE_ST_03090110",
+      "value": "クエスト情報<br>推奨：UnitLv.92 JobLv.14"
+    },
+    {
       "key": "QE_HA_LW_MONT",
       "value": "クエスト情報<br>推奨：UnitLv.17 JobLv.3"
     },
@@ -6941,8 +6981,16 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「祝礼のジェーダン」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_LW_JE_02_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「祝礼のジェーダン」UnitLv.80以上<br>「キャラクタークエスト　祝礼のジェーダン」をクリア"
+    },
+    {
       "key": "QE_CH_LW_ALIA_01",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「白妙のアライア」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_LW_AL_01_2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「白妙のアライア」UnitLv.80以上<br>「キャラクタークエスト　白妙のアライア」をクリア"
     },
     {
       "key": "QE_CH_LW_BRWL",
@@ -6977,12 +7025,24 @@
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「スコール」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_FF8_SQAL2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「スコール」UnitLv.80以上<br>「キャラクタークエスト　スコール」をクリア"
+    },
+    {
       "key": "QE_CH_FF8_RINA",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「リノア」UnitLv.40以上"
     },
     {
+      "key": "QE_CH_FF8_RINA2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「リノア」UnitLv.80以上<br>「キャラクタークエスト　リノア」をクリア"
+    },
+    {
       "key": "QE_CH_FF8_IRVN",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「アーヴァイン」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_FF8_IRVN2",
+      "value": "クエスト情報<br>推奨：UnitLv.80 JobLv.12<br>解放条件：「アーヴァイン」UnitLv.80以上<br>「キャラクタークエスト　アーヴァイン」をクリア"
     },
     {
       "key": "QE_CH_LW_SOLL",
@@ -7107,6 +7167,10 @@
     {
       "key": "QE_CH_LW_RTAL",
       "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「ルティアル・オウィス」UnitLv.40以上"
+    },
+    {
+      "key": "QE_CH_FF8_SIFR",
+      "value": "クエスト情報<br>推奨：UnitLv.40 JobLv.8<br>解放条件：「サイファー」UnitLv.40以上"
     },
     {
       "key": "QE_EV_1100DL_FIR",
@@ -9673,6 +9737,54 @@
       "value": "ハイスコア報酬<br>・3700pt達成で獲得<br>・5340pt達成で獲得<br>・6680pt達成で獲得"
     },
     {
+      "key": "QE_PT_018_01",
+      "value": "ハイスコア報酬<br>・160pt達成で獲得<br>・240pt達成で獲得<br>・320pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_02",
+      "value": "ハイスコア報酬<br>・170pt達成で獲得<br>・260pt達成で獲得<br>・360pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_03",
+      "value": "ハイスコア報酬<br>・190pt達成で獲得<br>・290pt達成で獲得<br>・410pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_04",
+      "value": "ハイスコア報酬<br>・210pt達成で獲得<br>・320pt達成で獲得<br>・440pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_05",
+      "value": "ハイスコア報酬<br>・240pt達成で獲得<br>・360pt達成で獲得<br>・500pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_HA01",
+      "value": "ハイスコア報酬<br>・300pt達成で獲得<br>・460pt達成で獲得<br>・640pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_HA02",
+      "value": "ハイスコア報酬<br>・320pt達成で獲得<br>・500pt達成で獲得<br>・690pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_HA03",
+      "value": "ハイスコア報酬<br>・340pt達成で獲得<br>・530pt達成で獲得<br>・740pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_HA04",
+      "value": "ハイスコア報酬<br>・360pt達成で獲得<br>・550pt達成で獲得<br>・770pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_HA05",
+      "value": "ハイスコア報酬<br>・400pt達成で獲得<br>・610pt達成で獲得<br>・850pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_BOSS_1",
+      "value": "ハイスコア報酬<br>・1520pt達成で獲得<br>・2250pt達成で獲得<br>・2870pt達成で獲得"
+    },
+    {
+      "key": "QE_PT_018_BOSS_2",
+      "value": "ハイスコア報酬<br>・3700pt達成で獲得<br>・5340pt達成で獲得<br>・6680pt達成で獲得"
+    },
+    {
       "key": "QE_EV_FF1_01",
       "value": "クエスト情報<br>なし"
     },
@@ -10707,6 +10819,14 @@
     {
       "key": "QE_EV_FF8_EX02",
       "value": "クエスト情報<br>ヒント：レビテトを使うと・・・？"
+    },
+    {
+      "key": "QE_EV_FF8_CRF01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_EV_FF8_CRF02",
+      "value": "クエスト情報<br>なし"
     },
     {
       "key": "QE_EV_FF9_01",
@@ -16513,6 +16633,22 @@
       "value": "クエスト情報<br>このクエストでは敵からのクリスタルドロップがありません。<br>有効な攻略方法：このボスにはCTダウンと素早さダウンが効果的です。<br>マップ効果：初期AP+60、リアクション阻止率+100、全攻撃タイプ：+10000、刺突攻撃：+10000、魔法攻撃：+10000、射撃攻撃：+8000"
     },
     {
+      "key": "QE_MU_FF8_CRF01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_FF8_CRF02",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_FF8_EX01",
+      "value": "クエスト情報<br>なし"
+    },
+    {
+      "key": "QE_MU_FF8_EX02",
+      "value": "クエスト情報<br>ヒント：レビテトを使うと・・・？"
+    },
+    {
       "key": "QE_MU_ART_CRF_92",
       "value": "クエスト情報<br>推奨：UnitLv.50 JobLv.9"
     },
@@ -16735,14 +16871,6 @@
     {
       "key": "QE_MU_DEF_2",
       "value": "クエスト情報<br>ポットは、ターン経過により自動的に死亡します。ポットの死亡が勝利条件のため、ポットが死亡するまで迫りくる敵から城門を防衛しましょう。<br>このクエストでは敵からのクリスタルドロップがありません。HPが0になった敵はターンを待たずに消えます。"
-    },
-    {
-      "key": "QE_MU_FF8_EX01",
-      "value": "クエスト情報<br>なし"
-    },
-    {
-      "key": "QE_MU_FF8_EX02",
-      "value": "クエスト情報<br>ヒント：レビテトを使うと・・・？"
     },
     {
       "key": "QE_MU_ART_CRF_88",
@@ -18717,6 +18845,14 @@
       "value": "なし"
     },
     {
+      "key": "QE_PVP_FRI_0157",
+      "value": "なし"
+    },
+    {
+      "key": "QE_PVP_FRI_0156",
+      "value": "なし"
+    },
+    {
       "key": "QE_PVP_FRI_0155",
       "value": "なし"
     },
@@ -19298,6 +19434,10 @@
     },
     {
       "key": "QE_PVP_DRFT_0015",
+      "value": "なし"
+    },
+    {
+      "key": "QE_PVP_DRFT_0016",
       "value": "なし"
     },
     {

@@ -1,6 +1,25 @@
 {
   "items": [
     {
+      "area_iname": "AD_AREA_FF8_02",
+      "banner": "ExpeditionBanner_FF8_R_1",
+      "header": "ExpeditionHeader_FF8_R_1",
+      "begin_at": "2024/6/10 10:30:00",
+      "end_at": "2024/7/17 9:59:59",
+      "drop": [
+        {
+          "drop_area_id": "AD_AREA_FF8_04",
+          "drop_start_at": "2024/6/10 10:30:00",
+          "drop_end_at": "2024/6/17 14:59:59"
+        },
+        {
+          "drop_area_id": "AD_AREA_FF8_05",
+          "drop_start_at": "2024/6/17 15:00:00",
+          "drop_end_at": "2024/7/17 9:59:59"
+        }
+      ]
+    },
+    {
       "area_iname": "AD_AREA_FF7AC_01",
       "banner": "ExpeditionBanner_FF7AC_1",
       "header": "ExpeditionHeader_FF7AC_1",
