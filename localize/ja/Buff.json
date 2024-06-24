@@ -550,7 +550,7 @@
     },
     {
       "key": "BUFF_CondUnableAllDebuff",
-      "value": "デバフ封印"
+      "value": "弱体封印"
     },
     {
       "key": "BUFF_CondReleaseUnableAllStrnRes",
@@ -1993,6 +1993,18 @@
       "value": "魔法攻撃時FFⅦ ADVENT CHILDRENキラー"
     },
     {
+      "key": "BUFF_KillerBirthEmpire",
+      "value": "帝国キラー"
+    },
+    {
+      "key": "BUFF_KillerBirthPEmpire",
+      "value": "物理攻撃時帝国キラー"
+    },
+    {
+      "key": "BUFF_KillerBirthMEmpire",
+      "value": "魔法攻撃時帝国キラー"
+    },
+    {
       "key": "BUFF_KillerBirthDamageUnknown",
       "value": "出身不明固定ダメージ"
     },
@@ -2155,6 +2167,10 @@
     {
       "key": "BUFF_KillerBirthDamageFF7AC",
       "value": "FFⅦ ADVENT CHILDREN固定ダメージ"
+    },
+    {
+      "key": "BUFF_KillerBirthDamageEmpire",
+      "value": "帝国固定ダメージ"
     },
     {
       "key": "BUFF_KillerUnitTagFloating",
@@ -2399,6 +2415,10 @@
     {
       "key": "BUFF_ResistBirthFF7AC",
       "value": "FFⅦ ADVENT CHILDREN耐性"
+    },
+    {
+      "key": "BUFF_ResistBirthEmpire",
+      "value": "帝国耐性"
     },
     {
       "key": "BUFF_ResistSpeciesHuman",

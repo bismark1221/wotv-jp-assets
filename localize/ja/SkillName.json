@@ -213,6 +213,10 @@
       "value": "TPアップ"
     },
     {
+      "key": "SK_UN_BD_EC_HIT_15",
+      "value": "命中率アップ"
+    },
+    {
       "key": "SK_UN_BD_EC_DL_2000",
       "value": "ダメージ上限アップ"
     },
@@ -230,6 +234,10 @@
     },
     {
       "key": "SK_UN_BD_EC_VRRF",
+      "value": "ステータスアップ"
+    },
+    {
+      "key": "SK_UN_BD_EC_VRFB",
       "value": "ステータスアップ"
     },
     {
@@ -597,11 +605,23 @@
       "value": "ふりおろす"
     },
     {
+      "key": "SK_OGRE_M_01_RP",
+      "value": "ふりおろす"
+    },
+    {
       "key": "SK_OGRE_M_02",
       "value": "なげつける"
     },
     {
+      "key": "SK_OGRE_M_02_RP",
+      "value": "なげつける"
+    },
+    {
       "key": "SK_OGRE_M_03",
+      "value": "ぶんまわす"
+    },
+    {
+      "key": "SK_OGRE_M_03_RP",
       "value": "ぶんまわす"
     },
     {
@@ -1018,6 +1038,10 @@
     },
     {
       "key": "SK_LAMA_M_02",
+      "value": "ブリンク"
+    },
+    {
+      "key": "SK_LAMA_M_02_RP",
       "value": "ブリンク"
     },
     {
@@ -6735,6 +6759,26 @@
     {
       "key": "SK_ACC_LW_DARD_1_ARENA",
       "value": "絶望への誘い"
+    },
+    {
+      "key": "SK_ACC_LW_GRSR_03_1_ARENA",
+      "value": "大海原の守り"
+    },
+    {
+      "key": "SK_ACC_LW_GRFD_1_ARENA",
+      "value": "黒曜の号令"
+    },
+    {
+      "key": "SK_ACC_LW_BRWL_1_ARENA",
+      "value": "クリスタルの恩寵"
+    },
+    {
+      "key": "SK_ACC_LW_GLMS_01_1_ARENA",
+      "value": "賢者の加護"
+    },
+    {
+      "key": "SK_CLT_LW_FINA_02_1_ARENA",
+      "value": "純心なる集中"
     },
     {
       "key": "SK_NGB_STATUS",
@@ -20117,6 +20161,146 @@
       "value": "HP50%以下でHP回復"
     },
     {
+      "key": "SK_LW_VRFB_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_LW_VRFB_M_1",
+      "value": "破双呪刃"
+    },
+    {
+      "key": "SK_LW_VRFB_M_2",
+      "value": "三剛殺"
+    },
+    {
+      "key": "SK_LW_VRFB_M_3",
+      "value": "銀晶護陣"
+    },
+    {
+      "key": "SK_LW_VRFB_S_1",
+      "value": "氷月"
+    },
+    {
+      "key": "SK_LW_VRFB_S_2",
+      "value": "夜叉剣舞"
+    },
+    {
+      "key": "SK_LW_VRFB_S_3",
+      "value": "滅気刃"
+    },
+    {
+      "key": "SK_LW_VRFB_S_4",
+      "value": "極険殺"
+    },
+    {
+      "key": "SK_LW_VRFB_R_1",
+      "value": "破先斬"
+    },
+    {
+      "key": "SK_LW_VRFB_R_2",
+      "value": "一閃"
+    },
+    {
+      "key": "SK_LW_VRFB_P_1",
+      "value": "戦鬼の刀技"
+    },
+    {
+      "key": "SK_LW_VRFB_P_2",
+      "value": "盟傑の闘技"
+    },
+    {
+      "key": "SK_LW_VRFB_EN_A_01",
+      "value": "阿修羅十字"
+    },
+    {
+      "key": "SK_LW_EC_VRFB_C_01",
+      "value": "破双呪刃強化"
+    },
+    {
+      "key": "SK_LW_EC_VRFB_C_01B",
+      "value": "破解双呪刃"
+    },
+    {
+      "key": "SK_LW_EC_VRFB_C_02",
+      "value": "戦鬼の刀技強化"
+    },
+    {
+      "key": "SK_LW_EC_VRFB_C_02B",
+      "value": "戦鬼の武技"
+    },
+    {
+      "key": "SK_LW_FINA_02_ATK",
+      "value": "通常攻撃"
+    },
+    {
+      "key": "SK_LW_FINA_02_M_1",
+      "value": "彼方からの願い"
+    },
+    {
+      "key": "SK_LW_FINA_02_M_2",
+      "value": "ブロッサムレジスト"
+    },
+    {
+      "key": "SK_LW_FINA_02_M_3",
+      "value": "メナスショット"
+    },
+    {
+      "key": "SK_LW_FINA_02_S_1",
+      "value": "プライムヒール"
+    },
+    {
+      "key": "SK_LW_FINA_02_S_2",
+      "value": "セイントプロテクト"
+    },
+    {
+      "key": "SK_LW_FINA_02_S_3",
+      "value": "ディストピア"
+    },
+    {
+      "key": "SK_LW_FINA_02_S_4",
+      "value": "リボークフォース"
+    },
+    {
+      "key": "SK_LW_FINA_02_R_1",
+      "value": "せくしーぽーず"
+    },
+    {
+      "key": "SK_LW_FINA_02_P_1",
+      "value": "長旅の経験"
+    },
+    {
+      "key": "SK_LW_FINA_02_P_2",
+      "value": "白蓮の心"
+    },
+    {
+      "key": "SK_LW_FINA_02_EN_A_01",
+      "value": "リバースハート"
+    },
+    {
+      "key": "SK_LW_EC_FINA_02_C_01",
+      "value": "彼方からの願い強化"
+    },
+    {
+      "key": "SK_LW_EC_FINA_02_C_01B",
+      "value": "彼方からの祈り"
+    },
+    {
+      "key": "SK_LW_EC_FINA_02_C_02",
+      "value": "ブロッサムレジスト強化"
+    },
+    {
+      "key": "SK_LW_EC_FINA_02_C_02B",
+      "value": "シャイニングレジスト"
+    },
+    {
+      "key": "SK_LW_EC_FINA_02_C_02B_B",
+      "value": "リレイズ後CTアップ"
+    },
+    {
+      "key": "SK_LW_EC_FINA_02_C_02C",
+      "value": "シャイニングレジスト"
+    },
+    {
       "key": "SK_LB_LW_MONT",
       "value": "デスティニークロス"
     },
@@ -20925,6 +21109,14 @@
       "value": "羅刹斬り"
     },
     {
+      "key": "SK_LB_LW_VRRE",
+      "value": "デモンズウォール"
+    },
+    {
+      "key": "SK_LB_LW_FINA_02",
+      "value": "ジャッジメントウィッシュ"
+    },
+    {
       "key": "SK_LB_LW_MONT_B",
       "value": "デスティニークロス"
     },
@@ -21333,6 +21525,18 @@
       "value": "マギア・アルテ"
     },
     {
+      "key": "SK_LB_LW_ZZAN_01_B",
+      "value": "死なずの剛撃"
+    },
+    {
+      "key": "SK_LB_LW_RUFF_B",
+      "value": "冥魔顕現"
+    },
+    {
+      "key": "SK_LB_LW_SHLS_B",
+      "value": "終の流星群"
+    },
+    {
       "key": "SK_LB_LW_MONT_B_CH",
       "value": "デスティニークロス強化"
     },
@@ -21711,6 +21915,18 @@
     {
       "key": "SK_LB_LW_HWLT_01_B_CH",
       "value": "マギア・アルテ強化"
+    },
+    {
+      "key": "SK_LB_LW_ZZAN_01_B_CH",
+      "value": "死なずの剛撃強化"
+    },
+    {
+      "key": "SK_LB_LW_RUFF_B_CH",
+      "value": "冥魔顕現強化"
+    },
+    {
+      "key": "SK_LB_LW_SHLS_B_CH",
+      "value": "終の流星群強化"
     },
     {
       "key": "SK_LW_EC_MONT_A_01",
@@ -26025,6 +26241,14 @@
       "value": "マスターアビリティ"
     },
     {
+      "key": "SK_MA_LW_VRFB",
+      "value": "マスターアビリティ"
+    },
+    {
+      "key": "SK_MA_LW_FINA_02",
+      "value": "マスターアビリティ"
+    },
+    {
       "key": "SK_UES_FF7_CLUD",
       "value": "クラウド夢幻転生パッシブ"
     },
@@ -27715,6 +27939,10 @@
     {
       "key": "SK_UES_FF8_SIFR",
       "value": "サイファー夢幻転生パッシブ"
+    },
+    {
+      "key": "SK_UES_LW_FINA_02",
+      "value": "白蓮の魔導士フィーナ夢幻転生パッシブ"
     },
     {
       "key": "SK_LW_SLASH_1",
@@ -31209,6 +31437,22 @@
       "value": "竜の髭専用パッシブ(★5"
     },
     {
+      "key": "SK_LW_SPE_025_1_2",
+      "value": "竜の髭専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_SPE_025_1_3",
+      "value": "竜の髭専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_SPE_025_1_4",
+      "value": "竜の髭専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_SPE_025_1_5",
+      "value": "竜の髭専用パッシブ(★5"
+    },
+    {
       "key": "SK_LW_AXE_012_2",
       "value": "ルーンアクス専用パッシブ(★2"
     },
@@ -31222,6 +31466,22 @@
     },
     {
       "key": "SK_LW_AXE_012_5",
+      "value": "ルーンアクス専用パッシブ(★5"
+    },
+    {
+      "key": "SK_LW_AXE_012_1_2",
+      "value": "ルーンアクス専用パッシブ(★2"
+    },
+    {
+      "key": "SK_LW_AXE_012_1_3",
+      "value": "ルーンアクス専用パッシブ(★3"
+    },
+    {
+      "key": "SK_LW_AXE_012_1_4",
+      "value": "ルーンアクス専用パッシブ(★4"
+    },
+    {
+      "key": "SK_LW_AXE_012_1_5",
       "value": "ルーンアクス専用パッシブ(★5"
     },
     {
@@ -32677,6 +32937,46 @@
       "value": "魔女のてがみサイファー専用パッシブ"
     },
     {
+      "key": "SK_LW_BOW_022_1",
+      "value": "リンカネーション・ロータス専用パッシブ"
+    },
+    {
+      "key": "SK_LW_BOW_022_2",
+      "value": "リンカネーション・ロータス専用パッシブ"
+    },
+    {
+      "key": "SK_LW_BOW_022_3",
+      "value": "リンカネーション・ロータス専用パッシブ"
+    },
+    {
+      "key": "SK_LW_BOW_022_4",
+      "value": "リンカネーション・ロータス専用パッシブ"
+    },
+    {
+      "key": "SK_LW_BOW_022_5",
+      "value": "リンカネーション・ロータス専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ACC_134_1",
+      "value": "ガーディアンアース専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ACC_134_2",
+      "value": "ガーディアンアース専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ACC_134_3",
+      "value": "ガーディアンアース専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ACC_134_4",
+      "value": "ガーディアンアース専用パッシブ"
+    },
+    {
+      "key": "SK_LW_ACC_134_5",
+      "value": "ガーディアンアース専用パッシブ"
+    },
+    {
       "key": "SK_LW_PLUS6_1_1",
       "value": "フラタニティ 覚醒2"
     },
@@ -33719,6 +34019,14 @@
     {
       "key": "SK_CLT_FF8_SIFR_1",
       "value": "拷問の準備"
+    },
+    {
+      "key": "SK_ARM_LW_VRFB_1",
+      "value": "八盟傑の誇り・氷"
+    },
+    {
+      "key": "SK_CLT_LW_FINA_02_1",
+      "value": "純心なる集中"
     },
     {
       "key": "SK_VC_LW_SCAL_PVA",
