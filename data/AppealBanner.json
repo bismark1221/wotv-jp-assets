@@ -30776,7 +30776,7 @@
       },
       "priority": 142,
       "start_at": "2024/06/10 10:30:00",
-      "end_at": "2024/07/17 9:59:59"
+      "end_at": "2024/06/30 22:59:59"
     },
     {
       "id": 2201,
@@ -30888,7 +30888,7 @@
       },
       "priority": 140,
       "start_at": "2024/06/17 15:00:00",
-      "end_at": "2024/07/17 9:59:59"
+      "end_at": "2024/06/30 22:59:59"
     },
     {
       "id": 2209,
@@ -31001,6 +31001,76 @@
       "priority": 377,
       "start_at": "2024/06/24 10:30:00",
       "end_at": "2024/06/30 23:59:59"
+    },
+    {
+      "id": 2217,
+      "iname": "GachaBanner_2906",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2906",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 134,
+      "start_at": "2024/07/01",
+      "end_at": "2024/07/17 9:59:59"
+    },
+    {
+      "id": 2218,
+      "iname": "GachaBanner_2904",
+      "appeal_category": 2,
+      "transition_destination": 0,
+      "sval": "GachaBanner_2904",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 135,
+      "start_at": "2024/07/01",
+      "end_at": "2024/07/17 9:59:59"
+    },
+    {
+      "id": 2219,
+      "iname": "ev_21_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_21_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 373,
+      "start_at": "2024/07/01",
+      "end_at": "2024/07/24 14:59:59"
+    },
+    {
+      "id": 2220,
+      "iname": "ev_srkn_01",
+      "appeal_category": 0,
+      "transition_destination": 4,
+      "sval": "ev_srkn_01",
+      "setting": {
+        "type": 1,
+        "unlock_id": "EventQuest"
+      },
+      "priority": 374,
+      "start_at": "2024/07/01",
+      "end_at": "2024/07/17 9:59:59"
+    },
+    {
+      "id": 2221,
+      "iname": "LAPS_SHOP_LIMITED_0707",
+      "appeal_category": 1,
+      "transition_destination": 2,
+      "sval": "LAPS_SHOP_LIMITED_0707",
+      "setting": {
+        "type": 0,
+        "unlock_id": "None"
+      },
+      "priority": 375,
+      "start_at": "2024/07/01",
+      "end_at": "2024/07/09 14:59:59"
     }
   ]
 }

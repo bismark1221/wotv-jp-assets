@@ -12534,6 +12534,66 @@
       "icon": "JB_LW_FINA_02"
     },
     {
+      "iname": "IT_JB_MM_SRKN",
+      "type": 34,
+      "rare": 0,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "JB_LW_SRKN"
+    },
+    {
+      "iname": "IT_JB_MM_SRKN_2",
+      "type": 34,
+      "rare": 1,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 20,
+      "icon": "JB_LW_SRKN"
+    },
+    {
+      "iname": "IT_JB_MM_SRKN_3",
+      "type": 34,
+      "rare": 2,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 50,
+      "icon": "JB_LW_SRKN"
+    },
+    {
+      "iname": "IT_JB_MM_SRKN_4",
+      "type": 34,
+      "rare": 3,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "JB_LW_SRKN"
+    },
+    {
+      "iname": "IT_JB_MM_SRKN_5",
+      "type": 34,
+      "rare": 4,
+      "steal": 500,
+      "coin": 10,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "icon": "JB_LW_SRKN"
+    },
+    {
       "iname": "IT_JB_EM_FIRE_1",
       "type": 22,
       "rare": 0,
@@ -18582,6 +18642,23 @@
       }
     },
     {
+      "iname": "IT_PI_LW_SRKN",
+      "type": 1,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "piece_exch_rate_iname": "PI_EXCH_UNIT_COM",
+      "ex_star": {
+        "unlock_rate_id": "UESSR_RATE_UR",
+        "reincarnation_rate_id": "UESSR_RATE_UR"
+      }
+    },
+    {
       "iname": "IT_SP_LW_MONT",
       "type": 40,
       "rare": 0,
@@ -21699,6 +21776,22 @@
     },
     {
       "iname": "IT_SP_LW_FINA_02",
+      "type": 40,
+      "rare": 4,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 500,
+      "is_valuables": 1,
+      "spirit_exch_rate_iname": "SP_EXCH_COM_UR",
+      "ex_star": {
+        "exchange_rate_id": "SESR_RATE_UR"
+      }
+    },
+    {
+      "iname": "IT_SP_LW_SRKN",
       "type": 40,
       "rare": 4,
       "steal": 0,
@@ -29728,6 +29821,18 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_AF_LW_ROD_042",
+      "type": 13,
+      "rare": 3,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 100,
+      "icon": "AF_LW_ROD_042"
+    },
+    {
       "iname": "IT_AF_SUP_HP",
       "type": 21,
       "rare": 2,
@@ -32939,6 +33044,17 @@
       "is_valuables": 1
     },
     {
+      "iname": "IT_EC_SUMMON05_07U_A",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_SUMMON_03",
+      "is_valuables": 1
+    },
+    {
       "iname": "IT_EC_SUMMON_HALL_01",
       "type": 16,
       "rare": 0,
@@ -33872,6 +33988,17 @@
     },
     {
       "iname": "IT_EC_EV20_1",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_EV10_1",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_EV21_1",
       "type": 16,
       "rare": 0,
       "ac": 9999,
@@ -35923,6 +36050,17 @@
       "buy": 9999,
       "sell": 10,
       "icon": "IT_EC_LOG_6",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_EC_LOG_7_A",
+      "type": 16,
+      "rare": 0,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 10,
+      "icon": "IT_EC_LOG_7",
       "is_valuables": 1
     },
     {
@@ -41014,6 +41152,28 @@
     },
     {
       "iname": "IT_US_G_PU_FINA02_10",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_10",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_SRKN",
+      "type": 10,
+      "rare": 1,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 9999,
+      "sell": 20,
+      "icon": "IT_US_G_PU_01",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_US_G_PU_SRKN_10",
       "type": 10,
       "rare": 1,
       "ac": 9999,
@@ -53567,6 +53727,19 @@
       "buy": 30000,
       "sell": 10,
       "icon": "IT_STAMP_06",
+      "is_valuables": 1
+    },
+    {
+      "iname": "IT_STAMP_2407",
+      "type": 39,
+      "rare": 0,
+      "steal": 0,
+      "coin": 30000,
+      "ac": 9999,
+      "mc": 9999,
+      "buy": 30000,
+      "sell": 10,
+      "icon": "IT_STAMP_07",
       "is_valuables": 1
     }
   ]

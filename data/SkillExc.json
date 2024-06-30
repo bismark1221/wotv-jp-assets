@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "iname": "SKE_GVG_054_4",
+      "reduce_dmg_dist_min": 2,
+      "reduce_dmg_dist_max": 5
+    },
+    {
       "iname": "SKE_LGEN_M_05",
       "strcnd": [
         {
@@ -2338,6 +2343,41 @@
       "iname": "SKE_LW_FINA_02_S_2_2",
       "reduce_dmg_dist_min": 4,
       "reduce_dmg_dist_max": 7
+    },
+    {
+      "iname": "SKE_LW_SRKN_S_2_2",
+      "reduce_dmg_dist_min": 2,
+      "reduce_dmg_dist_max": 5
+    },
+    {
+      "iname": "SKE_LW_SRKN_S_2_3",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 365,
+          "calc": 0
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_LW_SRKN_S_2_3"
+        }
+      ]
+    },
+    {
+      "iname": "SKE_MA_LW_SRKN",
+      "strcnd": [
+        {
+          "tar": 1,
+          "type": 365,
+          "calc": 0
+        }
+      ],
+      "targetBuff": [
+        {
+          "iname": "BUFF_MA_LW_SRKN_S_2"
+        }
+      ]
     }
   ]
 }

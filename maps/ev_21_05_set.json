@@ -621,7 +621,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "EV21_05",
+      "drop": "MEDAL",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -693,7 +693,7 @@
           {
             "self": {
               "type": 19,
-              "json": "{\"side\":1,\"count\":3}"
+              "json": "{\"side\":1,\"count\":4}"
             },
             "childs": []
           }
@@ -799,7 +799,7 @@
           {
             "self": {
               "type": 19,
-              "json": "{\"side\":1,\"count\":3}"
+              "json": "{\"side\":1,\"count\":4}"
             },
             "childs": []
           }
@@ -900,7 +900,7 @@
           {
             "self": {
               "type": 19,
-              "json": "{\"side\":1,\"count\":3}"
+              "json": "{\"side\":1,\"count\":4}"
             },
             "childs": []
           }
@@ -1001,7 +1001,7 @@
           {
             "self": {
               "type": 19,
-              "json": "{\"side\":1,\"count\":3}"
+              "json": "{\"side\":1,\"count\":4}"
             },
             "childs": []
           }
@@ -1035,7 +1035,7 @@
       "ctrl": 0,
       "nottar": 0,
       "fixdir": 0,
-      "drop": "MEDAL",
+      "drop": "",
       "crystal": "CRYSTAL_00",
       "steal": "",
       "stealValue": 100,
@@ -1071,7 +1071,7 @@
       "pts": 0,
       "shield": false,
       "referenceGObjName": "",
-      "status": "{\"list\":[{\"type\":252,\"value\":10},{\"type\":254,\"value\":10},{\"type\":2,\"value\":112},{\"type\":3,\"value\":118},{\"type\":9,\"value\":37},{\"type\":8,\"value\":141},{\"type\":10,\"value\":145},{\"type\":4,\"value\":54},{\"type\":1,\"value\":2651},{\"type\":6,\"value\":130},{\"type\":7,\"value\":5},{\"type\":154,\"value\":10},{\"type\":250,\"value\":-5},{\"type\":251,\"value\":0},{\"type\":253,\"value\":5}]}",
+      "status": "{\"list\":[{\"type\":252,\"value\":10},{\"type\":254,\"value\":10},{\"type\":2,\"value\":112},{\"type\":3,\"value\":118},{\"type\":9,\"value\":37},{\"type\":8,\"value\":141},{\"type\":10,\"value\":145},{\"type\":4,\"value\":54},{\"type\":1,\"value\":2651},{\"type\":6,\"value\":130},{\"type\":7,\"value\":5},{\"type\":154,\"value\":10},{\"type\":250,\"value\":-5},{\"type\":251,\"value\":0},{\"type\":253,\"value\":5},{\"type\":404,\"value\":999},{\"type\":406,\"value\":999},{\"type\":410,\"value\":999},{\"type\":442,\"value\":999}]}",
       "groupId": "",
       "infUnit": false,
       "wave_id": 0
@@ -1080,7 +1080,7 @@
   "arena": [],
   "wcond": {
     "timing": 0,
-    "expr": "",
+    "expr": "QE_EV_21_05",
     "list": [
       {
         "self": {
@@ -1119,7 +1119,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 938
+          "weight": 1250
         },
         {
           "drop_data": {
@@ -1129,7 +1129,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 125
+          "weight": 167
         },
         {
           "drop_data": {
@@ -1139,7 +1139,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1250
+          "weight": 1667
         },
         {
           "drop_data": {
@@ -1149,7 +1149,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1250
+          "weight": 1667
         },
         {
           "drop_data": {
@@ -1159,7 +1159,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 63
+          "weight": 83
         },
         {
           "drop_data": {
@@ -1169,7 +1169,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 1250
+          "weight": 1667
         },
         {
           "drop_data": {
@@ -1179,7 +1179,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 63
+          "weight": 83
         },
         {
           "drop_data": {
@@ -1189,7 +1189,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 188
+          "weight": 250
         },
         {
           "drop_data": {
@@ -1199,7 +1199,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 500
+          "weight": 667
         },
         {
           "drop_data": {
@@ -1209,7 +1209,7 @@
             "subNum1": 0,
             "secret": 0
           },
-          "weight": 4373
+          "weight": 2499
         }
       ]
     },
